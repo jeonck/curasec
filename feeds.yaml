@@ -1,0 +1,53 @@
+# Daily collection sources — all global, matching PLAN.md section 4.
+# Every RSS URL verified HTTP 200 with valid XML on 2026-07-10.
+# (Mandiant's old rss.xml now redirects to an HTML page on cloud.google.com —
+#  replaced by the Google Threat Intelligence feed, its successor.)
+
+rss:
+  - name: "CISA Advisories"
+    url: "https://www.cisa.gov/cybersecurity-advisories/all.xml"
+  - name: "Google Threat Intelligence"
+    url: "https://cloudblog.withgoogle.com/topics/threat-intelligence/rss/"
+  - name: "Microsoft Security Blog"
+    url: "https://www.microsoft.com/en-us/security/blog/feed/"
+  - name: "MSRC Blog"
+    url: "https://msrc.microsoft.com/blog/feed"
+  - name: "CrowdStrike Blog"
+    url: "https://www.crowdstrike.com/blog/feed/"
+  - name: "Unit 42"
+    url: "https://unit42.paloaltonetworks.com/feed/"
+  - name: "Krebs on Security"
+    url: "https://krebsonsecurity.com/feed/"
+  - name: "The Hacker News"
+    url: "https://feeds.feedburner.com/TheHackersNews"
+  - name: "BleepingComputer"
+    url: "https://www.bleepingcomputer.com/feed/"
+  - name: "SANS ISC"
+    url: "https://isc.sans.edu/rssfeed_full.xml"
+
+# Low priority — cloud IPs (GitHub Actions) often get 403 from reddit's .json
+# API; per-source error isolation keeps the rest of the run healthy.
+reddit:
+  - subreddit: "netsec"
+    listing: "top"
+    t: "day"
+    min_score: 30
+  - subreddit: "blueteamsec"
+    listing: "top"
+    t: "day"
+    min_score: 15
+
+hackernews:
+  # hnrss.org: https://hnrss.org/newest?q=QUERY&points=N
+  - query: "security"
+    min_points: 100
+  - query: "vulnerability"
+    min_points: 50
+  - query: "cve"
+    min_points: 30
+
+# created:>N days + star thresholds return 0 on many days (normal).
+# Validated thresholds: stars:>50 / 14 days works; >100 / 7 days is almost always 0.
+github_search:
+  - query: "topic:security stars:>50"
+    days_back: 14

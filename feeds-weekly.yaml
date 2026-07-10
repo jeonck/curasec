@@ -1,0 +1,14 @@
+# Weekly batch sources (Monday cron) — research/long-form material.
+# Used with FRESH_HOURS=192 so a weekly run covers the full week.
+# URL verified HTTP 200 on 2026-07-10.
+#
+# Not included yet (no clean feeds): DEF CON / Black Hat / RSA materials,
+# MITRE ATT&CK updates — revisit in phase 2.
+
+rss:
+  - name: "arXiv cs.CR"
+    url: "https://rss.arxiv.org/rss/cs.CR"
+
+reddit: []
+hackernews: []
+github_search: []

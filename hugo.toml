@@ -1,0 +1,25 @@
+baseURL = "https://jeonck.github.io/curasec/"
+languageCode = "en-us"
+title = "CuraSec"
+timeZone = "UTC"
+enableRobotsTXT = true
+
+# self-contained layouts — no external theme dependency
+
+[params]
+description = "AI-curated security intelligence with actionable verdicts for Engineers, SOC analysts, and Security Leaders."
+
+[taxonomies]
+# singular = plural so front matter keys (verdict:, status:) map straight to taxonomies
+verdict = "verdict"
+status = "status"
+tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[pagination]
+pagerSize = 50
+
+[services.rss]
+limit = 50
