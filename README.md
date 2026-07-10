@@ -5,7 +5,7 @@ pipeline collects new items from RSS / Hacker News / Reddit / GitHub, enriches
 each with exploitation signals (CISA KEV, EPSS, public PoC, cross-source
 corroboration), and has Claude judge it **independently for three practitioner
 personas** — then publishes everything that matters to
-[jeonck.github.io/curasec](https://jeonck.github.io/curasec/) with an RSS feed.
+[curasec.metacog.co.kr](https://curasec.metacog.co.kr/) with an RSS feed.
 
 ## Verdict system
 
@@ -119,4 +119,4 @@ visits per PLAN.md.
 
 Public channel, automated judgments — so: AI disclosure on every page, evidence
 required on every verdict, a public corrections log, and a 30-day human review
-period at launch. See [About](https://jeonck.github.io/curasec/about/).
+period at launch. See [About](https://curasec.metacog.co.kr/about/).
