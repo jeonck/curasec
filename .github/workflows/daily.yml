@@ -2,7 +2,7 @@ name: Daily Curation
 
 on:
   schedule:
-    - cron: "0 11 * * *" # UTC 11:00 = 06:00-07:00 US East, noon Europe, 20:00 KST
+    - cron: "10 11 * * *" # UTC 11:10 = 20:10 KST (staggered to avoid overlap with CuraDevOps)
   workflow_dispatch:
   push: # site-content pushes trigger deploy only (collection/judgment skipped)
     branches: [main]
