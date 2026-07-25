@@ -9,7 +9,7 @@ tags: ["ransomware", "criminal-justice", "ryuk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** A Ryuk operator's prosecution provides retrospective context on the group's operations, but no new IOCs or TTPs are disclosed, so no detection or hunt work is actionable here.

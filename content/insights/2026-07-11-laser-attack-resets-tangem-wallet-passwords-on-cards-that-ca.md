@@ -9,7 +9,7 @@ tags: ["hardware-security", "cryptowallet", "fault-injection"]
 cves: []
 source: "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Laser fault injection bypassing hardware security is a meaningful attack-class research finding, but Tangem cards are consumer crypto hardware — not enterprise infrastructure. Worth understanding fault-injection threat models if you design or evaluate hardware security modules.
 - **SOC/IR — Skip**

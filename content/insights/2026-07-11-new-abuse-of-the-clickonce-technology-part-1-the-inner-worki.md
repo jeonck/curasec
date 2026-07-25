@@ -9,7 +9,7 @@ tags: ["clickonce", "initial-access", "windows"]
 cves: []
 source: "https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/"
 source_name: "CrowdStrike Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Part 1 is foundational research on how ClickOnce deployment can be weaponized as an initial-access vector; no patch or config action today, but engineers supporting Windows app delivery should understand the attack surface before Part 2 drops with exploitation specifics.
 - **SOC/IR — Learn:** Builds triage context for ClickOnce-based delivery chains; hold detection engineering work until Part 2, which is expected to cover observable behaviors and threat-actor abuse patterns.

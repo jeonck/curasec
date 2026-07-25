@@ -9,7 +9,7 @@ tags: ["supply-chain", "open-source", "insider-threat"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A reminder that contributor-level insider threats exist in open-source projects; no specific packages or artifacts were confirmed compromised, and OpenMandriva is niche enough that most teams have no direct exposure.
 - **SOC/IR — Skip**

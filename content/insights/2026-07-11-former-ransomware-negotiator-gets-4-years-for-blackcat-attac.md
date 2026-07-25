@@ -9,7 +9,7 @@ tags: ["ransomware", "insider-threat", "blackcat"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Insider-threat angle is notable: attacker was a trusted IR professional with access to victim environments, illustrating how responders can become adversaries — relevant context for vetting IR vendors and monitoring privileged access during incidents.

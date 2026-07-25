@@ -9,7 +9,7 @@ tags: ["ransomware", "threat-intel", "affiliate-model"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Emerging affiliate-model ransomware group worth tracking for context, but the summary provides no specific vulnerabilities, affected software, or configuration actions to take today.
 - **SOC/IR — Learn:** New ransomware actor profile worth adding to analyst awareness, but no IOCs, TTPs, or ATT&CK mappings are surfaced in this summary — check the full Unit 42 report for any huntable indicators before queuing detection work.
