@@ -9,7 +9,7 @@ tags: ["linux", "ai", "vulnerability-disclosure"]
 cves: []
 source: "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** AI-powered scanning is generating high-volume, low-quality CVE submissions that strain the upstream triage process — relevant context for teams that rely on Linux kernel CVE feeds to prioritize patching.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["security-patterns", "architecture", "design"]
 cves: []
 source: "https://secret-archive.org/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A curated collection of security design patterns may offer useful reference material for hardening application and cloud architectures, but no immediate action is required without knowing which specific patterns apply to running systems.
 - **SOC/IR — Skip**

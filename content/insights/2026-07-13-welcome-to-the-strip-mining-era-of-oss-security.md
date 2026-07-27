@@ -9,7 +9,7 @@ tags: ["open-source-security", "supply-chain", "oss"]
 cves: []
 source: "https://www.metabase.com/blog/strip-mining-era-of-open-source-security"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Opinion piece on how the OSS ecosystem is being systematically exploited — worth reading to frame dependency risk philosophy, but the thin summary offers no specific vulnerability, package, or hardening action to take today.
 - **SOC/IR — Skip**

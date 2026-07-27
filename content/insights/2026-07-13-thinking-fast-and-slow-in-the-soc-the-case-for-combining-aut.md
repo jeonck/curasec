@@ -9,7 +9,7 @@ tags: ["ai-security", "soc-operations", "detection-engineering"]
 cves: []
 source: "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Thought leadership on AI agent architecture for SOC workflows — no IOCs or detection content, but relevant context for analysts evaluating or designing AI-assisted triage pipelines.

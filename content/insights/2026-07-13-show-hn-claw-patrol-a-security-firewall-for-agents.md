@@ -9,7 +9,7 @@ tags: ["ai-agents", "access-control", "open-source"]
 cves: []
 source: "https://github.com/denoland/clawpatrol"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you're wiring AI agents to production systems (Postgres, K8s, GCP), Claw Patrol is a concrete architecture reference for protocol-aware access control and human-approval gates — worth evaluating this quarter before expanding agent permissions.
 - **SOC/IR — Skip**

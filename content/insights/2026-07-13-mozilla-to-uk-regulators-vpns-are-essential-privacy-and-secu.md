@@ -9,7 +9,7 @@ tags: ["vpn", "regulation", "privacy"]
 cves: []
 source: "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**
