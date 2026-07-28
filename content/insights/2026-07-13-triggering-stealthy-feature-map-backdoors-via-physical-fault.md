@@ -9,7 +9,7 @@ tags: ["machine-learning", "hardware-security", "embedded-systems"]
 cves: []
 source: "https://arxiv.org/abs/2607.09473"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel cross-level attack class that bridges electromagnetic/physical fault injection with algorithmic backdoors in embedded neural networks, bypassing input-space defenses. No immediate patch action — relevant if you design or deploy ML inference on embedded hardware, as it signals a new threat surface to consider during architecture review.
 - **SOC/IR — Skip**

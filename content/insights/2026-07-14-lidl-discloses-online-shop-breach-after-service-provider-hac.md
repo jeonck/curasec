@@ -9,7 +9,7 @@ tags: ["third-party-risk", "data-breach", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

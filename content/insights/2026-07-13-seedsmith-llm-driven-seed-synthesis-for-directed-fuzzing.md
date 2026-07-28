@@ -9,7 +9,7 @@ tags: ["fuzzing", "llm-security", "vulnerability-research"]
 cves: []
 source: "https://arxiv.org/abs/2607.08949"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel research showing an LLM-agentic pipeline that improves directed fuzzer crash-trigger rates by generating semantically aware seed corpora; worth evaluating if your team runs fuzzing campaigns against internal C/C++ codebases, but no immediate change to running systems is required.
 - **SOC/IR — Skip**

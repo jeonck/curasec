@@ -9,7 +9,7 @@ tags: ["data-privacy", "watermarking", "synthetic-data"]
 cves: []
 source: "https://arxiv.org/abs/2607.09000"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel technique for embedding persistent watermarks in synthetic tabular data that survive generative model retraining — worth tracking if your team uses synthetic data for privacy-sensitive data sharing pipelines.
 - **SOC/IR — Skip**

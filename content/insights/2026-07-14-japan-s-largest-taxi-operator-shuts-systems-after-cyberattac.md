@@ -9,7 +9,7 @@ tags: ["ransomware", "incident-response", "operational-technology"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Regional incident with no published IOCs, TTPs, or affected software specifics — useful context for sector awareness but no actionable detection work available.

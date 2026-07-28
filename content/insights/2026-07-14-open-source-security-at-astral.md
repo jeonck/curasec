@@ -9,7 +9,7 @@ tags: ["supply-chain", "open-source", "devops"]
 cves: []
 source: "https://astral.sh/blog/open-source-security-at-astral"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Astral maintains widely-used Python tooling (uv, ruff); their published security practices offer a reference model for supply-chain hygiene in open source projects you may depend on or mirror internally.
 - **SOC/IR — Skip**

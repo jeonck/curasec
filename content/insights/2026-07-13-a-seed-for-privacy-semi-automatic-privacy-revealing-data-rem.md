@@ -9,7 +9,7 @@ tags: ["privacy", "data-streams", "research"]
 cves: []
 source: "https://arxiv.org/abs/2607.08801"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic tool for identifying privacy-revealing query patterns in databases and streams; worth evaluating if your team struggles to label sensitive data flows, but no operational action required today.
 - **SOC/IR — Skip**

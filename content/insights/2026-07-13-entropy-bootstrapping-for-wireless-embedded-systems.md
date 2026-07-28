@@ -9,7 +9,7 @@ tags: ["iot-security", "cryptography", "embedded"]
 cves: []
 source: "https://arxiv.org/abs/2607.08865"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Solid research demonstrating that ESP32 WDEV output is pseudorandom when RF is disabled yet passes statistical tests — a reminder that output testing is insufficient for source-state validation. Worth reviewing if your team ships ESP32-based IoT products; no patch or CVE to act on yet.
 - **SOC/IR — Skip**

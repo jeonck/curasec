@@ -9,7 +9,7 @@ tags: ["sd-jwt", "access-control", "research"]
 cves: []
 source: "https://arxiv.org/abs/2607.09370"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic proposal to embed cryptographic authenticity directly into shared files using SD-JWT, bypassing centralized IAM. Worth evaluating if you distribute immutable resources (PDFs, configs) and want to reduce identity-infrastructure dependencies, but no running system changes needed today.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["security-principles", "defense-in-depth", "opinion"]
 cves: []
 source: "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A popular discussion challenging the blanket rejection of obscurity as a defense layer; useful for refining how engineers communicate risk when layering controls.
 - **SOC/IR — Skip**

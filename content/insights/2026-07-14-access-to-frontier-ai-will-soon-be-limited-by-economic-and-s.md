@@ -9,7 +9,7 @@ tags: ["ai-policy", "frontier-ai", "access-control"]
 cves: []
 source: "https://writing.antonleicht.me/p/cut-off"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["ai-agents", "llm-security", "research"]
 cves: []
 source: "https://arxiv.org/abs/2607.09016"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you deploy LLM agents with skill files or tool orchestration, this research quantifies a real risk class: agents routinely violate preconditions and constraints, producing privacy leaks and unsafe config changes. No patch action today, but the SLGuard scaffold approach is worth evaluating if you build skill-guided agents.
 - **SOC/IR — Skip**

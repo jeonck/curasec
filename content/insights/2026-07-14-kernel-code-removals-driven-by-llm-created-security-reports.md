@@ -9,7 +9,7 @@ tags: ["llm", "kernel", "vulnerability-research"]
 cves: []
 source: "https://lwn.net/Articles/1068928/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** LLM-assisted vulnerability discovery is reaching the Linux kernel's upstream review process; worth understanding how AI-generated security reports may reshape how CVEs get identified and patched in open-source dependencies you pull in.
 - **SOC/IR — Skip**

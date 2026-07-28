@@ -9,7 +9,7 @@ tags: ["ai-agents", "devops", "mcp"]
 cves: []
 source: "https://github.com/DevOpsAIguru123/awesome-agentic-devops"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful reference for evaluating agentic tooling in CI/CD and cloud workflows, particularly the production-access and audit-evidence ratings, but no immediate patching or configuration action required.
 - **SOC/IR — Skip**

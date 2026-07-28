@@ -9,7 +9,7 @@ tags: ["macos", "endpoint-security", "privacy"]
 cves: []
 source: "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The article challenges whether macOS privacy/security controls reliably reflect or enforce actual access, which matters for teams relying on those controls in managed macOS fleets. No CVE, patch, or exploitation signal is present, so no immediate action is required — but engineers should read this to reassess trust assumptions in macOS endpoint hardening.
 - **SOC/IR — Learn:** If macOS privacy indicators can't be relied upon, endpoint visibility assumptions on macOS may need revisiting; however, with no IOCs, TTPs, or detection artifacts in the signals, there is no hunt or rule-writing action to take today.

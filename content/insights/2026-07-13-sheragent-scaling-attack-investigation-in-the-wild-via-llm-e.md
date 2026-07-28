@@ -9,7 +9,7 @@ tags: ["threat-investigation", "llm-security", "soc-automation"]
 cves: []
 source: "https://arxiv.org/abs/2607.09176"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** SherAgent demonstrates a 31–64% improvement in automated attack investigation success rates using LLM-driven provenance graph backtracking — useful context for teams evaluating or building AI-assisted triage workflows, though no production tool or IOCs are released here.

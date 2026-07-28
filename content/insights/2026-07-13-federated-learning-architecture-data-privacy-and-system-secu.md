@@ -9,7 +9,7 @@ tags: ["federated-learning", "privacy-preserving-ml", "homomorphic-encryption"]
 cves: []
 source: "https://arxiv.org/abs/2607.09391"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic architecture study combining homomorphic encryption and differential privacy for FL systems; no vulnerabilities or patches, but relevant for engineers designing privacy-preserving ML pipelines in healthcare or finance contexts.
 - **SOC/IR — Skip**
