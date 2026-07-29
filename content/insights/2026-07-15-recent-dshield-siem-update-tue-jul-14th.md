@@ -9,7 +9,7 @@ tags: ["siem", "elk-stack", "tooling"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33156"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** If you run the DShield SIEM, this update brings ELK 8.19.15 and additional dashboards; evaluate whether to upgrade your instance this quarter.

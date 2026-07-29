@@ -9,7 +9,7 @@ tags: ["ransomware", "law-enforcement", "bulletproof-hosting"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Law enforcement action against ransomware-enabling infrastructure is worth tracking for actor context, but no IOCs or TTPs are published here that support immediate detection work.

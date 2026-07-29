@@ -9,7 +9,7 @@ tags: ["bec", "fraud", "law-enforcement"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** BEC at this scale is a useful reminder to review email authentication controls and employee awareness, but no IOCs or TTPs are published from this takedown.

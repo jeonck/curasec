@@ -9,7 +9,7 @@ tags: ["phishing", "credential-theft", "password-manager"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Active campaign harvesting password manager credentials could affect enterprise employees; no IOCs or TTPs are published in this item to hunt or detect against, but credential-stuffing follow-on activity is worth monitoring in identity logs.

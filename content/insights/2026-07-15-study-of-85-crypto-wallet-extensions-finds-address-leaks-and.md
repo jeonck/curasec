@@ -9,7 +9,7 @@ tags: ["browser-extensions", "crypto", "privacy"]
 cves: []
 source: "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research exposes a class of extension-level data leakage — wallet extensions correlating addresses and enabling cross-site tracking — worth considering when evaluating browser extension risk in enterprise environments or building wallet-adjacent tooling, but no patch or configuration action is available from this study.
 - **SOC/IR — Skip**
