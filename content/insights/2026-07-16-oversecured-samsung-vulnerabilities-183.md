@@ -9,7 +9,7 @@ tags: ["android", "mobile-security", "vulnerability-research"]
 cves: []
 source: "https://github.com/oversecured/Samsung_Vulnerabilities"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A dense research compilation covering Android preinstalled-app attack surface (IPC abuse, content provider exposure, etc.); worth reviewing if mobile or Android MDM is in scope, but no exploitation signals and no patch action available today.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["ai-security", "appsec", "offensive-security"]
 cves: []
 source: "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful framing for teams adopting AI-assisted code review or SAST tooling: AI surfaces candidates faster but human triage is still required to confirm exploitability before escalation.
 - **SOC/IR — Skip**

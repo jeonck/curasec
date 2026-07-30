@@ -9,7 +9,7 @@ tags: ["authorization", "multi-tenancy", "appsec"]
 cves: []
 source: "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
 source_name: "HN (vulnerability)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A real-world case study on broken object-level authorization in a multi-tenant SaaS context — review your own tenant-isolation logic and authorization checks at API boundaries for similar patterns.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["iot-botnet", "llm-assisted-malware", "threat-research"]
 cves: []
 source: "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No KEV, EPSS, or PoC signals; the botnet appears incomplete given the developer left AI safety disclaimers in the code. Worth noting as evidence that LLM-generated malware is maturing unevenly — no patching or configuration action warranted today.
 - **SOC/IR — Learn:** No IOCs, active campaign, or ATT&CK-mappable TTPs are surfaced in this disclosure. Useful context that LLM tooling is entering adversary development workflows, but there is nothing actionable to hunt or detect from this item alone.

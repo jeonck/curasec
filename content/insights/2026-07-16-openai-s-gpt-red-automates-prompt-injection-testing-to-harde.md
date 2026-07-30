@@ -9,7 +9,7 @@ tags: ["prompt-injection", "ai-security", "red-teaming"]
 cves: []
 source: "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** OpenAI's internal adversarial training methodology for prompt injection offers design patterns worth studying if you're building or securing LLM-based applications, but no patch or configuration action is required today.
 - **SOC/IR — Skip**

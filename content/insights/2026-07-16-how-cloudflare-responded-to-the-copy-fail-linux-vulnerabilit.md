@@ -9,7 +9,7 @@ tags: ["linux", "vulnerability", "post-mortem"]
 cves: []
 source: "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/"
 source_name: "HN (vulnerability)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Cloudflare's detailed write-up on mitigating a Linux kernel vulnerability is worth reading for engineers running Linux infrastructure, but with no KEV listing, EPSS score, or public PoC in the signals, there's no patch urgency — treat this as a case study on operational response.
 - **SOC/IR — Learn:** A major operator's response narrative may surface useful defensive context, but the summary provides no IOCs, TTPs, or detection surface to act on — file as background reading rather than detection work.

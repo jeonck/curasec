@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "ci-cd"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The updated analysis covers wormable malware patterns, CI/CD persistence techniques, and multi-stage npm attack chains — useful for hardening your pipeline and package vetting posture, but no specific package compromise or KEV signal requiring immediate action today.
 - **SOC/IR — Learn:** The breakdown of npm attack TTPs (worm propagation, CI/CD persistence) helps tune detection logic for build pipeline anomalies, but no concrete IOCs or active campaign indicators are surfaced in this item.
