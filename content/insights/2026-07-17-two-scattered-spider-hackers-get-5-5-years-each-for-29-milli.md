@@ -9,7 +9,7 @@ tags: ["scattered-spider", "ransomware", "criminal-sentencing"]
 cves: []
 source: "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The sentencing outcome underscores Scattered Spider's real-world impact — 148 systems downed and 27,000 forced through manual password resets. Useful context for briefings on social-engineering-led intrusions, but no new IOCs or TTPs requiring immediate detection work.

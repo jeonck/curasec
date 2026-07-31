@@ -9,7 +9,7 @@ tags: ["ransomware", "revil", "law-enforcement"]
 cves: []
 source: "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Background context on REvil prosecution efforts; no IOCs, TTPs, or detection actions arise from this legal/identity dispute.

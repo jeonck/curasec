@@ -9,7 +9,7 @@ tags: ["data-breach", "settlement", "third-party-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

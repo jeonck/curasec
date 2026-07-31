@@ -9,7 +9,7 @@ tags: ["scattered-spider", "cybercrime", "sentencing"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Sentencing of key Scattered Spider members provides closure on a high-profile social-engineering and ransomware campaign; useful context for briefings on this threat group's tradecraft, though no new IOCs or detections arise from the verdict.

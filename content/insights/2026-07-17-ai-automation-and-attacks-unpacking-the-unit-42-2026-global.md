@@ -9,7 +9,7 @@ tags: ["incident-response", "ai-security", "threat-intelligence"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/ai-incident-response-report/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Unit 42's IR report covers AI-assisted attack patterns and automation trends observed across real incidents; useful for calibrating triage judgment and updating mental models of adversary tempo, but no specific IOCs or detections to act on now.
