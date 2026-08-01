@@ -9,7 +9,7 @@ tags: ["appsec-tooling", "code-review", "ai-agents"]
 cves: []
 source: "https://github.com/Codesteward/codesteward"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A self-hosted, Apache-2.0 agentic PR gate with structural graph analysis is worth evaluating as a pipeline hardening option, but no exploitation or configuration change is needed today.
 - **SOC/IR — Skip**
