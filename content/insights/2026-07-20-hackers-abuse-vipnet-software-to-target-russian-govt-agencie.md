@@ -9,7 +9,7 @@ tags: ["supply-chain", "apt", "russia"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The update-mechanism abuse technique (hijacking software updaters for delivery) is a recurring APT pattern worth noting for detection model awareness, but no IOCs or ATT&CK mappings are provided to act on.
