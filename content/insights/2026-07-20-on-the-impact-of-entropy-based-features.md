@@ -9,7 +9,7 @@ tags: ["anomaly-detection", "machine-learning", "network-security"]
 cves: []
 source: "https://arxiv.org/abs/2607.15379"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Research shows adding entropy-based features to supervised traffic classifiers reduces misclassifications in high-variability scenarios; worth evaluating if the team maintains its own ML-based detection pipeline.

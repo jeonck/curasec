@@ -9,7 +9,7 @@ tags: ["agentic-ai", "prompt-injection", "authorization"]
 cves: []
 source: "https://arxiv.org/abs/2607.15596"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research proposes interposing a deterministic symbolic controller with signed hash-chained instruction streams between LLM agents and privileged tools to prevent prompt-injection-driven authorization bypass — worth reviewing when architecting AI agent pipelines with privileged tool access, but no production implementation exists to adopt yet.
 - **SOC/IR — Skip**

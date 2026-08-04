@@ -9,7 +9,7 @@ tags: ["federated-learning", "5g", "side-channel"]
 cves: []
 source: "https://arxiv.org/abs/2607.15469"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel finding that 5G PDCCH scheduling metadata leaks enough temporal pattern to identify FL model architecture families, enabling targeted downstream attacks. No patch exists; worth factoring into FL-over-cellular deployment design (e.g., traffic shaping, scheduling obfuscation) before adopting this stack.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["anomaly-detection", "machine-learning", "network-security"]
 cves: []
 source: "https://arxiv.org/abs/2607.15389"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Academic research showing a feature-aggregation technique that improves IDS accuracy by up to 7% while cutting data volume significantly — worth tracking if evaluating or tuning ML-based network detection models, but no tooling or deployable artifact yet.

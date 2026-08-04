@@ -9,7 +9,7 @@ tags: ["embedded-security", "ai-security", "hardware"]
 cves: []
 source: "https://arxiv.org/abs/2607.15328"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Early-stage academic research proposing a new hardware/software scheme to resist fault injection attacks on edge AI; no shipping product or patch available, but relevant to teams building safety-critical embedded ML pipelines where fault injection is a threat model.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["smart-contracts", "exploit-synthesis", "ai-agents"]
 cves: []
 source: "https://arxiv.org/abs/2607.15673"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research demonstrates a multi-agent pipeline that auto-generates executable exploits for 94% of tested smart contracts, a meaningful capability jump over prior tools; worth evaluating if your team ships or audits Solidity code, but no running-system action needed today.
 - **SOC/IR — Skip**

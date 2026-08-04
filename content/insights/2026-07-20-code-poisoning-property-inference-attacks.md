@@ -9,7 +9,7 @@ tags: ["ml-security", "supply-chain", "privacy"]
 cves: []
 source: "https://arxiv.org/abs/2607.15970"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel attack vector where malicious code from public repos or coding agents embeds property-inference backdoors into ML training pipelines — no active exploitation or PoC, but teams training models on sensitive data (PII, clinical records) should factor code provenance auditing into their ML supply chain reviews.
 - **SOC/IR — Skip**

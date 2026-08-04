@@ -9,7 +9,7 @@ tags: ["llm-security", "jailbreak", "ai-safety"]
 cves: []
 source: "https://arxiv.org/abs/2607.15286"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research shows output-only filters like Llama-Guard 3 are insufficient against reasoning-layer attacks; teams building AI applications should evaluate reasoning context, not just final outputs, when designing safety architectures.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["cloud-security", "gpu", "research"]
 cves: []
 source: "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel academic research showing that ordinary tenant GPU workloads can modulate data center power draw enough to stress the upstream grid — no exploit or patch surface exists, but it reshapes how multi-tenant GPU infrastructure risk should be assessed in cloud architecture reviews.
 - **SOC/IR — Learn:** No IOCs, no active exploitation, and no practical detection surface for workload-level power manipulation; file as background awareness on an emerging side-channel class with no near-term hunt or rule-writing opportunity.

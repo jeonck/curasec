@@ -9,7 +9,7 @@ tags: ["machine-learning", "backdoor-attack", "speech-recognition"]
 cves: []
 source: "https://arxiv.org/abs/2607.15724"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic research showing ordinary ambient sounds can backdoor speech recognition models at only 5% poisoning rate with no clean-accuracy drop — informs threat modeling for teams training or fine-tuning ASR models, but no specific product or actionable patch is involved.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["defi", "supply-chain", "crypto"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The attack exploited off-chain price-feed infrastructure to manipulate a DeFi protocol — a useful design-level lesson for anyone building systems that trust external data pipelines (oracles, webhooks, enrichment feeds) without integrity controls. No patch available; review data-ingestion trust boundaries.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["homomorphic-encryption", "cryptography", "compiler"]
 cves: []
 source: "https://arxiv.org/abs/2607.15750"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic research on FHE compiler optimization with no immediate deployment impact; worth tracking if evaluating FHE for privacy-preserving computation in future system design.
 - **SOC/IR — Skip**

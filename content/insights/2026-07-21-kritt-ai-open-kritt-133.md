@@ -9,7 +9,7 @@ tags: ["ai-security", "vulnerability-research", "tooling"]
 cves: []
 source: "https://github.com/Kritt-ai/open-kritt"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** An open-source AI agent orchestration tool aimed at automated code vulnerability discovery — worth evaluating for AppSec pipelines, but no exploitation pressure or immediate action required.
 - **SOC/IR — Skip**

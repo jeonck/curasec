@@ -9,7 +9,7 @@ tags: ["llm-security", "secure-coding", "prompt-engineering"]
 cves: []
 source: "https://arxiv.org/abs/2607.15937"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research shows specific syntactic elements (constraints, guards, conditions) placed in prompts consistently reduce insecure code generation from open LLMs — useful input for teams building internal coding assistants or prompt templates for developer tooling.
 - **SOC/IR — Skip**
