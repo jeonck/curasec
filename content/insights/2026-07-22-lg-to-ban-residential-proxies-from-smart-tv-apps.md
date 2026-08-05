@@ -9,7 +9,7 @@ tags: ["residential-proxy", "smart-tv", "supply-chain"]
 cves: []
 source: "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Useful context for understanding residential proxy network composition — consumer smart TVs are a significant source of legitimate-looking proxy IPs, which matters for traffic attribution and geo-filter confidence, but this item provides no IOCs or detection surface to act on.

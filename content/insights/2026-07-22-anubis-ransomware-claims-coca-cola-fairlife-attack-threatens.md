@@ -9,7 +9,7 @@ tags: ["ransomware", "data-breach", "threat-actor"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Anubis ransomware group is expanding its public extortion activity against recognizable brands; no IOCs or TTPs released yet, so track the actor for future intel but no hunt work is actionable now.

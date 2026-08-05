@@ -9,7 +9,7 @@ tags: ["phishing-as-a-service", "law-enforcement", "takedown"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The Kratos PhaaS takedown removes active infrastructure but no IOCs or TTPs are published in this item, so there is no immediate detection or hunt to run; useful background on the phishing-as-a-service ecosystem.

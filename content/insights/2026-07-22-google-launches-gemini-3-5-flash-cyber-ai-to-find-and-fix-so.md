@@ -9,7 +9,7 @@ tags: ["ai-security", "vulnerability-management", "google"]
 cves: []
 source: "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A specialized AI model for automated vuln discovery and patching is worth tracking as the tooling matures, but it's limited-access via a government/partner pilot with no public availability yet — no action today.
 - **SOC/IR — Skip**
