@@ -9,7 +9,7 @@ tags: ["data-breach", "fintech", "financial-fraud"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Breach post-mortem showing how stolen data is monetized through downstream fraud at scale, but no technical attack details or vulnerability specifics are disclosed to act on.
 - **SOC/IR — Skip**

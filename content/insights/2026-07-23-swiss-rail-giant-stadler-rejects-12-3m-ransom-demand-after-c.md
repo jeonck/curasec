@@ -9,7 +9,7 @@ tags: ["ransomware", "supply-chain", "third-party-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The entry point was a data exchange platform shared with a supplier, reinforcing that third-party integrations need isolation and least-privilege access. No specific CVE or software named, so no patch action available.
 - **SOC/IR — Learn:** Confirms Everest ransomware gang is active and targeting supplier-connected platforms, but no IOCs or TTPs are published here to hunt on. File for actor-tracking context.

@@ -9,7 +9,7 @@ tags: ["bug-bounty", "vulnerability-research", "github"]
 cves: []
 source: "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

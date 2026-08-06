@@ -9,7 +9,7 @@ tags: ["data-breach", "government", "espionage"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** A ten-month undetected compromise of a government education portal is a useful dwell-time reference case; no IOCs or TTPs are published, so no immediate detection action is possible.
