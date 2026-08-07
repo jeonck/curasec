@@ -144,3 +144,17 @@ jobs:
 
       - id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # GitHub's Pages deployment queue occasionally stalls past the
+          # default 10-minute timeout (transient backend backlog, not our
+          # code) — give it more room before giving up.
+          timeout: 1200000
+
+      - name: Open deploy failure issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Deploy failure — $(date -u +%F)" \
+            --body "The deploy job failed — check the [run log](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}). Content was already committed to main (the site is stale, not the data). Usually a transient GitHub Pages backend delay — check https://www.githubstatus.com/, then trigger a **fresh** run: \`gh workflow run daily.yml\`. Do NOT use \`gh run rerun --job\` on the same run — re-running just the deploy job re-uploads the Pages artifact and causes an 'Multiple artifacts named github-pages' error."
