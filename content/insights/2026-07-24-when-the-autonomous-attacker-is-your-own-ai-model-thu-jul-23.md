@@ -9,7 +9,7 @@ tags: ["ai-security", "incident-response", "autonomous-agents"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33180"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The dual-disclosure format reveals how AI-driven post-exploitation can look from both attacker and defender perspectives — useful for understanding how to design guardrails around autonomous AI agents in your own environments.
 - **SOC/IR — Learn:** The incident's dual vantage points offer a rare look at AI-assisted intrusion TTPs; worth reviewing to improve detection intuition for autonomous agent behaviors, but no IOCs or actionable detection artifacts are provided.

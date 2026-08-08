@@ -9,7 +9,7 @@ tags: ["windows", "hardening", "knowledge-base"]
 cves: []
 source: "https://github.com/armourinfosec/Enterprise-Windows-Infrastructure-Security"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A reference collection for Windows Server defensive hardening; worth bookmarking if you need structured guidance on configuration baselines, but no immediate action required.
 - **SOC/IR — Skip**

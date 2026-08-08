@@ -9,7 +9,7 @@ tags: ["phishing", "social-engineering", "threat-intel"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The shift toward Teams-based social engineering and automated multi-stage attack chains signals new lure surfaces worth reviewing when tuning detection coverage for collaboration platforms.
