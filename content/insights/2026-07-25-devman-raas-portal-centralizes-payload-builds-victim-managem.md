@@ -9,7 +9,7 @@ tags: ["ransomware", "raas", "threat-intel"]
 cves: []
 source: "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Awareness of a maturing RaaS platform with self-serve affiliate tooling is useful context for defense-in-depth planning, but the summary contains no IOCs, CVEs, or exploited software — no immediate patching or configuration action available.
 - **SOC/IR — Learn:** PRODAFT's tracking of the Funky Mantis operation is useful actor-profile context, but the summary surfaces no IOCs, ATT&CK-mapped TTPs, or detection hooks — revisit if PRODAFT releases a full technical report with indicators.

@@ -9,7 +9,7 @@ tags: ["credential-stuffing", "data-breach", "consumer"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Credential stuffing via website and mobile app is a recurring pattern; use this as a prompt to review your own bot mitigation, rate limiting, and breached-password detection controls.
 - **SOC/IR — Skip**

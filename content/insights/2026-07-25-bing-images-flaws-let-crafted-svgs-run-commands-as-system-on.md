@@ -9,7 +9,7 @@ tags: ["svg-injection", "rce", "microsoft"]
 cves: ["CVE-2026-32194"]
 source: "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The vulnerability sat in Microsoft's own infrastructure and is already patched, but the technique — crafted SVG triggering RCE in a server-side image processing pipeline — is directly generalizable. Audit any service that accepts user-submitted SVGs and processes them server-side (ImageMagick, librsvg, Inkscape CLI, etc.) for equivalent exposure.
 - **SOC/IR — Skip**

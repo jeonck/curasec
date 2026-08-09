@@ -9,7 +9,7 @@ tags: ["threat-actor", "law-enforcement", "extremism"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The Com is a loosely organized nihilistic violent extremist network; awareness of this enforcement action provides context for potential future threat actor tracking, but no IOCs or detection artifacts are surfaced here.
