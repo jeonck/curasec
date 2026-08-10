@@ -9,7 +9,7 @@ tags: ["patch", "wireshark", "vulnerability"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33146"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Update Wireshark installations to 4.6.7 to address 12 fixed vulnerabilities; no KEV listing or public PoC signals immediate exploitation pressure, so schedule within normal patch cadence.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["ai-security", "supply-chain", "geopolitical-risk"]
 cves: []
 source: "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

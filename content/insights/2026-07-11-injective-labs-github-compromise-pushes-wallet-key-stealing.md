@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Confirmed supply-chain attack: audit all dependency trees and package-lock files for @injectivelabs/sdk-ts@1.20.21; if found in any build artifact or runtime environment, treat wallet private keys and seed phrases as compromised and rotate immediately.
 - **SOC/IR — Act:** Sweep CI/CD build logs, container image layers, and package manifests across all repositories for @injectivelabs/sdk-ts version 1.20.21; any positive hit should trigger an incident investigation for outbound exfiltration from build environments.

@@ -9,7 +9,7 @@ tags: ["http3", "denial-of-service", "quic"]
 cves: []
 source: "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** XQUIC is Alibaba's QUIC/HTTP/3 library — audit whether it's in your stack (Alibaba Cloud, CDN edge, or any Go/C++ HTTP/3 service built on it); no patch exists yet, so consider disabling HTTP/3 endpoints or adding rate-limiting on QPACK traffic as interim mitigation. No KEV or EPSS signal, but a zero-auth 260-byte crash with no malformed packets is trivially weaponizable.
 - **SOC/IR — Learn:** No active exploitation or IOCs reported; the attack surface is interesting for future detection rule design around anomalous HTTP/3 QPACK request volumes causing server restarts, but there is nothing to hunt today.

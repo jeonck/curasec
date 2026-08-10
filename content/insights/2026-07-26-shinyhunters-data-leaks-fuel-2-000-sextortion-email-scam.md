@@ -9,7 +9,7 @@ tags: ["sextortion", "data-breach", "shinyhunters"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** ShinyHunters-leaked emails are now being used as lures in sextortion campaigns; no novel TTPs or IOCs are provided, but awareness helps triage any related user-reported phishing tickets.

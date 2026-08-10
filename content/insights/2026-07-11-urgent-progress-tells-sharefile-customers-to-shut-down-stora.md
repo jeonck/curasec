@@ -9,7 +9,7 @@ tags: ["sharefile", "active-incident", "enterprise-file-sharing"]
 cves: []
 source: "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Progress has confirmed a credible active threat against on-prem ShareFile Storage Zone Controllers and is directing customers to shut them down immediately. If you run Storage Zone Controllers on Windows, take them offline now and await Progress's remediation guidance before bringing them back up.
 - **SOC/IR — Act:** A vendor-confirmed active compromise campaign against enterprise file-sharing infrastructure warrants an assume-breach review if ShareFile is in your environment — check for lateral movement or data staging activity originating from Storage Zone Controller hosts since at least the past 30 days, and watch Progress and threat intel feeds for IOC release.

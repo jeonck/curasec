@@ -9,7 +9,7 @@ tags: ["windows", "persistence", "ttp"]
 cves: []
 source: "https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/"
 source_name: "CrowdStrike Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Describes how attackers abuse the ClickOnce deployment mechanism for persistence in Windows environments — no patch or config change indicated, but worth understanding if you deploy .NET apps or manage Windows estates.
 - **SOC/IR — Plan:** New ClickOnce-based persistence TTP with public CrowdStrike analysis — build or tune detections around ClickOnce application installations and associated scheduled tasks or registry run keys in your SIEM/EDR.

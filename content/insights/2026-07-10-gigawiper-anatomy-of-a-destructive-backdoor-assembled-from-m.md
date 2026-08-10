@@ -9,7 +9,7 @@ tags: ["malware", "wiper", "threat-analysis"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No exploitation signals or affected software components named in this summary; the analysis may inform future hardening decisions but requires no immediate patch or configuration change.
 - **SOC/IR — Plan:** Microsoft's technical breakdown likely includes TTPs and behavioral indicators — review the full post to extract detection logic for wiper-style activity (e.g., mass file destruction, MBR overwrites) and build or tune relevant Sigma/KQL rules this quarter.

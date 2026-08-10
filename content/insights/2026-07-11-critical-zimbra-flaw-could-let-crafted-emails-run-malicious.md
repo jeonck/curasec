@@ -9,7 +9,7 @@ tags: ["zimbra", "stored-xss", "email-security"]
 cves: []
 source: "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you run Zimbra Classic Web Client, apply the vendor-issued update promptly — stored XSS via crafted email is a practical account-takeover vector, but no public PoC or active exploitation is confirmed yet.
 - **SOC/IR — Skip**

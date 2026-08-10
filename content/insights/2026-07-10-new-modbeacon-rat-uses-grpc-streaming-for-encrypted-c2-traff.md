@@ -9,7 +9,7 @@ tags: ["rat", "threat-actor", "c2"]
 cves: []
 source: "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** gRPC-based C2 may evade TLS inspection tuned for HTTP/2 REST traffic; review whether your egress controls decode and inspect gRPC streams.
 - **SOC/IR — Plan:** Build or tune detections for outbound gRPC streaming to novel external endpoints; Silver Fox distributes via SEO-poisoned counterfeit installers, so hunt for unexpected Rust-compiled binaries in user-facing application paths.

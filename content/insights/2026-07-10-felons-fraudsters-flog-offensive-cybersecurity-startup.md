@@ -9,7 +9,7 @@ tags: ["vendor-risk", "supply-chain", "threat-intel"]
 cves: []
 source: "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Highlights the risk of sourcing threat intel or vulnerability data from unvetted offensive security vendors; useful context when evaluating new tool or feed vendors.

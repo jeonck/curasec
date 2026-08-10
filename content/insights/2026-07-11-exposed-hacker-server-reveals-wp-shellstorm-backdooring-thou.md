@@ -9,7 +9,7 @@ tags: ["wordpress", "web-skimming", "threat-intel"]
 cves: []
 source: "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you host WordPress sites, audit them now for backdoors and unknown admin accounts; review your web server logs for indicators matching this campaign's mass-exploitation pattern.
 - **SOC/IR — Act:** Review logs for WordPress admin-panel anomalies and unexpected file writes since the campaign has been active; hunt for web shells or unusual PHP execution tied to mass-compromise tooling.
