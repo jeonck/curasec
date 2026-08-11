@@ -9,7 +9,7 @@ tags: ["machine-learning", "privacy-preserving", "cryptography"]
 cves: []
 source: "https://arxiv.org/abs/2607.21895"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research-stage framework for privacy-preserving ML inference using partial homomorphic encryption; no production deployment target yet, but relevant for teams evaluating MLaaS privacy architectures.
 - **SOC/IR — Skip**

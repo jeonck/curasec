@@ -9,7 +9,7 @@ tags: ["cryptography", "supply-chain", "go"]
 cves: ["CVE-2025-8556"]
 source: "https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation"
 source_name: "HN (cve)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your Go codebase depends on github.com/cloudflare/circl and uses the FourQ elliptic curve (key exchange or signatures), audit that usage and schedule an upgrade; EPSS is 0.00 and no KEV listing, but a public PoC exists and cryptographic correctness flaws can enable key-recovery or signature-forgery scenarios.
 - **SOC/IR — Skip**

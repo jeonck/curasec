@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "infostealer"]
 cves: []
 source: "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A preinstall hook in jscrambler 8.14.0 drops and executes a cross-platform native infostealer — this is live supply-chain compromise. Audit all CI/CD pipelines and developer machines for installs of this exact version, remove or pin away from 8.14.0, and treat any affected environment as potentially credential-compromised.
 - **SOC/IR — Act:** Hunt for jscrambler 8.14.0 installs in npm audit logs, CI runner job histories, and artifact caches since July 11, 2026; on affected endpoints look for unexpected native binary drops or executions spawned from the npm install process, as infostealer data exfiltration may have already occurred.

@@ -9,7 +9,7 @@ tags: ["adversarial-ml", "llm-security", "speculative-decoding"]
 cves: []
 source: "https://arxiv.org/abs/2607.21804"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel prompt-suffix attack degrades speculative decoding throughput without corrupting outputs, affecting any deployment using draft-target inference acceleration (vLLM, TGI, etc.). No patch or mitigation exists yet; file this when designing LLM serving infrastructure to justify input validation and rate controls at the prompt layer.
 - **SOC/IR — Skip**

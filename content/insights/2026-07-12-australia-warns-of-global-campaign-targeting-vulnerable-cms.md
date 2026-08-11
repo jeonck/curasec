@@ -9,7 +9,7 @@ tags: ["cms", "exploitation", "acsc"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you run WordPress, Drupal, Joomla, or similar CMS with unpatched plugins, audit for compromise indicators and bring all CMS software and plugins to current versions immediately — campaigns like this actively scan for known-vulnerable installs.
 - **SOC/IR — Act:** Hunt for webshell activity and anomalous outbound connections from CMS-hosting servers; check for recently modified PHP/JS files in web roots and tune SIEM rules for CMS-targeted exploitation behavior.

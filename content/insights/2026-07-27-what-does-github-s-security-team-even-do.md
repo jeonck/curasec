@@ -9,7 +9,7 @@ tags: ["organizational-security", "appsec", "security-culture"]
 cves: []
 source: "https://orchidfiles.com/github-security-team/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful context on how a major platform's security team is structured and what they prioritize — informs how to engage with GitHub's security processes (bug bounty, vuln disclosure).
 - **SOC/IR — Skip**

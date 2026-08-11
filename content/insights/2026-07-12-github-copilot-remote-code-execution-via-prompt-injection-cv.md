@@ -9,7 +9,7 @@ tags: ["prompt-injection", "rce", "ai-tooling"]
 cves: ["CVE-2025-53773"]
 source: "https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/"
 source_name: "HN (cve)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** GitHub Copilot is broadly deployed on developer workstations; a public PoC exists for this RCE-via-prompt-injection path, but EPSS is 0.03 and it is not KEV-listed. Check for an available Copilot update and audit whether your pipelines or editors process untrusted file content through Copilot without sandboxing.
 - **SOC/IR — Learn:** Prompt injection as an RCE delivery mechanism in AI coding assistants is a novel developer-endpoint attack class worth adding to your threat model, but the summary provides no IOCs or ATT&CK-mappable TTPs to act on for detection tuning today.

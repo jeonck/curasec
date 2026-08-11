@@ -9,7 +9,7 @@ tags: ["llm-agents", "research", "appsec"]
 cves: []
 source: "https://arxiv.org/abs/2607.21642"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel static-analysis approach to sandboxing LLM-generated shell commands before execution; worth evaluating if you're building or securing agentic pipelines, but no patch or config action required today.
 - **SOC/IR — Skip**

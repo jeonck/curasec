@@ -9,7 +9,7 @@ tags: ["ai-security", "llm", "benchmarking"]
 cves: []
 source: "https://arxiv.org/abs/2607.21763"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If your team uses AI-assisted security tooling evaluated against CTF benchmarks, reported capability scores are likely inflated by as much as 5x; demand clean-pass metrics when evaluating AI security tools or agents.
 - **SOC/IR — Skip**

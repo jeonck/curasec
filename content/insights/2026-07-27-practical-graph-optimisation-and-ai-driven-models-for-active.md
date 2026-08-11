@@ -9,7 +9,7 @@ tags: ["active-directory", "attack-graphs", "research"]
 cves: []
 source: "https://arxiv.org/abs/2607.22009"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic thesis proposing game-theoretic models for AD attack-path hardening, including dynamic graph defense and honeypot placement. No patch or configuration change needed today, but the prioritization framework could inform future AD remediation planning.
 - **SOC/IR — Learn:** The decoy/honeypot placement model—designed to maximize worst-case incident response time in dynamic AD environments—is worth reading for analysts building deception layers, though no actionable detection content or IOCs are included.

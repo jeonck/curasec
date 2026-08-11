@@ -9,7 +9,7 @@ tags: ["cryptography", "zero-knowledge-proofs", "machine-learning-security"]
 cves: []
 source: "https://arxiv.org/abs/2607.21839"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Researchers show that ZKP-based model certification can be exploited by carefully crafting training data to produce models that pass audits but fail in deployment — a design-level concern if your team evaluates or builds on cryptographic ML audit frameworks.
 - **SOC/IR — Skip**

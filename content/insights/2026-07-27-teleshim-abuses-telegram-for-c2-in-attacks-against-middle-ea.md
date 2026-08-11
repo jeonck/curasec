@@ -9,7 +9,7 @@ tags: ["apt", "c2", "malware"]
 cves: []
 source: "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** New malware cluster (TELESHIM, MIXEDKEY, BINDCLOAK) using Telegram as C2 channel is worth tracking for detection coverage, but no IOCs or ATT&CK mappings are provided in the current reporting — revisit when Zscaler publishes technical indicators.
