@@ -9,7 +9,7 @@ tags: ["ai-security", "red-teaming", "microsoft"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**
