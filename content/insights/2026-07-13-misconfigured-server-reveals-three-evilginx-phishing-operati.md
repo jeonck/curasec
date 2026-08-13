@@ -9,7 +9,7 @@ tags: ["phishing", "microsoft-365", "aitm"]
 cves: []
 source: "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Evilginx bypasses TOTP-based MFA by proxying credentials; if your M365 tenant uses authenticator-app OTP rather than FIDO2/hardware keys, plan migration to phishing-resistant MFA and enforce Entra ID Conditional Access requiring compliant devices this quarter.
 - **SOC/IR — Act:** Three live AiTM operations were exposed with their full toolkits; pull the IOCs Lexfo published, sweep M365/Entra ID sign-in logs for unfamiliar token-issuing IP ranges, and tune detections for impossible-travel or session-token reuse patterns since AiTM bypasses MFA alerts entirely.

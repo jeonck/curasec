@@ -9,7 +9,7 @@ tags: ["bitlocker", "windows", "encryption"]
 cves: []
 source: "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** BitLocker underpins disk encryption across most enterprise Windows fleets; if the released exploit is validated, audit any system where BitLocker is the sole data-protection control and evaluate layering additional encryption. Monitor Microsoft's official response before treating this as confirmed.
 - **SOC/IR — Learn:** A credible BitLocker bypass would change IR assumptions about the confidentiality of encrypted drives seized or imaged during investigations, but the item provides no IOCs or detectable TTPs to act on now — track for technical follow-up.

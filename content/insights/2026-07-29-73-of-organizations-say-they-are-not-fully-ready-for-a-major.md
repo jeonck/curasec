@@ -9,7 +9,7 @@ tags: ["incident-response", "survey", "security-posture"]
 cves: []
 source: "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Survey highlights gaps in coordination and visibility that SOC teams can use to benchmark their own IR readiness and justify improvements to detection coverage or runbook quality.

@@ -9,7 +9,7 @@ tags: ["ai-security", "supply-chain", "developer-tools"]
 cves: []
 source: "https://github.com/openai/codex-security"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If Codex is in your development toolchain or CI pipelines, review the repository for security boundaries, sandboxing limitations, and trust assumptions — no exploit pressure, but 536 HN upvotes suggests substantive security guidance worth absorbing.
 - **SOC/IR — Skip**

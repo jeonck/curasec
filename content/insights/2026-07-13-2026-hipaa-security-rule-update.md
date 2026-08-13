@@ -9,7 +9,7 @@ tags: ["hipaa", "compliance", "healthcare"]
 cves: []
 source: "https://medcurity.com/hipaa-security-rule-2026-update/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you operate in a HIPAA-covered environment, review the updated Security Rule requirements this quarter and identify any new technical safeguards or control gaps to address before enforcement deadlines.
 - **SOC/IR — Skip**

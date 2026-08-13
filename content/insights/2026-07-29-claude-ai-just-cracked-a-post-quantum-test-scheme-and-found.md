@@ -9,7 +9,7 @@ tags: ["post-quantum-crypto", "ai-cryptanalysis", "cryptography"]
 cves: []
 source: "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** HAWK-256 is not widely deployed and is not a NIST-selected PQC standard, so no immediate patching is required; the 7-round AES result is purely academic (production AES-128 uses 10 rounds). Worth tracking as AI-assisted cryptanalysis matures and you evaluate PQC algorithm choices for future implementations.
 - **SOC/IR — Skip**

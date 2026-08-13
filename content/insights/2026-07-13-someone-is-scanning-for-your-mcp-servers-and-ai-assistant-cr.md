@@ -9,7 +9,7 @@ tags: ["mcp-servers", "ai-credentials", "threat-scanning"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33150"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you expose MCP server endpoints or store AI assistant API keys in reachable configs, audit those surfaces now — rotate any credentials that may have been discoverable and restrict MCP server network exposure to trusted origins only.
 - **SOC/IR — Plan:** Build or tune detections for inbound scanning probes targeting MCP-related ports and endpoints; begin collecting logs from any AI assistant integrations to baseline credential-use patterns before abuse occurs.

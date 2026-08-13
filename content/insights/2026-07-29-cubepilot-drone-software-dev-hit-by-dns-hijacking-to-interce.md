@@ -9,7 +9,7 @@ tags: ["dns-hijacking", "supply-chain", "ics-ot"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** DNS hijacking against a hardware/firmware vendor is a supply-chain attack vector worth understanding — audit your own domain registrar MFA and DNS provider controls, but no direct patch or action unless you're a CubePilot customer integrating their software.
 - **SOC/IR — Learn:** No IOCs or TTPs published; file as a supply-chain DNS hijack case study for future detection design around suspicious DNS changes or unexpected certificate issuance for vendor domains.

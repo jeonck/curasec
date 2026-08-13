@@ -9,7 +9,7 @@ tags: ["zero-trust", "ai-security", "enterprise"]
 cves: []
 source: "https://spawn-queue.acm.org/doi/10.1145/3819083"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Google's evolved BeyondCorp/zero-trust thinking for AI-era enterprise environments may inform how you design access controls and trust boundaries around AI workloads, but requires no immediate change to running systems.
 - **SOC/IR — Learn:** The architectural concepts around trust in AI-integrated enterprise environments could improve detection strategy thinking, but no actionable IOCs or TTPs are present.

@@ -9,7 +9,7 @@ tags: ["android-rat", "mobile-malware", "threat-intel"]
 cves: []
 source: "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The 170 identified C2 servers and certificate patterns provide threat-intel context, but the campaign specifically targets Chinese consumers via a fake government app — limited detection priority for enterprise estates unless mobile threat intel feeds need updating.
