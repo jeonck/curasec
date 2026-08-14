@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "infostealer"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Audit all projects and CI/CD pipelines for the malicious Jscrambler npm version; if found, treat the build environment as compromised and rotate any credentials or tokens accessible during that build.
 - **SOC/IR — Act:** Search CI/CD and build system logs for installations of the malicious Jscrambler package, then hunt for infostealer exfiltration activity (credential theft, unexpected outbound connections) on any hosts where it executed.

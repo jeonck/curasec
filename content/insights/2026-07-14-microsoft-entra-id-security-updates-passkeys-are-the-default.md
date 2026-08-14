@@ -9,7 +9,7 @@ tags: ["identity", "passkeys", "entra-id"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** This is a breaking change to default authentication behavior in Entra ID — audit your tenant's authentication policy, test passkey rollout for user flows, and review the updated SMS/voice auth model before it affects production sign-ins.
 - **SOC/IR — Learn:** Passkey adoption changes the phishing-resistant auth landscape and may affect credential-based attack detections; no immediate hunt or detection work required, but worth understanding how login telemetry shifts.

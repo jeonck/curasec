@@ -9,7 +9,7 @@ tags: ["dns", "cve", "network-infrastructure"]
 cves: []
 source: "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Dnsmasq is embedded in Kubernetes nodes, containers, and network appliances at scale; six CERT-issued serious CVEs warrant auditing all deployments and scheduling patches as soon as vendor-specific builds are available — no exploitation signals yet, but the network-accessible attack surface (DNS/DHCP) is historically high-value.
 - **SOC/IR — Skip**

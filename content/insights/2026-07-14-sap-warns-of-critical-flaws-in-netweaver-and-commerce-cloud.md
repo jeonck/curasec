@@ -9,7 +9,7 @@ tags: ["sap", "enterprise-software", "vulnerability-patching"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Three critical severity patches in widely deployed SAP products (NetWeaver, Commerce Cloud, AppRouter) warrant scheduling this sprint; no KEV listing or public PoC yet, but NetWeaver has been heavily targeted historically — apply July 2026 SAP Security Patch Day updates and verify no internet-exposed NetWeaver instances are lagging.
 - **SOC/IR — Skip**

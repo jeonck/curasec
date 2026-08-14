@@ -9,7 +9,7 @@ tags: ["supply-chain", "browser-extension", "dormant-malware"]
 cves: []
 source: "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** ModHeader is widely used by engineers for API and header debugging — remove it from all developer and CI browsers now and replace with a vetted alternative; dormant or not, undisclosed collection code in a tool with store-level trust is a supply-chain red flag.
 - **SOC/IR — Plan:** No active exploitation or IOCs to sweep for, but this is a prompt to audit the browser extension inventory across developer workstations and establish an approved-extension policy or detection for unapproved extension installs.

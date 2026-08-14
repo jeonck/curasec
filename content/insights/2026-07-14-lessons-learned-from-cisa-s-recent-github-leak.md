@@ -9,7 +9,7 @@ tags: ["secrets-management", "credential-leak", "postmortem"]
 cves: []
 source: "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** This postmortem highlights systemic gaps in detecting committed credentials and contractor offboarding. Audit your GitHub org repos and CI config files for exposed secrets, enable GitHub Advanced Security secret scanning org-wide, and verify pre-commit hooks or equivalent controls are enforced across contractor-accessible repos.
 - **SOC/IR — Learn:** CISA's documented response gaps — including the near-six-month detection delay — are worth absorbing when refining your own IR playbook for credential-exposure scenarios, but no IOCs or active exploitation are present to drive immediate hunt or detection work.
