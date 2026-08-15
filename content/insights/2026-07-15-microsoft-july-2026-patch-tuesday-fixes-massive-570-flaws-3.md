@@ -9,7 +9,7 @@ tags: ["patch-tuesday", "zero-day", "microsoft"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Two zero-days actively exploited in the wild against Microsoft products demand immediate patching priority this cycle; apply July 2026 Patch Tuesday updates now, triaging the exploited CVEs before the routine 570-flaw backlog.
 - **SOC/IR — Plan:** The summary confirms active exploitation but provides no IOCs, TTPs, or ATT&CK mappings yet — monitor vendor and threat-intel feeds for those details, then build or tune detections targeting the specific zero-day exploit behaviors once published.

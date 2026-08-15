@@ -9,7 +9,7 @@ tags: ["windows", "patch-management", "dell"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you manage Dell endpoints running Windows 11, verify whether the update block applies to your hardware models and plan an alternate patching path once Microsoft lifts the safeguard hold.
 - **SOC/IR — Skip**

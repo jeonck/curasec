@@ -9,7 +9,7 @@ tags: ["oauth", "microsoft-entra", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** At least two active threat actors are exploiting this Entra ID gap, but there's no patch—the exposure is architectural. Audit your Entra OAuth app registrations and conditional access policies, and restrict which OAuth clients are permitted for interactive and non-interactive flows.
 - **SOC/IR — Act:** This technique deliberately suppresses successful sign-in events, creating a blind spot in standard Entra telemetry; shift detection to Entra audit logs for anomalous OAuth client IDs and non-standard token-request patterns, and run a retrospective hunt across the past 90 days of OAuth activity.

@@ -9,7 +9,7 @@ tags: ["sap", "critical-vulnerability", "enterprise-erp"]
 cves: ["CVE-2026-44747"]
 source: "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** SAP NetWeaver ABAP is widely deployed in enterprise environments and this authenticated out-of-bounds write carries a 9.9 CVSS; no KEV listing, EPSS near zero, and no public PoC mean there's no immediate exploitation pressure, but apply SAP's July 2026 security patches in your next maintenance window.
 - **SOC/IR — Skip**

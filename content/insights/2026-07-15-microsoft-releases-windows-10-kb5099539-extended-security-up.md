@@ -9,7 +9,7 @@ tags: ["windows", "patch-tuesday", "esu"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Windows 10 is in ESU territory; if you still run Win10 endpoints or golden images, deploy KB5099539 to stay covered under the extended support contract — schedule within your normal patch window.
 - **SOC/IR — Skip**

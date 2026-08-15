@@ -9,7 +9,7 @@ tags: ["zero-day", "sharefile", "file-sharing"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you run ShareFile Storage Zone Controllers on-premises, apply the released security updates immediately — Progress shutting down the hosted service is a strong implicit signal of active exploitation risk, mirroring their MOVEit pattern.
 - **SOC/IR — Plan:** No IOCs or TTPs are available yet, but queue a hunt workflow for once Progress or third-party researchers publish exploitation indicators; given Progress's MOVEit history, details will likely emerge quickly.
