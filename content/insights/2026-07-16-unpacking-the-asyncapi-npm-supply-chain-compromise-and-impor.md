@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "ci-cd"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Confirmed supply chain compromise of AsyncAPI npm packages with import-time malware execution — audit all projects for AsyncAPI dependencies, check CI/CD build logs for the affected package versions, and rotate any secrets accessible from compromised build environments.
 - **SOC/IR — Act:** Active campaign with malware delivered at import time via npm means CI/CD runner telemetry is the primary hunt surface — sweep build system logs for suspicious outbound connections or process spawns during npm install/import phases since the compromise window, and tune EDR rules to flag unusual child processes from package managers.

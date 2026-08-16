@@ -9,7 +9,7 @@ tags: ["post-quantum", "cryptography", "roadmap"]
 cves: []
 source: "https://blog.cloudflare.com/post-quantum-roadmap/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Cloudflare's 2029 PQC roadmap signals the industry timeline for deprecating classical key exchange; useful context for planning when to prioritize PQC migration in your own TLS and key management stack, but no action required today.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["zoom", "windows", "account-takeover"]
 cves: ["CVE-2026-53412"]
 source: "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC on GitHub for a CVSS 9.8 improper-input-validation flaw in Zoom Desktop Client, VDI Client, and Meeting SDK for Windows raises exploitation risk significantly even without KEV listing; update all three Zoom Windows products to the patched versions immediately.
 - **SOC/IR — Act:** With a public PoC in circulation for a critical Zoom account-takeover vulnerability, exploitation attempts against unpatched Windows endpoints are plausible now; hunt for anomalous Zoom process behavior and unexpected authentication events since the patch cycle may lag exposure.

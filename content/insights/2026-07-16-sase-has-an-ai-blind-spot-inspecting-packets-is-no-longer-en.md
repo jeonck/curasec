@@ -9,7 +9,7 @@ tags: ["sase", "ai-security", "data-loss"]
 cves: []
 source: "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful framing on why TLS inspection alone misses data exfiltration through AI tools and browser extensions; worth incorporating into threat model reviews for SaaS-heavy environments.
 - **SOC/IR — Learn:** Highlights a detection gap where sensitive data leaves via AI assistants and browser extensions outside traditional proxy visibility — relevant context for evaluating current log coverage.

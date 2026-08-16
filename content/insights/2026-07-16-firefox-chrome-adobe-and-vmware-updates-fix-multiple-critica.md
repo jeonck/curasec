@@ -9,7 +9,7 @@ tags: ["browser-security", "cve", "patch"]
 cves: ["CVE-2026-15718", "CVE-2026-15719"]
 source: "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CVE-2026-15719 has a public PoC on GitHub and Mozilla acknowledges public exploit code exists; update Firefox to the patched release immediately across all managed endpoints and developer workstations.
 - **SOC/IR — Plan:** With public exploit code confirmed for Firefox WebAssembly and DOM navigation flaws, build or tune detections for browser exploitation patterns (unusual child processes, suspicious renderer crashes) and prepare to hunt if active exploitation is reported.

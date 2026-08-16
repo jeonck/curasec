@@ -9,7 +9,7 @@ tags: ["windows", "end-of-support", "patch-lifecycle"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Inventory endpoints and servers running Windows 11 24H2 Home/Pro or Windows 10 Enterprise LTSB 2016 and schedule in-place upgrades before the 90-day deadline; unpatched systems post-EOS become unmitigated CVE targets.
 - **SOC/IR — Skip**
