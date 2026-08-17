@@ -9,7 +9,7 @@ tags: ["regulation", "android", "ai-assistants"]
 cves: []
 source: "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** This widens the Android attack surface by requiring deep sensor and UI-automation access for third-party AI assistants; worth tracking as it may affect mobile app threat models and permission assumptions in enterprise Android deployments.
 - **SOC/IR — Skip**

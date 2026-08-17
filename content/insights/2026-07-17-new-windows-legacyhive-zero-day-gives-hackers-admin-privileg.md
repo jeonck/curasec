@@ -9,7 +9,7 @@ tags: ["windows", "privilege-escalation", "zero-day"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** A public exploit for this Windows local privilege escalation zero-day exists with no patch available; monitor Microsoft advisories closely and apply the fix immediately on release, meanwhile audit privileged-access paths and restrict unnecessary local user capabilities as interim hardening.
 - **SOC/IR — Plan:** With a public exploit now circulating, build or tune detections for anomalous registry/hive access patterns leading to unexpected privilege escalation on Windows endpoints, and set a hunt for LPE activity on sensitive hosts since exploit release.

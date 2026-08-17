@@ -9,7 +9,7 @@ tags: ["browser-extension", "ai-security", "privilege-escalation"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your org uses the Claude Chrome extension with connected services (Gmail, Docs, Salesforce), audit which extensions are installed alongside it and restrict extension installs via policy; monitor for an Anthropic patch and deploy it when released.
 - **SOC/IR — Learn:** No active exploitation or IOCs reported; the attack chain (malicious extension simulating clicks to abuse AI-connected services) is worth understanding as a new browser-based lateral movement pattern for future detection design.

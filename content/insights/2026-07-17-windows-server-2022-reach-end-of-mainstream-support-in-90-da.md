@@ -9,7 +9,7 @@ tags: ["end-of-life", "windows-server", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit your Server 2022 inventory and document any features relying on mainstream-only support; no immediate patching action required since security updates continue through extended support until 2031.
 - **SOC/IR — Skip**

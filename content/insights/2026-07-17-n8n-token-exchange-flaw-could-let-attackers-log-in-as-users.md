@@ -9,7 +9,7 @@ tags: ["authentication-bypass", "jwt", "workflow-automation"]
 cves: []
 source: "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Any n8n Enterprise deployment trusting multiple external JWT issuers is exposed to cross-tenant account takeover via `iss` claim bypass; patch n8n to the fixed version and audit multi-issuer OIDC/JWT configurations now.
 - **SOC/IR — Skip**

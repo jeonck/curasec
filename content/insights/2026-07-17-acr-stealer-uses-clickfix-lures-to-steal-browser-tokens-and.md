@@ -9,7 +9,7 @@ tags: ["infostealer", "clickfix", "microsoft-365"]
 cves: []
 source: "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** ClickFix is a social-engineering delivery vector, not a patchable vuln — review AppLocker/WDAC policies to restrict arbitrary Run-dialog execution, and audit M365 Conditional Access token-lifetime and revocation settings to limit stolen-session utility.
 - **SOC/IR — Act:** Microsoft Defender Experts documented two active delivery chains; hunt for PowerShell or cmd.exe spawned via user-initiated Run dialog (explorer.exe lineage), and sweep M365 Unified Audit Log for anomalous OAuth grants, bulk file access, or SharePoint/OneDrive exfiltration events since the campaign is live.

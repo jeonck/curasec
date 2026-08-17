@@ -9,7 +9,7 @@ tags: ["ransomware", "operational-technology", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**
