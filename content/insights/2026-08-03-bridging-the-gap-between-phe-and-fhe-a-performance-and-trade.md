@@ -9,7 +9,7 @@ tags: ["homomorphic-encryption", "cryptography", "research"]
 cves: []
 source: "https://arxiv.org/abs/2607.28700"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic benchmarking of the BGN SWHE scheme may inform future architecture decisions for privacy-preserving analytics pipelines, but no current system changes are needed.
 - **SOC/IR — Skip**

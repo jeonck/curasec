@@ -9,7 +9,7 @@ tags: ["privacy", "offline-ai", "open-source"]
 cves: []
 source: "https://arxiv.org/abs/2607.28878"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Interesting reference architecture for engineers who need air-gapped or privacy-sensitive dictation tooling; no change to running systems required, but the staged pipeline and threat model write-up are worth reviewing before adopting any cloud voice service.
 - **SOC/IR — Skip**

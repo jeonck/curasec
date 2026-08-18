@@ -9,7 +9,7 @@ tags: ["data-breach", "third-party-risk", "vendor-compromise"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The breach originated through a third-party support ticketing system, illustrating a lateral entry path worth reviewing in your own vendor-managed tool integrations — no IOCs or TTPs published to act on yet.

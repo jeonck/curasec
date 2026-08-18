@@ -9,7 +9,7 @@ tags: ["cryptography", "hardware-wallet", "rng"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** RNG flaws in embedded firmware serve as a cautionary case for any cryptographic key generation in custom hardware or firmware — review how your systems seed entropy, but this vulnerability is in consumer hardware wallets, not enterprise infrastructure.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["cryptography", "hardware-wallet", "supply-chain"]
 cves: []
 source: "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A 2021 firmware error routed Coldcard seed generation to a deterministic software PRNG instead of a hardware source, enabling full wallet recovery at scale — a textbook cautionary example for any engineer implementing cryptographic key generation. If your organization holds BTC in Coldcard devices, treat this as Act and audit key provenance immediately.
 - **SOC/IR — Skip**

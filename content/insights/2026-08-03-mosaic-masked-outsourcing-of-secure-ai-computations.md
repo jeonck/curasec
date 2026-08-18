@@ -9,7 +9,7 @@ tags: ["cryptography", "confidential-computing", "ai-security"]
 cves: []
 source: "https://arxiv.org/abs/2607.29221"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel matrix-multiplication masking protocol enabling private transformer inference on untrusted servers, backed by LWE/LPN hardness assumptions; no action needed today, but worth tracking if evaluating secure enclaves or confidential computing architectures for AI workloads.
 - **SOC/IR — Skip**

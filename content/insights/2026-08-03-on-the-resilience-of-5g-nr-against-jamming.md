@@ -9,7 +9,7 @@ tags: ["5g", "wireless-security", "research"]
 cves: []
 source: "https://arxiv.org/abs/2607.29384"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic simulation study on 5G jamming variables; no vulnerability or patch — useful background if you operate 5G-dependent industrial IoT or private networks and want to inform configuration choices.
 - **SOC/IR — Skip**

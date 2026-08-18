@@ -9,7 +9,7 @@ tags: ["openssl", "denial-of-service", "tls"]
 cves: []
 source: "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** OpenSSL is near-universal; the fix shipped silently in June with no CVE, no advisory, and no changelog callout, meaning most deployments are unknowingly unpatched. Audit your OpenSSL version and upgrade to the June or later release containing the HollowByte fix — glibc-based servers are confirmed vulnerable and memory is not reclaimed until process restart.
 - **SOC/IR — Plan:** No active exploitation or IOCs are currently cited, but Okta's public research lowers the bar for abuse. Build or queue a detection for abnormal memory growth trends or bursts of minimal-size TLS connections against OpenSSL-serving hosts, and flag it once exploitation attempts surface in the wild.

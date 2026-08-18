@@ -9,7 +9,7 @@ tags: ["macos", "authentication", "biometrics"]
 cves: []
 source: "https://github.com/Lorenzo-Coslado/macos-faceid"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A PAM-level biometric hook for sudo is worth evaluating before someone on your team installs it on a managed Mac; understand what attack surface a local face-recognition bypass introduces before adopting or banning it.
 - **SOC/IR — Skip**

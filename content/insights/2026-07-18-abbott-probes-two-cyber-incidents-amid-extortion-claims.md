@@ -9,7 +9,7 @@ tags: ["vendor-breach", "healthcare", "extortion"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Active investigation at a major healthcare vendor with confirmed unauthorized access and extortion claims, but no IOCs, TTPs, or ATT&CK-mappable behaviors have been published yet — nothing actionable to hunt or detect on today.

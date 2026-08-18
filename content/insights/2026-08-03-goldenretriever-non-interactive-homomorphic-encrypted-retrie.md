@@ -9,7 +9,7 @@ tags: ["homomorphic-encryption", "privacy", "rag"]
 cves: []
 source: "https://arxiv.org/abs/2607.29019"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Introduces a CKKS-based non-interactive encrypted retrieval framework for RAG that cuts complexity from quadratic to linear; worth tracking if you're building privacy-preserving AI pipelines, but no production library or patch to apply today.
 - **SOC/IR — Skip**

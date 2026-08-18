@@ -9,7 +9,7 @@ tags: ["privacy", "vector-search", "research"]
 cves: []
 source: "https://arxiv.org/abs/2607.28999"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic research on privacy-preserving vector search using differential privacy and LSH — worth tracking if you run RAG or embedding search pipelines over sensitive data, but no actionable change to running systems today.
 - **SOC/IR — Skip**

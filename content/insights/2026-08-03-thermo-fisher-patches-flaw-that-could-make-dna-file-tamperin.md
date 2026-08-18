@@ -9,7 +9,7 @@ tags: ["forensic-software", "data-integrity", "cve-2026-17583"]
 cves: ["CVE-2026-17583"]
 source: "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

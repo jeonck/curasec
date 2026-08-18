@@ -9,7 +9,7 @@ tags: ["malware", "threat-intel", "spambot"]
 cves: []
 source: "https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/"
 source_name: "CrowdStrike Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** New Astaroth spambot module represents an evolution in the malware's capabilities; review the CrowdStrike post for updated TTPs and behavioral indicators to inform detection tuning, but no actionable IOCs or confirmed active campaign are surfaced from available signals.

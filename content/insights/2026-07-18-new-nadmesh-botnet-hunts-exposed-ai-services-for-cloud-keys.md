@@ -9,7 +9,7 @@ tags: ["botnet", "cloud-credentials", "ai-infrastructure"]
 cves: []
 source: "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Actively scanning for internet-exposed instances of ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio to harvest AWS keys and Kubernetes tokens — exactly the stack teams deploy fast without firewall controls. Audit now for public exposure of these service ports, restrict to internal networks, and rotate AWS/K8s credentials on any host that ran them exposed.
 - **SOC/IR — Plan:** The TTPs are concrete enough to build detections around: Shodan-driven scanning targeting AI service endpoints, followed by credential exfiltration. Build hunts for unusual outbound traffic or credential API calls originating from AI service hosts; the summary appears truncated so IOCs are not yet available to act on directly.

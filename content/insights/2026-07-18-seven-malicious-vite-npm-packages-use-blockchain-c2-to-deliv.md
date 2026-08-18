@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "malware"]
 cves: []
 source: "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Supply chain compromise targeting a widely-used frontend toolchain is a direct risk to any team using Vite or related npm packages; audit your dependency tree immediately for the seven ViteVenom packages and inspect CI/CD build logs for unexpected outbound connections to Tron blockchain endpoints.
 - **SOC/IR — Plan:** The four-tier blockchain-based C2 using Tron is a novel evasion technique worth building detections for; develop hunt logic to flag anomalous blockchain API calls originating from build runners or developer workstations, and add this TTP to your supply-chain detection backlog.

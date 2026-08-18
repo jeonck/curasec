@@ -9,7 +9,7 @@ tags: ["gui-agents", "llm-security", "adversarial-ml"]
 cves: []
 source: "https://arxiv.org/abs/2607.29199"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research shows that single-turn ASR benchmarks overstate real-world robustness of GUI agent guardrails, with 4-turn escalation chains recovering ~20 points of attack success across all tested models. Teams building or deploying GUI agents should treat static prompt-level alignment as insufficient and evaluate multi-turn threat scenarios in their safety testing.
 - **SOC/IR — Skip**

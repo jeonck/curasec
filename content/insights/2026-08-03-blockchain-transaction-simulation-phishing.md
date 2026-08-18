@@ -9,7 +9,7 @@ tags: ["phishing", "web3", "smart-contracts"]
 cves: []
 source: "https://arxiv.org/abs/2607.28747"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel attack class showing how state-dependent smart contracts can make malicious transactions appear benign during wallet simulation previews; relevant for teams building Web3 integrations or DeFi applications, but no patch or configuration action is available for typical enterprise stacks.
 - **SOC/IR — Skip**

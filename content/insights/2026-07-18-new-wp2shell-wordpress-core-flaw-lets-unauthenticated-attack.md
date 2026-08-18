@@ -9,7 +9,7 @@ tags: ["wordpress", "rce", "unauthenticated"]
 cves: []
 source: "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Public PoC is available for an unauthenticated RCE in WordPress core affecting 6.9 and 7.0 with no plugins required — patch every WordPress instance to the fixed version immediately and audit web server file systems for newly dropped shells or unexpected PHP files.
 - **SOC/IR — Act:** A public PoC for unauthenticated RCE in WordPress core means active exploitation is likely underway; sweep web access logs for anomalous POST patterns against wp-admin and wp-includes endpoints, and hunt for new or modified PHP files and unexpected child processes spawned by the web server process since the disclosure date.
