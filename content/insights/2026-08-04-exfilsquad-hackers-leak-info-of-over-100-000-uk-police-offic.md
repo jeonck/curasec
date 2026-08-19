@@ -9,7 +9,7 @@ tags: ["data-breach", "law-enforcement", "threat-actor"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

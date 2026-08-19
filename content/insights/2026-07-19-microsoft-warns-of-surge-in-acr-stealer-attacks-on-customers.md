@@ -9,7 +9,7 @@ tags: ["infostealer", "credential-theft", "endpoint"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** ACR Stealer targets browser-stored credentials and tokens — review whether your CI/CD pipelines or developer workstations enforce short-lived tokens and MFA to limit blast radius if credentials are harvested.
 - **SOC/IR — Act:** Microsoft is actively observing this campaign; hunt for ACR Stealer IOCs across EDR telemetry and SIEM, and tune detections for credential-access behaviors (browser credential dumping, token theft) across enterprise endpoints.

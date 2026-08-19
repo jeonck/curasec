@@ -9,7 +9,7 @@ tags: ["android", "malware", "threat-intel"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The ecosystem breakdown — resellers, source-code leaks, and custom forks — helps analysts understand BTMOB variant proliferation and anticipate detection drift as signatures diverge across versions.
