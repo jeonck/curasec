@@ -9,7 +9,7 @@ tags: ["nation-state", "ip-cameras", "surveillance"]
 cves: []
 source: "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Internet-facing IP cameras are the explicit attack surface; audit your estate for publicly reachable cameras, segment them off the internet behind a VPN or zero-trust proxy, and verify firmware is current — no specific CVE is named but the campaign exploits pervasive misconfiguration.
 - **SOC/IR — Act:** The AIVD/MIVD advisory (July 10) describes an active Russian intelligence collection campaign — pull that advisory for IOCs and TTPs, then sweep camera management traffic and authentication logs for signs of unauthorized access to physical security infrastructure since at least early 2026.

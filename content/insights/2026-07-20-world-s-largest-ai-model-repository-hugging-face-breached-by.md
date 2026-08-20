@@ -9,7 +9,7 @@ tags: ["hugging-face", "credential-compromise", "ai-supply-chain"]
 cves: []
 source: "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Hugging Face is widely embedded in ML pipelines via API tokens and model downloads — rotate all Hugging Face access tokens in your CI/CD and development environments immediately and audit secrets stores for any exposed HF credentials.
 - **SOC/IR — Act:** Active breach at a broadly used AI platform with confirmed credential exposure; sweep secrets managers and env-var configs for Hugging Face tokens, hunt for anomalous outbound calls to HF APIs since last week, and flag any service accounts with HF integration for review.

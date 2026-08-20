@@ -9,7 +9,7 @@ tags: ["ai-assisted-attack", "botnet", "threat-actor"]
 cves: []
 source: "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Demonstrates an emerging operational pattern where attackers use open-source AI CLIs to automate credential attacks and botnet management; no specific vulnerability to patch, but worth reviewing whether Gemini CLI or similar tools are present in CI/CD or developer environments and could be abused.
 - **SOC/IR — Plan:** The session log analysis reveals AI-assisted password cracking and botnet C2 as concrete TTPs; build or tune detections for anomalous use of AI CLI tools (Gemini CLI, others) in endpoint and network telemetry, particularly subprocess chains or outbound API calls from unexpected processes.

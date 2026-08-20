@@ -9,7 +9,7 @@ tags: ["ransomware", "endpoint-detection", "microsoft-defender"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The case illustrates how automated endpoint isolation can compress ransomware dwell time to under three minutes; worth reviewing your own EDR auto-containment thresholds against this benchmark.

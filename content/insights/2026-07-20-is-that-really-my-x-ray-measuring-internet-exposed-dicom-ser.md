@@ -9,7 +9,7 @@ tags: ["dicom", "medical-imaging", "exposure-measurement"]
 cves: []
 source: "https://arxiv.org/abs/2607.15839"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your organization runs DICOM infrastructure, audit all services for internet exposure: the research confirms 3,979 deployments accept unauthenticated connections with no encryption, and ~50% show zero maintenance activity. Verify DICOM ports are not internet-reachable and enforce TLS and auth for any legitimate external access.
 - **SOC/IR — Learn:** Pure measurement research with no IOCs, TTPs, or active exploitation data; useful background on healthcare attack surface but yields no detection or hunting work today.

@@ -9,7 +9,7 @@ tags: ["supply-chain", "backdoor", "vpn"]
 cves: []
 source: "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The trojanized-installer supply chain vector delivering a custom backdoor (FDMTP) is worth tracking as a technique, but the summary provides no IOCs and the target population is narrow, so no hunt or detection work is actionable yet.

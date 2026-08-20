@@ -9,7 +9,7 @@ tags: ["soc2", "compliance", "audit"]
 cves: []
 source: "https://github.com/Chiaro-HQ/methodology"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

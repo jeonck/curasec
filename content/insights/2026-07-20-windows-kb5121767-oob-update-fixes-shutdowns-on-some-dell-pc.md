@@ -9,7 +9,7 @@ tags: ["windows", "patch", "dell"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your estate includes Dell PCs running Windows 11 that received July 2026 updates, apply KB5121767 to resolve unexpected shutdowns; no security exploitation involved.
 - **SOC/IR — Skip**
