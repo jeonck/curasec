@@ -9,7 +9,7 @@ tags: ["fraud", "ai-abuse", "threat-intel"]
 cves: []
 source: "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Documents how AI-assisted fraud operations leverage LLM accounts for scalable scam content generation; no IOCs or detection surface provided, but useful context for understanding AI-enabled social engineering at scale.

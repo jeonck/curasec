@@ -9,7 +9,7 @@ tags: ["ai-coding-tools", "sandbox-escape", "cve"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Patches are available for Cursor, Codex, and Gemini CLI; update all three and audit any AI agent file-write permissions to ensure automated pipelines don't blindly execute AI-generated scripts. No active exploitation is reported and no KEV/PoC signals present, so this is patch-cycle priority rather than emergency.
 - **SOC/IR — Learn:** The attack class — an AI agent writing files that trusted host tools later execute — is a novel indirect execution path worth understanding for future detection work, but this disclosure provides no IOCs, no ATT&CK mapping, and no evidence of in-the-wild exploitation to act on now.

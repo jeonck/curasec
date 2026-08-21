@@ -9,7 +9,7 @@ tags: ["cloud-security", "data-breach", "criminal-prosecution"]
 cves: []
 source: "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The guilty plea closes the loop on a major credential-based cloud breach campaign; review whether your org's Snowflake tenant MFA and network policies would have detected or blocked the access patterns used in 2024.

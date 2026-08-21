@@ -9,7 +9,7 @@ tags: ["ransomware", "langflow", "ai-security"]
 cves: []
 source: "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active exploitation of a Langflow RCE is being used to deploy Go-based ransomware that encrypts model weights, vector indexes, and training data. If you run Langflow, patch or network-isolate it immediately and review Sysdig's full JADEPUFFER report for host-level IOCs to audit your AI infrastructure.
 - **SOC/IR — Act:** A named operator (JADEPUFFER) has been caught in a second confirmed intrusion deploying ENCFORGE ransomware via Langflow; pull Sysdig's IOC set and hunt for anomalous Go process execution or bulk file encryption activity on hosts running Langflow or adjacent AI pipeline components.

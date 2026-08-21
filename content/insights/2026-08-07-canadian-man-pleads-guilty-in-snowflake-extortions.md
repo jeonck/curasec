@@ -9,7 +9,7 @@ tags: ["data-breach", "cloud-security", "threat-actor"]
 cves: []
 source: "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The 2024 Snowflake credential-stuffing campaign is legally concluded with no new technical disclosures; reinforces that MFA enforcement on cloud data warehouses is non-negotiable, but no immediate action is required if controls were hardened after the original incident.
 - **SOC/IR — Learn:** The guilty plea closes attribution on a major 2024 campaign but surfaces no new IOCs, TTPs, or detection opportunities; useful for building institutional knowledge about the attacker's methods (credential reuse at scale against SaaS platforms).

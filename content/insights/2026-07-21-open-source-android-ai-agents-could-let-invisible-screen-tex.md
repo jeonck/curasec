@@ -9,7 +9,7 @@ tags: ["ai-agents", "prompt-injection", "android"]
 cves: []
 source: "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Researchers demonstrated a novel attack chain — invisible overlay text on Android feeds malicious instructions to an AI agent framework, which then executes commands on the host PC. No patch, KEV, or PoC is available yet, but this changes how secure AI agent pipelines should be architected (sandboxed execution context, input validation on screen-scraped content).
 - **SOC/IR — Learn:** No IOCs, active campaigns, or actionable detection surface are described; the value is understanding the emergent attack class of UI-layer prompt injection into agent frameworks, which may inform future alert logic as mobile AI agents reach enterprise environments.

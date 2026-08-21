@@ -9,7 +9,7 @@ tags: ["ai-phishing", "webdav-malware", "infostealer"]
 cves: []
 source: "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The toolkit's WebDAV-based execution chain and filename-spoofing techniques illustrate how AI lowers the bar for building polished lure campaigns; no patch or config change is indicated, but the delivery method is worth factoring into endpoint and proxy controls.
 - **SOC/IR — Plan:** Rapid7's full toolkit dump provides campaign TTPs worth converting into detection rules — specifically hunt for WebDAV-hosted payload execution and filename-extension spoofing patterns in process telemetry; scope detections this quarter while IOC freshness holds.

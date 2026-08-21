@@ -9,7 +9,7 @@ tags: ["cloud-security", "credential-theft", "data-breach"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The guilty plea closes the legal chapter on a credential-stuffing campaign that bypassed MFA-less Snowflake accounts; no new vulnerability or patch, but reinforces ensuring MFA and session token controls are enforced on all cloud data warehouse accounts.
 - **SOC/IR — Skip**

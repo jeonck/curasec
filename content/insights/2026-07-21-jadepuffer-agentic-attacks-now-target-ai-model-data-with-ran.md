@@ -9,7 +9,7 @@ tags: ["ransomware", "ai-security", "langflow"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you run Langflow, vector databases, or store model checkpoints and training datasets, audit whether those assets are covered by offline/immutable backups and restrict write access to AI model storage paths — ransomware operators are now specifically targeting these artifacts.
 - **SOC/IR — Learn:** EncForge represents a new ransomware class deliberately targeting AI infrastructure assets; no IOCs or ATT&CK mappings are available yet, so file this as context for future detections around ML pipeline directories and vector DB processes.

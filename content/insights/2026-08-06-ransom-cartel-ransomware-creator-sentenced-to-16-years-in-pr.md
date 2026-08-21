@@ -9,7 +9,7 @@ tags: ["ransomware", "law-enforcement", "criminal-sentencing"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Notable law enforcement outcome against a prolific ransomware operator; useful context for understanding Ransom Cartel's operational history but yields no detection or hunting actions.

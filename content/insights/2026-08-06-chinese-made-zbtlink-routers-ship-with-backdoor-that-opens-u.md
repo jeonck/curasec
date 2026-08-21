@@ -9,7 +9,7 @@ tags: ["hardware-backdoor", "supply-chain", "router-security"]
 cves: []
 source: "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Zbtlink is a niche brand unlikely to appear in enterprise infrastructure, and no enrichment signals indicate active exploitation; however, the finding that backdoors persist across 2+ years of firmware images is a useful supply-chain sourcing reminder when evaluating network hardware vendors.
 - **SOC/IR — Learn:** No IOCs or ATT&CK-mapped TTPs are available from the summary, and Zbtlink hardware is uncommon in enterprise estates, so there is no immediate hunt or detection to build; worth noting the beaconing behavior pattern if these devices ever appear in an asset inventory.

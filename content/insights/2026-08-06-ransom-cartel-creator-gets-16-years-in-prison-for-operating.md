@@ -9,7 +9,7 @@ tags: ["ransomware", "law-enforcement", "raas"]
 cves: []
 source: "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Background on the Ransom Cartel RaaS model (2021–2023) is useful for understanding affiliate-driven ransomware tradecraft, but the operation is dismantled and no new IOCs or detection angles are provided.
