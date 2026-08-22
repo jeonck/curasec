@@ -9,7 +9,7 @@ tags: ["zimbra", "command-injection", "xss"]
 cves: []
 source: "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Upgrade Zimbra to 10.1.20 to remediate the SNMP command injection (triggered when SNMP notifications are enabled) and four XSS issues; no KEV listing or public PoC raises urgency to Act, but the critical rating warrants scheduling patching this sprint.
 - **SOC/IR — Skip**

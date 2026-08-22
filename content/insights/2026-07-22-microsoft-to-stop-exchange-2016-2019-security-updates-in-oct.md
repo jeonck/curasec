@@ -9,7 +9,7 @@ tags: ["exchange", "end-of-life", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you still run Exchange 2016 or 2019 on-premises, schedule migration to Exchange Online or a supported version before October; after that date, unpatched RCE vulnerabilities will go unfixed on a historically targeted mail server.
 - **SOC/IR — Skip**

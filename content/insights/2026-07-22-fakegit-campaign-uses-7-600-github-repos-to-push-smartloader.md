@@ -9,7 +9,7 @@ tags: ["supply-chain", "malware", "github"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A supply-chain campaign at GitHub scale (14M downloads) meets the Act threshold even without KEV/EPSS signals. Audit CI/CD build logs and dependency fetches for downloads from unknown or newly-created GitHub repos, and scan endpoints for SmartLoader and StealC indicators.
 - **SOC/IR — Plan:** The campaign is active but the summary lacks specific IOCs needed for immediate sweeps. Build or tune detections for StealC infostealer behaviors (credential harvesting, C2 beaconing) and generic loader staging patterns; monitor research feeds for published IOC lists to operationalize hunting.

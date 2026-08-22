@@ -9,7 +9,7 @@ tags: ["credential-stuffing", "data-breach", "consumer"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No novel technique here, but a useful reminder to audit your own login endpoints for rate-limiting, MFA enforcement, and anomalous login velocity detection if you operate a consumer-facing auth surface.
 - **SOC/IR — Learn:** Credential stuffing campaigns often recycle breach corpuses across targets; consider whether your org's consumer-facing portals show similar login anomaly patterns worth hunting.
