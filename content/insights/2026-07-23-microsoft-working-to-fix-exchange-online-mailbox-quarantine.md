@@ -9,7 +9,7 @@ tags: ["exchange-online", "microsoft", "availability"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Monitor Microsoft's service health dashboard (EX1234 or similar incident ID) for resolution status; if Exchange Online is in your environment, check whether any mailboxes have been incorrectly quarantined and open a support ticket if affected.
 - **SOC/IR — Skip**

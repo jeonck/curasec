@@ -9,7 +9,7 @@ tags: ["local-privilege-escalation", "ubuntu", "linux"]
 cves: ["CVE-2026-8933"]
 source: "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Public PoC on GitHub makes this practical for any attacker with local access on Ubuntu Desktop 24.04, 25.10, or 26.04; patch snap-confine immediately on affected desktop systems and audit cloud VMs or developer workstations running Ubuntu Desktop builds.
 - **SOC/IR — Learn:** No active exploitation campaign or IOCs reported; file as a post-exploitation step an attacker with foothold could use, but there is no detection hunt to run today without observed in-the-wild activity.

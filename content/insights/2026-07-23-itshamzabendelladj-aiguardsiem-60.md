@@ -9,7 +9,7 @@ tags: ["siem", "open-source", "detection-engineering"]
 cves: []
 source: "https://github.com/itshamzabendelladj/AIGuardSIEM"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Worth evaluating as a high-throughput, open-source detection pipeline if you run your own SIEM infrastructure; no vulnerability or configuration change required today.
 - **SOC/IR — Plan:** Assess AIGuardSIEM for your detection stack: its native Sigma rule support and eBPF monitoring could expand coverage; evaluate against your current SIEM in a lab environment this quarter.

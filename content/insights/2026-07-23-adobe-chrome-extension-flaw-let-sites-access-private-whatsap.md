@@ -9,7 +9,7 @@ tags: ["browser-extension", "data-exposure", "adobe"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit enterprise Chrome extension policies to confirm the Adobe Acrobat extension is at current patched version; consider restricting extension permissions via managed browser policy if update cadence is slow.
 - **SOC/IR — Learn:** No active exploitation or IOCs reported; file as a reference for understanding cross-origin data leakage via browser extension privilege abuse if hunting similar patterns later.

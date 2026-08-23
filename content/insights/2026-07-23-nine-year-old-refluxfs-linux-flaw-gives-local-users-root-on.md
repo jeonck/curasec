@@ -9,7 +9,7 @@ tags: ["linux-kernel", "privilege-escalation", "rhel"]
 cves: ["CVE-2026-64600"]
 source: "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Public PoC on GitHub and default RHEL, Fedora Server, and Amazon Linux installs are vulnerable — patch the kernel for CVE-2026-64600 on all affected systems now; audit any multi-tenant or shared-host environments where an unprivileged foothold could be leveraged immediately.
 - **SOC/IR — Plan:** No active campaign or published IOCs yet, but the GitHub PoC means weaponization is near; build detections for anomalous privilege escalation and unexpected root-owned file modification on Linux hosts running XFS before exploitation begins.
