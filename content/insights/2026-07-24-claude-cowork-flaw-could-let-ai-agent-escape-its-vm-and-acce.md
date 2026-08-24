@@ -9,7 +9,7 @@ tags: ["sandbox-escape", "ai-agent-security", "macos"]
 cves: []
 source: "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** A VM sandbox escape in Claude Cowork exposes the host Mac filesystem to the AI agent process; no KEV or public PoC yet, but the impact is high for any developer running this on a work machine. Check your Claude Cowork version and apply any available update; restrict the tool to non-sensitive environments until patched.
 - **SOC/IR — Learn:** No active exploitation or IOCs reported, but this is a useful technique study: AI agent processes breaking out of containerized environments into host filesystems is an emerging attack class worth factoring into future detection logic for AI tooling on endpoints.

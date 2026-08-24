@@ -9,7 +9,7 @@ tags: ["ai-agents", "least-privilege", "access-control"]
 cves: []
 source: "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful framing on the gap between observing AI agent behavior and actually constraining it via identity-layer controls and least privilege — worth tracking as agent deployments grow, but no specific system change is indicated today.
 - **SOC/IR — Skip**

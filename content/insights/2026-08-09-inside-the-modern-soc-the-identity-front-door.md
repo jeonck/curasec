@@ -9,7 +9,7 @@ tags: ["identity", "soc", "threat-intelligence"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/soc-identity-front-door/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Unit 42's analysis of identity-based attack patterns offers context for triage judgment and detection prioritization, though no specific IOCs or new TTPs are surfaced in the summary.

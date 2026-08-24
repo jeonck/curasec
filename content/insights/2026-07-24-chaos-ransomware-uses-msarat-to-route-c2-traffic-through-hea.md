@@ -9,7 +9,7 @@ tags: ["ransomware", "c2-evasion", "malware"]
 cves: []
 source: "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No patchable vulnerability here — this is a C2 evasion technique that bypasses outbound network controls by abusing the local browser. Worth understanding when designing network egress policy and process-spawn allow-lists, but no immediate system change required.
 - **SOC/IR — Act:** Cisco Talos documented a pre-ransomware implant with a distinctive behavioral fingerprint: it binds only to 127.0.0.1 and spawns Chrome or Edge headlessly to carry C2 traffic — invisible to traditional network detection. Hunt for unexpected headless browser processes with anomalous parent processes and tune EDR rules to flag this spawn chain on Windows endpoints.

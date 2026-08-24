@@ -9,7 +9,7 @@ tags: ["malvertising", "sectoprat", "ai-lure"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No direct infrastructure vulnerability here; the attack targets end users via social engineering. Worth noting that AI-tool-themed lures are an emerging pattern that should inform employee software-download guidance.
 - **SOC/IR — Act:** Active SectopRAT delivery campaign in progress — query EDR telemetry for downloads of unofficial Claude installers and sweep endpoints for SectopRAT indicators; the BleepingComputer writeup likely contains file hashes and C2 indicators to feed into your SIEM.

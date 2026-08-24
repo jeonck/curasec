@@ -9,7 +9,7 @@ tags: ["clop-ransomware", "plm-software", "data-theft"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Clop is actively targeting internet-exposed PTC Windchill and FlexPLM instances — both are common in manufacturing, aerospace, and retail/apparel supply chains. Immediately audit whether any Windchill or FlexPLM deployments are internet-reachable and restrict or take them offline; review recent access logs for anomalous data staging or egress activity.
 - **SOC/IR — Act:** Clop's pattern of mass data theft before extortion demands a proactive hunt in any organization running these PLM products — look for large exfiltration events from Windchill or FlexPLM hosts in your SIEM and baseline normal egress volumes now. Pull the BleepingComputer article for any published IOCs or TTPs and build detection coverage against Clop's known staging and exfil behaviors in EDR telemetry.

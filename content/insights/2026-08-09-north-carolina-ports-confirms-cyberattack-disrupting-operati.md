@@ -9,7 +9,7 @@ tags: ["critical-infrastructure", "operational-disruption", "incident"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Active attack against maritime critical infrastructure with operational impact, but no IOCs, TTPs, or attribution have been published yet — monitor for follow-up reporting before initiating a hunt.

@@ -9,7 +9,7 @@ tags: ["fedramp", "compliance", "cloud-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your team supports a FedRAMP-authorized product, start mapping how you'll generate continuous, machine-readable control evidence — point-in-time assessment artifacts will no longer suffice once the transition deadline arrives.
 - **SOC/IR — Skip**

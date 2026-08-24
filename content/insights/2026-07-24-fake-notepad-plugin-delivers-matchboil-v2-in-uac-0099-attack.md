@@ -9,7 +9,7 @@ tags: ["malware", "threat-actor", "windows"]
 cves: []
 source: "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Social engineering via trojanized software plugins is a recurring delivery vector; audit Notepad++ plugin directories on developer and admin workstations for unexpected DLLs, but no patch exists and no KEV or PoC signals elevate this to urgent action.
 - **SOC/IR — Plan:** UAC-0099 is an active Russia-aligned actor with evolving delivery chains; build or tune detections for anomalous files dropped into Notepad++ plugin directories and monitor for MATCHBOIL.V2 indicators once CERT-UA publishes full IOC sets.

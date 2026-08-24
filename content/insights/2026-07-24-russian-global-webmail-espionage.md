@@ -9,7 +9,7 @@ tags: ["espionage", "zimbra", "credential-theft"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/russian-webmail-espionage/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your organization runs Zimbra webmail, review the Unit 42 report for any patched CVEs or configuration mitigations tied to this JavaScript injection vector, and audit Zimbra servers for unauthorized script modifications.
 - **SOC/IR — Act:** Pull the full Unit 42 report for IOCs and TTPs, then hunt for anomalous JavaScript execution or unexpected credential harvesting activity in Zimbra server logs since the campaign's observed start date.
