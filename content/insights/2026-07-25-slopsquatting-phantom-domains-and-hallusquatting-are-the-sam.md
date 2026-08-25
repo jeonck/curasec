@@ -9,7 +9,7 @@ tags: ["supply-chain", "ai-security", "dependency-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your team uses AI coding assistants to generate dependency names or package imports, audit your pipeline for pre-fetch verification steps that confirm packages exist before installation; add a governed allowlist or lockfile discipline to block hallucinated names from resolving to malicious registries.
 - **SOC/IR — Learn:** Understanding that AI agents can introduce malicious packages via hallucinated names expands the threat model for build-pipeline anomaly detection, but no IOCs or active campaign details are present to act on now.

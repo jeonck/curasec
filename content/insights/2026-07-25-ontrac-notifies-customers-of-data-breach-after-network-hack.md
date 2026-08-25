@@ -9,7 +9,7 @@ tags: ["data-breach", "third-party-risk", "pii"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** No IOCs or TTPs disclosed; breach at a logistics vendor with no actionable detection surface for enterprise defenders at this time.

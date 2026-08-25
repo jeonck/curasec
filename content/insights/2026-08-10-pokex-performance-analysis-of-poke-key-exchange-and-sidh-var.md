@@ -9,7 +9,7 @@ tags: ["post-quantum", "cryptography", "pqc"]
 cves: []
 source: "https://arxiv.org/abs/2608.06826"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful background for engineers tracking isogeny-based PQC alternatives post-SIDH break; POKE-based KEM shows significant performance gains over terSIDH and CSIDH, but no NIST standardization yet — no migration action warranted today.
 - **SOC/IR — Skip**

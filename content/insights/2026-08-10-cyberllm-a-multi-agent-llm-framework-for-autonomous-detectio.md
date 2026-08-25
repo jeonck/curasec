@@ -9,7 +9,7 @@ tags: ["llm-security", "automotive", "vulnerability-detection"]
 cves: []
 source: "https://arxiv.org/abs/2608.06651"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The hybrid deterministic-plus-LLM pipeline (regex/AST/topology plus LLM refinement) that roughly doubles vulnerability coverage over static rules alone is worth tracking as a design pattern for AppSec tooling, though the automotive ECU focus makes it directly applicable only in that niche.
 - **SOC/IR — Skip**

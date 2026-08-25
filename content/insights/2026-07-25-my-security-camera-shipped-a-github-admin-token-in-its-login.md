@@ -9,7 +9,7 @@ tags: ["supply-chain", "credential-exposure", "iot"]
 cves: []
 source: "https://hhh.hn/hanwha-github-token/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you run Hanwha/Samsung security cameras, audit firmware or network-exposed login pages for embedded credentials; more broadly, scan your own build artifacts and container images for hardcoded tokens using tools like truffleHog or gitleaks, as this pattern recurs in IoT and embedded firmware.
 - **SOC/IR — Learn:** No IOCs or active exploitation reported, but the incident illustrates how IoT device web UIs can leak credentials visible to anyone on the network — worth noting for device inventory reviews and camera network segmentation practices.

@@ -9,7 +9,7 @@ tags: ["llm-security", "supply-chain", "ai-ml"]
 cves: []
 source: "https://arxiv.org/abs/2608.06795"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Identifies a real supply-chain risk for teams consuming third-party LoRA adapters: a backdoored adapter can alter model output on hidden triggers without modifying base model weights. LoRAScan's inference-time monitoring approach is worth evaluating if your ML pipelines pull adapters from untrusted registries or Hugging Face.
 - **SOC/IR — Learn:** No active exploitation, IOCs, or ATT&CK-mappable TTPs to act on; this is foundational research on a threat class. Worth filing as context if your org is building detections around AI/ML pipeline integrity, but no hunt or rule work warranted today.

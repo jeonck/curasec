@@ -9,7 +9,7 @@ tags: ["ai-agents", "chatgpt", "phishing"]
 cves: []
 source: "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Vulnerability is already patched server-side by OpenAI (June 8), but organizations using ChatGPT Workspace should audit deployed agents for any unauthorized instances created before the patch date.
 - **SOC/IR — Plan:** Novel attack chain — phishing link silently builds and authorizes an autonomous AI agent inside the target org — is worth mapping to detection coverage; build or tune detections for unauthorized workspace agent creation and authorization events.

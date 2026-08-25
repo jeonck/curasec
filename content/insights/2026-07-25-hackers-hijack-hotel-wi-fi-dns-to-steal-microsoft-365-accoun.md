@@ -9,7 +9,7 @@ tags: ["phishing", "dns-hijacking", "microsoft-365"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Review whether corporate travel policy requires VPN enforcement on untrusted Wi-Fi; audit M365 tenant for conditional access policies that would block logins from non-compliant networks or flag impossible-travel anomalies.
 - **SOC/IR — Act:** Hunt for M365 sign-ins from hotel/conference-center IP ranges or unexpected geolocations since this campaign began; tune Conditional Access or SIEM rules to flag credential use immediately after untrusted-network logins.

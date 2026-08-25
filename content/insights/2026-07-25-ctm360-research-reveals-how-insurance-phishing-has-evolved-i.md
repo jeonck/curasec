@@ -9,7 +9,7 @@ tags: ["phishing", "account-takeover", "aitm"]
 cves: []
 source: "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Plan:** AiTM (adversary-in-the-middle) phishing bypasses MFA by proxying sessions in real time; build or tune detections for impossible-travel, session token anomalies, and auth from new ASNs immediately after login events.

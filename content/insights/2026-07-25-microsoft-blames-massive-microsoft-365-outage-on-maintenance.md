@@ -9,7 +9,7 @@ tags: ["microsoft-365", "cloud-outage", "vendor-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

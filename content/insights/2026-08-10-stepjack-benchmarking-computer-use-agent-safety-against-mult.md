@@ -9,7 +9,7 @@ tags: ["prompt-injection", "ai-agents", "research"]
 cves: []
 source: "https://arxiv.org/abs/2608.06477"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Multi-step indirect prompt injection significantly raises attack success rates on computer-use agents (up to 72.9% for GPT-4o-mini at three-step depth), which is directly relevant to teams building or deploying agentic AI systems; no patch exists, but understanding this attack class should inform how you design sandboxing, permission scopes, and input validation for any CUA deployment.
 - **SOC/IR — Learn:** This research formalizes a new attack class against AI agents that may soon appear in enterprise environments; no active exploitation or IOCs reported, but understanding multi-step injection techniques will help detection engineers think ahead about behavioral anomalies in agentic workflows.

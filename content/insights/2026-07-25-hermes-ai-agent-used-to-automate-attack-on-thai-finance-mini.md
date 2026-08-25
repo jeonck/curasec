@@ -9,7 +9,7 @@ tags: ["ai-agents", "post-exploitation", "threat-actor"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No patch or configuration change required, but this demonstrates open-source AI agents (Hermes in unattended mode) being weaponized to automate post-exploitation at scale — worth factoring into how you design detection hooks and blast-radius limits for compromised environments.
 - **SOC/IR — Plan:** No IOCs are published yet, but this establishes a new TTP pattern — AI agent frameworks running autonomously for post-exploitation — worth building behavioral detections for (anomalous scripting chains, LLM tool-call patterns, rapid lateral movement cadence) before this technique proliferates.

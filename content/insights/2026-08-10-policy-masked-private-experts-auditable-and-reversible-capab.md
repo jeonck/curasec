@@ -9,7 +9,7 @@ tags: ["llm-security", "mixture-of-experts", "ai-access-control"]
 cves: []
 source: "https://arxiv.org/abs/2608.06690"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel architecture for parameter-level capability gating in MoE models (tested on Qwen3-30B and DeepSeek-V2-Lite); worth tracking if your team deploys or fine-tunes MoE-based models and needs verifiable separation between capability tiers — no production tooling yet.
 - **SOC/IR — Skip**

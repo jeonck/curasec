@@ -9,7 +9,7 @@ tags: ["ai-security", "adversarial-ml", "vision-language-models"]
 cves: []
 source: "https://arxiv.org/abs/2608.06571"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** White-box attacks can degrade confidence readouts in vision-language models to near-random while leaving the generated answer unchanged, undermining confidence-gated pipelines; teams deploying VLMs with confidence thresholds for access control or oversight should treat confidence as an untrusted signal in adversarial contexts.
 - **SOC/IR — Skip**
