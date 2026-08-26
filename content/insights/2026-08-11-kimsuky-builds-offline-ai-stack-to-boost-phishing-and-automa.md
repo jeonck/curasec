@@ -9,7 +9,7 @@ tags: ["kimsuky", "ai-enhanced-threats", "north-korea"]
 cves: []
 source: "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No exploitable vulnerability here, but Kimsuky integrating AI into malware development signals more adaptive, harder-to-signature payloads ahead — worth factoring into threat modeling for code-signing and behavior-based defenses.
 - **SOC/IR — Learn:** No IOCs or ATT&CK mappings published in this report; the finding improves understanding of how Kimsuky is likely to evolve spear-phishing lure quality and malware sophistication, but yields no immediate detection work.

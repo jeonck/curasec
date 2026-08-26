@@ -9,7 +9,7 @@ tags: ["blockchain", "scanning", "developer-tools"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33230"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you expose Solana JSON-RPC or gRPC dev endpoints (e.g., surfpool) on public interfaces, audit firewall rules to ensure they are not internet-reachable; no active exploitation or PoC reported.
 - **SOC/IR — Learn:** Awareness item: opportunistic scans targeting Solana dev endpoints are occurring, but no IOCs, TTPs, or confirmed exploitation are provided to act on.

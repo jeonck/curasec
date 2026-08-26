@@ -9,7 +9,7 @@ tags: ["ics-ot", "critical-infrastructure", "cellular-network"]
 cves: []
 source: "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The attack entered through a private cellular APN used for remote OT equipment access — a network path often assumed to be isolated. Any org running OT/SCADA with cellular-based remote access should audit that network segment for authentication controls and lateral-movement barriers, but no patch or CVE applies here.
 - **SOC/IR — Learn:** No IOCs, no ATT&CK-mapped TTPs, and no detection signatures are available from this item. The incident pattern — cellular APN pivot to industrial control systems — is worth noting for OT-aware threat models, but there is no actionable hunt or detection to write from current reporting.
