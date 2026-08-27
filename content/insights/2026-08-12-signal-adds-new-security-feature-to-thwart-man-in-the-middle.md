@@ -9,7 +9,7 @@ tags: ["encryption", "messaging", "privacy"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Interesting cryptographic UX approach for key verification — worth noting if your team evaluates secure messaging protocols or builds similar verification flows, but no action required on running systems.
 - **SOC/IR — Skip**

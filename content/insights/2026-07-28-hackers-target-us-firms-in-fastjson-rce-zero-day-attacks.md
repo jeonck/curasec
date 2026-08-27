@@ -9,7 +9,7 @@ tags: ["zero-day", "rce", "java"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** FastJson is widely used in Java applications; if your codebase or dependencies include it, audit immediately and apply any available patch or mitigations — if no patch exists, consider disabling unsafe deserialization features or replacing the library.
 - **SOC/IR — Act:** Active exploitation is underway against US firms; hunt for anomalous outbound connections or process spawning from Java application servers since this week, and tune detections for RCE post-exploitation behavior (e.g., web shells, unexpected child processes).

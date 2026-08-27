@@ -9,7 +9,7 @@ tags: ["supply-chain", "dependabot", "dependency-management"]
 cves: []
 source: "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Review all repos using Dependabot and explicitly configure the cooldown parameter in dependabot.yml; the 3-day default delays auto-PR creation for fresh packages, reducing poisoned-package exposure in automated update pipelines.
 - **SOC/IR — Skip**

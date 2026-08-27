@@ -9,7 +9,7 @@ tags: ["open-source-tooling", "supply-chain", "devsecops"]
 cves: []
 source: "https://github.com/duy90utc528/repo-publication-audit"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A lightweight, dependency-free tool for auditing repos before publication could supplement existing secret-scanning steps in CI/CD pipelines; worth evaluating against current pre-push hooks.
 - **SOC/IR — Skip**

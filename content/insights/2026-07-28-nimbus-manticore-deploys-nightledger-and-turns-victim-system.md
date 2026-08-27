@@ -9,7 +9,7 @@ tags: ["apt", "backdoor", "iranian-threat-actor"]
 cves: []
 source: "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** NightLedger is a novel Windows backdoor with WebSocket tunneling capability; no KEV listing or PoC signals exploitation of specific software you'd patch, but understanding the relay technique informs network egress controls and endpoint detection posture.
 - **SOC/IR — Plan:** Build detections for anomalous WebSocket tunneling behavior from Windows hosts and hunt for NightLedger IOCs once Recorded Future or similar publishes indicators; ATT&CK mapping to C2-over-WebSocket and proxy relay techniques warrants a new detection rule this quarter.

@@ -9,7 +9,7 @@ tags: ["shadow-ai", "ai-governance", "enterprise-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No active exploitation or specific CVE, but the piece highlights how AI agents can silently accumulate OAuth scopes and API access across SaaS platforms — worth factoring into how teams audit third-party integrations and CI/CD automation going forward.
 - **SOC/IR — Learn:** No IOCs, TTPs, or detection content — this is a governance awareness article. Useful background for understanding a new blind-spot category, but yields no immediate hunt or detection action.

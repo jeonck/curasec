@@ -9,7 +9,7 @@ tags: ["appsec-tooling", "api-security", "recon"]
 cves: []
 source: "https://github.com/pis10/TraceSurface"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** New open-source tool combining dynamic browser tracing with JS static analysis to surface hidden API endpoints and test for unauthorized access — worth evaluating in AppSec review workflows, but early-stage (53 stars) with no production signals yet.
 - **SOC/IR — Skip**

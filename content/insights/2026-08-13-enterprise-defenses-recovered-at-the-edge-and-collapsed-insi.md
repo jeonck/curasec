@@ -9,7 +9,7 @@ tags: ["defense-effectiveness", "attack-simulation", "benchmark"]
 cves: []
 source: "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The report's central finding — attackers succeeding by generating minimal noise — is directly relevant to detection coverage philosophy; worth reading to identify gaps between prevention metrics and detection depth in your own environment.

@@ -9,7 +9,7 @@ tags: ["ransomware", "blockchain", "infrastructure"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No patch or configuration action available; the technique signals that traditional domain-takedown mitigations matter less for this operator, which is worth factoring into egress-filtering and backup-isolation architecture reviews.
 - **SOC/IR — Learn:** No IOCs or ATT&CK-mapped TTPs are available to hunt or detect; worth absorbing for IR playbook updates, as blockchain-backed C2 limits the value of expecting law-enforcement takedown to cut off active intrusions.

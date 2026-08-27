@@ -9,7 +9,7 @@ tags: ["data-breach", "healthcare", "third-party-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** No IOCs or TTPs published; this breach offers no immediate detection surface, but it reinforces the pattern of healthcare billing vendors as high-value targets worth monitoring for sector-specific threat campaigns.

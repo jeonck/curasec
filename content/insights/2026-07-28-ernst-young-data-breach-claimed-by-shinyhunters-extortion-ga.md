@@ -9,7 +9,7 @@ tags: ["supply-chain", "data-breach", "extortion"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Supply-chain credential theft at a major professional services firm is a relevant attack pattern, but no specific compromised component, IOCs, or affected systems have been identified yet — nothing to patch or audit without further detail.
 - **SOC/IR — Learn:** ShinyHunters remains an active extortion actor using supply-chain pivots; no IOCs or TTPs are published in this disclosure, so no hunt can be launched today — watch for follow-on reporting with technical indicators.

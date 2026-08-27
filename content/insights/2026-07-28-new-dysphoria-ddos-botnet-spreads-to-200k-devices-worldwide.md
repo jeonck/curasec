@@ -9,7 +9,7 @@ tags: ["botnet", "ddos", "iot"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No KEV, PoC, or EPSS signal provided; no specific vulnerability or affected software named in the summary. Monitor for follow-up reporting with exploitation details or affected device types that may be in your estate.
 - **SOC/IR — Plan:** A 200k-node botnet generating DDoS and relay traffic is worth building or tuning detections for — watch for follow-up IOC releases and prepare to hunt for anomalous outbound traffic patterns consistent with botnet C2 or relay behavior.

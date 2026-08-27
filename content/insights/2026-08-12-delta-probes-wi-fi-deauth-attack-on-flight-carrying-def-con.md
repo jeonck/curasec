@@ -9,7 +9,7 @@ tags: ["wireless-security", "incident", "deauth-attack"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No enterprise infrastructure impact; this is an air-gapped physical environment curiosity. Worth noting as a reminder that rogue AP and deauth techniques remain practical in constrained wireless environments, but no action required on cloud or app systems.
 - **SOC/IR — Learn:** No IOCs, no TTPs, no enterprise detection surface — the incident is confined to in-flight Wi-Fi. Useful context for understanding wireless attack tradecraft but yields no detection or hunt action.

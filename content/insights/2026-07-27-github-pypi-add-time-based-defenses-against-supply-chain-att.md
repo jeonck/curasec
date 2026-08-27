@@ -9,7 +9,7 @@ tags: ["supply-chain", "dependency-management", "open-source"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Review your Dependabot configuration and PyPI dependency pinning strategy to take advantage of the new time-based controls; evaluate whether enabling these features fits your dependency update workflow this quarter.
 - **SOC/IR — Skip**

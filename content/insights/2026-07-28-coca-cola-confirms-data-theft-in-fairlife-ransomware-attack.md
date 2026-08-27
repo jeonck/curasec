@@ -9,7 +9,7 @@ tags: ["ransomware", "data-breach", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** No IOCs or TTPs published yet; monitor for follow-on reporting with technical indicators before building detections.

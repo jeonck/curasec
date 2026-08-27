@@ -9,7 +9,7 @@ tags: ["ai-agents", "least-privilege", "ai-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Reinforces least-privilege design principles for AI agent deployments: scope permissions to the minimum each agent needs for its defined task rather than granting broad system access. No specific vulnerability or patch — architectural guidance to apply when building or reviewing agentic pipelines.
 - **SOC/IR — Skip**

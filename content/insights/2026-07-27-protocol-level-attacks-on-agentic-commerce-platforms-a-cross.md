@@ -9,7 +9,7 @@ tags: ["agentic-ai", "protocol-security", "ai-agents"]
 cves: []
 source: "https://arxiv.org/abs/2607.21824"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research identifies 33 deterministic, model-agnostic vulnerabilities across three agentic commerce platforms—including an end-to-end payment hijack chain—plus a proposed defense (PCAT). No active exploitation or PoC in the wild yet, but if you are building agent-to-service protocols, audit your authentication and credential-passing layers against the paper's taxonomy before production deployment.
 - **SOC/IR — Learn:** No IOCs, no observed campaigns, and no ATT&CK mappings to hunt against yet; this is early-stage research. File as context for when agentic payment workflows appear in your estate—credential-channel and payment-hijack patterns will eventually need detection logic if your org adopts these platforms.

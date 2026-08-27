@@ -9,7 +9,7 @@ tags: ["linux", "process-accounting", "auditing"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33240"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Introductory overview of Linux kernel process accounting as an alternative to shell history for command auditing — useful background when evaluating host logging strategies, but no patch or configuration change required.
 - **SOC/IR — Learn:** Process accounting can serve as a lightweight forensic data source for post-incident reconstruction; worth understanding as a supplemental log source alongside EDR telemetry.
