@@ -9,7 +9,7 @@ tags: ["apple", "patch-management", "vulnerability"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33196"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Ensure managed Apple devices and Safari are updated to the July 2026 releases; prioritize macOS 26 and Safari patches, and note that macOS 14/15 received separate coverage — audit fleet version distribution.
 - **SOC/IR — Skip**

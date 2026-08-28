@@ -9,7 +9,7 @@ tags: ["supply-chain", "ai-security", "dependency-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** AI-hallucinated package names (slopsquatting) can silently introduce malicious or nonexistent dependencies before traditional review catches them; worth auditing whether your CI/CD enforces an approved-package allowlist before AI-generated code is merged, but no active exploitation signal here warrants immediate action.
 - **SOC/IR — Skip**

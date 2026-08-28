@@ -9,7 +9,7 @@ tags: ["ai-security", "tooling", "devsecops"]
 cves: []
 source: "https://github.com/xyiqq/skilldoctor"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A linting and security audit tool for AI agent skill definitions worth evaluating if your team is building or vetting agent-based workflows on Claude/Cursor/Codex.
 - **SOC/IR — Skip**

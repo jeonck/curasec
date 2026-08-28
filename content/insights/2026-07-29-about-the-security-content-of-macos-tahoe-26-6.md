@@ -9,7 +9,7 @@ tags: ["macos", "patch-management", "apple"]
 cves: []
 source: "https://support.apple.com/en-us/128067"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Apple's security content page for macOS Tahoe 26.6 lists patched CVEs with no enrichment signals indicating active exploitation; schedule deployment of macOS 26.6 to managed endpoints and review the full CVE list for any vulnerabilities affecting shared components (e.g., WebKit, kernel) that may also surface in server or CI runner environments.
 - **SOC/IR — Skip**

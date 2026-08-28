@@ -9,7 +9,7 @@ tags: ["insider-threat", "data-theft", "extortion"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** A contractor-turned-extortionist exfiltrated data and leveraged it for a $2.5M scheme; worth reviewing contractor access controls and DLP coverage as a case study for insider threat detection patterns.

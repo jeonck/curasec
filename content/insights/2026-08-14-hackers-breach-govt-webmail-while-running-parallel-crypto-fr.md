@@ -9,7 +9,7 @@ tags: ["threat-actor", "espionage", "government"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Jewelbug's dual-mission posture — running espionage and financially motivated fraud in parallel — is useful context for triage when attributing activity against government targets, but no IOCs or ATT&CK-mapped TTPs are surfaced to enable detection work now.

@@ -9,7 +9,7 @@ tags: ["botnet", "linux", "persistence"]
 cves: []
 source: "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Any Linux device with Telnet exposed and weak credentials is a candidate target; audit your estate for Telnet listeners, disable them, and review hardware watchdog configurations on edge/IoT devices so defenders can't be stymied by the reboot-on-kill mechanism.
 - **SOC/IR — Plan:** Build or tune detections for Telnet brute-force login bursts against Linux endpoints and flag unexpected device reboots following process termination events; update IR runbooks to account for the watchdog reboot loop before attempting to kill botnet processes on compromised hosts.

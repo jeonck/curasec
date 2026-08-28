@@ -9,7 +9,7 @@ tags: ["ai-watermarking", "detection-evasion", "content-integrity"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If your org uses Claude-generated content at scale, be aware that claimed watermark-stripping tools exist but are unverifiable; worth monitoring as Anthropic's detection capability matures before building content-provenance workflows around it.
 - **SOC/IR — Skip**

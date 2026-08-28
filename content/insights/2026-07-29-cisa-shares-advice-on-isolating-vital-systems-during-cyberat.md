@@ -9,7 +9,7 @@ tags: ["ot-security", "incident-response", "critical-infrastructure"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Review the guidance and map your OT/IT network segmentation against CISA's isolation playbook; identify which systems have manual fallback modes and document runbooks for emergency isolation this quarter.
 - **SOC/IR — Plan:** Use this guidance to pressure-test your IR playbooks for OT environments — specifically, ensure you have documented procedures for triggering OT isolation and know who owns that call.
