@@ -9,7 +9,7 @@ tags: ["password-manager", "secrets-management", "open-source"]
 cves: []
 source: "https://github.com/voyb/aegis-vault"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A self-hosted, zero-telemetry vault using strong primitives worth evaluating as a local secrets store for dev workflows or air-gapped environments, but no active threat or patch action required.
 - **SOC/IR — Skip**
