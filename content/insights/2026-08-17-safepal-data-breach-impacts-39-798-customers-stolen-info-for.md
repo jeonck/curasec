@@ -9,7 +9,7 @@ tags: ["data-breach", "cryptocurrency", "customer-data"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["data-breach", "government", "pii"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Government financial authority breach with no published IOCs or TTPs; monitor for follow-on phishing campaigns using stolen French taxpayer data but no actionable detection surface yet.

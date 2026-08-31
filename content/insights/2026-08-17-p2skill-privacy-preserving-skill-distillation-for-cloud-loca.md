@@ -9,7 +9,7 @@ tags: ["llm-privacy", "pii", "ai-inference"]
 cves: []
 source: "https://arxiv.org/abs/2608.14094"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel prompt-based technique for splitting LLM inference between local and cloud without leaking PII; worth tracking if you're building hybrid AI pipelines, but no patch or config action required today.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["defi", "smart-contracts", "audit-scope"]
 cves: []
 source: "https://arxiv.org/abs/2608.13792"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

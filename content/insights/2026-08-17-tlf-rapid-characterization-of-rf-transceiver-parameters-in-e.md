@@ -9,7 +9,7 @@ tags: ["embedded-security", "rf-security", "hardware"]
 cves: []
 source: "https://arxiv.org/abs/2608.13815"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel research demonstrating that hardware-loaded crypto keys and frequency-hopping schedules can be extracted from bus traces with no firmware knowledge — useful context for engineers designing IoT/embedded products, but requires no change to running cloud or app systems.
 - **SOC/IR — Skip**

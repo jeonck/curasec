@@ -9,7 +9,7 @@ tags: ["post-quantum", "cryptography", "ml-kem"]
 cves: []
 source: "https://arxiv.org/abs/2608.13784"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful methodology for teams validating ML-KEM library choices (noble/post-quantum, liboqs, Go stdlib) against NIST ACVP corpora; no running-system changes required today, but informs how to structure PQC migration testing.
 - **SOC/IR — Skip**

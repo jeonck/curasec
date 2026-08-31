@@ -9,7 +9,7 @@ tags: ["ddos", "messaging", "availability"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** DDoS campaign against a privacy-focused messaging platform; no IOCs or TTPs published, so no detection work is actionable, but useful context if your organization uses Threema or monitors availability-based attacks.

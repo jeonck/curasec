@@ -9,7 +9,7 @@ tags: ["passkeys", "fido2", "cryptography"]
 cves: []
 source: "https://arxiv.org/abs/2608.13806"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel architecture for passkey export/import without plaintext key exposure — worth reading if you're designing FIDO2 recovery flows, but this is a prototype proposal with no standard status yet and no action required on running systems.
 - **SOC/IR — Skip**

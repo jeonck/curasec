@@ -9,7 +9,7 @@ tags: ["website-fingerprinting", "tls", "traffic-analysis"]
 cves: []
 source: "https://arxiv.org/abs/2608.13905"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic research demonstrating that TLS record metadata can fingerprint visited websites with 95%+ accuracy despite encryption — relevant for engineers designing privacy-sensitive systems or Tor-adjacent infrastructure where traffic analysis resistance matters, but requires no change to running systems today.
 - **SOC/IR — Skip**

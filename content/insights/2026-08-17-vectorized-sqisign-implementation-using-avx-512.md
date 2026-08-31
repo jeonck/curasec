@@ -9,7 +9,7 @@ tags: ["post-quantum-crypto", "cryptography", "performance"]
 cves: []
 source: "https://arxiv.org/abs/2608.13948"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** For teams evaluating post-quantum signature schemes, this demonstrates SQIsign signing is now more practical — useful context when comparing PQC algorithm tradeoffs for future library or protocol adoption, but no action needed on running systems today.
 - **SOC/IR — Skip**

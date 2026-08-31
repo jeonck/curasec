@@ -9,7 +9,7 @@ tags: ["tls", "vulnerability-research", "cryptography"]
 cves: []
 source: "https://arxiv.org/abs/2608.13685"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The paper demonstrates that standard TLS primitives in OpenSSL and BoringSSL can be composed into an authentication bypass — a novel vulnerability class worth understanding for future TLS configuration and library choices. No CVE, no patch, and no KEV/EPSS signals mean no immediate action on running systems today.
 - **SOC/IR — Learn:** The research shows how TLS handshake state can be weaponized without triggering conventional signature-based detection, which has long-term implications for anomalous handshake detection; however, no IOCs, no active exploitation, and no ATT&CK mappings make this a future reference rather than a hunt trigger now.
