@@ -9,7 +9,7 @@ tags: ["third-party-breach", "logistics", "data-breach"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

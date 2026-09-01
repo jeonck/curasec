@@ -9,7 +9,7 @@ tags: ["macos", "vnc", "configuration"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33252"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful context on macOS screen sharing's VNC foundation — unencrypted by default with simple password auth — worth auditing whether screen sharing is enabled on any managed Mac fleet and confirming it is tunneled through SSH or restricted to VPN.
 - **SOC/IR — Skip**
