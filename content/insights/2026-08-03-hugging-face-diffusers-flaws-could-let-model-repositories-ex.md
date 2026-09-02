@@ -9,7 +9,7 @@ tags: ["supply-chain", "ai-ml", "rce"]
 cves: []
 source: "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your pipelines load Hugging Face Diffusers models, audit which model repos are consumed and pin to reviewed/trusted sources; check whether you are on the patched Diffusers version once fixes land, as these flaws bypass the trust_remote_code safeguard.
 - **SOC/IR — Learn:** No active exploitation or IOCs reported; understand that model-loading in ML pipelines can be a code-execution vector and begin thinking about detection coverage for anomalous process spawning from Python ML workloads.

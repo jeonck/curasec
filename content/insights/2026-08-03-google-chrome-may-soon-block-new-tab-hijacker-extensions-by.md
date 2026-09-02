@@ -9,7 +9,7 @@ tags: ["browser-security", "chrome", "extensions"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Review any policy-deployed Chrome extensions that control the New Tab page or default search engine before this change ships; audit enterprise extension policies to avoid unexpected breakage.
 - **SOC/IR — Skip**

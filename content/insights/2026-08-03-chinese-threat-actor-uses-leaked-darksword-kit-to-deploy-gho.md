@@ -9,7 +9,7 @@ tags: ["ios", "exploit-kit", "phishing"]
 cves: []
 source: "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No KEV listing, EPSS, or PoC signals present; the campaign targets iOS users via fake AWS phishing pages rather than a vulnerability in cloud infrastructure itself. Worth understanding the DarkSword exploit kit's capabilities if you manage MDM or BYOD policies, but no immediate patch or config action is indicated.
 - **SOC/IR — Act:** Over 100 fake AWS sign-in domains linked to a single actor provide a concrete hunting surface — search proxy/email logs for traffic to lookalike AWS domains and tune phishing detections around this lure pattern; the Censys report implies enough infrastructure detail to build IOC-based blocks.

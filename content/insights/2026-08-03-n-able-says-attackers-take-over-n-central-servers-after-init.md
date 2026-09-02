@@ -9,7 +9,7 @@ tags: ["rmm-security", "authentication-bypass", "active-exploitation"]
 cves: ["CVE-2026-18577"]
 source: "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active exploitation is confirmed and a public PoC exists; patch N-central to build 2026.3.1.7 immediately, then audit server and managed-endpoint logs for unauthorized admin sessions or lateral movement originating from N-central.
 - **SOC/IR — Act:** Compromised N-central servers give attackers a pivot into every managed customer environment; hunt for anomalous RMM-originated connections and unexpected privileged actions on managed endpoints, sweeping back to at least early August 2026.

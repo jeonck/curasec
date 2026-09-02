@@ -9,7 +9,7 @@ tags: ["ransomware", "social-engineering", "extortion"]
 cves: []
 source: "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No technical vulnerability or patch action here, but engineers involved in ransomware IR should know secondary extortion schemes like this exist and treat unsolicited 'data deletion' offers as suspect.
 - **SOC/IR — Learn:** No IOCs or detectable TTPs are provided, but IR analysts should add this pattern to their ransomware playbooks — unsolicited emails from third parties claiming server access during an active incident are a red flag to escalate, not engage.

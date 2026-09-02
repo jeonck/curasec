@@ -9,7 +9,7 @@ tags: ["agentic-ai", "appsec", "vulnerability-discovery"]
 cves: []
 source: "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/"
 source_name: "Google Threat Intelligence"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Google's public description of their multi-agent orchestration approach for code vulnerability review (AVDH) is worth evaluating as a model for internal AppSec tooling, but no patch or configuration change is required — assess whether similar agentic pipelines fit your secure-SDLC program this quarter.
 - **SOC/IR — Skip**
