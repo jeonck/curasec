@@ -9,7 +9,7 @@ tags: ["ai-offensive", "threat-landscape", "attacker-capability"]
 cves: []
 source: "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No specific vulnerability or patch here, but the premise — that AI tools now let low-skill actors execute attacks previously requiring deep expertise — should inform how engineering teams set their threat model assumptions and design defenses.
 - **SOC/IR — Learn:** No IOCs or TTPs to act on, but understanding that the volume and sophistication floor of commodity attacks is rising is useful context for calibrating alert triage thresholds and detection coverage priorities.

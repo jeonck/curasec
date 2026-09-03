@@ -9,7 +9,7 @@ tags: ["threat-actor", "nation-state", "ip-theft"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Mabna Institute TTPs focused on credential-based intrusions targeting research and academic institutions; useful for contextualizing Iranian threat actor tradecraft but no new IOCs or detections surface from this indictment alone.

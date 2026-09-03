@@ -9,7 +9,7 @@ tags: ["clickfix", "malware-loader", "steganography"]
 cves: []
 source: "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel multi-stage delivery abusing browser cache for steganographic PNG staging is worth understanding when evaluating endpoint controls and browser security policies, but no patch or configuration change is required today.
 - **SOC/IR — Plan:** Build or tune detections for ClickFix PowerShell execution patterns and anomalous PNG writes to browser cache directories; the CountLoader → DeviceManager RAT chain provides new TTPs to add to hunt playbooks this quarter.
