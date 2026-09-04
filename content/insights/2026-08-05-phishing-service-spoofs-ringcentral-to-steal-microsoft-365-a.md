@@ -9,7 +9,7 @@ tags: ["phishing-as-a-service", "microsoft-365", "adversary-in-the-middle"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** AiTM and device-code phishing bypass standard MFA; audit your M365 conditional access policies to restrict or block device code flow, and prioritize phishing-resistant MFA (FIDO2 or certificate-based) for privileged accounts this quarter.
 - **SOC/IR — Plan:** Build or tune detections for suspicious device-code OAuth grant flows and anomalous session token reuse in Entra ID / M365 audit logs — the AiTM component means valid MFA completion is not a reliable innocence signal.

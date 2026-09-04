@@ -9,7 +9,7 @@ tags: ["secrets-exposure", "n8n", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If your org runs n8n, scan your GitHub repos immediately for exposed API tokens using GitGuardian or truffleHog, then rotate any identified credentials and review what downstream integrations those tokens had access to.
 - **SOC/IR — Plan:** The four documented abuse paths (credential pivoting via workflow API) are worth translating into detection queries for anomalous n8n API calls; build coverage for unexpected data exfiltration from workflow automation platforms this quarter.

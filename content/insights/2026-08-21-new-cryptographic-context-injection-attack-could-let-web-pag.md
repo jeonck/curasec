@@ -9,7 +9,7 @@ tags: ["prompt-injection", "ai-security", "grok"]
 cves: []
 source: "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel indirect prompt injection variant that weaponizes web-page summarization to exfiltrate user metadata and conversation history from Grok; no patch or PoC signals, but informs how teams should sandbox AI agents that fetch and process external web content.
 - **SOC/IR — Skip**

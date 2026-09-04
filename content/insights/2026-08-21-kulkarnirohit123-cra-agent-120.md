@@ -9,7 +9,7 @@ tags: ["cra-compliance", "ai-agent", "devsecops"]
 cves: []
 source: "https://github.com/kulkarnirohit123/cra-agent"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** An autonomous agent that opens auto-fix PRs is a double-edged pattern worth understanding — evaluate the trust model before adopting any tool that commits code to your repos on behalf of a compliance workflow.
 - **SOC/IR — Skip**

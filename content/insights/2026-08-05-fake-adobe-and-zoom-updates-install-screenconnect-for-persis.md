@@ -9,7 +9,7 @@ tags: ["social-engineering", "rmm-abuse", "initial-access"]
 cves: []
 source: "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit endpoints for unauthorized ScreenConnect installations and enforce application control policies that block unsanctioned RMM tools; no software vulnerability to patch, but tightening allow-lists prevents this class of persistence.
 - **SOC/IR — Act:** Active campaign — hunt for ScreenConnect processes spawned by fake update installers or document-review lures; tune EDR/SIEM rules to flag unsanctioned RMM tool execution, mapping to ATT&CK T1219 and T1566.

@@ -9,7 +9,7 @@ tags: ["data-breach", "third-party-risk", "healthcare"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

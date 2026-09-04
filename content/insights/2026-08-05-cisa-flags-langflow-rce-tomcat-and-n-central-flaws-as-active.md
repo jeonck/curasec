@@ -9,7 +9,7 @@ tags: ["cisa-kev", "rce", "langflow"]
 cves: ["CVE-2026-9198"]
 source: "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** All three CVEs are CISA KEV-listed with confirmed active exploitation; CVE-2026-9198 in Langflow is a CVSS 9.8 unauthenticated RCE with a public PoC — patch Langflow, Apache Tomcat, and N-central to current vendor-recommended versions immediately, prioritizing any internet-exposed instances.
 - **SOC/IR — Act:** Active exploitation of Langflow (unauthenticated RCE) and Tomcat creates immediate hunt obligations — sweep logs for exploitation attempts against these services since August 5, check for post-exploitation indicators (new processes, outbound connections) on hosts running any of the three products.

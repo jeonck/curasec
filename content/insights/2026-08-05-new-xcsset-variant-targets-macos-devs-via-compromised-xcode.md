@@ -9,7 +9,7 @@ tags: ["macos", "supply-chain", "malware"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If your team uses Xcode or pulls macOS Swift/ObjC projects from GitHub, audit your local Xcode project files and CI runners for XCSSET indicators; verify integrity of any third-party Xcode project dependencies before building.
 - **SOC/IR — Plan:** Build or tune detections for XCSSET staging behaviors on macOS endpoints (e.g., suspicious Xcode project modifications, unexpected LaunchAgent/LaunchDaemon persistence); review EDR coverage for macOS developer machines.

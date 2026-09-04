@@ -9,7 +9,7 @@ tags: ["linux-kernel", "privilege-escalation", "open-vswitch"]
 cves: ["CVE-2026-64531"]
 source: "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC targeting ~800 specific kernel builds makes exploitation practical now even without KEV listing; patch the Linux kernel to a fixed version on any host running Open vSwitch, which is the default datapath in most cloud and Kubernetes environments.
 - **SOC/IR — Plan:** No active in-the-wild exploitation yet (EPSS 0.00), but the wide-coverage PoC means post-initial-access LPE attempts could emerge quickly; build or tune EDR behavioral detections for unexpected privilege escalation from low-privilege processes touching OVS kernel interfaces.

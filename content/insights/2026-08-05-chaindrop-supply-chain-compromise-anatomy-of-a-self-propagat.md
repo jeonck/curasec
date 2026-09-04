@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "worm"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A self-propagating worm across 400+ npm packages directly threatens any JavaScript/Node.js dependency tree; audit all npm dependencies against the compromised package list in the Microsoft post, inspect CI/CD build logs for IOCs, and rotate any credentials present in affected build environments.
 - **SOC/IR — Act:** Microsoft's write-up includes attack chain details and explicit detection and hunting guidance; run hunts for the described IOCs in pipeline and build-system logs and tune detections for the self-republishing propagation behavior since 2026-08-04.

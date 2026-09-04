@@ -9,7 +9,7 @@ tags: ["supply-chain", "malicious-extensions", "developer-tools"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If your team uses Open VSX (common in VS Code OSS or VSCodium environments), audit installed extensions against the removed list and purge any matches; review extension installation policies in CI/CD or dev container configs to restrict to known-good sources.
 - **SOC/IR — Plan:** Build or tune detections for unexpected outbound connections from IDE processes (code, codium) to unknown endpoints; consider hunting for extension-related network activity in EDR telemetry from developer workstations over the past 90 days.

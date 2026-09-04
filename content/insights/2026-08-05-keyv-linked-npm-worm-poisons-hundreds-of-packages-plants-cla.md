@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Audit your full dependency tree immediately for any of the ~79–353 poisoned package names; packages downloaded since August 4 may contain credential-stealing code and rogue VS Code/Claude Code hooks. Rotate any secrets accessible from affected build environments and re-run CI pipelines from clean, verified dependency locks.
 - **SOC/IR — Act:** Hunt for anomalous outbound connections and credential-use anomalies from developer workstations and CI/CD runners since August 4, 2026; also sweep for unexpected VS Code extension modifications or Claude Code hook installations that could indicate a compromised dev environment.

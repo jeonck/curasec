@@ -9,7 +9,7 @@ tags: ["entra-id", "mfa", "powershell"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33272"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Practical scripting technique for auditing MFA coverage gaps in Entra ID using Microsoft.Graph.Beta PowerShell; useful reference when validating rollout completeness but no vulnerability or patch action required.
 - **SOC/IR — Skip**

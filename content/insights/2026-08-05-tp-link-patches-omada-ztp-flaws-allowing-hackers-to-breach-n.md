@@ -9,7 +9,7 @@ tags: ["network-security", "rce", "tp-link"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you run TP-Link Omada for network management, schedule patching of the ZTP component this sprint — 15 chainable vulns with RCE potential are high severity, though no KEV listing or public PoC currently raises the urgency to emergency status.
 - **SOC/IR — Skip**

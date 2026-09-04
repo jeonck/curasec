@@ -9,7 +9,7 @@ tags: ["phishing-as-a-service", "mfa-bypass", "oauth"]
 cves: []
 source: "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Device code flow abuse bypasses MFA by design; audit your identity provider (Entra ID, Okta) and restrict or disable the OAuth Device Authorization Grant for users/apps that don't require it — block or conditional-policy-gate this flow this quarter.
 - **SOC/IR — Plan:** No IOCs provided, but Greatness PhaaS commoditizing device code phishing signals growing campaign volume; build detections in Entra/Okta logs for unexpected device code authorization requests, particularly outside normal device-enrollment windows.

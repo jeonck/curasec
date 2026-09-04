@@ -9,7 +9,7 @@ tags: ["nfc", "payment-security", "research"]
 cves: []
 source: "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Interesting NFC/EMV protocol research showing a gap between cryptographic validity and expiration enforcement at POS terminals; no software patch available and no enterprise infrastructure to reconfigure, but worth tracking if you own payment integrations.
 - **SOC/IR — Skip**

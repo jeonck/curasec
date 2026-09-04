@@ -9,7 +9,7 @@ tags: ["supply-chain", "malicious-extensions", "developer-tools"]
 cves: []
 source: "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If your team uses Open VSX-sourced extensions (common in Theia, Gitpod, or VS Code OSS environments), audit installed extensions against the 77 removed packages and remove any installed between July 26–August 1, 2026; check build/dev environments for unexpected outbound connections during that window.
 - **SOC/IR — Act:** Hunt for anomalous outbound traffic from developer workstations and CI runners between July 26 and August 1, 2026 that may indicate data exfiltration from compromised extensions; correlate against Open VSX extension install events in endpoint logs.

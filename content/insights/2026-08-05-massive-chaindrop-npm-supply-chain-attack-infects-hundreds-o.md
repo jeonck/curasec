@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "malware"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** With 1,300+ compromised packages and 2 billion monthly downloads, your dependency tree almost certainly has exposure. Audit your package-lock.json and container build logs for ChainDrop-infected packages immediately, pin dependency versions, and check CI artifact outputs for signs of malicious code injection.
 - **SOC/IR — Act:** A self-propagating npm compromise at this scale warrants an immediate assume-breach sweep of CI/CD pipelines and developer endpoints; hunt for anomalous outbound connections or unexpected code execution originating from build environments since packages may have already run in your estate.

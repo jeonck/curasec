@@ -9,7 +9,7 @@ tags: ["phishing", "microsoft-entra", "token-theft"]
 cves: []
 source: "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Device code flow phishing is a real and growing vector for M365/Azure tenants; audit Conditional Access policies to block or restrict device code flow for user accounts that don't require it, and enforce compliant-device requirements where the flow must remain enabled.
 - **SOC/IR — Plan:** Build or tune detections on Entra ID sign-in logs for device code authorization events originating from unexpected locations or apps; also hunt for refresh token reuse anomalies that may indicate post-phishing lateral movement within M365.
