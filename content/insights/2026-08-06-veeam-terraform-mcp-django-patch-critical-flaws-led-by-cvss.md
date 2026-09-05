@@ -9,7 +9,7 @@ tags: ["vulnerability", "patch", "iac-security"]
 cves: []
 source: "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Critical-severity patches in three commonly deployed tools — the Veeam Service Provider Console unauthenticated credential leak (CVSS 9.5) and the Terraform MCP Server cross-tenant token reuse (CVSS 10.0) are high priority; no KEV listing or public PoC yet, but patch Veeam VSPC and Terraform MCP Server to the latest fixed releases within your next patch window.
 - **SOC/IR — Skip**

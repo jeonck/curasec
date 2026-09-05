@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "incident-response"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33218"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active supply-chain compromise in the npm keyv/cacheable packages — audit all build hosts for execution of these packages immediately and preserve forensic state before touching credentials, because revoking the stolen token is what triggers the malicious payload; follow a forensics-first sequence before any rotation.
 - **SOC/IR — Act:** Ongoing supply-chain worm with a novel IR wrinkle: token revocation activates the payload, which inverts standard response playbooks — sweep CI/CD build logs for keyv/cacheable execution since Aug 4, and update incident runbooks to gate credential rotation on payload-trigger analysis.

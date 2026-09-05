@@ -9,7 +9,7 @@ tags: ["phishing", "ai-threats", "detection"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Browser-level, technique-based phishing detection is a useful design principle to evaluate when assessing IdP or SSO defenses, but no specific CVE or configuration change is required today.
 - **SOC/IR — Plan:** Evaluate whether current phishing detections rely heavily on domain blocklists and investigate adding technique-based behavioral signals (e.g., credential-harvest page patterns) to supplement IOC-driven coverage.

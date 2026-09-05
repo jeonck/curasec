@@ -9,7 +9,7 @@ tags: ["ai-agents", "cloud-security", "authorization-bypass"]
 cves: []
 source: "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you operate AI agents on AWS, Google, or Vercel infrastructure, audit your agent configurations and apply vendor patches; the core risk is that tool invocations can be triggered without a model turn, defeating system-prompt and content-filter controls you may rely on for safety.
 - **SOC/IR — Learn:** No IOCs or active exploitation reported, but this class of agent-layer authorization bypass is worth understanding as AI agent deployments grow — future detections may need to monitor tool-call events that lack a preceding model-turn record.

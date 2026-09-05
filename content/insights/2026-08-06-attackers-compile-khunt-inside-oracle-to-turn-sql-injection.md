@@ -9,7 +9,7 @@ tags: ["sql-injection", "oracle", "post-exploitation"]
 cves: []
 source: "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active exploitation chain: SQL injection in a public-facing app leads to fileless SYSTEM access via Oracle's Java stored procedure compilation. Audit web app inputs for SQLi, disable Oracle Java execution capabilities if unused (`DBMS_JAVA` grants), and inspect Oracle schema objects for unauthorized compiled Java classes.
 - **SOC/IR — Act:** Huntress is tracking this active toolkit (khunt); the fileless approach bypasses standard file-write detections. Hunt for anomalous Java stored-procedure compilation events in Oracle audit logs and alert on SYSTEM-level process spawning from Oracle service accounts since at least the date of this report.

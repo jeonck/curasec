@@ -9,7 +9,7 @@ tags: ["phishing", "remote-access-trojan", "social-engineering"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Act:** A phishing campaign is actively distributing ScreenConnect as a RAT using COLDCARD vulnerability lures; hunt for unexpected ScreenConnect installations on endpoints and tune EDR detections for ScreenConnect deployed outside approved baselines.

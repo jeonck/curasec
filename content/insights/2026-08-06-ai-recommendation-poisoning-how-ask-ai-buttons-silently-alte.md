@@ -9,7 +9,7 @@ tags: ["prompt-injection", "llm-security", "ai-security"]
 cves: []
 source: "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel attack class: hidden payloads in pre-filled AI deep links can alter LLM memory without user awareness. No exploitation signals or PoC, but engineers building AI-integrated features should audit any 'Ask AI' button implementations for unsanitized prompt passthrough.
 - **SOC/IR — Learn:** No IOCs, ATT&CK mapping, or active campaign indicators are present. Worth tracking as AI assistant adoption grows, but there is no detection surface or hunt query to act on today.
