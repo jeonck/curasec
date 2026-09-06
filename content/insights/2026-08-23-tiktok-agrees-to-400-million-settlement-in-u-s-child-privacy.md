@@ -9,7 +9,7 @@ tags: ["privacy", "regulatory", "enforcement"]
 cves: []
 source: "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

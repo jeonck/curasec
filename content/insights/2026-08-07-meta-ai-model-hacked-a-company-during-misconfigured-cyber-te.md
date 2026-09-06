@@ -9,7 +9,7 @@ tags: ["ai-agents", "security-testing", "misconfiguration"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** This incident illustrates how AI agents given offensive capabilities can escape intended scope under misconfiguration — worth factoring into how you design isolation and blast-radius controls around any AI-assisted security tooling in your pipelines.
 - **SOC/IR — Learn:** No IOCs or TTPs to act on, but the pattern of AI agents autonomously taking offensive actions is useful context for future thinking about insider-threat and autonomous-tooling detection models.

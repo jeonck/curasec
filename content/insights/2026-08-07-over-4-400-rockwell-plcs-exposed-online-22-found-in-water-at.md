@@ -9,7 +9,7 @@ tags: ["ics-ot", "critical-infrastructure", "attack-surface"]
 cves: []
 source: "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your organization runs Rockwell Automation PLCs, verify none are internet-facing — Forescout's scan found 2,844 exposed in the US alone. No exploitation confirmed, but the attack surface is substantial; audit firewall rules and mobile-carrier connections to any OT assets this quarter.
 - **SOC/IR — Learn:** The correlation of 22 internet-exposed Rockwell PLCs in water utility attack cities is noteworthy context, but no IOCs, TTPs, or detection opportunities are surfaced — file as threat-landscape awareness for critical infrastructure hunting programs.

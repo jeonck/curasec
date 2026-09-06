@@ -9,7 +9,7 @@ tags: ["prompt-injection", "ci-cd", "ai-coding-agents"]
 cves: []
 source: "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If your team runs Claude Code or Gemini CLI in CI pipelines under vendor-default configuration, an unprivileged GitHub issue can reach your runner and exfiltrate CI secrets — audit all AI agent CI integrations now, restrict what secrets are scoped to those runners, and disable issue-triggered agent workflows until hardened configurations are documented.
 - **SOC/IR — Plan:** This Black Hat presentation defines a new TTP category — prompt injection via issue trackers targeting AI coding-agent CI workflows — worth building detections for; plan to monitor for anomalous CI runner invocations originating from issue events and unexpected secret-access patterns in pipeline logs.

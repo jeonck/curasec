@@ -9,7 +9,7 @@ tags: ["threat-actors", "extortion", "financial-sector"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Actor profile useful for financial-sector defenders: UNC6671 is tied to BlackFile and is running an active extortion campaign against hedge funds and PE firms, but no IOCs, TTPs, or detection-ready technical details are available in this item yet.

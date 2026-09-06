@@ -9,7 +9,7 @@ tags: ["vishing", "aitm", "cloud-security"]
 cves: []
 source: "https://cloud.google.com/blog/topics/threat-intelligence/unc6671-targets-financial-services-and-enterprise-cloud-environments/"
 source_name: "Google Threat Intelligence"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Active group uses AiTM to bypass MFA on M365 and Okta; implement phishing-resistant FIDO2/hardware-key MFA and tighten Conditional Access or Okta device-trust policies to invalidate intercepted session tokens.
 - **SOC/IR — Act:** Active campaign with mappable TTPs — hunt for anomalous Okta and M365 session activity (unexpected token origins, bulk SharePoint/OneDrive exfil) since May 2026 and pull the GTIG report for infrastructure IOCs tied to Redact, Pink, Helix, and Falcon brands.

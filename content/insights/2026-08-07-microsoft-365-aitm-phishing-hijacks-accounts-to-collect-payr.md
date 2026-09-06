@@ -9,7 +9,7 @@ tags: ["phishing", "microsoft-365", "aitm"]
 cves: []
 source: "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Active campaign bypasses MFA via session-token theft on M365 — no KEV or PoC signals, but the exposure is real. Prioritize enforcing phishing-resistant MFA (FIDO2/passkeys) for finance and payroll accounts in Entra ID conditional access policies this quarter.
 - **SOC/IR — Act:** Widespread active campaign with clear TTPs: AitM proxy intercept, residential proxy blend-in, and finance-account targeting. Hunt M365 sign-in logs for logins from residential proxy ASNs, and sweep finance/payroll mailboxes for new unauthorized forwarding rules or OAuth app grants added since the campaign was reported.

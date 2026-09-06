@@ -9,7 +9,7 @@ tags: ["kvm", "vm-escape", "linux-kernel"]
 cves: ["CVE-2026-64561"]
 source: "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC is available for this KVM/x86 shadow MMU escape; audit whether nested virtualization is exposed to untrusted guest workloads, then apply the latest Linux kernel patch or disable nested virt for those guests until patched.
 - **SOC/IR — Learn:** No active exploitation observed (EPSS 0.00, not KEV-listed); the technique expands the mental model for hypervisor-escape detection, but there is no actionable hunt or IOC sweep to run today.
