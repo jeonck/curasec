@@ -9,7 +9,7 @@ tags: ["trustzone", "tee", "arm-security"]
 cves: []
 source: "https://arxiv.org/abs/2608.20583"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Introduces a systematic taxonomy of semantic gap vulnerabilities in ARM TrustZone TEEs, where malicious normal-world apps can forge requests to steal other clients' secure data; no exploitation or patch required, but relevant to engineers designing or auditing TEE-based secure enclave workloads on ARM.
 - **SOC/IR — Skip**

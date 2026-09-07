@@ -9,7 +9,7 @@ tags: ["supply-chain", "open-source", "trust-signals"]
 cves: []
 source: "https://arxiv.org/abs/2608.20678"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** This research formalizes what many engineers suspect: stars, download counts, and contributor activity are all gameable and now AI-inflated, making them unreliable proxies for dependency safety. No immediate patch action, but worth revisiting your dependency vetting process to move beyond cheap signals toward code audits or SBOM-based controls.
 - **SOC/IR — Learn:** Academic framing of how adversaries game package-ecosystem signals; no IOCs or detection TTPs surfaced. Useful background for understanding why malicious packages evade automated reputation checks, but yields no immediate hunt or detection work.

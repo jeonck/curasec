@@ -9,7 +9,7 @@ tags: ["llm-security", "ai-safety", "research"]
 cves: []
 source: "https://arxiv.org/abs/2608.20554"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The findings — that safety alignment increases over-refusal (safety tax), privacy is near-orthogonal to other trustworthiness dimensions, and distillation degrades robustness — are useful mental models for engineers selecting or evaluating LLMs in their stack, though no immediate system changes are required.
 - **SOC/IR — Skip**

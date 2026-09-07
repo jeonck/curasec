@@ -9,7 +9,7 @@ tags: ["supply-chain", "research", "trust"]
 cves: []
 source: "https://arxiv.org/abs/2608.20675"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Qualitative research on how practitioners actually respond to supply-chain trust erosion — automation, trust delegation, and guardian models — offers conceptual framing useful when designing SBOM, dependency-review, or artifact-signing workflows, but requires no immediate action.
 - **SOC/IR — Skip**

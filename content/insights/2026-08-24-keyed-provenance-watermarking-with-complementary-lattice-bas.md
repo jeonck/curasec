@@ -9,7 +9,7 @@ tags: ["federated-learning", "watermarking", "post-quantum"]
 cves: []
 source: "https://arxiv.org/abs/2608.20580"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic research proposing a combined data-provenance watermarking and post-quantum secure aggregation scheme for federated learning; no exploitation signals or patch action required, but relevant if you are designing or hardening an FL pipeline.
 - **SOC/IR — Skip**

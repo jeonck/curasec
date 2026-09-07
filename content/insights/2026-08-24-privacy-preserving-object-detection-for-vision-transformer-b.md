@@ -9,7 +9,7 @@ tags: ["privacy", "machine-learning", "vision-transformer"]
 cves: []
 source: "https://arxiv.org/abs/2608.20712"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel technique for running object detection on encrypted images without accuracy loss; worth tracking if building privacy-sensitive CV pipelines, but no production implementation or tooling is available yet.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["llm-agents", "security-research", "ai-evaluation"]
 cves: []
 source: "https://arxiv.org/abs/2608.20563"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic research introducing checkpoint-based diagnostics for multi-step security AI agents; relevant if you are building or evaluating agentic security tooling, but no immediate change to running systems is required.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["attestation", "trusted-computing", "research"]
 cves: []
 source: "https://arxiv.org/abs/2608.20671"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel TTP-free approach to mutual attestation using fixed-point theory, with working PoCs for TPM and AWS Nitro Enclaves. Worth reviewing if you design decentralized attestation pipelines; no current systems require changes.
 - **SOC/IR — Skip**
