@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "malware"]
 cves: []
 source: "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active typosquatting campaign at scale on npm means any Node.js project is at risk right now. Audit recent npm installs against known-malicious package lists, review package-lock.json for suspicious names, and scan CI/CD build logs for unexpected packages installed in the last 30 days.
 - **SOC/IR — Plan:** RAT plus infostealer payloads imply C2 beaconing and credential exfil as post-infection behavior; no specific IOCs are available yet. Build or tune detections for anomalous outbound connections from developer workstations and CI/CD runners, and alert on npm install activity pulling packages with low download counts or AI-generated-looking names.

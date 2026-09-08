@@ -9,7 +9,7 @@ tags: ["data-breach", "healthcare", "third-party-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** No IOCs or TTPs published; breach occurred in October 2025 with delayed disclosure — useful context on healthcare software supply-chain exposure but no detection action available.

@@ -9,7 +9,7 @@ tags: ["law-enforcement", "cybercrime", "threat-actors"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Awareness of disrupted cybercrime infrastructure can inform threat landscape understanding, but no IOCs, TTPs, or detection opportunities are surfaced in this reporting.

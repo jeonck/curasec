@@ -9,7 +9,7 @@ tags: ["ai-governance", "shadow-ai", "enterprise-risk"]
 cves: []
 source: "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

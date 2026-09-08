@@ -9,7 +9,7 @@ tags: ["business-email-compromise", "clipboard-hijacking", "threat-report"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The browser-manipulation and clipboard-hijacking techniques described are useful inputs for reviewing endpoint browser policies and clipboard-access controls, but no specific CVE, patch, or misconfiguration is identified — no change to running systems required today.
 - **SOC/IR — Plan:** The two attack chains — compromised inboxes paired with browser manipulation for banking malware, and clipboard redirection for crypto theft — offer concrete TTP patterns worth formalizing into detections; with no IOCs provided, this is a this-quarter detection-engineering task rather than an immediate hunt.

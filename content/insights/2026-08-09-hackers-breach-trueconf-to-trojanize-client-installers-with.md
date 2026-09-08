@@ -9,7 +9,7 @@ tags: ["supply-chain", "backdoor", "video-conferencing"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** TrueConf is niche in US/global enterprise (primarily Russia/CIS), but if deployed, verify installer hashes against known-good versions and audit endpoints for signs of backdoor execution before using any previously downloaded client packages.
 - **SOC/IR — Learn:** Head Mare's installer-replacement supply chain tactic is worth cataloguing for actor awareness, but no IOCs or ATT&CK-mapped behaviors are published yet, leaving no immediate hunt to run.
