@@ -9,7 +9,7 @@ tags: ["data-breach", "supply-chain", "vendor-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

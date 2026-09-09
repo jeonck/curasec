@@ -9,7 +9,7 @@ tags: ["fraud", "law-enforcement", "organized-crime"]
 cves: []
 source: "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Operation Jackal IV provides updated context on West African cybercrime network scale and reach; no IOCs or TTPs published, so no immediate detection work, but useful for understanding threat actor landscape if your sector is targeted by BEC or fraud campaigns linked to these groups.

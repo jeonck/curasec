@@ -9,7 +9,7 @@ tags: ["ai-security", "responsible-disclosure", "agentic-ai"]
 cves: []
 source: "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Signals that frontier AI models are approaching capability thresholds that could automate offensive security tasks; worth tracking as it may affect threat modeling for AI-assisted pipelines and development environments.
 - **SOC/IR — Learn:** Indicates the attack surface for AI-assisted intrusions is maturing faster than expected; useful context for anticipating future AI-driven threat actor tooling, but no IOCs or detectable TTPs are available yet.

@@ -9,7 +9,7 @@ tags: ["ssrf", "appsec", "evasion"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33280"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Highlights that string-matching or IP blocklists for SSRF protection (e.g. blocking '169.254.169.254') can be bypassed via hostname equivalents — review your SSRF defenses to ensure they resolve hostnames before comparing, not just match raw strings.
 - **SOC/IR — Learn:** Useful context for tuning SSRF-related detections: logs showing hostname variants of link-local or metadata addresses in outbound requests may indicate bypass attempts worth adding to hunt queries.

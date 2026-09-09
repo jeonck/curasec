@@ -9,7 +9,7 @@ tags: ["iran-apt", "sanctions", "critical-infrastructure"]
 cves: []
 source: "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Attribution of Iranian cyber actors to critical infrastructure breaches is useful for sector threat modeling, but the summary contains no IOCs, TTPs, or detection-ready material to act on.

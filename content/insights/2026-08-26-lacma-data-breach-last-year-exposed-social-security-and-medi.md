@@ -9,7 +9,7 @@ tags: ["data-breach", "breach-notification", "pii"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

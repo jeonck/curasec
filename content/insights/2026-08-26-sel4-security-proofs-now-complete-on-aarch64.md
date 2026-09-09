@@ -9,7 +9,7 @@ tags: ["formal-verification", "microkernel", "embedded-security"]
 cves: []
 source: "https://proofcraft.systems/news-2026/#2026-08-21"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** SeL4's completed formal correctness and security proofs on AArch64 matter for teams designing high-assurance system architectures; no immediate patch or config change required, but worth tracking if you're evaluating hypervisors or TEE substrates.
 - **SOC/IR — Skip**
