@@ -9,7 +9,7 @@ tags: ["windows", "privilege-escalation", "rdp"]
 cves: []
 source: "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** The RDP USB-redirection vector means physical access is not required, making this relevant to any enterprise RDP deployment on Windows 11. No patch or KEV yet, but audit Group Policy now to restrict or disable PnP/USB redirection over Remote Desktop where it isn't operationally required.
 - **SOC/IR — Plan:** No IOCs or active exploitation are confirmed, but the technique produces detectable PnP driver installation events tied to RDP sessions; queue a detection rule for unexpected signed-driver installs initiated from RDP-redirected device paths as a hunting lead.

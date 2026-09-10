@@ -9,7 +9,7 @@ tags: ["supply-chain", "wordpress", "credential-access"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Supply-chain compromise of a plugin developer pushing malicious content to admin browsers is an Act trigger regardless of KEV status. Audit all WordPress admin accounts for unauthorized additions made recently, disable BdThemes plugins until a clean version is confirmed, and rotate admin credentials on affected sites.
 - **SOC/IR — Act:** The attack results in rogue admin account creation — a concrete, detectable IOC. Sweep WordPress site logs and admin user tables for accounts created in the past week that were not provisioned through normal change management; flag and disable any unauthorized entries.

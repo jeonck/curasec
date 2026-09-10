@@ -9,7 +9,7 @@ tags: ["vendor-breach", "third-party-risk", "incident-response"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** No IOCs, TTPs, or detection surface published; monitor for follow-up reporting that may yield hunt queries or indicators.

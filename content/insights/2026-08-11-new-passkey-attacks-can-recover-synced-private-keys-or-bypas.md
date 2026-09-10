@@ -9,7 +9,7 @@ tags: ["passkeys", "mfa-bypass", "authentication"]
 cves: []
 source: "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you're deploying or have deployed cloud-synced passkeys, evaluate migrating to hardware-bound (device-local) passkeys where possible; the research shows synced passkey material can be exfiltrated by malware and Windows-issued signed auth tokens can be replayed — audit your passkey configuration to prefer non-synced, phishing-resistant authenticators.
 - **SOC/IR — Learn:** These attacks require malware already present on the endpoint, making detection of credential-theft behaviors (auth token exfiltration, suspicious cloud-sync API calls) the relevant angle — no published IOCs or ATT&CK mappings yet, but worth revisiting passkey-related telemetry if new technique details emerge.

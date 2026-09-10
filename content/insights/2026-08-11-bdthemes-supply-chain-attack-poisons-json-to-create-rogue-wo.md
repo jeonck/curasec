@@ -9,7 +9,7 @@ tags: ["supply-chain", "wordpress", "web-security"]
 cves: []
 source: "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active supply chain compromise affecting BdThemes WordPress plugins meets the Act threshold even without formal enrichment signals — audit all WordPress installations for BdThemes plugins and check admin user lists for unauthorized accounts created during the compromise window.
 - **SOC/IR — Act:** The attack surface is concrete: hunt for unexpected WordPress administrator account creation events across managed sites, correlating with BdThemes plugin presence to identify compromised instances.

@@ -9,7 +9,7 @@ tags: ["clamav", "vulnerability", "denial-of-service"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Public exploits exist for these ClamAV DoS flaws, but no KEV listing or active exploitation is confirmed; review Cisco's advisory and schedule patching of Secure Endpoint Connector to the fixed version this sprint.
 - **SOC/IR — Skip**

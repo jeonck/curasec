@@ -9,7 +9,7 @@ tags: ["ransomware", "critical-infrastructure", "threat-advisory"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** A joint government advisory signals active ransomware targeting critical infrastructure; review backup integrity, network segmentation, and endpoint hardening against ransomware TTPs this quarter.
 - **SOC/IR — Act:** Joint advisory from US agencies and South Korea's NPA indicates active Gunra ransomware campaign — hunt for associated TTPs and IOCs once the full advisory is reviewed, and ensure ransomware-stage detections (lateral movement, mass encryption) are tuned.

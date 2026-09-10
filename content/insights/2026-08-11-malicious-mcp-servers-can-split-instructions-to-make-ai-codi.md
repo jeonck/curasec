@@ -9,7 +9,7 @@ tags: ["ai-security", "mcp", "prompt-injection"]
 cves: []
 source: "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** AI coding assistants with MCP integrations are actively used in engineering workflows and this technique can bypass safety refusals to steal SSH keys, env secrets, and source code. Audit all connected MCP servers, restrict to explicitly trusted/internal ones, and review what credential stores and source directories your AI assistant can reach.
 - **SOC/IR — Learn:** Instruction-splitting to evade AI safety filters is a novel exfiltration technique worth understanding, but no IOCs, ATT&CK mappings, or detection surface are provided here — file this as an emerging technique to monitor as tooling matures.
