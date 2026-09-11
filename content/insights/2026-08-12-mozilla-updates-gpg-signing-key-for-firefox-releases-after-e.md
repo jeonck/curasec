@@ -9,7 +9,7 @@ tags: ["supply-chain", "key-management", "mozilla"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your pipelines or package managers verify Firefox or Thunderbird downloads against Mozilla's GPG key, update your keyring to the new signing key; automated verification scripts referencing the old key will fail or trust a compromised key.
 - **SOC/IR — Learn:** No exploitation signals or IOCs reported; the key rotation is a supply chain hygiene incident worth understanding for context on how signing-key exposure can create a window of trust ambiguity before rotation.

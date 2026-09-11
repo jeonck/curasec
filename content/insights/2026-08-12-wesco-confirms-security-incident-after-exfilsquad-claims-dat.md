@@ -9,7 +9,7 @@ tags: ["data-breach", "ransomware", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** ExfilSquad is an active extortion actor worth tracking; no IOCs or TTPs are publicly available yet to act on, but monitor for follow-on disclosures with actionable detection detail.

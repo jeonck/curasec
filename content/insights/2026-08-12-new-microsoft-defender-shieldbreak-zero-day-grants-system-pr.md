@@ -9,7 +9,7 @@ tags: ["zero-day", "privilege-escalation", "windows"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public LPE exploit targeting Microsoft Defender—present on virtually every Windows endpoint—warrants immediate triage: verify whether August Patch Tuesday covered this CVE, and if not, apply any Microsoft-issued workaround and restrict local execution paths that the exploit chain requires.
 - **SOC/IR — Plan:** No active campaign IOCs or ATT&CK-mapped TTPs are reported yet, but a publicly available SYSTEM-privilege exploit via Defender will attract rapid weaponization; build and stage a detection for anomalous SYSTEM-level child processes spawning from Defender service components (e.g., MsMpEng.exe) before confirmed in-the-wild use.

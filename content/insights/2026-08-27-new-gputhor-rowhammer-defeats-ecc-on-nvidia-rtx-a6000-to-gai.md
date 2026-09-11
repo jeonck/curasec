@@ -9,7 +9,7 @@ tags: ["rowhammer", "gpu-security", "privilege-escalation"]
 cves: []
 source: "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel academic research showing ECC — NVIDIA's own recommended Rowhammer mitigation — is bypassable on GDDR6 workstation GPUs; no public PoC, KEV listing, or active exploitation, but engineers running NVIDIA A6000s in multi-tenant or shared ML environments should revisit GPU isolation assumptions and monitor for a NVIDIA advisory.
 - **SOC/IR — Learn:** No IOCs, no mapped TTPs, and no known exploitation in the wild; file for awareness and revisit if a weaponized PoC surfaces or campaigns emerge targeting GPU-equipped workstations.

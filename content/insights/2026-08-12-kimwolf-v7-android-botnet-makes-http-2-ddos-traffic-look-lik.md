@@ -9,7 +9,7 @@ tags: ["android-botnet", "ddos", "http2"]
 cves: []
 source: "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The HTTP/2 traffic-mimicry technique is worth understanding when reviewing WAF and CDN rate-limiting rules, but no enrichment signals (no KEV, no PoC, no active targeting) justify an immediate configuration change.
 - **SOC/IR — Plan:** The botnet's ability to blend DDoS volume into legitimate-looking HTTP/2 sessions is a detection gap worth scoping — review whether your traffic-analysis and DDoS-detection rules distinguish request-rate anomalies at the HTTP/2 stream level rather than relying on IP reputation alone.

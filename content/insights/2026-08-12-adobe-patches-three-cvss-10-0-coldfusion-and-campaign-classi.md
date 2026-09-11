@@ -9,7 +9,7 @@ tags: ["adobe", "critical-vulnerability", "coldfusion"]
 cves: ["CVE-2026-48362"]
 source: "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** CVSS 10.0 OS command injection in ColdFusion and companion critical flaws in Commerce and Campaign Classic warrant prioritized patching this sprint. No KEV listing or public PoC yet, but severity justifies treating this ahead of routine patch cycles — apply Adobe's August updates to all three products immediately.
 - **SOC/IR — Skip**

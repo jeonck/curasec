@@ -9,7 +9,7 @@ tags: ["iot-botnet", "sharepoint", "critical-infrastructure"]
 cves: []
 source: "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** SharePoint RCE chain and AI-assisted botnet techniques are worth tracking, but the summary provides no CVE, EPSS, KEV, or patch target — read the full digest to identify whether any specific component you run is affected.
 - **SOC/IR — Learn:** C2 traffic hiding in public infrastructure and delayed-payload malware are tactically interesting detection themes, but no IOCs or ATT&CK mappings are surfaced here — use this as a prompt to review whether relevant log sources (DNS, proxy) would catch these patterns.

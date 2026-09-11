@@ -9,7 +9,7 @@ tags: ["rce", "sap", "patch-tuesday"]
 cves: ["CVE-2026-58231"]
 source: "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Public PoC on GitHub for a CVSS 10.0 unauthenticated RCE in SAP Commerce Cloud Data Hub Adapter makes exploitation practical now; apply SAP's patch for CVE-2026-58231 immediately and verify no unauthorized access to the Data Hub Adapter endpoint prior to patching.
 - **SOC/IR — Act:** With a public PoC available for unauthenticated RCE, sweep web access logs for anomalous requests to SAP Commerce Cloud Data Hub Adapter endpoints and hunt for post-exploitation activity (unusual process spawns, lateral movement) on Commerce Cloud hosts since the disclosure date.

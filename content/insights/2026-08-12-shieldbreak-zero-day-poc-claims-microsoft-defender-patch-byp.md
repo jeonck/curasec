@@ -9,7 +9,7 @@ tags: ["microsoft-defender", "privilege-escalation", "patch-bypass"]
 cves: ["CVE-2026-50656"]
 source: "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Public PoC on GitHub means the original CVE-2026-50656 patch is insufficient, but EPSS 0.11 and no KEV listing indicate no confirmed active exploitation yet. Monitor Microsoft's advisory for an updated patch and apply it immediately when released; in the interim, audit for any unexpected SYSTEM-level Defender process activity.
 - **SOC/IR — Plan:** The public PoC provides enough technical detail to build behavioral detections before in-the-wild exploitation begins. Develop signatures for anomalous Microsoft Defender process privilege escalation patterns from the PoC and queue for tuning once exploitation is confirmed.

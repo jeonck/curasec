@@ -9,7 +9,7 @@ tags: ["patch-tuesday", "windows", "vulnerability-management"]
 cves: []
 source: "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Apply August 2026 Patch Tuesday updates now, prioritizing the one actively exploited vulnerability and the two publicly disclosed issues first, then triage the remaining 395 by severity and exposure surface.
 - **SOC/IR — Plan:** Once Microsoft releases specifics on the actively exploited CVE, build or tune detections for exploitation attempts; the two pre-patched public disclosures may already have known TTPs worth hunting against Windows endpoint telemetry.

@@ -9,7 +9,7 @@ tags: ["android", "privacy", "network-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** ECH support in Android 17 may affect how TLS inspection tools or corporate proxies handle traffic from managed Android devices; worth evaluating impact on your mobile security stack.
 - **SOC/IR — Skip**

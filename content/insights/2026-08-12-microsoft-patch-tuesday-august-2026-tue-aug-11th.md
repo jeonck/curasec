@@ -9,7 +9,7 @@ tags: ["patch-tuesday", "microsoft", "zero-day"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33236"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** With 62 critical CVEs including remote code execution in QUIC and DNS Server plus one actively exploited privilege escalation zero-day, prioritize patching Windows systems this week — target the exploited zero-day and RCE bugs in DNS Server and QUIC-enabled stacks first.
 - **SOC/IR — Act:** One vulnerability is confirmed exploited in the wild; hunt for privilege escalation activity on Windows endpoints since August 11 and tune EDR/SIEM detections for post-exploit behavior while engineering patches.

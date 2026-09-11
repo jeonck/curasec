@@ -9,7 +9,7 @@ tags: ["data-breach", "traveler-data", "third-party-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

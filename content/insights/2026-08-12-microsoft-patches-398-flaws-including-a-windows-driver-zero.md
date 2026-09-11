@@ -9,7 +9,7 @@ tags: ["windows-lpe", "patch-tuesday", "zero-day"]
 cves: ["CVE-2026-68820"]
 source: "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CVE-2026-68820 is CISA KEV-listed with a public GitHub PoC and confirmed active exploitation — apply August 2026 Patch Tuesday updates immediately, prioritizing this kernel driver fix to close the SYSTEM-level LPE path.
 - **SOC/IR — Act:** Active in-the-wild exploitation of a SYSTEM-level LPE means attackers may already have escalated on unpatched endpoints — hunt for anomalous SYSTEM-privilege process spawns from unexpected parent processes and tune EDR alerts for T1068 kernel-driver abuse since the public PoC widens attacker access.

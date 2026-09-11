@@ -9,7 +9,7 @@ tags: ["ai-agents", "docker", "policy-enforcement"]
 cves: []
 source: "https://github.com/decionis/docker"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you're running AI agents in containerized workflows, this project offers a pattern for deterministic policy controls and approval gates worth evaluating — no urgent action, but relevant to emerging AI agent security design.
 - **SOC/IR — Skip**

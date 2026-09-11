@@ -9,7 +9,7 @@ tags: ["supply-chain", "threat-actors", "arrest"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Arrest confirms a supply-chain threat group was active at scale, but the summary provides no IOCs, affected packages, or specific compromised registries to audit against — no concrete remediation action available from this item alone.
 - **SOC/IR — Learn:** Attribution news without published IOCs, TTPs, or ATT&CK mappings offers no immediate detection or hunting surface; useful background on an active supply-chain threat actor if future intelligence on this group is released.

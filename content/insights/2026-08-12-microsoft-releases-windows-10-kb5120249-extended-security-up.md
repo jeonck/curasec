@@ -9,7 +9,7 @@ tags: ["windows", "patch", "end-of-life"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Windows 10 ESU patch KB5120249 is available for 22H2/21H2; if you still run Win10 endpoints, apply this update and accelerate migration to Windows 11 before ESU costs escalate.
 - **SOC/IR — Skip**

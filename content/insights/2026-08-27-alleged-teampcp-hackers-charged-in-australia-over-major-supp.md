@@ -9,7 +9,7 @@ tags: ["supply-chain", "open-source-security", "criminal-prosecution"]
 cves: []
 source: "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The underlying March 2026 compromise of Trivy, Checkmarx KICS, and LiteLLM should have already triggered audits; this arrest adds no new technical detail, but serves as a reminder to verify those security scanner pipelines were cleaned and dependency provenance checked at the time.
 - **SOC/IR — Learn:** An arrest announcement with no new IOCs or TTPs published; useful as campaign context if the March supply chain incident is already in your threat intel library, but yields no new detection or hunt work today.
