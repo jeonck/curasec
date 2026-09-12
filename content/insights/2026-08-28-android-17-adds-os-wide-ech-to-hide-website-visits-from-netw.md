@@ -9,7 +9,7 @@ tags: ["android", "privacy", "network-security"]
 cves: []
 source: "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** ECH support in Android 17 is a platform-level change worth tracking for mobile app TLS compatibility and enterprise network inspection assumptions, but requires no immediate action on running systems.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["ai-security", "penetration-testing", "tooling"]
 cves: []
 source: "https://github.com/Dest1ny-Sec/dhunter"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** An early-stage AI agent framework for automated recon-to-report pentesting; worth evaluating as a complement to manual AppSec workflows, but no immediate change to running systems required.
 - **SOC/IR — Skip**

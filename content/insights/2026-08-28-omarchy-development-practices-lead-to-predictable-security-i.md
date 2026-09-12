@@ -9,7 +9,7 @@ tags: ["supply-chain", "secure-development", "open-source"]
 cves: []
 source: "https://blog.happyfellow.dev/merchants-of-insecurity/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Post-mortem style analysis of insecure development practices in a real project; worth reading to identify analogous patterns in your own dependency tree or internal tools, but no patch or immediate action required.
 - **SOC/IR — Skip**

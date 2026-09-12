@@ -9,7 +9,7 @@ tags: ["salesforce", "servicenow", "data-theft"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Salesforce Experience Cloud and ServiceNow are near-universal enterprise platforms; the attack exploits data exposed to anonymous portal users — a misconfiguration, not a zero-day. Audit both platforms now for anonymous/guest access permissions and tighten portal visibility settings before an attacker runs the same tooling against your instance.
 - **SOC/IR — Plan:** No IOCs or ATT&CK mappings are available yet, but the campaign uses custom tooling against anonymous portal endpoints. Queue detection work for anomalous unauthenticated API calls and bulk record retrieval in Salesforce Experience Cloud and ServiceNow access logs.

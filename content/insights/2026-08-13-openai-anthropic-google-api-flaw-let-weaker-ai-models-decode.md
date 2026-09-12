@@ -9,7 +9,7 @@ tags: ["ai-security", "api-vulnerability", "credential-exposure"]
 cves: []
 source: "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your applications use reasoning APIs from any of these three providers, audit stored session logs for leaked secrets and rotate any API keys or passwords that may have passed through reasoning objects; no confirmed active exploitation yet, but the exposure surface is broad.
 - **SOC/IR — Learn:** The reasoning-object replay technique is a novel attack class worth understanding for future detection design, but no IOCs or active exploitation evidence are present to hunt on today.

@@ -9,7 +9,7 @@ tags: ["windows", "privilege-escalation", "usb"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** No active exploitation or PoC pressure yet, but physical-access USB attacks leading to SYSTEM are a real hardening target — audit Group Policy and MDM settings to restrict unsigned driver installation and limit who can install devices on managed endpoints.
 - **SOC/IR — Learn:** No IOCs or active campaign to hunt; worth understanding the PnP abuse technique to anticipate detection opportunities (e.g., monitoring for unexpected driver installs or PnP device events on sensitive hosts) if exploitation becomes active.

@@ -9,7 +9,7 @@ tags: ["browser-extensions", "supply-chain", "proxy"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit any corporate-managed Chrome extensions against a blocklist of the 737 identified fakes; establish a policy requiring allowlisted extensions only for managed devices.
 - **SOC/IR — Plan:** Build detection for unusual SOCKS5 proxy egress from endpoints, and consider hunting for browser extension IDs associated with this campaign in endpoint telemetry.

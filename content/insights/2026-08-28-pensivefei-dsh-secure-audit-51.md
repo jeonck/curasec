@@ -9,7 +9,7 @@ tags: ["ai-security", "prompt-injection", "tooling"]
 cves: []
 source: "https://github.com/PensiveFei/dsh-secure-audit"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** New read-only plugin worth evaluating if DeepSeek Harness is in your AI pipeline; covers prompt-injection detection and local config audit, but adoption is nascent (51 stars) with no enrichment signals to pressure a faster decision.
 - **SOC/IR — Skip**

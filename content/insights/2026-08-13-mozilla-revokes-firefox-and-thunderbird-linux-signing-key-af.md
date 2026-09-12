@@ -9,7 +9,7 @@ tags: ["supply-chain", "key-management", "linux"]
 cves: []
 source: "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your CI/CD pipelines or Linux packaging workflows verify Firefox or Thunderbird downloads using the revoked key, verification will fail; audit any signature-checking steps and update to Mozilla's replacement key before the revocation takes full effect.
 - **SOC/IR — Learn:** A private-repo exposure with no confirmed external access or exploitation signals; no IOCs or detection work surfaced, but the incident illustrates key-material mishandling in developer workflows worth tracking for future threat modeling.

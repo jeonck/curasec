@@ -9,7 +9,7 @@ tags: ["malware-analysis", "pe-format", "threat-research"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33292"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Compiler and PE header metadata distributions across malicious samples can inform triage heuristics; useful background for analysts who build or tune static detection rules, but yields no immediate detection action.

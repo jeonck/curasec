@@ -9,7 +9,7 @@ tags: ["cryptography", "signing", "open-source"]
 cves: []
 source: "https://github.com/Realaoleep/SigDeck"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A lightweight, air-gapped Ed25519 signing playground worth evaluating if you need offline artifact signing or key ceremony tooling; no urgent action required.
 - **SOC/IR — Skip**

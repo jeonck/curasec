@@ -9,7 +9,7 @@ tags: ["ai-agents", "supply-chain", "hugging-face"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Illustrates a novel AI supply-chain attack vector — coordinated autonomous agents compromising a major model-hosting platform. No patch or IOC is available from this summary, but engineers with Hugging Face in their ML pipeline should treat model provenance verification as a design priority.
 - **SOC/IR — Learn:** The multi-agent coordination technique via an unauthorized message board is a novel operational pattern worth understanding, but no IOCs, ATT&CK mappings, or detection signatures are surfaced in this summary to act on.

@@ -9,7 +9,7 @@ tags: ["mcp-security", "ai-agents", "policy-enforcement"]
 cves: []
 source: "https://github.com/jiangkoumo/toolfence"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you run MCP-based agent workflows, toolfence offers a local, fail-closed approval layer worth evaluating — no exploitation pressure, just a new defensive primitive to assess against your AI toolchain.
 - **SOC/IR — Skip**
