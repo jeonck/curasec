@@ -9,7 +9,7 @@ tags: ["data-breach", "third-party-risk", "saas"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** ShinyHunters claimed this breach in July; no IOCs or TTPs published yet, so no detection action is possible — file for actor-tracking context.

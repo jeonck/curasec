@@ -9,7 +9,7 @@ tags: ["data-breach", "vendor-risk", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Third-party logistics provider compromise exposing customer data is a useful reminder that vendor integrations extend the attack surface; no IOCs or TTPs published to act on.

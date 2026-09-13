@@ -9,7 +9,7 @@ tags: ["llm-security", "ai-safety", "research"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Reinforces the design principle that LLM safety filters alone are insufficient; architecture decisions should place external guardrails (input/output validation, prompt firewalls) outside the model layer rather than trusting built-in refusals.
 - **SOC/IR — Skip**

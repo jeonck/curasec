@@ -9,7 +9,7 @@ tags: ["policy", "offensive-security", "government"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** No detection or hunt action today, but a sanctioned private offensive program could alter adversary behavior and retaliatory risk — worth tracking as threat landscape context.
