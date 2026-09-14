@@ -9,7 +9,7 @@ tags: ["cryptography", "air-gap", "signing"]
 cves: []
 source: "https://github.com/jvmi7/OfflinePainter"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Lightweight pure-Python Ed25519/scrypt signing tool useful for evaluating air-gapped key ceremony workflows or bootstrapping offline signing without heavyweight dependencies.
 - **SOC/IR — Skip**

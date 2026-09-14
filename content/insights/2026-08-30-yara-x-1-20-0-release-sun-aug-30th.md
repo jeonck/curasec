@@ -9,7 +9,7 @@ tags: ["yara", "tooling", "malware-detection"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33288"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If YARA-X is part of your CI/CD or scanning pipeline, this routine release adds incremental improvements worth reviewing before your next scheduled upgrade — no urgent action required.
 - **SOC/IR — Learn:** Teams using YARA-X for threat hunting or malware triage should note the new release; check the changelog for any detection-relevant engine improvements before updating in a hunting workflow.

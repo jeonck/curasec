@@ -9,7 +9,7 @@ tags: ["ransomware", "data-breach", "clop"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Clop continues targeting large enterprises via data theft extortion; no IOCs or TTPs published yet — monitor for technical follow-up reports to inform detection tuning against Clop's known access patterns.

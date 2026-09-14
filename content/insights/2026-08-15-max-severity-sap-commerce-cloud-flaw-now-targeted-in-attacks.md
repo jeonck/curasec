@@ -9,7 +9,7 @@ tags: ["sap", "rce", "active-exploitation"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A max-severity RCE in SAP Commerce Cloud is under active attack just days after patching — apply the SAP patch immediately and audit Commerce Cloud logs for signs of pre-patch compromise.
 - **SOC/IR — Act:** Active exploitation is confirmed by threat intelligence, so sweep SAP Commerce Cloud application and access logs for anomalous activity indicative of RCE or post-exploitation behavior since the patch release date.
