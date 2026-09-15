@@ -9,7 +9,7 @@ tags: ["federated-learning", "privacy", "llm-security"]
 cves: []
 source: "https://arxiv.org/abs/2608.27836"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel defense technique for federated fine-tuning pipelines; relevant if you run distributed LLM training with sensitive data, but no patch or configuration action needed today — research-stage only.
 - **SOC/IR — Skip**

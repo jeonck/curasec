@@ -9,7 +9,7 @@ tags: ["llm-security", "mechanistic-interpretability", "jailbreak"]
 cves: []
 source: "https://arxiv.org/abs/2608.27504"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research identifies internal attention heads and MLP pathways responsible for safety bypass in LLaMA-2-7B — useful context when evaluating LLM safeguard architectures, but no operational change needed today and findings are on one specific model.
 - **SOC/IR — Skip**

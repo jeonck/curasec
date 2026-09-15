@@ -9,7 +9,7 @@ tags: ["threat-intelligence", "machine-learning", "cti"]
 cves: []
 source: "https://arxiv.org/abs/2608.27967"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The finding that 98% of MISP events lack sector tagging quantifies a real operational gap in shared CTI value; the BERT-based approach achieving F1 0.89 for sector routing is worth tracking as a future tooling direction for CTI triage workflows.

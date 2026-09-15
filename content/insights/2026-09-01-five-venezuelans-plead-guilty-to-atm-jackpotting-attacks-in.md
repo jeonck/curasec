@@ -9,7 +9,7 @@ tags: ["atm-jackpotting", "financial-crime", "malware"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** ATM jackpotting via malware is a recurring physical-access threat vector; useful context for analysts defending financial sector environments, but no new IOCs or TTPs are surfaced in this plea coverage.

@@ -9,7 +9,7 @@ tags: ["llm-security", "jailbreaking", "vision-language-models"]
 cves: []
 source: "https://arxiv.org/abs/2608.27531"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If your product integrates GPT-4o, Gemini, or similar multimodal models, this research shows existing content-safety wrappers are brittle against adaptive attackers; no patch exists yet, but it motivates evaluating your VLM endpoints against adaptive prompt-injection test suites.
 - **SOC/IR — Skip**

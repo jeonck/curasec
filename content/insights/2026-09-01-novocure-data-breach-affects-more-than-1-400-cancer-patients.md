@@ -9,7 +9,7 @@ tags: ["data-breach", "healthcare", "patient-data"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Healthcare sector breach with limited technical detail; no IOCs, TTPs, or detection artifacts published — monitor for follow-on disclosure with actionable indicators.

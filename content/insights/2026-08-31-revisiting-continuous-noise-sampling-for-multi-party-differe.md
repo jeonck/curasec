@@ -9,7 +9,7 @@ tags: ["differential-privacy", "mpc", "cryptography"]
 cves: []
 source: "https://arxiv.org/abs/2608.27766"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The paper exposes a fundamental flaw in sample-and-scale DP noise protocols, achieving near-100% membership-inference success against Orchard and DP-BREM+; engineers building federated analytics or DP aggregation pipelines should audit whether their noise-sampling implementation uses the vulnerable scaling approach.
 - **SOC/IR — Skip**

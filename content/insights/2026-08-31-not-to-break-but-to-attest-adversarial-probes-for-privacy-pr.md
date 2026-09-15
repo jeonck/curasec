@@ -9,7 +9,7 @@ tags: ["llm-security", "ai-governance", "zk-snark"]
 cves: []
 source: "https://arxiv.org/abs/2608.27954"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic framework for detecting model drift after deployment using privacy-preserving proofs; no running systems to patch today, but the black-box token-probe approach is worth tracking as LLM supply-chain integrity tooling matures.
 - **SOC/IR — Skip**

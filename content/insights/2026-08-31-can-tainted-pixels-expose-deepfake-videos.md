@@ -9,7 +9,7 @@ tags: ["deepfake", "research", "watermarking"]
 cves: []
 source: "https://arxiv.org/abs/2608.27492"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel proactive defense that embeds perturbations into facial video regions to surface manipulation artifacts post-edit — no deployable product yet, but relevant to teams building video authentication or media integrity pipelines.
 - **SOC/IR — Skip**

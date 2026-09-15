@@ -9,7 +9,7 @@ tags: ["ransomware", "rhysida", "government"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Rhysida continues targeting government and public-sector entities; no new IOCs or TTPs disclosed, but worth noting sector targeting patterns for context.

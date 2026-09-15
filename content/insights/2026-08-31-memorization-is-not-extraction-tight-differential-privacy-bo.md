@@ -9,7 +9,7 @@ tags: ["differential-privacy", "llm-security", "research"]
 cves: []
 source: "https://arxiv.org/abs/2608.27782"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you rely on DP guarantees to protect training data in ML pipelines, this research shows that controlling memorization and controlling extraction are formally separate — a model can be memorized yet unextractable, or vice versa. Revisit your threat model assumptions, but no system change is required today.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["vulnerability-research", "secure-code", "dataset"]
 cves: []
 source: "https://arxiv.org/abs/2608.27928"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful for engineers evaluating or building SAST/vulnerability-detection tooling — GraftyVul's reproducible, exploit-verified benchmark across five languages and 23 CWE categories offers a more realistic test corpus than most existing datasets.
 - **SOC/IR — Skip**

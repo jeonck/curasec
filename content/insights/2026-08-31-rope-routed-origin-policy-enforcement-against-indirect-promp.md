@@ -9,7 +9,7 @@ tags: ["indirect-prompt-injection", "llm-agents", "ai-security"]
 cves: []
 source: "https://arxiv.org/abs/2608.27496"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** ROPE introduces a structural origin-tracking approach that provably limits indirect prompt injection in tool-calling agents to under 3% success rate; worth evaluating if you are building or hardening LLM agent pipelines, but no running system change is required today.
 - **SOC/IR — Skip**
