@@ -9,7 +9,7 @@ tags: ["ransomware", "data-breach", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Clop's data theft methodology (exfiltration without full encryption) is worth tracking; no IOCs or TTPs published yet to act on.

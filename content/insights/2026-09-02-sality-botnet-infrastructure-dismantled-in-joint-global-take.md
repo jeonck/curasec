@@ -9,7 +9,7 @@ tags: ["botnet", "law-enforcement", "sality"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Sality has been a persistent Windows endpoint threat for years; the C2 sinkholing creates a window to identify residual infections in your estate, but no IOCs or TTPs are provided in this summary to act on directly.

@@ -9,7 +9,7 @@ tags: ["phishing", "malware", "indictment"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** TVRAT and DarkVNC are remote access trojans worth reviewing in your detection library; no new IOCs or active campaign signals in this item, but the freelancer-targeting lure pattern is worth noting for awareness.

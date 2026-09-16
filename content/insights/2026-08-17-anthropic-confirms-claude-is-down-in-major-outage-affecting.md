@@ -9,7 +9,7 @@ tags: ["outage", "ai-services", "availability"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If Claude or Anthropic APIs are integrated into your pipelines or tooling, verify fallback behavior and document the dependency for SLA planning.
 - **SOC/IR — Skip**
