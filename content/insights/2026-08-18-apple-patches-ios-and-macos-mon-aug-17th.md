@@ -9,7 +9,7 @@ tags: ["apple", "patch-management", "vulnerability"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33254"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** 108 CVEs across iOS/iPadOS and macOS 26 is a large batch worth prioritizing; schedule updates for macOS developer workstations and managed iOS fleet this patch cycle — no KEV or PoC signals to force emergency action.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["threat-intelligence", "ai-abuse", "data-exfiltration"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Unit 42 analysis of threat actors leveraging AI tools in active LATAM-targeted campaigns offers insight into emerging attacker tradecraft; review TTPs for potential detection opportunities if your organization has LATAM exposure.

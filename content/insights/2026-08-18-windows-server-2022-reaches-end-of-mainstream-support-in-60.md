@@ -9,7 +9,7 @@ tags: ["end-of-life", "windows-server", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Mainstream support ending means no new feature or non-security fixes, though extended support (security patches) continues. Start migration planning to Windows Server 2025 this quarter to avoid a rushed lift when extended support eventually terminates.
 - **SOC/IR — Skip**

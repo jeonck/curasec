@@ -9,7 +9,7 @@ tags: ["outage", "github", "availability"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Check CI/CD pipeline dependencies on GitHub Actions and APIs; ensure fallback or retry logic is in place for build and deployment workflows during outages.
 - **SOC/IR — Skip**

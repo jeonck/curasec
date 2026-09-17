@@ -9,7 +9,7 @@ tags: ["lolbin", "windows-hardening", "wmic"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit internal scripts, pipelines, and automation that call WMIC and migrate them to PowerShell WMI cmdlets before the 24H2/25H2 rollout reaches your fleet; breakage is silent until WMIC is absent.
 - **SOC/IR — Plan:** Update detection logic: WMIC execution on Windows 11 24H2+ will become anomalous and warrant a higher-fidelity alert; also build coverage for alternative WMI access paths (PowerShell, wbemtest) that threat actors will pivot to.

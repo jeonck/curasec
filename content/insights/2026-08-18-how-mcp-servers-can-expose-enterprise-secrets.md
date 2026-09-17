@@ -9,7 +9,7 @@ tags: ["mcp", "ai-agents", "prompt-injection"]
 cves: []
 source: "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No enrichment signals (no KEV, PoC, or active exploitation), but the attack surface is real: plaintext secrets in MCP config files and over-permissioned access are design-level risks engineers should factor in when deploying AI agent infrastructure. Audit any existing MCP deployments for credential storage and permission scope before expanding use.
 - **SOC/IR — Learn:** No IOCs, TTPs, or detection artifacts are surfaced here, but the 'server running before security teams know' framing highlights a shadow-AI discovery gap worth tracking. No immediate detection work is possible from this summary alone.

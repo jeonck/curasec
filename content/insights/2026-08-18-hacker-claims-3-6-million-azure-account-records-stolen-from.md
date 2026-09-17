@@ -9,7 +9,7 @@ tags: ["azure", "credential-theft", "data-breach"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** The alleged vector is compromised credentials, not a platform vulnerability — audit Azure Entra ID sign-in logs for anomalous authentication, verify MFA is enforced on all accounts, and review conditional access policies for gaps.
 - **SOC/IR — Plan:** No IOCs or confirmed TTPs are available yet, but if your estate includes Azure, queue a hunt for unusual authentication patterns in Entra ID logs (off-hours logins, new service principals, bulk data exports) and monitor breach-data feeds for your org's domains.
