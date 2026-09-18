@@ -9,7 +9,7 @@ tags: ["clop", "web-shell", "plm"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you run PTC Windchill or FlexPLM, audit those servers for this Java web shell immediately — it is purpose-built to decrypt stored credentials and exfiltrate file repositories. Pull IOCs from the BleepingComputer article and sweep web-accessible directories on those hosts.
 - **SOC/IR — Act:** Clop's use of a bespoke web shell against Windchill/FlexPLM indicates an active, ongoing campaign with credential theft as a precursor step; hunt for anomalous Java process activity and unauthorized file enumeration on any PLM servers in your estate, and ingest the published IOCs into your SIEM.

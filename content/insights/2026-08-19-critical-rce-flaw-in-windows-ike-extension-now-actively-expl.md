@@ -9,7 +9,7 @@ tags: ["windows", "rce", "active-exploitation"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CISA confirmed active exploitation of this critical Windows IKE RCE — patch all Windows systems running IPsec/VPN services immediately; treat as emergency patch given KEV-level signal from CISA warning.
 - **SOC/IR — Act:** Active exploitation confirmed by CISA — hunt for anomalous IKE/IPsec traffic and suspicious activity originating from VPN-adjacent or edge Windows systems since the campaign began; assume-breach sweep warranted for internet-exposed IKE endpoints.

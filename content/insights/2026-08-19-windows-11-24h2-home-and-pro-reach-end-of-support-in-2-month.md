@@ -9,7 +9,7 @@ tags: ["windows", "end-of-life", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit endpoints for Windows 11 Home/Pro 24H2 and schedule upgrades to a supported build before the deadline; unpatched systems will stop receiving security updates, creating compounding exposure.
 - **SOC/IR — Skip**

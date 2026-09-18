@@ -9,7 +9,7 @@ tags: ["windows-defender", "patch", "endpoint"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If Windows Defender crashes were affecting endpoint coverage in your environment, apply the follow-on fix via Windows Update to restore stable antivirus operation.
 - **SOC/IR — Plan:** Verify that EDR/Defender telemetry gaps didn't occur during the crash window; confirm detection coverage was restored after the fix is applied.

@@ -9,7 +9,7 @@ tags: ["ransomware", "critical-infrastructure", "cisa-advisory"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The CISA/FBI advisory likely details initial-access vectors (historically RDP abuse and phishing) worth reviewing to validate existing hardening; no specific exploited CVE is surfaced in this summary, so no emergency patch action required.
 - **SOC/IR — Act:** Pull the full CISA advisory for Medusa IOCs and ATT&CK TTPs, then hunt for those indicators in endpoint and network telemetry dating back to mid-2021 if within retention; tune ransomware-staging detections against the published behaviors.

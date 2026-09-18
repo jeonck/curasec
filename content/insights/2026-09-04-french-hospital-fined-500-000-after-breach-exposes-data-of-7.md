@@ -9,7 +9,7 @@ tags: ["data-breach", "gdpr", "healthcare"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

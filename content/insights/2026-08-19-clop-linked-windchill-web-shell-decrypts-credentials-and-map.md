@@ -9,7 +9,7 @@ tags: ["web-shell", "clop-ransomware", "plm-security"]
 cves: []
 source: "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Clop-linked actors are actively exploiting a critical flaw in PTC Windchill and FlexPLM to deploy a purpose-built JSP web shell; if you run either platform, immediately audit PLM servers for rogue JSP files and apply the underlying critical patch.
 - **SOC/IR — Act:** Active Clop-linked intrusion campaign targeting PLM servers with a web shell that harvests and decrypts credentials and maps vault contents — hunt for anomalous JSP execution and credential-access activity on Windchill/FlexPLM hosts, and review ReliaQuest's analysis for behavioral indicators.

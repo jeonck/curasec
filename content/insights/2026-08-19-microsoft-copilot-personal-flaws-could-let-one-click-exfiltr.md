@@ -9,7 +9,7 @@ tags: ["microsoft-copilot", "ai-security", "data-exfiltration"]
 cves: []
 source: "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No enrichment signals and no patch details are provided, but the CoSnitch research illustrates how undocumented AI assistant parameters can become exfiltration channels — worth factoring into security reviews of any AI integrations or OAuth-connected app architectures you own.
 - **SOC/IR — Learn:** No IOCs, no active exploitation, and no detection artifacts are available; the one-click-via-crafted-link technique is worth noting for future phishing-via-AI-assistant scenarios, but there is nothing actionable to hunt or detect today.

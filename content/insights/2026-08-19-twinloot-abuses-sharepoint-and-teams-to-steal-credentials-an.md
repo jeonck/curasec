@@ -9,7 +9,7 @@ tags: ["malware", "microsoft-365", "c2"]
 cves: []
 source: "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No exploitation signals or patch action required, but this technique highlights the risk of trusting M365 egress unconditionally; review whether SharePoint/Teams API access from non-user contexts is logged and anomaly-monitored in your environment.
 - **SOC/IR — Plan:** TWINLOOT's C2-over-SharePoint-Online pattern blends into legitimate M365 traffic — build or tune detections for unusual SharePoint file polling cadence and Teams API calls from non-interactive service contexts to catch implants using this framework.

@@ -9,7 +9,7 @@ tags: ["wordpress", "malware", "data-theft"]
 cves: []
 source: "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Any team running WordPress should audit their installations for indicators of compromise — compromised sites are being weaponized as C2/exfil infrastructure. No specific CVE or patch is named, but review file-integrity monitoring, outbound connections, and recent plugin changes on all WordPress properties.
 - **SOC/IR — Learn:** The campaign involves a multi-tool malware toolkit exfiltrating documents and screenshots, but the summary provides no IOCs, ATT&CK mappings, or log signatures to hunt with — file for actor awareness and revisit if a detailed technical writeup with indicators surfaces.

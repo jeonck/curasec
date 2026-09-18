@@ -9,7 +9,7 @@ tags: ["saas-threat", "data-scraping", "threat-intel"]
 cves: []
 source: "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Salesforce and ServiceNow are near-universal in enterprise estates; audit portal access logs for IP 158.220.87.79 going back to early 2025, and review guest-user permissions and external sharing rules on both platforms.
 - **SOC/IR — Act:** A confirmed, long-running campaign with a published IOC (158.220.87.79) hitting widely deployed enterprise SaaS — sweep Salesforce and ServiceNow access logs in your SIEM for that IP since January 2025 and build a persistent detection for it.
