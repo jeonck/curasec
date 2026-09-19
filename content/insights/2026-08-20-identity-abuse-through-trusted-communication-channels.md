@@ -9,7 +9,7 @@ tags: ["identity-abuse", "phishing", "collaboration-tools"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/communication-channel-identity-risks/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research on how attackers abuse trusted communication channels (Slack, Teams, email) for credential theft; review OIDC/SAML trust configurations and conditional access policies as a follow-up architecture exercise.
 - **SOC/IR — Plan:** Unit 42 analysis of TTPs for collaboration-tool identity phishing is worth building detections around this quarter — prioritize tuning alerts for anomalous OAuth consent grants and unusual login sources following collaboration-platform interactions.

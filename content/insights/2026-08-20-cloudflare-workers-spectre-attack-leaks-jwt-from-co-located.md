@@ -9,7 +9,7 @@ tags: ["spectre", "cloudflare-workers", "side-channel"]
 cves: []
 source: "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you process sensitive credentials or JWTs in Cloudflare Workers, audit whether those secrets could be exposed to co-tenant side-channel leakage; consider moving high-sensitivity auth operations off shared serverless platforms or reducing secret lifetimes in Workers.
 - **SOC/IR — Learn:** Novel remote Spectre variant demonstrating cross-tenant memory leakage in shared serverless runtimes; no IOCs or detection surface exist yet, but the technique advances the threat model for cloud-hosted execution environments.

@@ -9,7 +9,7 @@ tags: ["data-breach", "healthcare", "hipaa"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Large-scale healthcare breach worth noting for sector awareness, but no IOCs, TTPs, or detection surface are provided in this disclosure.

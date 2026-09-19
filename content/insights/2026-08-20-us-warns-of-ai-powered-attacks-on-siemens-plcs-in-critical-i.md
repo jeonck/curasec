@@ -9,7 +9,7 @@ tags: ["ics-ot", "critical-infrastructure", "ai-threats"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** AI-generated exploit scripts targeting Siemens S7 PLCs represents a novel offensive technique for ICS environments, but the thin summary offers no CVE, version range, or patch to act on. Engineers supporting OT/ICS should monitor for follow-on advisories with technical specifics.
 - **SOC/IR — Learn:** No IOCs, TTPs, or detection surface are described in this advisory, leaving nothing actionable to hunt or tune. Analysts in critical infrastructure sectors should track follow-up CISA publications for actor behaviors and log sources to enable.

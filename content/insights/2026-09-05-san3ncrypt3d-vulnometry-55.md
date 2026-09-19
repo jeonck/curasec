@@ -9,7 +9,7 @@ tags: ["vulnerability-management", "risk-scoring", "tooling"]
 cves: []
 source: "https://github.com/san3ncrypt3d/vulnometry"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Interesting approach to contextualizing CVE severity with business exposure signals; worth evaluating whether it improves triage prioritization over raw EPSS/KEV alone, but no immediate action required.
 - **SOC/IR — Skip**

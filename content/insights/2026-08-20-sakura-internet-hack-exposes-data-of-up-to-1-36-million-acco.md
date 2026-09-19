@@ -9,7 +9,7 @@ tags: ["data-breach", "cloud-provider", "vendor-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

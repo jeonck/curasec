@@ -9,7 +9,7 @@ tags: ["ransomware", "fraud", "social-engineering"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Awareness of this double-extortion tactic helps analysts brief IR teams and counsel victims to verify recovery vendor legitimacy before engaging; no IOCs or detection surface provided.

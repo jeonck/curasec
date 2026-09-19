@@ -9,7 +9,7 @@ tags: ["iot-security", "credential-attack", "camera"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If Dahua cameras are in scope, audit all units for default or weak credentials and remove any direct internet exposure; the campaign scale suggests opportunistic credential stuffing across this device class, but no KEV or PoC shifts this below Act.
 - **SOC/IR — Learn:** No IOCs or ATT&CK-mappable TTPs are surfaced in this item, and the compromise is geographically concentrated in Ukraine and Russia — limited detection work is actionable for a typical enterprise SOC without more detail.

@@ -9,7 +9,7 @@ tags: ["android-malware", "mobile-banking", "fraud"]
 cves: []
 source: "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No infrastructure or cloud exposure here; this is a mobile banking trojan. Worth understanding the PIN-harvesting technique if your org develops mobile banking apps, but no patch or configuration action required.
 - **SOC/IR — Plan:** No IOCs published in this item, but the expanded 140+ targeted app list and new remote-command capability warrant building or tuning mobile threat detections; review Zimperium's full report for indicators to add to mobile MDM alerting.
