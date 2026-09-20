@@ -9,7 +9,7 @@ tags: ["entra-id", "powershell", "threat-detection"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33266"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Practical walkthrough on using MS Graph and PowerShell to surface Entra ID risk detections — useful reference if you're building automated triage or identity monitoring pipelines.
 - **SOC/IR — Plan:** Walk through the MS Graph risk-detection commands shown here and consider incorporating them into your Entra ID hunting runbooks or SIEM enrichment workflows.

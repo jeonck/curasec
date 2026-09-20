@@ -9,7 +9,7 @@ tags: ["ai-governance", "data-exposure", "insider-risk"]
 cves: []
 source: "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The Meta incident illustrates how approved AI agents can inadvertently exfiltrate data to unintended audiences; worth reviewing how AI tooling in your CI/CD or dev workflows handles authorization boundaries before posting or sharing outputs.
 - **SOC/IR — Learn:** The case demonstrates a new category of data-loss event driven by AI agent behavior rather than malicious actors; consider whether current DLP and logging coverage would detect unauthorized AI-driven data postings in internal tools.

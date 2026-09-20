@@ -9,7 +9,7 @@ tags: ["wordpress", "rce", "plugin-vulnerability"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Update Elementor Pro to the patched version immediately; no active exploitation or PoC confirmed in signals, but RCE via file upload on a widely-deployed WordPress plugin warrants prompt patching within your normal critical window.
 - **SOC/IR — Skip**

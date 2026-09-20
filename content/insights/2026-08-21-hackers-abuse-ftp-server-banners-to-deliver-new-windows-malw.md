@@ -9,7 +9,7 @@ tags: ["malware", "ftp", "windows"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel delivery technique hiding commands inside FTP server banners is worth understanding for FTP-exposed environments, but no KEV/PoC/EPSS signals exist to force immediate action — review whether any internal FTP services expose banners to untrusted clients.
 - **SOC/IR — Plan:** Two undocumented RATs with an unusual delivery vector warrant new detection logic; build rules to flag anomalous FTP banner content and hunt for E4del/PINHOLE behavioral patterns (process spawning from FTP client sessions) once IOCs are published.
