@@ -9,7 +9,7 @@ tags: ["windows-driver", "edr-bypass", "kernel-level"]
 cves: []
 source: "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No exploitable flaw and no patch exists — this is abuse of a legitimately signed Defender component, so there's nothing to patch; understand the technique and evaluate whether existing attack surface reduction or kernel driver allow-listing policies limit BTR.sys invocation outside Defender's normal use.
 - **SOC/IR — Plan:** Novel boot-time EDR-disablement technique worth building detections for: plan to hunt for anomalous BTR.sys loading events or unexpected security product file/registry removal at boot, and check whether your EDR vendor provides detection coverage for this abuse pattern.

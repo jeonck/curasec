@@ -9,7 +9,7 @@ tags: ["cdn", "dos-amplification", "http3"]
 cves: []
 source: "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your origin sits behind a CDN that terminates HTTP/3, verify your CDN vendor has addressed this class of amplification and ensure your origin enforces its own rate limits independent of CDN-layer protections — CDN Tsunami demonstrates that relying solely on CDN-side controls can leave the origin exposed to amplified floods.
 - **SOC/IR — Learn:** No active exploitation or IOCs reported; the attack surface is origin-server availability rather than a detectable intrusion behavior, so there is no detection rule or hunt to build today — file as background on CDN-based availability risk.

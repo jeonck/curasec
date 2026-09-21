@@ -9,7 +9,7 @@ tags: ["cloud-security", "misconfiguration", "multi-cloud"]
 cves: []
 source: "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Benchmarking data across 3,000 organizations on AWS/Azure/GCP misconfiguration patterns could help prioritize cloud security posture work, but the summary reveals no specific findings and carries no exploitation pressure — read the full report to see if provider-specific risks affect your stack.
 - **SOC/IR — Skip**

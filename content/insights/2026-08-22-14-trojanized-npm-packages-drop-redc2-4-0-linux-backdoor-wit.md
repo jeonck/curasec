@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "linux-malware"]
 cves: []
 source: "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active supply-chain compromise in npm packages is an Act signal regardless of KEV status — audit your dependency tree immediately for these 14 packages masquerading as calendar/streak utilities and check CI build logs for processes spawned by node_modules executing detached binaries.
 - **SOC/IR — Plan:** The implant's load behavior — extracting a bundled binary, chmod-ing it, and launching it as a detached process — is a detectable Linux TTP; build or tune EDR rules to alert on node/npm processes spawning unexpected child executables, but the summary lacks IOCs or package names needed to hunt right now.

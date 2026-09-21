@@ -9,7 +9,7 @@ tags: ["data-breach", "third-party-risk", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**
