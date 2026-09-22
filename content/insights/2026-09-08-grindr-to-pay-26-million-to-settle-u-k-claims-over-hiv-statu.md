@@ -9,7 +9,7 @@ tags: ["privacy", "data-sharing", "regulatory"]
 cves: []
 source: "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No CVE or exploit, but this case illustrates the risk of sensitive attributes flowing to ad/analytics SDKs; worth auditing whether health or identity data reaches third-party SDKs in any mobile or web product you own.
 - **SOC/IR — Skip**

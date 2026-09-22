@@ -9,7 +9,7 @@ tags: ["data-breach", "pii-exposure", "default-credentials"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The root cause — default credentials left on a cloud-exposed system — is a textbook misconfiguration. No specific software or CVE is named, so there is no patch to apply; use this as a prompt to audit your own cloud services for default or uncycled credentials.
 - **SOC/IR — Skip**
