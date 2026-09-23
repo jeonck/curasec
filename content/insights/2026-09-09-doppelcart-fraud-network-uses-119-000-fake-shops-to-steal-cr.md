@@ -9,7 +9,7 @@ tags: ["fraud", "phishing", "payment-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** DoppelCart's scale (119k domains) is notable for understanding adversarial infrastructure patterns, but no IOCs or detection guidance are provided to act on immediately.

@@ -9,7 +9,7 @@ tags: ["threat-actor", "linux-rootkit", "edr-bypass"]
 cves: []
 source: "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel Linux rootkit and EDR bypass technique targeting web servers is worth understanding for hardening posture, but no specific CVE, PoC, or KEV signal means no immediate patch action required.
 - **SOC/IR — Plan:** Build or tune detections for EDR bypass behavior and Linux rootkit indicators on web-facing servers; prioritize collecting relevant Linux endpoint telemetry if not already sourced, ahead of potential targeting expansion beyond current sectors.

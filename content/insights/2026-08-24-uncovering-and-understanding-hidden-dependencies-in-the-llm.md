@@ -9,7 +9,7 @@ tags: ["llm-supply-chain", "side-channel", "api-security"]
 cves: []
 source: "https://arxiv.org/abs/2608.20732"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** CacheTracer demonstrates that LLM API reseller chains are often multi-layer and opaque — prompts may traverse undisclosed intermediaries who can inspect or alter them. No patch exists; the takeaway is to audit which LLM API endpoints you use and prefer direct provider access or contractually disclosed routing for sensitive workloads.
 - **SOC/IR — Skip**

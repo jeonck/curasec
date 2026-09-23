@@ -9,7 +9,7 @@ tags: ["malware-delivery", "seo-poisoning", "threat-campaign"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The campaign highlights how SEO poisoning and gaming-themed lures bypass conventional download controls; no specific vulnerable software to patch, but useful context for reviewing employee software sourcing policies and endpoint allowlisting.
 - **SOC/IR — Learn:** No enrichment signals or IOCs surfaced in the summary; the campaign technique (commodity infra plus multi-payload staging) improves triage intuition but lacks enough detail here to write detections or run a hunt without reading the full report.

@@ -9,7 +9,7 @@ tags: ["memory-protection", "low-level-security", "exploit-mitigations"]
 cves: []
 source: "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Explores non-security implications of the NX bit that could inform how engineers think about memory layout and JIT compilation correctness, but no patch or configuration change is required.
 - **SOC/IR — Skip**

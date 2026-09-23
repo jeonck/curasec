@@ -9,7 +9,7 @@ tags: ["opinion", "security-strategy", "industry"]
 cves: []
 source: "https://jyn.dev/a-year-to-fix-security/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**
