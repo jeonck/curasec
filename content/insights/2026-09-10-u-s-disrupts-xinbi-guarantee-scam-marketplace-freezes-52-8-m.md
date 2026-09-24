@@ -9,7 +9,7 @@ tags: ["fraud", "cryptocurrency", "law-enforcement"]
 cves: []
 source: "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Law enforcement action against a Chinese-organized-crime scam-as-a-service marketplace offers context on pig-butchering and fraud infrastructure TTPs, but no IOCs or detections to act on.

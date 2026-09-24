@@ -9,7 +9,7 @@ tags: ["threat-actor", "financial-sector", "brazil"]
 cves: []
 source: "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** CrowdStrike's newly documented Slim Spider cluster adds a financial-sector threat actor to track; no IOCs or ATT&CK mappings are published yet, so no hunt or detection work is actionable until a fuller technical report surfaces.

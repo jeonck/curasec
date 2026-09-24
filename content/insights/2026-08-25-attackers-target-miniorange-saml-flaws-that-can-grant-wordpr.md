@@ -9,7 +9,7 @@ tags: ["wordpress", "saml", "privilege-escalation"]
 cves: ["CVE-2026-61979"]
 source: "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you run the miniOrange SAML 2.0 SSO WordPress plugin, update it immediately — unauthenticated privilege escalation to admin is high-severity, and active exploitation is claimed by Patchstack, though enrichment signals (EPSS 0.00, no KEV) don't corroborate it yet.
 - **SOC/IR — Learn:** No IOCs, ATT&CK mappings, or behavioral TTPs are published; if your estate includes WordPress with SAML SSO, note this as a precursor to watching for unexpected admin account creation, but there is no actionable detection surface today.

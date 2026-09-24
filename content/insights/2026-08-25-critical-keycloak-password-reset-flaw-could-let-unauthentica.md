@@ -9,7 +9,7 @@ tags: ["keycloak", "account-takeover", "identity-management"]
 cves: ["CVE-2026-18963"]
 source: "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Keycloak is a common IAM component in Kubernetes and cloud stacks; a public PoC for unauthenticated account takeover makes exploitation practical regardless of the low EPSS. Patch Keycloak to the fixed release immediately and audit authentication logs for anomalous password-reset activity since disclosure.
 - **SOC/IR — Plan:** No active exploitation or IOCs yet, but a public PoC raises the likelihood of opportunistic abuse soon. Build or tune a detection for high-volume or cross-account password-reset requests against Keycloak endpoints so you are ready to alert when attempts begin.

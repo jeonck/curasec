@@ -9,7 +9,7 @@ tags: ["social-engineering", "vendor-breach", "shinyhunters"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** ShinyHunters used internal-impersonation social engineering to target a security vendor employee; no software vulnerability involved, but worth reviewing your own internal verification procedures for sensitive access requests from apparent colleagues.
 - **SOC/IR — Learn:** Confirms ShinyHunters is actively targeting security vendor employees via insider-impersonation lures; no IOCs or ATT&CK-mappable TTPs are published here, so no immediate detection work is actionable.

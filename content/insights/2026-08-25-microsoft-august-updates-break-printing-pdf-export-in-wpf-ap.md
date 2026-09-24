@@ -9,7 +9,7 @@ tags: ["windows", "dotnet", "patch-tuesday"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you run WPF-based applications, hold or test the August .NET Framework update before deploying; monitor Microsoft's known-issue tracker for a fix or workaround before pushing to production.
 - **SOC/IR — Skip**

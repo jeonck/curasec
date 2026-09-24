@@ -9,7 +9,7 @@ tags: ["phishing", "third-party-breach", "email-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Active phishing campaign leveraging a breached third-party email provider to send lures from a trusted sending domain is a relevant TTP, but no IOCs or detection details are published to act on now.

@@ -9,7 +9,7 @@ tags: ["wordpress", "saml", "auth-bypass"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you run the miniOrange SAML 2.0 SSO plugin on any WordPress site, update it immediately — active exploitation attempts are underway and successful attacks yield unauthenticated admin access via forged SAML responses. Audit recent admin accounts and session logs for signs of unauthorized logins.
 - **SOC/IR — Act:** Active exploitation is in progress; hunt for anomalous SAML authentication events and unexpected admin account creation or logins on any WordPress instances in your estate, and tune detections for unusual authentication source patterns against WordPress admin endpoints.

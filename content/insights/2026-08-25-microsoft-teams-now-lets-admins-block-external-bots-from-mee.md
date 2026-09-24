@@ -9,7 +9,7 @@ tags: ["microsoft-teams", "collaboration-security", "admin-controls"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Enable the Teams meeting protection policy in your tenant admin settings to prevent uninvited external bots from joining meetings — worth configuring this quarter as part of M365 hardening.
 - **SOC/IR — Skip**
