@@ -9,7 +9,7 @@ tags: ["ai-security", "data-privacy", "developer-tools"]
 cves: []
 source: "https://github.com/xiaYuTian11/maskit"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A local reverse-proxy that redacts sensitive tokens before requests reach cloud LLMs (Cursor, Claude Code, Codex) and restores them in the response stream — worth evaluating if your team pipes proprietary code or credentials through AI coding assistants, but no exploitation or urgency signals exist.
 - **SOC/IR — Skip**

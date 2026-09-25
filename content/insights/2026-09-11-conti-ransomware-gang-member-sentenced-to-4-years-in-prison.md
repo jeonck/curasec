@@ -9,7 +9,7 @@ tags: ["ransomware", "law-enforcement", "conti"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Reinforces that Conti-era TTPs remain relevant for historical hunt context, but no new IOCs or detection angles are present in this sentencing news.

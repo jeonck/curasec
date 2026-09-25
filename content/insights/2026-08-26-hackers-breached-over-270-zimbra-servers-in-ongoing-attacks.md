@@ -9,7 +9,7 @@ tags: ["zimbra", "rce", "active-exploitation"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Over 270 confirmed compromises signals mass exploitation of this Zimbra Collaboration Suite RCE flaw — immediately determine if you run ZCS and apply the available patch; treat any internet-exposed Zimbra instance as potentially compromised pending verification.
 - **SOC/IR — Act:** Widespread active exploitation means assume-breach posture for any Zimbra environment: audit Zimbra server logs and web directories for web shells or anomalous POST requests since the campaign began, even without specific published IOCs.

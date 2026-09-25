@@ -9,7 +9,7 @@ tags: ["phishing-as-a-service", "microsoft-365", "mfa-bypass"]
 cves: []
 source: "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** AiTM phishing that defeats standard MFA is a config problem, not a patch problem — audit your Entra ID Conditional Access policies and prioritize migrating M365 users to phishing-resistant MFA (FIDO2/passkeys) this quarter, as TOTP and SMS are insufficient against this class of attack.
 - **SOC/IR — Act:** This campaign is active and broadly targeting US enterprises via M365; hunt for AiTM indicators in Entra ID sign-in logs now — flag token issuance from unexpected IPs, session establishment followed by unusual API activity, and impossible-travel events from the same session cookie.

@@ -9,7 +9,7 @@ tags: ["threat-digest", "android", "phishing"]
 cves: []
 source: "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The digest themes — overpermissioned extensions, supply-chain packages, and unpatched legacy bugs — are directionally relevant, but the summary is too thin to identify any specific software or action; skim the full roundup for items that touch your stack.
 - **SOC/IR — Learn:** Browser-based phishing chains that abuse trusted services are a useful TTP pattern to keep in mind when tuning lure-detection rules, but no IOCs or specific campaign details are surfaced here.

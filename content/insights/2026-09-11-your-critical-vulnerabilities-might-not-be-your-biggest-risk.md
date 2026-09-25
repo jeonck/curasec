@@ -9,7 +9,7 @@ tags: ["vulnerability-management", "risk-prioritization", "appsec"]
 cves: []
 source: "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Reinforces the case for context-aware vuln prioritization — accounting for network segmentation and identity controls when triaging scanner output — but introduces no new tooling or immediate remediation action.
 - **SOC/IR — Skip**

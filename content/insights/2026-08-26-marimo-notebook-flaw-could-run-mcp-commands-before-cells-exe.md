@@ -9,7 +9,7 @@ tags: ["mcp-security", "notebook-vulnerability", "python"]
 cves: []
 source: "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Teams using Marimo in AI/ML workflows should update to the patched version; the attack surface (opening a crafted notebook in edit mode triggers a local subprocess via MCP) is a real supply-chain-style risk, but no KEV listing, public PoC, or active exploitation signals mean this isn't an emergency patch.
 - **SOC/IR — Skip**
