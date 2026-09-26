@@ -9,7 +9,7 @@ tags: ["secrets-management", "git-security", "tooling"]
 cves: []
 source: "https://github.com/VanTaS15/RotationLedger"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful for auditing credential exposure windows in git history; evaluate for inclusion in CI/CD pre-commit or repo-scanning workflows alongside trufflehog/gitleaks.
 - **SOC/IR — Skip**

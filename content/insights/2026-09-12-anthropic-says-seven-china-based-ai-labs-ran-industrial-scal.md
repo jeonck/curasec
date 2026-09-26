@@ -9,7 +9,7 @@ tags: ["ai-security", "china-threat-actors", "model-distillation"]
 cves: []
 source: "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

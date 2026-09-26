@@ -9,7 +9,7 @@ tags: ["credential-theft", "data-breach", "government"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No exploited software CVE here — the attack vector was stolen third-party credentials with privileged database access, a reminder to audit external-party access grants and enforce MFA on any federated or shared accounts that touch sensitive datastores.
 - **SOC/IR — Learn:** No IOCs or ATT&CK-mapped TTPs are available, so there is nothing to hunt or tune on now; the breach pattern (compromised partner account → direct DB query) is worth filing as context for anomalous privileged-access hunting rules.
