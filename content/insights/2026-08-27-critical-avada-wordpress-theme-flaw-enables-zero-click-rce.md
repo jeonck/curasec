@@ -9,7 +9,7 @@ tags: ["wordpress", "rce", "web-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Avada is among the most widely deployed commercial WordPress themes, and unauthenticated PHP code execution is a maximum-severity primitive — update Avada to the patched release this sprint. No KEV listing or public PoC is confirmed yet, so this is urgent but not emergency-weekend work.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["data-breach", "shinyhunters", "retail"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** ShinyHunters continues active extortion operations; no IOCs or TTPs published from this incident to act on, but useful for tracking the group's targeting patterns.

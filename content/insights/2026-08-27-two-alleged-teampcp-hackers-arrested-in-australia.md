@@ -9,7 +9,7 @@ tags: ["supply-chain", "arrest", "open-source"]
 cves: []
 source: "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** TeamPCP allegedly planted malicious open-source packages in the longest-running supply-chain attack spree on record; no specific package names are yet attributed in this report, so monitor follow-on coverage for affected libraries and run a dependency audit once IOCs are published.
 - **SOC/IR — Learn:** No IOCs or ATT&CK-mappable TTPs are provided in current reporting; treat this as a campaign retrospective to inform supply-chain threat modeling once fuller technical details emerge from the prosecution.

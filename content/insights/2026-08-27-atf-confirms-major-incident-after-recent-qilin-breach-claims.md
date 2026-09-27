@@ -9,7 +9,7 @@ tags: ["ransomware", "qilin", "government-breach"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No attack vector or affected software identified in this report, so there is nothing to patch or reconfigure yet; monitor for technical disclosure about how Qilin gained access.
 - **SOC/IR — Plan:** Qilin ransomware is confirmed active against US federal targets; no IOCs or TTPs are published yet — queue a detection-readiness review for Qilin TTPs (double extortion, ESXi targeting) and set a watch for any forthcoming IOC releases from this incident.

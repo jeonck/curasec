@@ -9,7 +9,7 @@ tags: ["prompt-injection", "ai-ide", "data-exfiltration"]
 cves: []
 source: "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your developers run Amazon Kiro IDE 0.7.45 on Windows, verify whether a patched version is available and update; the prompt injection → data exfiltration path via Kiro Powers is a real supply-chain risk for dev environments. No KEV or PoC signals elevate this to Act.
 - **SOC/IR — Learn:** No IOCs, active exploitation evidence, or ATT&CK-mappable detection surface are present; the item illustrates a prompt injection exfiltration pattern in agentic IDEs worth tracking as AI dev tooling becomes a threat surface.

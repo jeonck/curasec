@@ -9,7 +9,7 @@ tags: ["byovd", "rat", "edr-evasion"]
 cves: []
 source: "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The BYOVD technique exploiting a vulnerable OPSWAT driver to kill security tools is a notable evasion class worth understanding, but current targeting is regionally focused on Cambodia with no enrichment signals (no KEV, no PoC, no high EPSS) to justify immediate action in most environments.
 - **SOC/IR — Plan:** Build or tune detections for vulnerable OPSWAT driver loads and anomalous security-tool process terminations consistent with BYOVD; Spark RAT is open-source and signatures should be available to add to EDR and SIEM rule sets this quarter.

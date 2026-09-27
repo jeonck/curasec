@@ -9,7 +9,7 @@ tags: ["entra-id", "identity", "least-privilege"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33284"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Run an Entra ID privileged role audit this quarter: export current role assignments, flag stale accounts from departed staff, and scope down over-provisioned roles (e.g. helpdesk accounts holding Global Admin) to least-privilege equivalents.
 - **SOC/IR — Learn:** Useful framing for why excessive Entra admin roles expand blast radius during identity-based intrusions, but no new TTPs, IOCs, or detection content here.

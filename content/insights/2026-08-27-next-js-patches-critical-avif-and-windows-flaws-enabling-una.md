@@ -9,7 +9,7 @@ tags: ["nextjs", "rce", "critical-cve"]
 cves: ["CVE-2026-75604"]
 source: "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Public PoC on GitHub for unauthenticated RCE in a ubiquitous web framework clears the bar for immediate action — upgrade Next.js to the patched release now, prioritizing any Windows-hosted deployments and any apps accepting untrusted image uploads.
 - **SOC/IR — Plan:** With a public PoC and no KEV listing yet, build detections for suspicious AVIF uploads and Windows-style path traversal sequences (e.g. ..\) in HTTP requests targeting Next.js routes before active exploitation begins.

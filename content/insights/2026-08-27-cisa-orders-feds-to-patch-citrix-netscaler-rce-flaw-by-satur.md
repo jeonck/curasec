@@ -9,7 +9,7 @@ tags: ["citrix-netscaler", "rce", "cisa-kev"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Citrix NetScaler is a common edge appliance; active exploitation of an RCE with a CISA KEV order makes this immediate. Identify all NetScaler instances in your environment and apply the vendor patch now — Saturday deadline applies to federal agencies but exploitation is not sector-limited.
 - **SOC/IR — Act:** Active exploitation of an edge RCE means attackers may already be inside before patching occurs; initiate an assume-breach sweep on NetScaler appliances, reviewing management-plane logs and lateral movement indicators since the vulnerability became public.
