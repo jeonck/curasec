@@ -9,7 +9,7 @@ tags: ["cve", "rce", "cpanel"]
 cves: ["CVE-2026-65643"]
 source: "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC exists for a root-level RCE in cPanel and WHM affecting all supported versions — update cPanel/WHM to the patched release immediately and verify no unauthorized access occurred on any exposed panels.
 - **SOC/IR — Plan:** With a public PoC now available, write or enable detections for anomalous root-process spawning from cPanel/WHM processes and unusual web requests to the cPanel/WHM management interfaces before exploitation campaigns begin.

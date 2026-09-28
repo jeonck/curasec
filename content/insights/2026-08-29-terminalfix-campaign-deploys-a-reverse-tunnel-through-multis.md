@@ -9,7 +9,7 @@ tags: ["clickfix", "threat-intel", "initial-access"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** DLL sideloading via fake CAPTCHA lures is a pattern worth understanding for hardening application allow-listing and endpoint controls, but no specific software patch or configuration change is required from this report alone.
 - **SOC/IR — Act:** Microsoft's analysis includes detections and hunting guidance — run the published hunts in your SIEM/EDR for DLL sideloading chains and reverse tunnel beaconing, and tune detections for ClickFix-style CAPTCHA lure execution paths since this campaign is actively tracked.

@@ -9,7 +9,7 @@ tags: ["gitea", "remote-code-execution", "patch"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you self-host Gitea, check your version immediately and patch to the latest release — Shadowserver confirms ongoing RCE exploitation against exposed instances, meaning unpatched servers are actively being targeted now.
 - **SOC/IR — Act:** Audit your estate for internet-exposed Gitea instances and hunt for signs of RCE compromise (unexpected processes, new admin accounts, modified repos) since exploitation is described as active; a compromised source-code platform carries serious supply-chain risk.

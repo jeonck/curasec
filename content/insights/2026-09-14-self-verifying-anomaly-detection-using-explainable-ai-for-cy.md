@@ -9,7 +9,7 @@ tags: ["anomaly-detection", "ot-security", "explainable-ai"]
 cves: []
 source: "https://arxiv.org/abs/2609.12305"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Academic paper exploring SHAP-based self-verification to flag inconsistent ML anomaly detection alerts — the explainability-as-confidence-check pattern could inform future ML detection pipelines, but the OT/DNP3 domain is too niche for most enterprise SOC teams.

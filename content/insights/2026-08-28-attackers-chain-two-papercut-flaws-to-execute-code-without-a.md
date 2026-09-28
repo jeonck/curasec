@@ -9,7 +9,7 @@ tags: ["papercut", "remote-code-execution", "active-exploitation"]
 cves: []
 source: "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Unauthenticated RCE via chained flaws in PaperCut NG/MF is being actively exploited; apply the emergency patch immediately and audit PaperCut server logs for unexpected Java process execution or outbound connections predating the patch.
 - **SOC/IR — Act:** Active exploitation of PaperCut print servers means assumed-breach posture is warranted — hunt for anomalous Java child processes or unusual network activity originating from PaperCut hosts since before the emergency patch date, and check EDR telemetry on any print-management systems.

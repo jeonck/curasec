@@ -9,7 +9,7 @@ tags: ["formal-verification", "access-control", "security-research"]
 cves: []
 source: "https://arxiv.org/abs/2609.12488"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic proof-of-concept showing that EverParse-style verified parsers can formally guarantee policy-faithful enforcement across an entire policy class, eliminating hand-written divergence bugs. Worth tracking if your team builds or evaluates security gateway or policy-enforcement tooling.
 - **SOC/IR — Skip**

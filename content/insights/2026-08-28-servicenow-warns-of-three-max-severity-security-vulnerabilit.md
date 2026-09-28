@@ -9,7 +9,7 @@ tags: ["vulnerability", "servicenow", "patch"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** ServiceNow is a common enterprise ITSM platform and code injection plus SQL injection at max severity warrant prioritized patching; no KEV listing or public PoC yet, so schedule within your normal critical patch window and update all ServiceNow AI Platform instances to the patched release.
 - **SOC/IR — Skip**

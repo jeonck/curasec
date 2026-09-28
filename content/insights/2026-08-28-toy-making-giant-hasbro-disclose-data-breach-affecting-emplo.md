@@ -9,7 +9,7 @@ tags: ["data-breach", "employee-data", "third-party-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** No IOCs or TTPs published; monitor for follow-on phishing lures targeting Hasbro employees that could appear in broader campaigns.

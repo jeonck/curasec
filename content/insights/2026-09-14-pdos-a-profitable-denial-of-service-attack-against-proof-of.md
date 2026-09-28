@@ -9,7 +9,7 @@ tags: ["blockchain", "denial-of-service", "research"]
 cves: []
 source: "https://arxiv.org/abs/2609.12450"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel theoretical attack showing PoW mining pool disruption can become economically self-sustaining; relevant only to engineers operating PoW mining infrastructure or building blockchain-dependent systems. No PoC, no enrichment signals, and no action required for typical cloud/AppSec environments.
 - **SOC/IR — Skip**

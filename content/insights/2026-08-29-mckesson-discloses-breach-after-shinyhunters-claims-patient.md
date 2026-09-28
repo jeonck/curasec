@@ -9,7 +9,7 @@ tags: ["healthcare-breach", "shinyhunters", "third-party-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Breach was via unauthorized access to third-party applications, not a patchable CVE; reinforces the need to audit and restrict third-party SaaS access, but no concrete engineering action is available from this disclosure alone.
 - **SOC/IR — Learn:** ShinyHunters attribution is a useful actor profile update, but no IOCs, TTPs, or detection-relevant technical detail are published yet; monitor for follow-on disclosures that include actionable indicators.

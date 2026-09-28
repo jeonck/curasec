@@ -9,7 +9,7 @@ tags: ["post-quantum-cryptography", "cryptography", "research"]
 cves: []
 source: "https://arxiv.org/abs/2609.11991"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Broad academic survey of PQC migration building blocks across TLS, IoT, and blockchain — useful background for planning crypto-agility work but requires no immediate action on running systems.
 - **SOC/IR — Skip**

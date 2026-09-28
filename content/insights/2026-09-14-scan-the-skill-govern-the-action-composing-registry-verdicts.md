@@ -9,7 +9,7 @@ tags: ["ai-agents", "skill-registry", "runtime-governance"]
 cves: []
 source: "https://arxiv.org/abs/2609.12001"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic research finding that skill scanners answer 'is this malicious?' but not 'is this action permitted right now?' — 34.7% of sandbox-executed commands carried consequences absent from documentation. Worth reviewing if your team is building or consuming agent skill registries, but no patch or config action today.
 - **SOC/IR — Learn:** No IOCs or ATT&CK-mapped TTPs, but the finding that 34.7% of agent-executed commands have undocumented consequence classes could inform future monitoring strategy for AI agent activity logging in your environment.

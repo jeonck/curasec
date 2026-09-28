@@ -9,7 +9,7 @@ tags: ["browser-extensions", "supply-chain", "crypto-theft"]
 cves: []
 source: "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit managed Chrome and Edge extension allowlists against the 19 identified malicious extensions (details in the Socket/Hacker News report); enforce an extension allowlisting policy to block unapproved installs in managed browser deployments.
 - **SOC/IR — Plan:** Pull endpoint telemetry to hunt for these extension IDs across managed devices; build or tune a detection for novel extension installations that request broad permissions aligned with credential or clipboard access.

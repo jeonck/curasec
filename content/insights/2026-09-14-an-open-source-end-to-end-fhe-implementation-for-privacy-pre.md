@@ -9,7 +9,7 @@ tags: ["fhe", "llm-privacy", "cryptography"]
 cves: []
 source: "https://arxiv.org/abs/2609.12378"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Odin's co-designed ciphertext packing approach for FHE LLM inference is a technique to watch if your team is evaluating privacy-preserving cloud inference architectures; no running systems need changes today.
 - **SOC/IR — Skip**

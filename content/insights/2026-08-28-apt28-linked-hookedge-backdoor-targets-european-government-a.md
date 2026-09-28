@@ -9,7 +9,7 @@ tags: ["apt28", "backdoor", "espionage"]
 cves: []
 source: "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Act:** APT28-linked HOOKEDGE is a new Windows batch-script backdoor actively used against government and diplomatic targets in Europe; hunt for suspicious batch-script persistence mechanisms and lateral movement patterns consistent with APT28 TTPs (ATT&CK: T1059.003) in Windows endpoint telemetry since September 2025.

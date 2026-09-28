@@ -9,7 +9,7 @@ tags: ["wordpress", "rce", "plugin-vulnerability"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Maximum-severity unauthenticated RCE in GiveWP is serious, but no KEV listing, public PoC, or active exploitation is confirmed in the signals; update GiveWP to the patched version this sprint and audit any WordPress instances running it.
 - **SOC/IR — Skip**

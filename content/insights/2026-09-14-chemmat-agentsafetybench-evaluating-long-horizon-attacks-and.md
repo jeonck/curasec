@@ -9,7 +9,7 @@ tags: ["ai-agents", "prompt-injection", "research"]
 cves: []
 source: "https://arxiv.org/abs/2609.11952"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Benchmark formalizes a taxonomy of long-horizon agentic attacks — tool chaining, memory poisoning, task injection — applicable beyond chemistry to any agent with persistent memory and tool access. No patch or CVE; use findings to inform threat modeling when designing or reviewing agentic systems.
 - **SOC/IR — Skip**

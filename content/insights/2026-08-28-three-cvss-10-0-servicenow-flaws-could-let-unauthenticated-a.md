@@ -9,7 +9,7 @@ tags: ["servicenow", "rce", "critical-vulnerability"]
 cves: []
 source: "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Three unauthenticated RCE/SQLi flaws at maximum severity demand prompt action, but no KEV listing or public PoC elevates this to Act yet. If running self-hosted ServiceNow, apply the patch this week and verify hosted instances received the automated update.
 - **SOC/IR — Skip**

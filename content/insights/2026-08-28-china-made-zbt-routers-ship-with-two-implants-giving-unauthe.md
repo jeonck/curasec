@@ -9,7 +9,7 @@ tags: ["supply-chain", "router-firmware", "hardware-backdoor"]
 cves: ["CVE-2026-74232", "CVE-2026-74233"]
 source: "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** ZBT is a niche brand unlikely in most enterprise estates, but the factory-implant nature and public PoCs on both CVEs elevate urgency if these devices are deployed; audit hardware inventory for any ZBT devices and replace or network-isolate them pending vendor response.
 - **SOC/IR — Plan:** If ZBT routers appear anywhere in the estate, treat them as pre-compromised and hunt for anomalous outbound traffic or unexpected management-plane connections; also worth adding device-model detection logic for SPEAKINGSTONE/DARKLANTERN C2 patterns if VulnCheck publishes IOCs.
