@@ -9,7 +9,7 @@ tags: ["ai-agents", "audit-tooling", "python"]
 cves: []
 source: "https://github.com/Matthew0822/ToolReplay"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you're running AI agents with tool-call capabilities, this CLI offers a lightweight way to audit transcripts for scope overreach — worth evaluating as a pipeline integrity check, but no immediate patching or configuration action required.
 - **SOC/IR — Skip**

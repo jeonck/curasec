@@ -9,7 +9,7 @@ tags: ["data-breach", "ransomware", "travel-sector"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Actor profile worth logging: FulcrumSec targets travel/transport sector and appears to exfiltrate before disclosure; no IOCs or TTPs published to act on yet.

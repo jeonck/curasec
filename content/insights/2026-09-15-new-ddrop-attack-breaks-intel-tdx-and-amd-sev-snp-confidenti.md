@@ -9,7 +9,7 @@ tags: ["confidential-computing", "hardware-attack", "intel-amd"]
 cves: []
 source: "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** DDRop undermines the threat model for confidential computing by exploiting memory write-drop behavior — engineers relying on TDX or SEV-SNP for workload isolation should understand this weakens TEE guarantees when supply-chain or physical access is a concern. No patch is applicable; audit whether your confidential-computing deployments assume physical integrity of the host.
 - **SOC/IR — Skip**

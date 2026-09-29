@@ -9,7 +9,7 @@ tags: ["detection-engineering", "red-team", "security-testing"]
 cves: []
 source: "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Argues that testing individual techniques in isolation produces false confidence; worth reading to evaluate whether current detection validation covers multi-stage chain scenarios rather than single-technique rule fires.

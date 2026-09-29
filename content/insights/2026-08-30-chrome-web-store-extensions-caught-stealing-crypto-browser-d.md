@@ -9,7 +9,7 @@ tags: ["browser-extension", "infostealer", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit installed Chrome/Edge extensions across your managed fleet and enforce an allowlist policy; no CISA KEV or active enterprise exploitation signal, but browser extension supply-chain risk is real for developer workstations.
 - **SOC/IR — Act:** Hunt for suspicious extension IDs from the reported malicious set in browser inventory logs and EDR telemetry; also look for ClickFix lure behavior (fake captcha/update prompts triggering clipboard/PowerShell execution) as a detection pattern since this reporting date.

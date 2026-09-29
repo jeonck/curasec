@@ -9,7 +9,7 @@ tags: ["wordpress", "supply-chain", "plugin-security"]
 cves: []
 source: "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** This new control reduces supply-chain risk for WordPress plugin updates; no immediate action needed, but worth monitoring for how it integrates with your update workflows if you run WordPress sites.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["insider-threat", "physical-security", "government"]
 cves: []
 source: "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** A concrete insider-threat case involving hardware substitution that evaded detection — useful context for thinking about physical asset integrity controls and insider detection gaps, though no IOCs or detection rules apply here.

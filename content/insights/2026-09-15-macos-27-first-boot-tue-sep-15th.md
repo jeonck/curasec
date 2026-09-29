@@ -9,7 +9,7 @@ tags: ["macos", "network-traffic", "baseline"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33340"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful baseline for what macOS 27 generates at boot before user login — helpful for tuning host-based or network egress controls on managed Mac fleets.
 - **SOC/IR — Learn:** Documenting expected first-boot traffic patterns for macOS 27 can help analysts distinguish normal Apple service calls from anomalous early-boot beaconing.

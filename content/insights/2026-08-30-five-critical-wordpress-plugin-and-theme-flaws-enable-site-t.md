@@ -9,7 +9,7 @@ tags: ["wordpress", "rce", "authentication-bypass"]
 cves: ["CVE-2026-76581"]
 source: "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CVSS 9.8 authentication bypass and RCE affecting commonly deployed plugins (Avada, GiveWP, TranslatePress, Pods, WPMU DEV Dashboard), with a public PoC already on GitHub; patch all five to their latest patched releases before the PoC accelerates exploitation.
 - **SOC/IR — Plan:** No active exploitation confirmed (EPSS 0.00, not on KEV), but the public PoC shortens the window; build or tune detections for anomalous WordPress admin account creation and unauthenticated POST requests targeting these plugin endpoints this sprint.

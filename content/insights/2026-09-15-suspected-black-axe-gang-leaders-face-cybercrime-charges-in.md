@@ -9,7 +9,7 @@ tags: ["cybercrime", "financial-fraud", "law-enforcement"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Black Axe is a well-documented BEC and financial fraud syndicate; this extradition confirms continued law enforcement pressure but offers no new IOCs or TTPs to act on.

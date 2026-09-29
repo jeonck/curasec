@@ -9,7 +9,7 @@ tags: ["clickfix", "social-engineering", "powershell"]
 cves: []
 source: "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel ClickFix variant redirecting victims to Windows Terminal/PowerShell rather than the Run dialog increases execution success for complex payloads; no patch applies, but this is a good prompt to verify PowerShell Script Block Logging and AMSI are enabled and that AppLocker/WDAC policies restrict terminal abuse.
 - **SOC/IR — Plan:** Build or tune detections for browser or web-content processes spawning Windows Terminal/PowerShell children that then launch reverse-tunnel tooling; also baseline and alert on known tunnel binaries (ngrok, frp, chisel) appearing post-user-session, since no IOCs are published yet to support an immediate hunt.

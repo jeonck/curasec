@@ -9,7 +9,7 @@ tags: ["responsible-disclosure", "huggingface", "vulnerability-reporting"]
 cves: []
 source: "https://huggingface.co/security.txt"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If your team uses HuggingFace for model hosting or inference, this is now the confirmed channel for reporting security issues; also a low-effort reminder to verify your own services expose a security.txt per RFC 9116.
 - **SOC/IR — Skip**
