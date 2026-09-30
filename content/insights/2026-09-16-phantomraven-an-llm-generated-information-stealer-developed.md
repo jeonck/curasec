@@ -9,7 +9,7 @@ tags: ["llm-malware", "information-stealer", "ai-threats"]
 cves: []
 source: "https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/"
 source_name: "CrowdStrike Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No patch or config action needed, but LLM-assisted malware development lowers the bar for novel stealer creation — worth understanding how these tools evade static detection when evaluating your endpoint/CI pipeline defenses.
 - **SOC/IR — Learn:** No IOCs or enrichment signals published with this item, so no immediate hunt or detection to build; file as context on LLM-assisted malware tradecraft for future triage judgment on similar threats.
