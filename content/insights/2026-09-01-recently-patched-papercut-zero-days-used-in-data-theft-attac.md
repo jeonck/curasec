@@ -9,7 +9,7 @@ tags: ["zero-day", "active-exploitation", "print-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** PaperCut NG/MF was exploited as a zero-day and attacks are ongoing — patch to the latest released version immediately and audit server logs for signs of unauthorized access or data exfiltration.
 - **SOC/IR — Act:** Active data theft via PaperCut exploitation means assume-breach posture for any organization running PaperCut — hunt for anomalous outbound traffic and lateral movement from PaperCut servers since before the patch date.

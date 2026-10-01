@@ -9,7 +9,7 @@ tags: ["auth", "cryptography", "open-source"]
 cves: []
 source: "https://github.com/sashyo/minidauth"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel approach to auth key custody — distributing key control so no single party holds the decryption key is worth understanding for future auth architecture decisions, but the project is nascent (96 stars, no enrichment signals) and not ready for production evaluation.
 - **SOC/IR — Skip**

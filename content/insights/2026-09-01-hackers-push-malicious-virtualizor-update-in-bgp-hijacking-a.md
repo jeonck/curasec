@@ -9,7 +9,7 @@ tags: ["supply-chain", "bgp-hijacking", "virtualizor"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Any environment running Virtualizor may have received a trojaned update; immediately verify installed binary integrity against known-good checksums and audit servers for post-compromise artifacts. If update timestamps align with the hijack window, treat the host as compromised and scope accordingly.
 - **SOC/IR — Act:** Identify all Virtualizor-managed hosts in the estate and flag them for assume-breach review; hunt for unusual process execution, outbound connections, or file modifications following recent update activity on those hosts.

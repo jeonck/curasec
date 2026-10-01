@@ -9,7 +9,7 @@ tags: ["ai-agents", "supply-chain", "llm-security"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33298"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Honeypot research shows that untrusted 'free' LLM backends receive full coding-agent context — filesystem paths, conversation history, tool manifests — before any response is sent. Audit every LLM endpoint configured in your coding agents and ensure all traffic goes to verified, first-party providers.
 - **SOC/IR — Learn:** Demonstrates a passive exfiltration path: coding agents silently send working paths and tool manifests to whatever endpoint they're pointed at. No IOCs or active campaign here, but useful context for future detections around unexpected outbound HTTPS from dev tools to novel LLM API hosts.

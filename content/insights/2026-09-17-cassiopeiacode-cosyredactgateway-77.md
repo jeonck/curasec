@@ -9,7 +9,7 @@ tags: ["llm-security", "secret-redaction", "privacy"]
 cves: []
 source: "https://github.com/CassiopeiaCode/CosyRedactGateway"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you pipe internal data through OpenAI or Anthropic APIs, this stateless proxy pattern is worth evaluating as a DLP layer; no active exploit pressure, but the architecture addresses a real secret-leakage risk in LLM-integrated pipelines.
 - **SOC/IR — Skip**

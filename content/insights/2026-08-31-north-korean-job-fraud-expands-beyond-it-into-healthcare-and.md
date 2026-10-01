@@ -9,7 +9,7 @@ tags: ["insider-threat", "dprk", "social-engineering"]
 cves: []
 source: "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Expands the known DPRK IT-worker insider-threat profile into healthcare and sales; no IOCs or ATT&CK-mapped TTPs are provided, so there is no detection work to action today, but analysts should update their mental model of which hiring pipelines are targeted.

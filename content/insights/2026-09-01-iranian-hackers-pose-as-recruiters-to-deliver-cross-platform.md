@@ -9,7 +9,7 @@ tags: ["apt", "malware", "social-engineering"]
 cves: []
 source: "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No KEV or PoC; the threat is primarily social-engineering toward developers, not a patchable software flaw. Worth reviewing whether developer workstations enforce controls on arbitrary Node.js execution from downloaded archives.
 - **SOC/IR — Plan:** Two new undocumented cross-platform RAT families using Node.js/JavaScript targeting Linux and macOS; build behavioral detections for suspicious Node.js child-process spawning on developer endpoints following unsolicited external file execution.

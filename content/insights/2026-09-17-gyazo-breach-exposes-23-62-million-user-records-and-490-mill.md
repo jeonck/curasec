@@ -9,7 +9,7 @@ tags: ["data-breach", "credential-exposure", "third-party-risk"]
 cves: []
 source: "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Gyazo is a common developer screenshot tool, not infrastructure you run; if your team uses it, check for corporate accounts and enforce credential rotation since password hashes were exposed.
 - **SOC/IR — Learn:** No IOCs or TTPs published with this breach notification; monitor for credential-stuffing attempts against corporate SSO if employees use Gyazo with shared passwords, but no immediate hunt action is supported by the available detail.

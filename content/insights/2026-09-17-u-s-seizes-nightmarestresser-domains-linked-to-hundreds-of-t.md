@@ -9,7 +9,7 @@ tags: ["ddos", "law-enforcement", "takedown"]
 cves: []
 source: "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** NightmareStresser takedown reduces one booter service, but no IOCs or detection artifacts are provided; useful context for DDoS threat landscape awareness.

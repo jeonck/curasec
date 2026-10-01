@@ -9,7 +9,7 @@ tags: ["clickfix", "social-engineering", "powershell"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No patchable CVE — this is a user-execution social engineering chain. Evaluate whether your environment enforces PowerShell Constrained Language Mode or WDAC policies that would limit blast radius if a user runs attacker-supplied terminal commands.
 - **SOC/IR — Plan:** Build or tune detections for PowerShell processes spawned from browser-related parent processes, and alert on known reverse-tunnel binaries (chisel, ngrok, etc.); the ClickFix TTP pattern is well-documented and Sigma rules exist to template from.

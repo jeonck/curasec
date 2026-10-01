@@ -9,7 +9,7 @@ tags: ["data-broker", "privacy-law", "legal-action"]
 cves: []
 source: "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

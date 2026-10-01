@@ -9,7 +9,7 @@ tags: ["post-quantum-cryptography", "cryptographic-inventory", "static-analysis"
 cves: []
 source: "https://github.com/XiantingWu/PQCensus"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** PQCensus scans repos for quantum-vulnerable cryptography and produces SARIF/CycloneDX output — worth evaluating as a low-friction way to build a crypto-agility baseline ahead of NIST PQC migration deadlines, but requires no immediate system change.
 - **SOC/IR — Skip**

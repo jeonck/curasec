@@ -9,7 +9,7 @@ tags: ["adversarial-ai", "malware-analysis", "uac-0099"]
 cves: []
 source: "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** GuardBreaker shows that AI-assisted malware scanning can be manipulated at the artifact level; no patch or config change is needed today, but engineers building AI-augmented security pipelines should understand this evasion class.
 - **SOC/IR — Plan:** Review any AI/LLM-assisted triage or malware-analysis workflows and add a mandatory human-review layer for suspected APT samples — do not treat LLM output as authoritative when analyzing artifacts from sophisticated actors.

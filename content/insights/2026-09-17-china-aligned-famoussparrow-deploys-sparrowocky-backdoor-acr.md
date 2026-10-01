@@ -9,7 +9,7 @@ tags: ["apt", "backdoor", "latin-america"]
 cves: []
 source: "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No CVE or patchable software surface identified — this is a modular C++ backdoor deployed by a nation-state actor. Review ESET's technical report for evasion techniques that may inform detection or hardening decisions.
 - **SOC/IR — Learn:** No IOCs or ATT&CK mappings surfaced in the current summary; read the full ESET technical report to extract TTPs and candidate detection rules, especially if your environment covers Latin American entities or sectors FamousSparrow has historically targeted.

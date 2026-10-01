@@ -9,7 +9,7 @@ tags: ["open-source", "security-tooling", "cloudflare"]
 cves: []
 source: "https://github.com/cloudflare/security-audit-skill"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Cloudflare's open-source security audit tooling may be worth evaluating for integration into security review workflows; no vulnerability or exploitation pressure, just new tooling to assess.
 - **SOC/IR — Skip**

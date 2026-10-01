@@ -9,7 +9,7 @@ tags: ["fire-ant", "cisco-ios-xr", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active IR-confirmed intrusion targeting Cisco IOS XR routers and TACACS servers — infrastructure many enterprises run for network auth. Immediately audit IOS XR devices and TACACS servers for unauthorized configuration changes or unfamiliar accounts, and verify log-forwarding integrity to confirm no tampering with your SIEM feed.
 - **SOC/IR — Act:** Log blinding on network management infrastructure means your SIEM may already have gaps; hunt for evidence of disrupted or absent log streams from routers and TACACS hosts since Fire Ant's presence was confirmed via IR, not alerts. Cross-reference authentication events on Linux management hosts against expected baselines to surface lateral movement.

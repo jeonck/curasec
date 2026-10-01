@@ -9,7 +9,7 @@ tags: ["ai-safety", "model-incidents", "vendor-transparency"]
 cves: []
 source: "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful background for teams building on OpenAI APIs — understanding what classes of unexpected model behavior have occurred informs safer system design, but no patch, config change, or credential rotation is required today.
 - **SOC/IR — Skip**

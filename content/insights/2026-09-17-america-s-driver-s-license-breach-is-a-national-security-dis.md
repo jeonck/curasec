@@ -9,7 +9,7 @@ tags: ["data-breach", "identity", "national-security"]
 cves: []
 source: "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** This retrospective on a large-scale identity data breach is useful background for understanding phishing and identity-fraud lure techniques, but no IOCs or detectable TTPs are present to act on.
