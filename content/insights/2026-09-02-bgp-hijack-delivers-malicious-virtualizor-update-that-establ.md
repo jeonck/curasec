@@ -9,7 +9,7 @@ tags: ["bgp-hijack", "supply-chain", "virtualizor"]
 cves: []
 source: "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Any Virtualizor installation that auto-updated after August 28 at ~20:57 UTC may have received the trojanized package and should be treated as compromised; immediately audit those hypervisors for persistence mechanisms (cron, SSH keys, kernel modules) and isolate pending forensic review.
 - **SOC/IR — Act:** Confirmed root-level compromise on 5 hypervisors with an update-window starting August 28 at 20:57 — sweep all Virtualizor hosts for new root SSH authorized_keys, unexpected cron jobs, or novel init services added after that timestamp; initiate assume-breach IR process for any positive hits.

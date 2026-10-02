@@ -9,7 +9,7 @@ tags: ["threat-actor", "apt", "ransomware"]
 cves: []
 source: "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Kaspersky's reporting on NightEagle, Hacking Cat, and Toy Ghouls documents new persistence and lateral movement techniques, but without published IOCs or ATT&CK mappings in the summary, there is no immediate detection work to act on.

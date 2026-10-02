@@ -9,7 +9,7 @@ tags: ["data-breach", "healthcare", "vendor-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

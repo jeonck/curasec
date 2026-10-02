@@ -9,7 +9,7 @@ tags: ["remote-access", "phishing", "endpoint"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No CVE or patch involved — attackers are abusing a legitimate admin tool's functionality. Review whether Faronics Deploy is in your environment and whether its deployment permissions are appropriately scoped.
 - **SOC/IR — Act:** Hunt for unexpected ScreenConnect installations originating from Faronics Deploy processes; build detections for remote-management tool deployments not initiated by IT change management workflows.

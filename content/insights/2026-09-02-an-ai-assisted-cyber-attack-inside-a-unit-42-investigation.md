@@ -9,7 +9,7 @@ tags: ["ai-attacks", "agentic-threats", "incident-response"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** AI-assisted autonomous agents as an attack vector is a novel threat class worth understanding for defensive architecture review, but no specific software to patch or configuration to change is identified in the summary.
 - **SOC/IR — Plan:** An IR-documented agentic attack likely contains detectable behavioral patterns (rapid lateral movement, automated enumeration); read the full Unit 42 report to extract any TTPs and evaluate whether existing detections cover AI-accelerated intrusion timelines.

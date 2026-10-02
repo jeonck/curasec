@@ -9,7 +9,7 @@ tags: ["third-party-breach", "identity", "saas"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** The flaw is on Lenovo's side, not patchable by your team, but audit all corporate Dropbox accounts for unauthorized access and disable any Lenovo-linked authentication integrations in your Dropbox admin console.
 - **SOC/IR — Act:** Dropbox accounts are actively compromised — review Dropbox audit logs for anomalous sign-ins tied to Lenovo ID authentication since the earliest affected date and sweep for any corporate accounts flagged by Dropbox's warning.

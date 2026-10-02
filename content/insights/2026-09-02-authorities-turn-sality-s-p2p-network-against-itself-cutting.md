@@ -9,7 +9,7 @@ tags: ["botnet-takedown", "law-enforcement", "malware"]
 cves: []
 source: "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Sality is a long-running Windows file-infector botnet; the takedown disrupts payload delivery but poses no new patching requirement. Worth understanding the P2P sinkholing technique for resilience lessons in your own defenses.
 - **SOC/IR — Plan:** Review whether any endpoints in your estate show Sality indicators; the takedown disruption of C2 may cause anomalous beacon behavior from previously silent infections — tune EDR/SIEM to surface residual Sality activity in the next few weeks.

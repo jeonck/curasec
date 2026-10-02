@@ -9,7 +9,7 @@ tags: ["malware", "supply-chain", "initial-access"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit software procurement and build pipelines to ensure installers are sourced from verified vendor URLs or checksummed official releases; review SBOM/dependency sources for any unverified binaries introduced via download steps.
 - **SOC/IR — Act:** Microsoft published IOCs and Defender XDR detection logic for this active campaign — sweep for the provided IOCs now and tune detections to flag execution of installer-dropped payloads from user download directories.

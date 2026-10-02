@@ -9,7 +9,7 @@ tags: ["npm", "supply-chain", "malware"]
 cves: []
 source: "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** LLM-assisted malware development lowering the barrier for supply-chain attacks on npm is worth noting for security posture, but the summary names no specific packages or versions to audit — monitor threat intel feeds for IOCs before taking action.
 - **SOC/IR — Learn:** No IOCs, package names, or ATT&CK-mapped TTPs are provided, so no detection or hunt is actionable now; file the LLM-written malware pattern as context for future npm-related alert triage.
