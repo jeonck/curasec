@@ -9,7 +9,7 @@ tags: ["malware", "endpoint-security", "windows"]
 cves: []
 source: "https://thehackernews.com/2026/09/fake-software-installers-disable.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Campaign relies on social engineering (users fetching pirated/fake installers) rather than exploitable vulnerabilities in deployed software. No KEV, PoC, or EPSS signals; primary defense is enforcing managed software distribution and allowlisting, not an emergency patch.
 - **SOC/IR — Plan:** The confirmed TTPs — disabling Windows Update and tampering with Defender — are detectable via EDR telemetry and SIEM. Build or tune detections for Windows Update service disablement and Defender policy modification events, and prioritize coverage for endpoints associated with China-based operations if applicable.

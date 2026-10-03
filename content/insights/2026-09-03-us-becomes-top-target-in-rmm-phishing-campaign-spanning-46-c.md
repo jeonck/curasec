@@ -9,7 +9,7 @@ tags: ["phishing", "rmm-abuse", "threat-campaign"]
 cves: []
 source: "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** RMM tool abuse as a phishing payload vector is a design-level concern for teams that deploy RMM software; no specific CVE or patch is indicated, and the summary lacks enough technical detail to drive a configuration change.
 - **SOC/IR — Plan:** The ANY.RUN dataset of 601 cases offers an opportunity to pull sandbox telemetry and build or tune detections for tax-lure phishing delivering RMM agents; prioritize hunting for unexpected RMM tool installations and outbound RMM beacons in US-based enterprise estates.

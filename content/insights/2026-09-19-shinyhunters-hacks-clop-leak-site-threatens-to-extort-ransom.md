@@ -9,7 +9,7 @@ tags: ["ransomware", "threat-actor", "extortion"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Intra-criminal conflict between ShinyHunters and Clop has no immediate detection action, but the potential leak of Clop's onion private keys and server data could expose victim data or Clop TTPs — monitor for any published data that surfaces IOCs or infrastructure details.

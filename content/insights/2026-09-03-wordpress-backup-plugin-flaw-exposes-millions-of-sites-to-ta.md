@@ -9,7 +9,7 @@ tags: ["wordpress", "sql-injection", "rce"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you run WordPress with All-in-One WP Migration and Backup installed, update the plugin to the patched version immediately; no KEV listing or public PoC confirmed yet, so this is urgent-but-not-emergency patching.
 - **SOC/IR — Skip**

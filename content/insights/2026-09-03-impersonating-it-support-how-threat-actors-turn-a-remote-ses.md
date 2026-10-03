@@ -9,7 +9,7 @@ tags: ["social-engineering", "teams-abuse", "lateral-movement"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit and tighten Microsoft Teams external access policies to block or restrict unsolicited external chat from unknown tenants; review which remote-access tools are permitted and ensure Node.js execution from user-writable paths is monitored or blocked.
 - **SOC/IR — Act:** Active human-operated campaign with clear TTPs: external Teams chat impersonating IT support → remote session → Node.js implant → lateral movement via living-off-the-land tools. Hunt for Node.js spawning unusual child processes, remote-access tool sessions initiated from external Teams contacts, and abnormal lateral movement patterns since early September 2026; tune EDR rules on Teams-initiated process chains.

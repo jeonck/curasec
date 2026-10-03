@@ -9,7 +9,7 @@ tags: ["crowdstrike", "privilege-escalation", "zero-day"]
 cves: []
 source: "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC now exists for a 0day privilege escalation in CrowdStrike Falcon Sensor — a highly privileged process running on every protected endpoint. Monitor CrowdStrike's advisory channel for an emergency patch and audit endpoint telemetry for local privilege escalation events involving Falcon processes.
 - **SOC/IR — Act:** With a public PoC available, this turns your own EDR agent into an attack vector; begin hunting for macro remediation abuse and anomalous privilege escalation events in Falcon telemetry from the PoC release date forward, and alert on-call that detections from Falcon on affected hosts may be less trustworthy until patched.
