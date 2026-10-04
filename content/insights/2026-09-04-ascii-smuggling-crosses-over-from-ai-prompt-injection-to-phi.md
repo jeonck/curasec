@@ -9,7 +9,7 @@ tags: ["phishing", "evasion-technique", "email-security"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit email security gateway and content-inspection rules to detect invisible Unicode characters used to bypass filters; evaluate whether your email platform has updated signatures for this evasion class.
 - **SOC/IR — Act:** Build or tune detection rules to flag emails containing invisible/tag Unicode codepoints (U+E0000 range); hunt for recent phishing lures that may have bypassed filters using this technique since the evasion method is now publicly documented.

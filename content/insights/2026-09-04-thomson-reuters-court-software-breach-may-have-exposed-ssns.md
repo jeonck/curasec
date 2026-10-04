@@ -9,7 +9,7 @@ tags: ["vendor-breach", "court-data", "pii"]
 cves: []
 source: "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

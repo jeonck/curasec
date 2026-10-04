@@ -9,7 +9,7 @@ tags: ["rce", "network-infrastructure", "patch"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Patch ArubaOS-CX to the fixed version HPE released; no KEV listing or public PoC signals active exploitation, but a critical RCE on network OS warrants scheduled patching this quarter.
 - **SOC/IR — Skip**

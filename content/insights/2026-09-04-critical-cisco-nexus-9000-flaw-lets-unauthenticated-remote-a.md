@@ -9,7 +9,7 @@ tags: ["cisco", "network-infrastructure", "rce"]
 cves: ["CVE-2026-20212"]
 source: "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Public PoC on GitHub for an unauthenticated root RCE on widely deployed data-center switches raises exploitation risk even with low EPSS; apply Cisco's Nexus 9000 patch now and separately assess IOS XR exposure for the two 9.8-rated CVEs that have no available workaround.
 - **SOC/IR — Plan:** No active exploitation confirmed yet, but the public PoC means attempts are likely imminent; build detections for anomalous access to Nexus 9000 management interfaces and prepare a hunt query baseline now before KEV listing forces a reactive response.
