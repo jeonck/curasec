@@ -9,7 +9,7 @@ tags: ["genai-privacy", "threat-modeling", "research"]
 cves: []
 source: "https://arxiv.org/abs/2609.20884"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic position paper identifying a gap between GenAI-specific privacy threat models and available mitigations — no patch or config change required, but the framework analysis is useful when evaluating privacy controls for systems that incorporate LLMs or other generative components.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["llm-security", "network-policy", "ai-automation"]
 cves: []
 source: "https://arxiv.org/abs/2609.21103"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research finding that fine-tuned LLMs exhibit false negative rates when validating proposed network intents against security policy — a design-relevant caution for teams evaluating LLM-based network automation or IBN tooling.
 - **SOC/IR — Skip**

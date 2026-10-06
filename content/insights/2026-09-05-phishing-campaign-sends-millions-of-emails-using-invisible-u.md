@@ -9,7 +9,7 @@ tags: ["phishing", "email-security", "evasion"]
 cves: []
 source: "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit email security gateway and filtering pipeline for Unicode normalization support; configure rules to strip or flag invisible Unicode tag characters (U+E0000 block) before keyword matching, as current filter logic may silently pass these.
 - **SOC/IR — Act:** Active high-volume campaign with a specific, huntable TTP: query recent inbound email logs for messages containing invisible Unicode tag characters interleaved within financial keywords; tune SEG/SIEM detections to flag this pattern going forward.

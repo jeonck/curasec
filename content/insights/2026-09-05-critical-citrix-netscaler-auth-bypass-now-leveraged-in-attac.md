@@ -9,7 +9,7 @@ tags: ["citrix-netscaler", "auth-bypass", "active-exploitation"]
 cves: ["CVE-2026-19490"]
 source: "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** NetScaler is a widely deployed internet-facing edge appliance; a public PoC plus reported active exploitation makes patching urgent even absent a KEV listing — apply Citrix's fix for CVE-2026-19490 immediately and audit NetScaler access logs for anomalous sessions since the PoC was published.
 - **SOC/IR — Act:** Auth bypass on an edge device in active exploitation is assume-breach territory — sweep NetScaler access logs for unauthorized session establishment and anomalous management-plane activity dating back to when the public PoC dropped, and tune detections for post-auth lateral movement from NetScaler source IPs.

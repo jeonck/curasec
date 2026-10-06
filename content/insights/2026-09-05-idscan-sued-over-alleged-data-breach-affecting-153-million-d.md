@@ -9,7 +9,7 @@ tags: ["data-breach", "identity-verification", "litigation"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** A breach at a major identity verification vendor exposes the scale of risk in third-party ID data aggregators; no IOCs or TTPs published yet to act on.

@@ -9,7 +9,7 @@ tags: ["tpm-attestation", "linux-security", "integrity-measurement"]
 cves: []
 source: "https://arxiv.org/abs/2609.20909"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The attestation architecture — binding TPM quotes to server nonces, constructing Merkle trees over IMA logs, and using LD_PRELOAD to intercept SDK calls — offers transferable patterns for zero-trust device health and supply-chain integrity checks, though no running systems need changes today.
 - **SOC/IR — Skip**

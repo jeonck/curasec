@@ -9,7 +9,7 @@ tags: ["http-standards", "web-security", "appsec"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33358"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Covers how GET requests with bodies are handled in practice and the rationale for the new HTTP Query method — useful context when auditing proxy or API gateway behavior around non-standard request shapes.
 - **SOC/IR — Skip**

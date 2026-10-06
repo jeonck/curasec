@@ -9,7 +9,7 @@ tags: ["privacy-auditing", "re-identification", "llm-attack"]
 cves: []
 source: "https://arxiv.org/abs/2609.21340"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel framework for certifying per-document re-identification risk against LLM-powered adversaries; worth tracking if your team publishes or reviews text datasets, as it offers a more principled alternative to ad-hoc PII scrubbing audits.
 - **SOC/IR — Skip**

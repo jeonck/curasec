@@ -9,7 +9,7 @@ tags: ["aws-iam", "credential-exposure", "cloud-security"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Covers AWS's automated response to leaked IAM credentials via managed policy quarantine and CloudTrail monitoring — useful design context for incident runbooks and understanding AWS-side controls, but no patch or immediate action required.
 - **SOC/IR — Learn:** Details on CloudTrail signals and GitHub secret scanning patterns for detecting exposed IAM credentials are worth incorporating into hunting playbooks, though no active exploitation or IOCs are present here.

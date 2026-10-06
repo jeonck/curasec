@@ -9,7 +9,7 @@ tags: ["mikrotik", "edge-device", "active-exploitation"]
 cves: []
 source: "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active exploitation of internet-exposed MikroTik SSH granting full admin access is confirmed by CERT Polska; immediately audit all MikroTik devices for internet-reachable SSH, restrict SSH to management-only networks, and review recent device configurations for unauthorized changes since September 2.
 - **SOC/IR — Act:** Edge device full-takeover with confirmed active exploitation since at least September 2 is an assume-breach signal; sweep MikroTik routers for unauthorized admin sessions and configuration changes, and check for anomalous outbound traffic from these devices as a lateral-movement indicator.

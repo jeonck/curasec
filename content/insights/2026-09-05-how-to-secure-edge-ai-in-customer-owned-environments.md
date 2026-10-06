@@ -9,7 +9,7 @@ tags: ["edge-ai", "ai-security", "zero-trust"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Covers trust verification patterns for AI assets deployed outside the corporate perimeter — worth reviewing if you're designing attestation or supply-chain controls for edge ML workloads, but no patch or configuration action required.
 - **SOC/IR — Skip**

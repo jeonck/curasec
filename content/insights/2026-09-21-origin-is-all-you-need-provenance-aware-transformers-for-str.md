@@ -9,7 +9,7 @@ tags: ["llm-security", "prompt-injection", "ai-architecture"]
 cves: []
 source: "https://arxiv.org/abs/2609.21088"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel architectural approach that assigns ring IDs to tokens by origin, creating hard trust boundaries inside the model — relevant for teams building or evaluating LLM pipelines, but no deployable artifact or patch exists yet.
 - **SOC/IR — Learn:** Reinforces that indirect prompt injection is a structural problem in current LLM deployments, useful context for analysts building detection logic around agentic or RAG-based systems, but no IOCs or hunt opportunities here.

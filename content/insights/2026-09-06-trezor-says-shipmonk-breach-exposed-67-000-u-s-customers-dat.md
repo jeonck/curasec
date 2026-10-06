@@ -9,7 +9,7 @@ tags: ["vendor-breach", "supply-chain", "data-exposure"]
 cves: []
 source: "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No vulnerability to patch; the salient lesson is that vendor data-deletion attestations cannot be taken at face value — worth reviewing contractual data-retention obligations and requesting evidence (not just assertions) from third-party logistics or fulfillment partners holding customer PII.
 - **SOC/IR — Skip**

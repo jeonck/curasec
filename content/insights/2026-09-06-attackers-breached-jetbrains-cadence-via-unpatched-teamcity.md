@@ -9,7 +9,7 @@ tags: ["teamcity", "supply-chain", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you use JetBrains Cadence, immediately revoke and rotate all credentials and secrets used in Cadence executions; also patch any self-hosted TeamCity instances to eliminate the exploited critical vulnerability.
 - **SOC/IR — Act:** If Cadence is in your environment, treat extracted AWS credentials as compromised and hunt for anomalous IAM activity or unexpected AWS API calls originating from CI/CD workloads since last month's breach window.

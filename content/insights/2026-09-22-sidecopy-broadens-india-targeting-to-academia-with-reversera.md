@@ -9,7 +9,7 @@ tags: ["threat-actor", "spear-phishing", "apt"]
 cves: []
 source: "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Documents SideCopy's expansion to Indian academic targets using mshta.exe LOLBAS execution to bypass defenses — useful actor-profile context, but no IOCs are provided and the campaign is regionally and sector-specific, limiting immediate detection value for most enterprise SOCs.

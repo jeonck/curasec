@@ -9,7 +9,7 @@ tags: ["cisco", "clickfix", "ai-security"]
 cves: []
 source: "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The recap flags a Cisco 0-day and AI Agent RCE as potentially high-priority items, but no CVE numbers, patch versions, or PoC signals are surfaced here; drill into the individual stories to determine whether your Cisco gear or AI agent deployments need urgent action.
 - **SOC/IR — Learn:** The ClickFix surge and browser hijack coverage suggest reviewing detection coverage for fake-fix social engineering lures (PowerShell-via-clipboard patterns); no IOCs or ATT&CK mappings are included in this roundup, so the underlying stories are the place to pull huntable artifacts.

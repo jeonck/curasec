@@ -9,7 +9,7 @@ tags: ["gdpr", "privacy", "regulatory-enforcement"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

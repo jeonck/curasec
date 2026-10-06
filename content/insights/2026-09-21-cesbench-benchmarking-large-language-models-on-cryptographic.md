@@ -9,7 +9,7 @@ tags: ["llm-security", "iot", "cryptography"]
 cves: []
 source: "https://arxiv.org/abs/2609.21344"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** New benchmark reveals that LLMs score well on recall and code tasks (~95-99%) but poorly on security judgment justification (~53%), relevant context if your team uses LLMs to audit cryptographic implementations or IoT firmware — don't over-trust LLM-generated security verdicts without human review.
 - **SOC/IR — Skip**

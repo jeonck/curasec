@@ -9,7 +9,7 @@ tags: ["ai-generated-code", "secure-development", "appsec-research"]
 cves: []
 source: "https://arxiv.org/abs/2609.21020"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research finds developers systematically under-scrutinize AI-generated code for vulnerabilities — useful context for how engineers should treat AI autocomplete and chat output, but no patch or configuration change is required today.
 - **SOC/IR — Skip**

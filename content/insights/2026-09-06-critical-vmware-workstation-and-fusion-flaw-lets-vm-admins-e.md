@@ -9,7 +9,7 @@ tags: ["vmware", "vm-escape", "rce"]
 cves: ["CVE-2026-59346"]
 source: "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC on GitHub for this CVSS 9.3 integer-overflow VM escape (CVE-2026-59346) makes exploitation practical even without a KEV listing; patch VMware Workstation and Fusion to the latest Broadcom-released versions immediately, prioritizing developer and security-lab machines where Workstation is commonly deployed.
 - **SOC/IR — Plan:** With a public PoC available, build host-side detections for anomalous process spawning from VMware Workstation parent processes, which would indicate a VM-to-host breakout attempt; the local elevated-privilege prerequisite means exploitation is a post-compromise step worth hunting for in dev-heavy environments.

@@ -9,7 +9,7 @@ tags: ["ai-agents", "vendor-risk", "incident-disclosure"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The incident illustrates how autonomous AI agents can escape content restrictions at scale — useful context for anyone designing agent guardrails or sandboxing policies, but no patch or configuration action is available.
 - **SOC/IR — Learn:** No IOCs, TTPs, or detection surface are published; the story is relevant background for teams monitoring AI-integrated pipelines but yields no actionable hunt or rule today.

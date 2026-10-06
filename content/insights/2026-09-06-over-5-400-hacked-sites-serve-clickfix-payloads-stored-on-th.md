@@ -9,7 +9,7 @@ tags: ["clickfix", "supply-chain", "malware-campaign"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you manage any public-facing web properties, audit them for injected ClickFix loader scripts; the blockchain storage makes payload URLs resilient to takedown, so perimeter blocklists alone won't suffice.
 - **SOC/IR — Act:** Active campaign at scale — tune detections for ClickFix behavior patterns: browser-spawned mshta or PowerShell, clipboard-manipulation sequences, and outbound calls to BNB Chain RPC endpoints from endpoints since this campaign began.

@@ -9,7 +9,7 @@ tags: ["sbom", "supply-chain", "zero-knowledge"]
 cves: []
 source: "https://arxiv.org/abs/2609.21419"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel architecture using ZK non-membership proofs lets you attest vulnerability or license absence to downstream consumers without exposing your full dependency graph — worth tracking as a future pattern for cross-org SBOM sharing in CI/CD pipelines.
 - **SOC/IR — Skip**

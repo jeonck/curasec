@@ -9,7 +9,7 @@ tags: ["soc-training", "security-operations", "research"]
 cves: []
 source: "https://arxiv.org/abs/2609.21147"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Research explores training analysts in reasoning skills that transfer across tools — the concept of 'non-perishable knowledge' is worth considering when evaluating how your team builds investigative judgment versus tool-specific habits.

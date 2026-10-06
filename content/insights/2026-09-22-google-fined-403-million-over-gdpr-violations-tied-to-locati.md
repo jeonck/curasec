@@ -9,7 +9,7 @@ tags: ["gdpr", "privacy-regulation", "data-protection"]
 cves: []
 source: "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

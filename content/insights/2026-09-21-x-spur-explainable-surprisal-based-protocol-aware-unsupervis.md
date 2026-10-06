@@ -9,7 +9,7 @@ tags: ["automotive-security", "anomaly-detection", "research"]
 cves: []
 source: "https://arxiv.org/abs/2609.21217"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Novel unsupervised IDS approach using language-model surprisal on raw packet tokens may inform detection design for OT/automotive environments, though it targets in-vehicle networks outside typical enterprise SOC scope.
