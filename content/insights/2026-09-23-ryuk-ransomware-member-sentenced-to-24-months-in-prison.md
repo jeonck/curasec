@@ -9,7 +9,7 @@ tags: ["ransomware", "law-enforcement", "ryuk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The conviction provides context on Ryuk operator tactics and prosecution outcomes, but no new IOCs, TTPs, or detection opportunities are disclosed.

@@ -9,7 +9,7 @@ tags: ["threat-actor", "data-breach", "government"]
 cves: []
 source: "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** ShinyHunters escalating to claimed government targets is worth noting for actor-profile tracking, but no IOCs or TTPs have been released, leaving nothing to hunt or detect at this time.

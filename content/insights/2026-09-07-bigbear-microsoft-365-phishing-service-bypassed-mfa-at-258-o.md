@@ -9,7 +9,7 @@ tags: ["phishing-as-a-service", "mfa-bypass", "microsoft-365"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Active AiTM phishing at scale demonstrates that TOTP/push MFA is insufficient for M365; audit Conditional Access policies and plan a phishing-resistant MFA (FIDO2/passkeys) migration this quarter.
 - **SOC/IR — Act:** With 258 confirmed victim orgs, treat this as an active campaign: hunt Entra ID and unified audit logs for anomalous session token reuse, impossible-travel sign-ins, and OAuth consent grants since mid-2026.

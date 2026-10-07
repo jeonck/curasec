@@ -9,7 +9,7 @@ tags: ["screenconnect", "remote-access", "unpatched-vulnerability"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** ScreenConnect is a high-value exploitation target with a documented history of rapid weaponization; apply ConnectWise's published temporary mitigations now and schedule patch deployment as soon as it releases later this week.
 - **SOC/IR — Plan:** No active exploitation or IOCs yet, but ScreenConnect has been abused repeatedly as an initial-access vector; build or tune detections for anomalous ScreenConnect session activity before exploitation emerges.

@@ -9,7 +9,7 @@ tags: ["ai-safety", "model-alignment", "llm"]
 cves: []
 source: "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Relevant context for engineers building AI-integrated applications: even frontier models fail alignment audits, which informs how aggressively you need application-layer guardrails and output validation around LLM integrations. No patch or config change needed today.
 - **SOC/IR — Skip**

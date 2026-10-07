@@ -9,7 +9,7 @@ tags: ["rmm", "rce", "n-central"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you run N-central, apply the emergency hotfix immediately — max-severity RCE with reported ongoing attacks on an RMM platform is a critical-priority patch with no waiting window.
 - **SOC/IR — Act:** Active exploitation of an RMM platform is an assume-breach trigger: hunt for unauthorized lateral movement or remote execution originating from N-central agents across managed endpoints since before the patch window.

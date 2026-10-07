@@ -9,7 +9,7 @@ tags: ["gdpr", "data-breach", "regulatory-fine"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

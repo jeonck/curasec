@@ -9,7 +9,7 @@ tags: ["vishing", "aitm", "microsoft-365"]
 cves: []
 source: "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Enforce phishing-resistant MFA (FIDO2) for all executive accounts and audit conditional access policies to block residential-proxy sign-ins; no active PoC or KEV signal, but AitM token theft bypasses standard MFA.
 - **SOC/IR — Act:** Hunt for anomalous M365 sign-ins from residential proxy ranges targeting director/VP accounts, especially preceded by IT help-desk call activity; tune detections for impossible-travel or token-replay events in your SIEM.

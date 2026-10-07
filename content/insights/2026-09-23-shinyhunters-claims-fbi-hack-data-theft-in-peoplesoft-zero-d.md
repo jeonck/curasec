@@ -9,7 +9,7 @@ tags: ["shinyhunters", "oracle-peoplesoft", "zero-day"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** An alleged Oracle PeopleSoft zero-day with no CVE, PoC, or KEV signals yet; if you run PeopleSoft (common HR/ERP), watch for Oracle's advisory and be ready to assess patch urgency once technical details surface.
 - **SOC/IR — Learn:** ShinyHunters is a well-documented extortion actor, but this claim carries no published IOCs or mapped TTPs; monitor threat intel feeds for follow-on disclosures that would enable a hunt or detection build.

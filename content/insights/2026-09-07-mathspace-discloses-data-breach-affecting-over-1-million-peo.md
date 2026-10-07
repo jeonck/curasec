@@ -9,7 +9,7 @@ tags: ["data-breach", "metabase", "education"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Metabase is widely self-hosted as an internal analytics/BI tool; audit your own Metabase instance for misconfigurations or unpatched CVEs that may match the attack vector used here, and verify network exposure of the service.
 - **SOC/IR — Skip**

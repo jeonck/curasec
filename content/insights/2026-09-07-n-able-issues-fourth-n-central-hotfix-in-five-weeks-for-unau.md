@@ -9,7 +9,7 @@ tags: ["rmm", "unauthenticated-rce", "active-exploitation"]
 cves: []
 source: "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Unauthenticated RCE on an RMM platform with a credible (if contradictory) exploitation-in-the-wild claim — highest-priority patch category. Upgrade every on-premises N-central instance to 2026.3.1.14 (Hotfix 4) immediately; servers patched to Hotfix 3 yesterday are still vulnerable.
 - **SOC/IR — Act:** Compromised RMM infrastructure gives attackers admin reach across all managed endpoints — an assume-breach posture is warranted. Hunt for anomalous outbound connections or command execution originating from N-central servers since the Hotfix 3 deployment date, and monitor for lateral movement from MSP-managed jump hosts.
