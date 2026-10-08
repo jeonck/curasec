@@ -9,7 +9,7 @@ tags: ["ai-security", "zero-day", "llm-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** AI-assisted zero-day discovery shortens the window between vulnerability introduction and weaponization; no patch or config change needed today, but factor accelerated exploit timelines into threat modeling and SLA assumptions for 2027 planning cycles.
 - **SOC/IR — Learn:** No IOCs or ATT&CK-mappable TTPs are disclosed, so there is nothing to hunt now; the capability signal is worth logging as context that well-resourced adversaries with frontier AI access may compress zero-day development time.

@@ -9,7 +9,7 @@ tags: ["ai-attacks", "credential-theft", "multi-agent"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No specific vulnerability or patch here, but AI-automated attack pipelines increase the velocity and scale of credential stuffing — worth reviewing whether MFA enforcement and credential-exposure monitoring cover your current gaps.
 - **SOC/IR — Plan:** Multi-agent automation of attack stages signals higher-volume, lower-dwell-time credential campaigns; plan to tune authentication anomaly detections (burst login attempts, impossible travel) and evaluate whether existing rules handle AI-paced credential stuffing rates.

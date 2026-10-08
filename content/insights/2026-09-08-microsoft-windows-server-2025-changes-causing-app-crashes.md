@@ -9,7 +9,7 @@ tags: ["windows-server", "stability", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Review recent Windows Server 2025 updates for memory management changes and assess whether affected workloads warrant delaying the update or applying any available mitigation from Microsoft's advisory before next patch cycle.
 - **SOC/IR — Skip**

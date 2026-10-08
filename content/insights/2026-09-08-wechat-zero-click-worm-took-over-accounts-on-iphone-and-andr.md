@@ -9,7 +9,7 @@ tags: ["zero-click", "mobile-security", "worm"]
 cves: []
 source: "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If WeChat is in your enterprise environment (especially for Asia-region business communications), verify the app is updated to a post-July 2026 patched version; the zero-click, no-answer-required attack surface makes unpatched installs high-severity even without active exploitation signals.
 - **SOC/IR — Learn:** No IOCs, no mapped TTPs, and no evidence of active exploitation are provided; the worm propagation technique is notable for future detection design, but there is no actionable hunt or rule to write today.

@@ -9,7 +9,7 @@ tags: ["adversarial-ai", "supply-chain", "threat-intelligence"]
 cves: []
 source: "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/"
 source_name: "Google Threat Intelligence"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** UNC6780 is actively exploiting AI coding assistants and LLM security scanners to slip supply chain compromises past tooling you likely run; audit which AI coding tools have access to your repositories and artifact pipelines, and validate that LLM-assisted code review is not your only security gate.
 - **SOC/IR — Learn:** The GTIG report documents AI-enabled automation compressing attack timelines to under six hours from initial cloud compromise to mass credential harvesting — no specific IOCs or ATT&CK mappings are provided in the summary, but the compressed defender response window should inform how you threshold alerting latency for cloud privilege escalation events.
