@@ -9,7 +9,7 @@ tags: ["ai-agents", "sandbox-escape", "developer-tools"]
 cves: []
 source: "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your team uses DeepSeek Harness for AI coding agents, verify you are on a patched version and audit whether agents have been granted excessive tool permissions; no active exploitation signals yet, but the bypass requires only a single command.
 - **SOC/IR — Learn:** Illustrates a novel attack class where an AI agent escapes its sandbox via the harness's own API — no IOCs or active exploitation to hunt for today, but worth tracking as AI coding agent adoption grows.

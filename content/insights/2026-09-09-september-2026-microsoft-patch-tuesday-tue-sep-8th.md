@@ -9,7 +9,7 @@ tags: ["patch-tuesday", "microsoft", "rce"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33320"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Two vulnerabilities are confirmed exploited in the wild, including a Windows privilege escalation; prioritize patching those plus the critical RCEs in Skype for Business, MSMQ, and RRAS within your emergency patch window — review the full advisory to identify the two KEV-grade CVEs by number and verify patch deployment within 48–72 hours.
 - **SOC/IR — Plan:** With two actively exploited vulns (including a Windows privesc) but no IOCs provided here, queue detection work this week: pull the specific CVE IDs from Microsoft's release, map the exploited privesc to relevant ATT&CK techniques, and tune alerts for anomalous privilege elevation on unpatched Windows hosts.

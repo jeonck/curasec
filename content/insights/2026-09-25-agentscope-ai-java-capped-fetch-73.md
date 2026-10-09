@@ -9,7 +9,7 @@ tags: ["nodejs", "supply-chain", "defensive-tooling"]
 cves: []
 source: "https://github.com/agentscope-ai-java/capped-fetch"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful hardening library for Node.js services that consume untrusted HTTP responses — evaluate for any service that fetches external content without size or decompression-ratio guards. No exploitation pressure; no enrichment signals.
 - **SOC/IR — Skip**

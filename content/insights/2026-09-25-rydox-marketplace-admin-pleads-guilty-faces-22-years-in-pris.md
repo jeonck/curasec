@@ -9,7 +9,7 @@ tags: ["cybercrime", "darkweb", "law-enforcement"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Rydox's takedown provides context on the scale of stolen credential markets; no IOCs or TTPs to act on, but useful background for understanding credential-stuffing threat landscape.

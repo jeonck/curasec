@@ -9,7 +9,7 @@ tags: ["patch-tuesday", "microsoft", "vulnerability-management"]
 cves: []
 source: "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Triage the September 2026 Patch Tuesday batch before broad deployment; with 974 patches and no enrichment signals provided, prioritize any KEV-listed or zero-day items first and use EPSS scores to sequence the remainder across your patch windows.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["eu-cra", "vulnerability-disclosure", "compliance"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Software vendors shipping into the EU must have accurate SBOMs and timestamped vulnerability discovery records to meet the 24-hour exploitation-reporting window; audit your bill-of-materials completeness and disclosure tracking processes against the September 11 deadline.
 - **SOC/IR — Skip**

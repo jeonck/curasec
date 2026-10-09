@@ -9,7 +9,7 @@ tags: ["infostealer", "ai-tokens", "mfa-bypass"]
 cves: []
 source: "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Infostealers harvesting AI API keys and session tokens from developer machines and CI/CD environments is a real exposure vector; audit all AI service credentials (Google, Anthropic, etc.) in your pipelines, rotate long-lived API keys, and enforce short token TTLs where providers allow it.
 - **SOC/IR — Plan:** Lumma and Vidar are well-established infostealer families with known detection signatures; build or tune endpoint detections for these stealers specifically to flag AI service token harvesting, and add a hunt for anomalous AI API calls originating from unusual geolocations or IPs in recent logs.

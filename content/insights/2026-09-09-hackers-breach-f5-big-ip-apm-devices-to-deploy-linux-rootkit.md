@@ -9,7 +9,7 @@ tags: ["f5-big-ip", "rootkit", "fileless-malware"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active breach campaign targeting F5 BIG-IP APM appliances — a common enterprise edge device. Audit your BIG-IP APM fleet for indicators of compromise: look for anomalous PHP interpreter activity, unexpected in-memory web shell behavior, and verify firmware/software versions against F5's latest advisories.
 - **SOC/IR — Act:** The fileless, memory-resident web shell evades file-based detection, so standard endpoint scans will miss it. Hunt for anomalous PHP file-load interception and unusual outbound connections from F5 BIG-IP APM processes; if your org runs BIG-IP APM, treat as assume-breach and initiate a memory forensics sweep.

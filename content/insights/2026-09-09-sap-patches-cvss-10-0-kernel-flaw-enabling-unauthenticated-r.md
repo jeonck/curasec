@@ -9,7 +9,7 @@ tags: ["sap", "remote-code-execution", "critical-vulnerability"]
 cves: ["CVE-2026-44756"]
 source: "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC on GitHub for a CVSS 10.0 unauthenticated memory-corruption RCE in SAP EPP meets the Act bar even without KEV listing. Apply SAP's September 2026 security patch for CVE-2026-44756 immediately if you run SAP Extended Passport Processing.
 - **SOC/IR — Plan:** No active exploitation observed (EPSS 0.00, no KEV), but a public PoC raises the likelihood of imminent attempts; build or tune detections for anomalous unauthenticated requests targeting SAP EPP endpoints before exploitation materializes.

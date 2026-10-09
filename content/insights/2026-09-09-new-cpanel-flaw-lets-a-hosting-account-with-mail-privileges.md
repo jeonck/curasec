@@ -9,7 +9,7 @@ tags: ["cpanel", "privilege-escalation", "web-hosting"]
 cves: []
 source: "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Every supported cPanel and WHM version is affected; a mail-privileged hosting account can write arbitrary files and escalate to root via EmailTrack. Patch to the latest cPanel/WHM release (advisory published Sep 8) within your next patch window — no PoC or active exploitation is confirmed yet, but root-level impact makes this high priority.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["zero-day", "windows", "privilege-escalation"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public exploit for a SYSTEM-level privilege escalation in Microsoft Defender was released immediately after Patch Tuesday, leaving it unpatched until at least October. Check for any Microsoft workaround guidance or out-of-band advisory, restrict local code execution paths where possible, and apply any emergency patch promptly when issued.
 - **SOC/IR — Plan:** No confirmed in-the-wild exploitation yet and no IOCs published, but the public PoC will attract threat actor interest quickly. Build or tune detections for anomalous SYSTEM-level process spawning from Defender service processes and queue a hunt for post-exploitation behavior once more technical detail emerges.
