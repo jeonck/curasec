@@ -9,7 +9,7 @@ tags: ["vendor-breach", "identity-verification", "data-breach"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your org uses IDScan's API or SDK for customer identity verification, audit the integration to determine what PII flows to their cloud and whether your API credentials may have been exposed; no patch action, but a data-inventory and vendor-access review is warranted.
 - **SOC/IR — Learn:** A breach of this scale at an identity-verification vendor could fuel downstream account-takeover campaigns using stolen DL scans as identity proofs, but no IOCs or TTPs have been published to hunt on yet; monitor for follow-on reporting.

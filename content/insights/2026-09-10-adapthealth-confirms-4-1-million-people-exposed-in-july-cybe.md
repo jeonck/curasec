@@ -9,7 +9,7 @@ tags: ["healthcare-breach", "data-exposure", "shiny-hunters"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** ShinyHunters attribution on a large healthcare breach is useful actor-tracking context, but no IOCs or TTPs are published here to act on.

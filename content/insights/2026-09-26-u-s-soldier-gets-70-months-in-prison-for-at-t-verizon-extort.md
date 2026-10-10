@@ -9,7 +9,7 @@ tags: ["telecom-breach", "data-theft", "criminal-sentencing"]
 cves: []
 source: "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

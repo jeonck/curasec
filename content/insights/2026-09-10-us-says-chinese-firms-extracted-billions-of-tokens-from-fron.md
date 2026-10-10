@@ -9,7 +9,7 @@ tags: ["nation-state", "ai-security", "intellectual-property"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Industrial-scale distillation attacks represent a novel threat class against AI model IP — no patch or configuration action applies, but architects of AI platforms or API gateways should consider rate-limiting and anomaly detection on query volume as a design input.
 - **SOC/IR — Learn:** No IOCs, TTPs, or detection artifacts are provided, so no hunt or rule-writing is actionable; useful background on AI API abuse patterns if the team defends AI infrastructure.

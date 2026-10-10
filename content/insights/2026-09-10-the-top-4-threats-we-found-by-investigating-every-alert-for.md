@@ -9,7 +9,7 @@ tags: ["identity-attacks", "threat-intelligence", "detection-engineering"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Quarter-long attack pattern data highlighting identity as the dominant target provides useful design context — particularly for identity provider hardening and MFA posture — but no specific vulnerability or patch action is indicated.
 - **SOC/IR — Plan:** A structured breakdown of what blocked vs. allowed attacks across May–July 2026 is worth reviewing to audit identity-related detection coverage; use it this quarter to validate that MFA-bypass, credential-stuffing, and OAuth-abuse use cases are covered in your SIEM.

@@ -9,7 +9,7 @@ tags: ["check-point", "vpn", "critical-rce"]
 cves: []
 source: "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Two 9.8-rated unauthenticated RCE flaws in Check Point Security Gateways and management products warrant prompt patching, but no KEV listing, public PoC, or confirmed exploitation shifts this to planned rather than emergency action — schedule patching to the latest fixed releases within your next patch window.
 - **SOC/IR — Learn:** No IOCs, TTPs, or exploitation details have been disclosed yet, so there is no actionable detection surface; monitor threat intel feeds for follow-on exploitation reports and be ready to sweep Check Point edge device logs if active attacks emerge.

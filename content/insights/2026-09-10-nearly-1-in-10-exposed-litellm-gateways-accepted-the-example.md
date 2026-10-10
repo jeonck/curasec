@@ -9,7 +9,7 @@ tags: ["default-credentials", "ai-gateway", "misconfiguration"]
 cves: []
 source: "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you run LiteLLM, immediately check whether your admin key is still "sk-1234" and rotate it to a strong credential; a compromised gateway exposes all upstream model API keys and full prompt/completion history to anyone who finds the instance.
 - **SOC/IR — Plan:** Build a detection rule to flag any LiteLLM API requests authenticating with the literal string "sk-1234", and sweep existing gateway/proxy logs since initial deployment for unauthorized admin activity.

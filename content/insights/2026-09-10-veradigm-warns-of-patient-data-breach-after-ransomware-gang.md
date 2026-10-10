@@ -9,7 +9,7 @@ tags: ["healthcare", "ransomware", "data-breach"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The Gentlemen ransomware gang is claiming credit; file the actor profile for future sector-targeting awareness, but no IOCs or TTPs are published to act on now.
