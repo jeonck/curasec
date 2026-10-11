@@ -9,7 +9,7 @@ tags: ["bec", "social-engineering", "ai-threats"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Plan:** AI-enhanced BEC impersonation targeting finance teams warrants reviewing email authentication controls and building or tuning detections for anomalous payment-approval request patterns; check whether existing BEC rules cover ACH-specific lure language.

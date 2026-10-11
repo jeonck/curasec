@@ -9,7 +9,7 @@ tags: ["ai-security", "llm-infrastructure", "supply-chain"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33332"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Novel offensive technique targeting poorly secured LLM resale gateways via common web flaws and account farming; if you expose or consume LLM APIs, audit API key scoping, rate-limit enforcement, and gateway authentication to reduce your harvesting attack surface this quarter.
 - **SOC/IR — Plan:** Semi-autonomous agent TTPs for LLM access harvesting are emerging; build detections for anomalous LLM API usage spikes, unexpected source IPs on API keys, and rapid account-creation patterns against any internal or vendor LLM gateway.

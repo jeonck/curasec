@@ -9,7 +9,7 @@ tags: ["ai-platforms", "clickfix", "social-engineering"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No patch or config change is actionable here — the attack surface is user behavior on AI platforms, not a vulnerability in infrastructure. Useful for threat-modeling AI tool integration and understanding how malicious artifacts can be surfaced through trusted AI domains.
 - **SOC/IR — Plan:** ClickFix-style lures delivered via AI platform domains are a new delivery vector worth extending existing detection coverage to; review ClickFix and LOLBin detection rules to include process launches referencing AI platform domains as a parent or referrer.

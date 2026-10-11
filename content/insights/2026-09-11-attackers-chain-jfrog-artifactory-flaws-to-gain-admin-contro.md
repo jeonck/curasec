@@ -9,7 +9,7 @@ tags: ["supply-chain", "jfrog-artifactory", "active-exploitation"]
 cves: []
 source: "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active exploitation of self-hosted Artifactory was confirmed Aug 15–Sep 8; verify your instance is fully patched for both chained flaws, and if it was unpatched during that window, audit all artifacts built or stored then for injected backdoors.
 - **SOC/IR — Act:** If your org runs self-hosted Artifactory that was unpatched between Aug 15 and Sep 8, initiate an assume-breach sweep of that server and downstream build artifacts for backdoor indicators, and look for lateral movement originating from it.

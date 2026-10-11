@@ -9,7 +9,7 @@ tags: ["windows-server", "patch-management", "remote-desktop"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Hold or roll back the September 2026 cumulative updates on Windows Server 2019/2022/2025 until Microsoft issues a fix; test any staged deployments in non-production before wider rollout to avoid RDS outages requiring hard resets.
 - **SOC/IR — Learn:** RDS connectivity failures and unexpected hard-reset events seen in monitoring this week are likely patch-induced, not attack activity; useful triage context to avoid chasing false positives in endpoint or session logs.

@@ -9,7 +9,7 @@ tags: ["phishing", "supply-chain", "email-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your org uses Brevo (Sendinblue) as an email/marketing service provider, audit your account for unauthorized access and review what customer data is stored there; this breach shows ESP compromise can expose your customer lists to targeted phishing.
 - **SOC/IR — Learn:** The attack chain—ESP breach leading to targeted customer phishing—is a useful lure pattern to understand, but no IOCs or ATT&CK-mappable TTPs are provided in this item to act on.

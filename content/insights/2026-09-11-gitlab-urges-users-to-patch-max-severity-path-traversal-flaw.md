@@ -9,7 +9,7 @@ tags: ["gitlab", "path-traversal", "critical-cve"]
 cves: ["CVE-2026-85706"]
 source: "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Max-severity path traversal in GitLab with a public PoC significantly raises exploitation risk even absent a KEV listing — patch all self-hosted GitLab instances to the fixed version immediately and verify no unauthorized file access occurred before the patch window.
 - **SOC/IR — Act:** A public PoC for a max-severity GitLab flaw means opportunistic exploitation attempts are likely imminent; hunt for anomalous file-read patterns and path traversal sequences (e.g., ../ chains) in GitLab access logs since the disclosure date.
