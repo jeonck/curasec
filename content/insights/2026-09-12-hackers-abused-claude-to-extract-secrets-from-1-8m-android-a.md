@@ -9,7 +9,7 @@ tags: ["ai-abuse", "secrets-exposure", "mobile-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** AI-assisted mass scanning of Android apps for hardcoded secrets is now an established threat actor technique; audit your mobile app releases for embedded API keys, tokens, and credentials, and rotate any found — prioritize apps published to public stores.
 - **SOC/IR — Learn:** State-sponsored and financially motivated groups are weaponizing LLMs for large-scale recon; no IOCs or ATT&CK mappings surfaced in this report, so there's no immediate detection build, but this shifts the baseline assumption about how adversaries perform secret harvesting.

@@ -9,7 +9,7 @@ tags: ["insider-threat", "extortion", "telecom"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Case illustrates insider-threat and extortion TTPs targeting telecom and tech sector; useful context for triage judgment but no actionable IOCs or detections published.

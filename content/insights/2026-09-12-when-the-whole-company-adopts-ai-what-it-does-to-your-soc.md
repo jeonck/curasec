@@ -9,7 +9,7 @@ tags: ["ai-security", "soc-operations", "enterprise-ai"]
 cves: []
 source: "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Highlights that AI agent activity generates novel alert patterns that may require new detection logic in pipelines; no immediate patch or config change needed, but worth understanding for CI/CD and coding-agent deployments.
 - **SOC/IR — Plan:** AI tools and agents are generating a new class of alerts faster than anything else in enterprise SOCs; begin inventorying which AI tools are in use and build detection baselines for their normal behavior patterns to reduce false-positive noise this quarter.

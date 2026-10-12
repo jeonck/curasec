@@ -9,7 +9,7 @@ tags: ["phishing", "microsoft-365", "social-engineering"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Active campaign exploiting passkey/SSO trust to bypass MFA means now is the time to enforce phishing-resistant authentication (FIDO2 hardware keys, not app-based) in M365 conditional access policies and audit OAuth app consent grants in Entra ID.
 - **SOC/IR — Act:** Named extortion actors (ShinyHunters, Helix) are running active M365 credential theft campaigns — hunt for anomalous Entra ID sign-ins, suspicious OAuth consent grants, and new delegated permissions added to M365 tenants since this campaign surfaced.

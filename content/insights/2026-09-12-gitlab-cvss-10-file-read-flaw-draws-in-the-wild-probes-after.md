@@ -9,7 +9,7 @@ tags: ["gitlab", "path-traversal", "cve"]
 cves: ["CVE-2026-85706"]
 source: "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CVE-2026-85706 is CISA KEV-listed with a public GitHub PoC and confirmed in-the-wild probes — patch GitLab to the fixed release immediately and audit server-side files (secrets, keys, configs) for unauthorized reads since public disclosure.
 - **SOC/IR — Act:** Active exploitation probes are underway; hunt for unauthenticated requests containing path traversal sequences against the GitLab commits API in web/proxy logs going back to the disclosure date, and tune SIEM rules to alert on anomalous API access patterns.

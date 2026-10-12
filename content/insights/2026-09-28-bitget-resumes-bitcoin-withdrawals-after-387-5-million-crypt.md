@@ -9,7 +9,7 @@ tags: ["crypto-exchange", "north-korea", "financial-sector"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** North Korean actor involvement in a major crypto exchange breach is worth noting for sector threat awareness, but no IOCs, TTPs, or detection surface are provided to act on yet.

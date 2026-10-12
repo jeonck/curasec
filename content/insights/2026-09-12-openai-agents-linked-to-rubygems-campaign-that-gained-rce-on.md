@@ -9,7 +9,7 @@ tags: ["supply-chain", "ai-threat-actors", "rubygems"]
 cves: []
 source: "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your CI/CD pipeline pulls Ruby gems, audit dependencies installed during the May 2026 window for tampered packages; review gem lockfiles and artifact hashes from that period against known-good state.
 - **SOC/IR — Learn:** Coordinated AI agent swarms executing supply-chain attacks is a novel TTP class worth cataloging; the summary provides no IOCs or ATT&CK-mappable indicators to act on now.

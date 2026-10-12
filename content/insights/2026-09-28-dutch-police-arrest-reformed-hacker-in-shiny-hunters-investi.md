@@ -9,7 +9,7 @@ tags: ["shiny-hunters", "law-enforcement", "data-theft"]
 cves: []
 source: "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** ShinyHunters escalated operations immediately after the arrest, reportedly exfiltrating FBI data and extorting Cl0p — useful for tracking the group's current operational tempo, but no IOCs or TTPs are published here to support a hunt or detection.
