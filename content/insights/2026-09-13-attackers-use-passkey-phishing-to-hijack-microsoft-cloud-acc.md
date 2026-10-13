@@ -9,7 +9,7 @@ tags: ["phishing", "cloud-identity", "microsoft"]
 cves: []
 source: "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Demonstrates that passkey-themed social engineering can bypass MFA assumptions — worth factoring into how passkey enrollment flows and conditional access policies are hardened, but no CVE or patch action follows from this disclosure.
 - **SOC/IR — Plan:** The active campaign pattern — CEO-impersonation lures leading to passkey/cloud credential harvesting — is worth building detections around: hunt for anomalous passkey registration events in Entra ID and tune email-gateway rules for third-party-relayed CEO impersonation at volume.

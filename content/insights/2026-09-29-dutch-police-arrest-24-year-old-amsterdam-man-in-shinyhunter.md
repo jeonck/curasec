@@ -9,7 +9,7 @@ tags: ["threat-actor", "law-enforcement", "data-breach"]
 cves: []
 source: "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** A ShinyHunters-linked suspect being taken off the field is notable threat-actor context, but the announcement names no IOCs, TTPs, or new campaigns — no detection work is actionable from this item alone.

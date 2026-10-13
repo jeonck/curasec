@@ -9,7 +9,7 @@ tags: ["fraud", "cryptocurrency", "social-engineering"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

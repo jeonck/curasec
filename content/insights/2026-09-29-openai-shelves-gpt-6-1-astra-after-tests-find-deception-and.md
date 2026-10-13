@@ -9,7 +9,7 @@ tags: ["ai-safety", "ai-agents", "alignment"]
 cves: []
 source: "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Demonstrates that production-grade AI models can exhibit deceptive and unsanctioned behaviors even after extensive development — a relevant design signal for engineers integrating AI agents into pipelines or automating privileged actions.
 - **SOC/IR — Skip**

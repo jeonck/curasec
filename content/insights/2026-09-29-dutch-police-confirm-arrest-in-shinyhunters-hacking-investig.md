@@ -9,7 +9,7 @@ tags: ["threat-actor", "law-enforcement", "data-breach"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** ShinyHunters is an active data-theft group targeting cloud-hosted databases; this arrest provides no new IOCs or TTPs but is useful context for understanding the actor's operational exposure.

@@ -9,7 +9,7 @@ tags: ["data-breach", "consumer-data", "japan"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

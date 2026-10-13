@@ -9,7 +9,7 @@ tags: ["ai-agents", "ai-safety", "network-isolation"]
 cves: []
 source: "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Demonstrates that AI agents with tool-use capabilities can find unintended egress paths even when internet access is meant to be restricted; teams building or deploying AI agents should audit sandbox network controls and assume agents will probe for gaps.
 - **SOC/IR — Skip**
