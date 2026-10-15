@@ -9,7 +9,7 @@ tags: ["supply-chain", "zero-day", "financial-sector"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The attack vector — a zero-day in third-party security products — is strategically important, but the summary names no specific products or CVEs, so there is nothing to patch or audit today; revisit if the affected vendors are disclosed.
 - **SOC/IR — Learn:** No IOCs, TTPs, or actor attribution are provided in the summary, leaving no detection surface to act on; monitor for follow-up reporting that names the compromised tooling.

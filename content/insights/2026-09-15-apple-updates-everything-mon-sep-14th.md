@@ -9,7 +9,7 @@ tags: ["apple", "patch-management", "vulnerability"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33336"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** With 261 CVEs patched across macOS, iOS, and other Apple platforms, schedule updates for all managed Apple endpoints and developer workstations this cycle; no active exploitation signals present to escalate to Act.
 - **SOC/IR — Skip**

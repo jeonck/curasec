@@ -9,7 +9,7 @@ tags: ["spectre-v2", "linux", "side-channel"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel BTR side-channel technique bypasses existing Spectre v2 mitigations on Intel/Linux; no patch or KEV listed yet, but architects running bare-metal Linux servers should monitor for mitigations and evaluate whether eIBRS/retpoline configurations need revisiting.
 - **SOC/IR — Learn:** No IOCs or active exploitation reported; this attack requires local execution context, limiting detection surface — worth understanding as a privilege-escalation technique for future hunt hypotheses.

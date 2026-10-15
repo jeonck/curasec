@@ -9,7 +9,7 @@ tags: ["wordpress", "active-exploitation", "web-shell"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active exploitation of a critical file-upload flaw is in progress; if you run WooCommerce Wholesale Lead Capture, update or disable it immediately and audit wp-content for recently created PHP files that could be backdoors.
 - **SOC/IR — Act:** PHP backdoor upload attacks against WordPress sites are active; hunt for anomalous PHP files in wp-content/uploads and similar directories, and review web logs for suspicious POST requests to this plugin's endpoints since the campaign began.

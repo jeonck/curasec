@@ -9,7 +9,7 @@ tags: ["cloud-security", "threat-detection", "identity"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel approach to deriving identity role profiles from cloud audit logs via behavioral clustering; no patch or config change needed today, but worth evaluating this technique when designing cloud detection pipelines.
 - **SOC/IR — Plan:** The SQL-based detection queries and clustering methodology are worth adapting for SIEM coverage of anomalous cloud identity behavior; schedule time to evaluate and prototype rules against your cloud audit log sources.

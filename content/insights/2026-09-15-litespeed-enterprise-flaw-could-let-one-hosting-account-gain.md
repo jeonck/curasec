@@ -9,7 +9,7 @@ tags: ["privilege-escalation", "shared-hosting", "litespeed"]
 cves: []
 source: "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Critical privilege-escalation in LiteSpeed Enterprise poses a full-server compromise risk in shared-hosting environments; if you operate LiteSpeed Enterprise, prioritize patching when the fix is released and audit whether any tenant isolation controls could limit blast radius in the interim — no active exploitation confirmed yet.
 - **SOC/IR — Skip**

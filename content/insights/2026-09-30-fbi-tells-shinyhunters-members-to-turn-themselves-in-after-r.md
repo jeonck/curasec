@@ -9,7 +9,7 @@ tags: ["threat-actor", "law-enforcement", "data-breach"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Signals continued pressure on ShinyHunters infrastructure and membership; useful context for tracking this actor's operational status, but no new IOCs or TTPs requiring immediate detection work.

@@ -9,7 +9,7 @@ tags: ["bec", "phishing", "criminal-prosecution"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Serves as a reminder that BEC campaigns carry real prosecution risk and underscores the sustained threat of multi-year phishing operations; no new TTPs or IOCs to act on.

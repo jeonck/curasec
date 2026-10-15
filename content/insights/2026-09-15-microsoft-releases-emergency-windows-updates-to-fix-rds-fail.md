@@ -9,7 +9,7 @@ tags: ["windows", "patch-management", "remote-desktop"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you applied September Patch Tuesday updates and are seeing RDS failures, deploy the OOB fix immediately; check affected Windows versions against your estate and apply the emergency update to restore Remote Desktop Services, Hyper-V, and USB audio functionality.
 - **SOC/IR — Skip**

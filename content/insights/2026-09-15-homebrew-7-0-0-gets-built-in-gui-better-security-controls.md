@@ -9,7 +9,7 @@ tags: ["package-manager", "macos", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Evaluate upgrading to Homebrew 7.0.0 this quarter to take advantage of the built-in vulnerability scanner for developer workstations; no active exploitation pressure but a meaningful hardening improvement for teams using Homebrew in CI or dev environments.
 - **SOC/IR — Skip**

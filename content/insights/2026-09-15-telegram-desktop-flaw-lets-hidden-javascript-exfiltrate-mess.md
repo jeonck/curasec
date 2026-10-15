@@ -9,7 +9,7 @@ tags: ["telegram", "javascript-injection", "data-exfiltration"]
 cves: []
 source: "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If Telegram Desktop is used in your environment for work communications, advise users to stop using the HTML chat export feature until Telegram ships a fix; no patch version cited and no KEV/PoC, but the attack chain (malicious bot message → export → browser open) is realistic enough to warrant a policy change this quarter.
 - **SOC/IR — Learn:** Novel stored-JS-in-export technique is worth understanding for threat modeling chat-app abuse, but no IOCs, no ATT&CK mapping, and no evidence of active exploitation means there is no detection or hunt work to act on now.
