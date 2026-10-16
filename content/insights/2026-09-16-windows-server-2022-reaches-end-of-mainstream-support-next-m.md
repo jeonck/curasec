@@ -9,7 +9,7 @@ tags: ["windows-server", "end-of-support", "lifecycle"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** No new feature updates after next month, but security patches continue through October 2031 under extended support — audit WS2022 workloads now and schedule migration timelines before extended support ends.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["ransomware", "law-enforcement", "threat-actor"]
 cves: []
 source: "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** KillSec's infrastructure has been seized and key operators arrested, which may disrupt ongoing campaigns; review any prior KillSec IOCs in your environment to close out open investigations.

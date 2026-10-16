@@ -9,7 +9,7 @@ tags: ["supply-chain", "ai-security", "repository-compromise"]
 cves: []
 source: "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active supply-chain attack via AI coding assistant session hijacking is directly relevant to any team using these tools; audit AI assistant session controls, review recently accepted AI-recommended packages for tampering, and scan repository secrets for exfiltration indicators.
 - **SOC/IR — Plan:** No published IOCs yet, but the TTPs are mappable — AI session hijacking leading to mass repository writes and secret exfiltration; build detections for anomalous AI coding assistant activity and bulk repository commits from service accounts this quarter.

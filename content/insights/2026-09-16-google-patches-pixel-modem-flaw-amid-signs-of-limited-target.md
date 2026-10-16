@@ -9,7 +9,7 @@ tags: ["pixel-android", "privilege-escalation", "cisa-kev"]
 cves: ["CVE-2026-58704"]
 source: "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** CISA KEV listing and public PoC elevate urgency beyond routine patching; if your organization issues corporate Pixel devices, verify your MDM is enforcing the September 2026 security update to CVE-2026-58704's fixed build level.
 - **SOC/IR — Plan:** Limited targeted exploitation means a sophisticated actor is actively using this; if corporate Pixel devices are in scope, confirm MDM patch compliance and add coverage for post-exploitation behaviors (unexpected privilege changes on Android endpoints) since modem-level compromise offers minimal traditional SIEM visibility.

@@ -9,7 +9,7 @@ tags: ["data-breach", "utility-sector", "vendor-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** No IOCs or TTPs disclosed; breach at a US utility with confirmed data exfiltration may be worth monitoring for follow-on phishing campaigns using stolen customer data.

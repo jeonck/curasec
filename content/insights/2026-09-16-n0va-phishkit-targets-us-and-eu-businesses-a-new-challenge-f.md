@@ -9,7 +9,7 @@ tags: ["phishing", "identity-theft", "aitm"]
 cves: []
 source: "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** AiTM-style phishing that bypasses MFA by hijacking legitimate auth flows warrants reviewing phishing-resistant MFA (FIDO2/passkeys) and conditional access policies; audit identity provider logs for anomalous session tokens this quarter.
 - **SOC/IR — Plan:** No IOCs are provided, but the technique — abusing legitimate auth flows to harvest session tokens — is worth building detections for: tune SIEM rules to flag impossible-travel logins and anomalous OAuth token grants from new IP ranges.

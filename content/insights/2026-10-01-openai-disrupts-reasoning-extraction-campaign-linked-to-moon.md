@@ -9,7 +9,7 @@ tags: ["ai-security", "model-theft", "threat-intel"]
 cves: []
 source: "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Highlights model distillation/reasoning extraction as an emerging attack class against AI APIs; no patch or config action needed, but worth understanding if your products integrate large language model APIs and you rely on usage-policy controls to protect IP.
 - **SOC/IR — Skip**

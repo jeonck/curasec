@@ -9,7 +9,7 @@ tags: ["ransomware", "law-enforcement", "threat-actors"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** KillSec infrastructure is now offline following the operation, which may disrupt active campaigns — useful context when correlating any lingering KillSec-attributed alerts, but no IOCs or TTPs are published here to act on.

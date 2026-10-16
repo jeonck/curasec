@@ -9,7 +9,7 @@ tags: ["supply-chain", "wordpress", "backdoor"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you distribute or run WordPress with Admin Menu Editor Pro, audit all admin-level user accounts immediately for hidden/unauthorized entries and remove or replace the plugin with a verified clean version.
 - **SOC/IR — Act:** Sweep WordPress admin user tables across managed estates for accounts created after plugin update dates; hunt for unexpected privileged-user creation events in web application logs correlated with this plugin's presence.

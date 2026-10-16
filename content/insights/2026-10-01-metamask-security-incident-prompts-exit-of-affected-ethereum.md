@@ -9,7 +9,7 @@ tags: ["web3-security", "incident-disclosure", "ethereum"]
 cves: []
 source: "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** MetaMask reports an active infrastructure incident but has not confirmed user wallet compromise or published technical details. Monitor for follow-up disclosure with IOCs or affected component specifics before taking action.
 - **SOC/IR — Learn:** Active incident with no published IOCs, attack vector, or TTPs available yet — nothing actionable for detection or hunting. Watch for a follow-on technical disclosure before building any detections.

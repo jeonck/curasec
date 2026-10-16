@@ -9,7 +9,7 @@ tags: ["data-breach", "government", "hr-systems"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

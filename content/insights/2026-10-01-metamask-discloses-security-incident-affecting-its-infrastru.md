@@ -9,7 +9,7 @@ tags: ["vendor-incident", "crypto-wallet", "infrastructure"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If your product integrates with MetaMask APIs or you operate Web3 features, monitor for scope updates; disclosure is too thin right now to identify any specific affected endpoints or required mitigations.
 - **SOC/IR — Skip**

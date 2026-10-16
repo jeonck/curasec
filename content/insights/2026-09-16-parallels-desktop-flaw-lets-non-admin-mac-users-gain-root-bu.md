@@ -9,7 +9,7 @@ tags: ["local-privilege-escalation", "macos", "parallels"]
 cves: []
 source: "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Upgrade Parallels Desktop to version 27 on Apple Silicon Macs; for Intel Mac environments, no patch exists — assess whether Parallels can be removed or access restricted, as any local user process can escalate to root. No exploitation signals yet, but the permanent exposure on Intel hardware raises urgency for affected fleets.
 - **SOC/IR — Skip**

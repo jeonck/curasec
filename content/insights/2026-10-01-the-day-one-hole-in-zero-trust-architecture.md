@@ -9,7 +9,7 @@ tags: ["zero-trust", "identity", "onboarding"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Highlights the pre-credential onboarding window as a structural gap in Zero Trust; worth reviewing your identity provisioning pipeline for out-of-band verification steps, but no patch or config change required today.
 - **SOC/IR — Skip**

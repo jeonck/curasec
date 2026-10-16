@@ -9,7 +9,7 @@ tags: ["secrets-exposure", "rce", "ai-security"]
 cves: []
 source: "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Themes here — model-file inspection triggering RCE, cache-confusion request mixing, and long-lived public secrets — are worth internalizing for design reviews, but the summary names no specific software or CVEs to patch and carries no enrichment signals.
 - **SOC/IR — Learn:** The digest surfaces interesting attack primitives (AI-powered zero-day chaining, model inspection as code execution) but provides no IOCs, ATT&CK mappings, or specific campaigns to hunt for this week.
