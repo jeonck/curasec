@@ -9,7 +9,7 @@ tags: ["android-security", "mobile-malware", "advanced-protection"]
 cves: []
 source: "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Android 17's new control closes a well-known malware persistence path; useful when advising mobile teams on app permission design or reviewing MDM hardening configurations, but no change to running systems is required today.
 - **SOC/IR — Learn:** Accessibility service abuse is a primary Android malware control channel — this platform restriction will reduce that class of threat over time; update Android threat models and note the OS version boundary when triaging future mobile malware cases.

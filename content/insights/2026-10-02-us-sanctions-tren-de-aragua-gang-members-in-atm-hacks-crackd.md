@@ -9,7 +9,7 @@ tags: ["atm-jackpotting", "sanctions", "financial-crime"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

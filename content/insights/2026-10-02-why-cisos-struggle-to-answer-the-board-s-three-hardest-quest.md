@@ -9,7 +9,7 @@ tags: ["governance", "board-reporting", "ciso"]
 cves: []
 source: "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

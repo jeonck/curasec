@@ -9,7 +9,7 @@ tags: ["account-takeover", "social-media", "crypto-scam"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** High-profile social media account hijacking of a major tech brand; no IOCs or ATT&CK-mappable TTPs published, so no immediate detection work, but useful context for monitoring brand impersonation patterns.
