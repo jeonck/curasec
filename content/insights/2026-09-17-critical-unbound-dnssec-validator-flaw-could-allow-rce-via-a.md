@@ -9,7 +9,7 @@ tags: ["dns", "rce", "dnssec"]
 cves: ["CVE-2026-81642"]
 source: "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC exists for this critical heap overflow enabling RCE against any Unbound resolver that validates DNSSEC; patch to Unbound 1.26.1 immediately and verify all resolver deployments (containers, host-based, service mesh sidecars) are updated.
 - **SOC/IR — Learn:** No active exploitation or IOCs reported, and EPSS is 0.01; the attack path (attacker-controlled zone triggers RCE in resolver) is worth noting for future hunt hypotheses, but no detection work is warranted until exploitation evidence emerges.

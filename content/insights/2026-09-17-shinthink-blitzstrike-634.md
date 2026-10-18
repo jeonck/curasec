@@ -9,7 +9,7 @@ tags: ["mcp", "offensive-tooling", "ai-agents"]
 cves: []
 source: "https://github.com/shinthink/blitzstrike"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A dedicated pen-testing framework targeting MCP (Model Context Protocol) infrastructure with 57 escalation chains signals that AI agent attack surface is maturing fast; evaluate against any MCP servers you run, but no exploitation pressure exists today.
 - **SOC/IR — Plan:** This is a red-team framework for AI agent/MCP environments gaining rapid traction (634 stars, trending); if your estate runs MCP-based agents, build detection coverage for recon and escalation behaviors this quarter before adversaries operationalize it.

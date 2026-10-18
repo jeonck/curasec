@@ -9,7 +9,7 @@ tags: ["data-breach", "identity-access-management", "higher-education"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

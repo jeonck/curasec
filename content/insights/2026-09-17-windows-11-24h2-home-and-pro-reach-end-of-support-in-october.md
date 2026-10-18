@@ -9,7 +9,7 @@ tags: ["windows-eol", "patch-management", "windows-11"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Inventory Windows 11 24H2 Home/Pro endpoints and schedule in-place upgrades to a supported feature release before the October deadline to avoid losing security update coverage.
 - **SOC/IR — Skip**

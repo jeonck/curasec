@@ -9,7 +9,7 @@ tags: ["tooling", "malware-analysis", "yara"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33392"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** If your team uses YARA-X for malware scanning, review the 1.21.0 changelog to evaluate whether the 5 improvements or 4 bugfixes affect your rule accuracy or pipeline stability before upgrading.

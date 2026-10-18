@@ -9,7 +9,7 @@ tags: ["industry-report", "trends", "cloud-security"]
 cves: []
 source: "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

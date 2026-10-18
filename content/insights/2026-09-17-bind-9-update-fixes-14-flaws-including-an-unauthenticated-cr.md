@@ -9,7 +9,7 @@ tags: ["dns", "bind", "patch"]
 cves: []
 source: "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Any BIND server with DNS-over-HTTPS enabled can be crashed unauthenticated with a single malformed request; update to BIND 9.20.29 or 9.21.26 and audit whether DoH is exposed externally. No KEV listing or public PoC yet, but the zero-credential DoS lowers the exploitation bar significantly.
 - **SOC/IR — Skip**
