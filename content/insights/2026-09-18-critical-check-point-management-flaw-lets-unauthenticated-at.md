@@ -9,7 +9,7 @@ tags: ["check-point", "rce", "network-security"]
 cves: []
 source: "https://thehackernews.com/2026/09/critical-check-point-management-server.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Unauthenticated root RCE on the management plane that controls all firewall policy is extremely high impact, but no KEV listing, PoC, or active exploitation is confirmed; apply Check Point's LivePatch update to all Security Management and Log Servers within your next patch window, prioritizing internet-accessible instances.
 - **SOC/IR — Plan:** No IOCs or confirmed exploitation yet, but compromise of the Check Point management server would let an attacker silently rewrite firewall policy — establish a baseline of expected connections to your management server ports now and prepare a hunt query to surface anomalous pre-auth traffic if exploitation activity is reported.

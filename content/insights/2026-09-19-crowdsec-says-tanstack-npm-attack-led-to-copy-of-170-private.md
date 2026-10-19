@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "github-breach"]
 cves: []
 source: "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** The TanStack npm supply chain attack in May stole credentials from developer machines; audit your lockfiles for malicious TanStack package versions from that window and rotate any npm tokens or GitHub credentials that may have been exposed. Also verify offboarding checklists immediately revoke GitHub org access upon employee departure.
 - **SOC/IR — Plan:** This incident had roughly a 4-month dwell time before discovery; build or tune detections for bulk GitHub repository cloning events and unusual API access patterns from recently offboarded accounts — no specific IOCs are published yet to enable an immediate sweep.

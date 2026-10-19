@@ -9,7 +9,7 @@ tags: ["container-escape", "docker", "macos"]
 cves: ["CVE-2026-77179"]
 source: "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC exists for this container escape on macOS; any engineer running Docker Sandboxes should update to the patched version immediately and audit shared directories for unexpected access. Until patched, avoid running untrusted code inside Docker Sandboxes VMs.
 - **SOC/IR — Learn:** No active exploitation signals and no KEV listing; primarily an engineer patching concern. Worth noting the attack pattern (VM guest escaping to host filesystem via shared directory traversal) for future detection development.

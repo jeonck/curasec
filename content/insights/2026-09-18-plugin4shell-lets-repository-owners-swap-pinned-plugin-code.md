@@ -9,7 +9,7 @@ tags: ["ai-coding-agents", "supply-chain", "plugin-security"]
 cves: []
 source: "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A pinned-version bypass in AI coding agents enables malicious plugin substitution via a controlled upstream repo — a direct supply-chain risk in CI/CD pipelines. Update Claude Code to ≥2.1.179 and OpenAI Codex to ≥0.146.0 immediately; audit all plugin sources across affected agents and restrict GitHub Copilot plugin use until a patch is confirmed.
 - **SOC/IR — Plan:** No published IOCs or active exploitation reported, but this introduces a new class of AI coding agent supply-chain abuse worth covering. Build detections on anomalous plugin installation behavior and source-repository mismatches in CI/CD pipeline logs, prioritizing environments running unpatched Copilot.

@@ -9,7 +9,7 @@ tags: ["azure", "privilege-escalation", "cloud-security"]
 cves: ["CVE-2026-85889"]
 source: "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** No customer-side patch action is needed — Microsoft fixed this server-side — but a public PoC existed before the fix, so audit Azure AI Foundry activity and IAM logs for unauthorized privilege escalations that may have occurred during the exposure window.
 - **SOC/IR — Act:** A public PoC on GitHub combined with a CVSS 10.0 network-accessible privilege escalation means exploitation attempts are plausible; hunt for anomalous privilege escalation events in Azure AI Foundry audit logs and Azure Entra activity logs predating the patch.

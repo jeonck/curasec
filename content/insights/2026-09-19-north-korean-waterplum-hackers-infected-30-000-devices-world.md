@@ -9,7 +9,7 @@ tags: ["north-korea-apt", "cryptocurrency-theft", "law-enforcement-advisory"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The advisory confirms an active North Korean campaign at scale, but the summary names no specific exploited software or CVEs to patch; review the full law enforcement advisory for any affected platform or dependency details.
 - **SOC/IR — Plan:** Pull the joint law enforcement advisory for WaterPlum IOCs and ATT&CK-mapped TTPs, then build hunts targeting the December 2025–July 2026 activity window across endpoint and network telemetry.

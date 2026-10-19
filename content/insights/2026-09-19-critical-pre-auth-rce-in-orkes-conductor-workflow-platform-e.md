@@ -9,7 +9,7 @@ tags: ["rce", "active-exploitation", "workflow-orchestration"]
 cves: ["CVE-2026-58138"]
 source: "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Actively exploited pre-auth RCE with a public PoC on GitHub overrides the low EPSS; patch Orkes Conductor to 3.30.2 or later immediately if running any version before that.
 - **SOC/IR — Act:** Active exploitation confirmed by Fortinet means assume-breach posture for any environment running Orkes Conductor — sweep for anomalous process spawns from the Conductor service and pull Fortinet's report for available IOCs to hunt against SIEM data.

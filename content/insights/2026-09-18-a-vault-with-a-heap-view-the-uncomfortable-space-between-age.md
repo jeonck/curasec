@@ -9,7 +9,7 @@ tags: ["aws-agentcore", "prompt-injection", "ai-agents"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you run AWS AgentCore Harness for AI agent workloads, audit your default IAM role assignments and trust boundaries this quarter — the research identifies specific misconfigurations that allow injected prompts to reach credential storage. No active exploitation or PoC noted, but the hardening steps are concrete and low-effort.
 - **SOC/IR — Learn:** The prompt-injection-to-credential-exfiltration path in AI agent runtimes is a maturing attack class worth understanding for future detection coverage, but no IOCs, active campaigns, or ATT&CK mappings are surfaced here to act on today.

@@ -9,7 +9,7 @@ tags: ["microsoft-teams", "file-blocking", "admin-controls"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Once released, review Teams file-extension block list against your organization's threat profile and configure it to block high-risk extensions (e.g., .exe, .bat, .ps1) not already covered by defaults.
 - **SOC/IR — Skip**

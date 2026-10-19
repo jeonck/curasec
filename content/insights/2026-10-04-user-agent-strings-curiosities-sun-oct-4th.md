@@ -9,7 +9,7 @@ tags: ["threat-intel", "honeypot", "reconnaissance"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33394"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Honeypot observations of unusual user agent strings can inform tuning of detection rules for scanning and reconnaissance activity, though no specific IOCs or TTPs are presented here.

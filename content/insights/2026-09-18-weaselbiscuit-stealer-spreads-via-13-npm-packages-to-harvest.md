@@ -9,7 +9,7 @@ tags: ["npm-supply-chain", "dprk", "stealer-malware"]
 cves: []
 source: "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Supply-chain compromise via npm is directly in scope — audit your package-lock.json and dependency trees for these 13 named packages immediately, remove any matches, and rotate credentials and tokens accessible from affected developer workstations or CI runners.
 - **SOC/IR — Plan:** The overlap with DPRK's Contagious Interview campaign (BeaverTail TTPs) gives a detection anchor — build or tune rules for suspicious npm package installs on developer endpoints and Chrome extension storage access patterns consistent with credential harvesting.

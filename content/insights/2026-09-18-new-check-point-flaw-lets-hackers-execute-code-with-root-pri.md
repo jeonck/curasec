@@ -9,7 +9,7 @@ tags: ["rce", "check-point", "patch"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you run Check Point management servers, this critical RCE is directly relevant — update to the patched release as soon as your window allows; no active exploitation or public PoC is confirmed yet, so Act urgency isn't warranted but routine-cycle treatment is insufficient for a root-level management plane flaw.
 - **SOC/IR — Skip**

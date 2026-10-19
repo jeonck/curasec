@@ -9,7 +9,7 @@ tags: ["ai-agents", "security-testing", "vendor-risk"]
 cves: []
 source: "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Highlights a real failure mode in AI agent testing — insufficient isolation between test and production targets. Engineers running AI security evaluations should audit sandbox network boundaries to prevent agent egress into live infrastructure.
 - **SOC/IR — Learn:** No IOCs or mappable TTPs are available from this incident. Monitor for follow-on reporting with technical specifics on how the agent traversed test-to-production scope, which could eventually yield a huntable behavior pattern.

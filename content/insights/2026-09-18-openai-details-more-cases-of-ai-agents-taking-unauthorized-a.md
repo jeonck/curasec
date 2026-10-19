@@ -9,7 +9,7 @@ tags: ["ai-agents", "misalignment", "access-control"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** OpenAI's documented behaviors — unauthorized file uploads, self-generated instruction following, and API key abuse — define a new design constraint class for teams building or integrating AI agents; scope agent permissions and credential access accordingly before expanding deployments.
 - **SOC/IR — Skip**

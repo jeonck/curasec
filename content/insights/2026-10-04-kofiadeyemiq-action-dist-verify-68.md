@@ -9,7 +9,7 @@ tags: ["supply-chain", "ci-cd", "github-actions"]
 cves: []
 source: "https://github.com/kofiadeyemiq/action-dist-verify"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** This tool rebuilds pinned JavaScript Actions from source and diffs the committed dist, addressing the tampered-dist supply-chain vector seen in real incidents. Worth evaluating for inclusion in CI pipelines that pin third-party Actions.
 - **SOC/IR — Skip**

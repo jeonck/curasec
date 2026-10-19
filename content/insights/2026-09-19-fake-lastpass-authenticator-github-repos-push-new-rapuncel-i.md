@@ -9,7 +9,7 @@ tags: ["infostealer", "supply-chain", "social-engineering"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Add LastPass Authenticator and similar impersonation repos to your developer guidance; audit internal wikis and Slack channels for links to unofficial GitHub repos distributing security tools, and remind teams to verify publisher identity before cloning auth-related software.
 - **SOC/IR — Plan:** Build or tune detections for Rapuncel infostealer behaviors once IOCs are published; in the meantime, hunt for developer endpoints that recently cloned security-tool repos from unverified GitHub accounts, as credential theft from dev machines is a high-value pivot.

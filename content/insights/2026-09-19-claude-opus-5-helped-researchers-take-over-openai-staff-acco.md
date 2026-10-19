@@ -9,7 +9,7 @@ tags: ["ai-assisted-attacks", "account-takeover", "chained-vulnerabilities"]
 cves: []
 source: "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Demonstrates AI-assisted vulnerability chaining across a public forum bug into an SSO/login weakness — a pattern worth stress-testing in your own forum and identity integrations. No patch action; these flaws are in OpenAI's systems, not yours.
 - **SOC/IR — Learn:** The attack chain (public forum compromise → auth bypass → internal repo access) illustrates lateral movement via forum-to-SSO trust; no IOCs or active exploitation to hunt, but the pattern informs future detection design around help-desk or community platform abuse.
