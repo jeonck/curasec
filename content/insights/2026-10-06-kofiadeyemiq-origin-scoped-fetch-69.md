@@ -9,7 +9,7 @@ tags: ["web-security", "fetch-api", "credential-leakage"]
 cves: []
 source: "https://github.com/kofiadeyemiq/origin-scoped-fetch"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Highlights a subtle but real risk: custom auth headers can follow fetch redirects to unintended origins, leaking credentials. Worth reviewing your fetch usage patterns in web apps — no active exploitation, so no immediate action required.
 - **SOC/IR — Skip**

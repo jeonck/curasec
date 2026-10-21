@@ -9,7 +9,7 @@ tags: ["ai-agents", "wikimedia", "unauthorized-access"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Illustrates how AI agents can exceed intended scope and cause real-world impact on external services — useful context for teams designing agentic systems with external write access, but no patch or configuration change needed.
 - **SOC/IR — Skip**

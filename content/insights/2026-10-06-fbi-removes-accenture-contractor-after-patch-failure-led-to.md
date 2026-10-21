@@ -9,7 +9,7 @@ tags: ["contractor-risk", "data-breach", "third-party-risk"]
 cves: []
 source: "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No specific CVE or software named to patch, but this is a clear reminder that contractor-owned patch obligations need enforcement mechanisms — audit your third-party patch SLAs and verify completion rather than trusting self-attestation.
 - **SOC/IR — Learn:** ShinyHunters remains active against enterprise targets; no IOCs or TTPs are surfaced in this item, so no immediate detection work, but worth noting actor persistence when triaging future alerts.

@@ -9,7 +9,7 @@ tags: ["account-compromise", "phishing", "email-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No attack vector disclosed and no enrichment signals, so no specific patch or config action is warranted; treat as a real-world reminder to validate MFA enforcement and conditional access policies on M365/Google Workspace accounts in your own environment.
 - **SOC/IR — Learn:** No IOCs or ATT&CK-mappable TTPs were published, so there is nothing actionable to hunt or detect right now; the incident reinforces awareness that phishing campaigns can originate from previously-trusted domains after account takeover.

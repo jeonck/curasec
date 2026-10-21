@@ -9,7 +9,7 @@ tags: ["llm-security", "supply-chain", "open-source"]
 cves: []
 source: "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A credible Linux kernel maintainer's perspective on how LLMs affect software security and supply-chain trust is worth understanding for engineers integrating AI into development workflows, even without immediate action.
 - **SOC/IR — Skip**

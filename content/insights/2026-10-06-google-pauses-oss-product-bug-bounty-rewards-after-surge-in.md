@@ -9,7 +9,7 @@ tags: ["bug-bounty", "open-source", "supply-chain"]
 cves: []
 source: "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Vulnerability reports for Google OSS products like Go, Angular, and Protocol Buffers are no longer rewarded, which may reduce incentivized security research on widely-used dependencies; supply-chain compromise reports remain in scope, so no change to patch posture today.
 - **SOC/IR — Skip**
