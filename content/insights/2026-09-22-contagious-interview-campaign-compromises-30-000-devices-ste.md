@@ -9,7 +9,7 @@ tags: ["threat-intel", "supply-chain", "north-korea"]
 cves: []
 source: "https://thehackernews.com/2026/09/contagious-interview-campaign.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No KEV listing or PoC signals; the campaign targets individuals via fake job interviews delivering malware, so engineering teams should be aware of the social-engineering vector but no immediate patch or config action is required today.
 - **SOC/IR — Act:** Joint advisory indicates active, widespread campaign — hunt for Contagious Interview TTPs (fake recruiter lures, malicious npm/Python packages, BeaverTail/InvisibleFerret malware) in endpoint and email telemetry, and sweep for IOCs from the advisory across devices belonging to engineering and crypto-adjacent staff.

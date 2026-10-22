@@ -9,7 +9,7 @@ tags: ["entra-id", "passkeys", "authentication"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Entra ID SMS first-factor sign-in retires February 2027 — begin migrating users to passkeys or other phishing-resistant methods this quarter to avoid sign-in disruptions before the deadline.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["supply-chain", "ecommerce", "data-breach"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you run BigCommerce storefronts with third-party apps, audit installed apps for Ribon-linked integrations and review your CSP headers and script-injection monitoring; no CVE or patch available, but credential hygiene for marketplace apps is the control surface here.
 - **SOC/IR — Plan:** Add detection coverage for unexpected third-party script injections in e-commerce environments; hunt for new or modified script tags in storefront page responses if BigCommerce is in scope for your estate.

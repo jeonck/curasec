@@ -9,7 +9,7 @@ tags: ["ai-agents", "approval-bypass", "agentic-security"]
 cves: []
 source: "https://arxiv.org/abs/2609.21081"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Confirmed post-approval state-substitution in Agno AgentOS ≤3.0.9 and LangGraph Agent Server ≤0.14.0 — if you ship AI agent workflows with human-in-the-loop gates, audit these dependencies and upgrade to patched releases; review approval-to-execution binding in any custom agent code.
 - **SOC/IR — Learn:** Novel attack class showing that human approval gates in agentic systems can be bypassed via state mutation or misrepresentation; no IOCs or ATT&CK-mapped TTPs to hunt for today, but worth understanding as AI agent deployments expand detection scope.

@@ -9,7 +9,7 @@ tags: ["threat-actor", "extortion", "law-enforcement"]
 cves: []
 source: "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** ShinyHunters has historically targeted cloud-hosted databases and credential stores; the alleged leader's arrest and cooperation may surface new TTPs or past victims, but no specific patch or configuration action is indicated by this report.
 - **SOC/IR — Learn:** Arrest and FBI cooperation could yield future IOC or infrastructure disclosures worth hunting — monitor follow-on reporting and be ready to sweep if actor-linked indicators are published, but nothing actionable is available yet.

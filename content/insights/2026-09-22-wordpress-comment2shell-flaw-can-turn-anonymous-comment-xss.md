@@ -9,7 +9,7 @@ tags: ["wordpress", "xss-to-rce", "supply-chain"]
 cves: ["CVE-2026-93485"]
 source: "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC on GitHub makes exploitation practical despite a low EPSS score; the anonymous-commenter-to-admin-RCE chain is severe. Patch WordPress core to version 7.1.1 immediately across all managed sites.
 - **SOC/IR — Plan:** No confirmed in-the-wild exploitation yet, but the public PoC makes detection work urgent this quarter. Build rules to flag suspicious JavaScript payloads in WordPress comment submissions and unexpected server-side execution correlated with admin page visits.

@@ -9,7 +9,7 @@ tags: ["sharepoint", "rce", "cve"]
 cves: ["CVE-2026-65660"]
 source: "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** The CVSS 6.5 spoofing label may have caused teams to deprioritize this patch; full technical details are now public, raising PoC risk. Patch SharePoint Server 2016, 2019, and Subscription Edition to the vendor-supplied fix before a PoC materializes.
 - **SOC/IR — Plan:** With detailed exploit mechanics now public, exploitation attempts are more likely in coming weeks. Build or stage SharePoint-targeted authenticated RCE hunt queries now so you can sweep quickly if active exploitation is reported.

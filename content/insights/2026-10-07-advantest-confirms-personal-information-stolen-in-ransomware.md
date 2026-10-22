@@ -9,7 +9,7 @@ tags: ["ransomware", "data-breach", "pii"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Ransomware-to-data-exfiltration pattern at a semiconductor firm; no IOCs or TTPs published, so no detection work possible yet but useful sector context.

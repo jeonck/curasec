@@ -9,7 +9,7 @@ tags: ["sast", "supply-chain", "tooling"]
 cves: []
 source: "https://github.com/openqodex/openqodex"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A pre-push AI-assisted code review tool combining SAST, secrets detection, and dependency scanning may be worth evaluating for CI/CD pipelines; no exploitation signals or urgent action required, but worth a proof-of-concept in a dev workflow.
 - **SOC/IR — Skip**

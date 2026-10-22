@@ -9,7 +9,7 @@ tags: ["phishing-as-a-service", "microsoft-365", "token-theft"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** PhaaS platforms like EvilTokens typically use AiTM techniques that bypass standard MFA; audit Microsoft 365 Conditional Access policies and prioritize rollout of phishing-resistant MFA (FIDO2/passkeys) to eliminate token-theft risk across your tenant.
 - **SOC/IR — Act:** Platform disruption does not remediate already-compromised sessions; hunt for anomalous OAuth token grants, impossible-travel sign-ins, and legacy authentication usage in your Microsoft 365 environment covering the campaign's active window.

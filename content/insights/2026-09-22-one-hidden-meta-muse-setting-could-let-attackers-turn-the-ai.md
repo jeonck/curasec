@@ -9,7 +9,7 @@ tags: ["ai-assistant", "macos", "post-exploitation"]
 cves: []
 source: "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The attack requires malware already present on the host, making this a post-exploitation primitive rather than an initial-access flaw. No patch details are provided yet; review AI assistant permission grants on macOS endpoints and consider restricting Muse accessibility access where it isn't needed.
 - **SOC/IR — Plan:** Wardle's PoC establishes a concrete post-compromise technique where an attacker redirects Muse microphone input by flipping a hidden setting; build a detection or hunt for unexpected modifications to Muse configuration files on managed Macs.

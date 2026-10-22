@@ -9,7 +9,7 @@ tags: ["windows", "patch-management", "backup"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If Windows endpoints rely on File History for backup continuity, verify backup jobs are still running post-September-patch and consider delaying the update until Microsoft issues a fix or workaround.
 - **SOC/IR — Skip**

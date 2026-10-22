@@ -9,7 +9,7 @@ tags: ["ai-agents", "lateral-movement", "identity-security"]
 cves: []
 source: "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research framing on how AI agents can autonomously discover privilege escalation paths challenges traditional least-privilege design assumptions; no patch or specific system action required, but worth factoring into IAM and agent permission scoping decisions.
 - **SOC/IR — Learn:** The concept of AI agents autonomously chaining access paths is a useful frame for future detection logic, but no IOCs, TTPs, or active campaign details are present to act on today.

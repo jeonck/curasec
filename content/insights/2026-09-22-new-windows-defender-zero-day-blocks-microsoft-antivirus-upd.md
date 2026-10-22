@@ -9,7 +9,7 @@ tags: ["windows-defender", "zero-day", "endpoint-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** No patch exists yet and exploitation is unconfirmed, but this flaw could silently stall Defender signature updates across Windows endpoints. Audit Defender update health on managed systems now and prioritize applying Microsoft's fix as soon as it ships.
 - **SOC/IR — Plan:** Blocked or silently failing Defender update events are a detection opportunity — build an alert for endpoints where signature age exceeds expected cadence, as this exploit could be weaponized to degrade coverage before a follow-on attack.
