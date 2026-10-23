@@ -9,7 +9,7 @@ tags: ["data-breach", "social-engineering", "credential-theft"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Confirms credential-theft-via-social-engineering as an active breach pathway, but the summary provides no IOCs, TTPs, or detection surface — nothing actionable for hunting or rule-writing at this time.

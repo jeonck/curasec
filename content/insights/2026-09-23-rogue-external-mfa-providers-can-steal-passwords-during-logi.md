@@ -9,7 +9,7 @@ tags: ["identity", "mfa", "attack-technique"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit who holds privileges to register external MFA providers in your identity platform (Entra ID, Okta, etc.) and restrict that permission to a minimal group; no active exploitation reported, but the attack surface is real for orgs using federated MFA.
 - **SOC/IR — Plan:** Instrument your identity-platform audit logs to alert on new external MFA provider registrations — this technique leaves a trace there; no IOCs or active campaign to hunt for today.

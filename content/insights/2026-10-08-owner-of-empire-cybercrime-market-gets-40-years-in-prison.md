@@ -9,7 +9,7 @@ tags: ["dark-web", "law-enforcement", "cybercrime"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** A significant law enforcement outcome against a major dark web marketplace operator; useful context for understanding how illicit markets that traffic in stolen credentials and malware distribution are dismantled, but no detection actions or IOCs to act on.

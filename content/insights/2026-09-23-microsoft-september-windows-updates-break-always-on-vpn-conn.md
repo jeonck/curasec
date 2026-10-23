@@ -9,7 +9,7 @@ tags: ["windows", "vpn", "patch-regression"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Engineers running Always On VPN on Windows 11 should audit affected systems and hold or roll back the September 2026 cumulative update until Microsoft ships a fix; no exploitation angle, but the breakage is real and operational.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["nextjs", "rce", "web-security"]
 cves: []
 source: "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Patch Next.js to the version released 2026-09-22 that fixes the ImageResponse RCE; audit any app that passes user-controlled input (e.g. URL parameters) into ImageResponse calls. No KEV listing or public PoC in signals, so patching this sprint is prudent but not emergency-level.
 - **SOC/IR — Skip**

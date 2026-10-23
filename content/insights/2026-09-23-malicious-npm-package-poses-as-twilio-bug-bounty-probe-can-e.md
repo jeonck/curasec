@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A live malicious npm package impersonating a Twilio security tool can exfiltrate credentials from developer environments. Audit npm dependency trees and CI/CD install logs for 'tw-pkgprobe-7731' and ensure no project has pulled it since mid-August 2026.
 - **SOC/IR — Act:** The package name 'tw-pkgprobe-7731' (uploaded by 'twdepprobe7731') is a concrete IOC; sweep CI/CD pipeline logs and artifact registries since mid-August 2026 for any installation or download of this package to identify potential credential exposure.

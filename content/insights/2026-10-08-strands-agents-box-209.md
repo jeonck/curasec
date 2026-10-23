@@ -9,7 +9,7 @@ tags: ["ai-agents", "sandboxing", "supply-chain"]
 cves: []
 source: "https://github.com/strands-agents/box"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** New Rust-based tool that pairs OS isolation with default-deny network/filesystem policies and out-of-band credential injection for AI agents — worth evaluating for CI/CD or agentic pipeline designs, though macOS-only right now limits immediate cloud deployment.
 - **SOC/IR — Skip**

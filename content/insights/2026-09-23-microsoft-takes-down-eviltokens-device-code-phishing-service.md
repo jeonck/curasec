@@ -9,7 +9,7 @@ tags: ["phishing", "oauth", "ai-threats"]
 cves: []
 source: "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Device-code phishing bypasses MFA by abusing the OAuth device-authorization flow; review Conditional Access policies to restrict or block device-code grant type for untrusted networks or users who don't need it.
 - **SOC/IR — Plan:** The service is dismantled but the TTP persists — build or tune detections for anomalous device-code authentication requests (unusual tenant, geolocation, or off-hours token grants) in your SIEM before copycats emerge.

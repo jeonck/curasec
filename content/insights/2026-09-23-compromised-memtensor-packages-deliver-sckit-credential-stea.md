@@ -9,7 +9,7 @@ tags: ["supply-chain", "credential-theft", "package-manager"]
 cves: []
 source: "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Multi-source corroboration (Aikido, SafeDep, Socket, StepSecurity) of an active supply-chain compromise in npm and PyPI — a direct Act signal per channel criteria. Audit your dependency trees for @memtensor/memos-cloud-openclaw-plugin and any related MemTensor packages; remove or pin away from affected versions and rotate credentials on any systems where compromised versions were installed or executed.
 - **SOC/IR — Act:** Active credential-stealing implant with cross-platform reach on developer and CI/CD systems warrants an immediate sweep. Hunt for sckit process artifacts and anomalous outbound connections from build environments and developer endpoints since the affected package versions were published; prioritize Linux and macOS systems alongside Windows given the cross-platform Go implant.

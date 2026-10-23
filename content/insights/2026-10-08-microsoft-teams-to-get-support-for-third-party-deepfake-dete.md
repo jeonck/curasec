@@ -9,7 +9,7 @@ tags: ["deepfake", "microsoft-teams", "social-engineering"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

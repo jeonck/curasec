@@ -9,7 +9,7 @@ tags: ["nation-state", "threat-attribution", "china"]
 cves: []
 source: "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Adds actor-identity context to the HAFNIUM/Exchange attribution picture, but there are no new IOCs, TTPs, or campaign activity to hunt for — useful background when briefing on Chinese state-sponsored threat actors.

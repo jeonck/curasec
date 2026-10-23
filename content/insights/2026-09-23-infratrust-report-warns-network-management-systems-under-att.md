@@ -9,7 +9,7 @@ tags: ["network-management", "vulnerability-exploitation", "threat-intelligence"
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** The pattern of exploitation before or shortly after vendor disclosure means patch windows for NMS products are effectively zero; audit which network management platforms you run and ensure they are on an expedited patch track, with no public management interfaces exposed.
 - **SOC/IR — Learn:** The trend of management-plane targeting is worth noting as context for prioritizing detection coverage on NMS platforms, but no IOCs, TTPs, or ATT&CK mappings are available from this report to act on now.
