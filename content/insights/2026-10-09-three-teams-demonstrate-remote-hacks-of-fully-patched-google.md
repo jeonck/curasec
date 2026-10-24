@@ -9,7 +9,7 @@ tags: ["pwn2own", "mobile-exploit", "google-pixel"]
 cves: []
 source: "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Remote code execution on a fully patched Pixel 10 is noteworthy research, but no patch or public PoC is available yet and mobile handsets are outside the typical cloud/AppSec engineering stack; monitor Google's security bulletins for patches once they drop.
 - **SOC/IR — Learn:** Contest rules channel these exploits to the vendor privately, so there are no IOCs, public TTPs, or active exploitation signals to hunt; file as background awareness of Pixel attack surface until Google publishes details.

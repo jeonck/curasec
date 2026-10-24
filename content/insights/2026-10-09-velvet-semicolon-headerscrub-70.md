@@ -9,7 +9,7 @@ tags: ["go", "appsec", "open-source-tool"]
 cves: []
 source: "https://github.com/velvet-semicolon/headerscrub"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Go's default http.Client forwards all headers through redirects, potentially leaking API keys to unintended origins; this library demonstrates the fix pattern worth evaluating for any Go service that follows redirects with bearer tokens or API keys.
 - **SOC/IR — Skip**

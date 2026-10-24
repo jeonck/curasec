@@ -9,7 +9,7 @@ tags: ["ransomware", "law-enforcement", "qilin"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Qilin remains active despite this arrest; no new IOCs or TTPs are disclosed, but tracking group disruptions helps calibrate threat-actor risk posture.

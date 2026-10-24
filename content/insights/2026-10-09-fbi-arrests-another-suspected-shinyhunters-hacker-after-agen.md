@@ -9,7 +9,7 @@ tags: ["shinyhunters", "threat-actor", "law-enforcement"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Confirms ShinyHunters remains active and capable enough to breach high-value targets including federal agencies; no IOCs or TTPs are disclosed in this report, so no hunt or detection work is actionable yet — watch for follow-on technical disclosures.

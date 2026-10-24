@@ -9,7 +9,7 @@ tags: ["zero-day", "vulnerability-research", "pwn2own"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Contest zero-days are under responsible-disclosure embargo until vendors patch; monitor vendor advisories over the coming weeks for products you run, especially edge devices and browsers commonly targeted at Pwn2Own.
 - **SOC/IR — Skip**

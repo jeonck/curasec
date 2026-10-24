@@ -9,7 +9,7 @@ tags: ["ai-security", "identity", "enterprise"]
 cves: []
 source: "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

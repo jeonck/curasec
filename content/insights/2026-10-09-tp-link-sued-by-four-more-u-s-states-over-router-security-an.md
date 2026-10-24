@@ -9,7 +9,7 @@ tags: ["vendor-risk", "supply-chain", "regulation"]
 cves: []
 source: "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**
