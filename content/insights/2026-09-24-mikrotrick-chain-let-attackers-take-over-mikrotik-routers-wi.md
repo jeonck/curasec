@@ -9,7 +9,7 @@ tags: ["mikrotik", "routeros", "ssh-exploit"]
 cves: ["CVE-2026-67279", "CVE-2026-86060"]
 source: "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CVE-2026-86060 is CISA KEV listed with a public PoC, and the chain enables unauthenticated admin takeover of internet-exposed RouterOS devices. Immediately patch RouterOS to the vendor-fixed version, disable SSH exposure on WAN interfaces, and audit firewall rules to confirm MikroTik management ports are not reachable from the internet.
 - **SOC/IR — Act:** CVE-2026-86060 is KEV listed and attack logs confirm real-world exploitation; hunt for anomalous SSH sessions or new admin accounts on any MikroTik devices in the estate since the earliest known attack date, and add detections for unauthenticated admin-session establishment on edge routers.

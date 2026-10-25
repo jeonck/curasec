@@ -9,7 +9,7 @@ tags: ["threat-actor", "law-enforcement", "data-breach"]
 cves: []
 source: "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** ShinyHunters actor tracking update: a second arrest follows the group's claimed breach of the FBI jobs portal. No IOCs or TTPs published yet, so no immediate hunt or detection work, but useful for updating threat actor profiles and sector-targeting awareness.

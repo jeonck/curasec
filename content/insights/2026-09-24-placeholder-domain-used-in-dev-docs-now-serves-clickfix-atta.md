@@ -9,7 +9,7 @@ tags: ["clickfix", "social-engineering", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit your developer documentation, internal wikis, and code examples for placeholder domains that resolve to live addresses — 'third-party.com' is now actively malicious. This quarter, establish a doc review process to catch example domains before they reach users.
 - **SOC/IR — Act:** Search proxy and DNS logs for connections to third-party.com; hunt for ClickFix-pattern PowerShell execution following fake Cloudflare CAPTCHA pages, particularly on developer workstations where traffic to doc-linked domains is expected and may slip past scrutiny.

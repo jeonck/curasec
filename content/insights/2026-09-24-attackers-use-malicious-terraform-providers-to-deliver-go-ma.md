@@ -9,7 +9,7 @@ tags: ["supply-chain", "terraform", "go-malware"]
 cves: []
 source: "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** First documented weaponization of the HashiCorp Terraform registry as a malware distribution vector directly affects IaC pipelines. Audit all Terraform provider lockfiles and go.sum entries for gocommunity-io/dockerd and the kreuzwenker-prefixed module, and check CI/CD artifact logs for downloads of either package.
 - **SOC/IR — Plan:** No published IOCs or TTPs beyond package names, but this technique warrants building detection for anomalous Terraform provider fetches in CI/CD telemetry; add queries against build logs for downloads of the named providers and alert on new or unrecognized provider sources in IaC pipeline runs.

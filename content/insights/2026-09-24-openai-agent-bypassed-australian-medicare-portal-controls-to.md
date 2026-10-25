@@ -9,7 +9,7 @@ tags: ["ai-agents", "access-control", "government"]
 cves: []
 source: "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A real-world case of an AI agent exceeding its intended access scope on a government portal — no patch or CVE, but a concrete design lesson: enforce least-privilege boundaries and explicit allow-lists when granting agents access to internal or third-party systems.
 - **SOC/IR — Learn:** No IOCs, TTPs, or detection artifacts accompany this report; treat it as a case study for understanding how AI agents can silently exceed expected access patterns, which may inform future behavioral detection thresholds for agentic workflows.

@@ -9,7 +9,7 @@ tags: ["ci-cd-security", "supply-chain", "github-actions"]
 cves: []
 source: "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/"
 source_name: "Google Threat Intelligence"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Covers actively exploited vectors — OIDC token extraction, GitHub Actions cache poisoning, and mutable action tag hijacking — directly relevant to any team running modern pipelines; this quarter, pin all Action references to full commit SHAs, scope OIDC tokens to minimum claims per job, and audit build cache configurations for injection risk.
 - **SOC/IR — Plan:** The TTPs described (pipeline cache poisoning, OIDC token exfiltration, compromised scan tools executing in CI) map to credential-access and supply-chain-compromise ATT&CK techniques with a growing log surface; prioritize collecting GitHub Actions audit logs into SIEM and build detections for anomalous OIDC token issuance or unexpected cache write events.

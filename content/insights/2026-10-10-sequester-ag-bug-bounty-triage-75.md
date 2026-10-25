@@ -9,7 +9,7 @@ tags: ["bug-bounty", "tooling", "appsec"]
 cves: []
 source: "https://github.com/Sequester-AG/bug-bounty-triage"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A new agentic workflow for bug bounty triage and severity escalation worth evaluating if you run a vulnerability disclosure or bug bounty program; no patch or configuration action required.
 - **SOC/IR — Skip**

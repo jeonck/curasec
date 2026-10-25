@@ -9,7 +9,7 @@ tags: ["clickfix", "information-stealer", "social-engineering"]
 cves: []
 source: "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The ClickFix clipboard-injection technique via spoofed Cloudflare verification pages is a growing social engineering vector that could target your users or abuse your own web properties; no patch or config change required, but worth incorporating into developer awareness and reviewing whether your own sites could be compromised to serve similar lures.
 - **SOC/IR — Plan:** The ClickFix TTP — fake CAPTCHA/verification page copies a Windows Installer command to clipboard and prompts the user to run it — is a detectable execution pattern worth adding coverage for; build or tune detections for msiexec/installer invocations spawned from interactive shell sessions with no parent process chain typical of a legitimate installer flow.

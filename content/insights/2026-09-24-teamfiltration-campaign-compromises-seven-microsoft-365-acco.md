@@ -9,7 +9,7 @@ tags: ["credential-spraying", "microsoft-365", "cloud-identity"]
 cves: []
 source: "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** TeamFiltration targets M365 tenants using default/weak credentials; audit your tenant for accounts lacking MFA and enforce Conditional Access policies requiring phishing-resistant auth before this campaign broadens its target geography.
 - **SOC/IR — Act:** Active M365 credential-spray campaign is live and compromising accounts; hunt for TeamFiltration enumeration patterns in Azure AD sign-in logs and flag clusters of authentication attempts originating from AWS EC2 CIDR ranges with mixed failure/success ratios.

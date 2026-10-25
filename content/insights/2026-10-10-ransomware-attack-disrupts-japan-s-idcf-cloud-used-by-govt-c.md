@@ -9,7 +9,7 @@ tags: ["ransomware", "cloud-provider", "vendor-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

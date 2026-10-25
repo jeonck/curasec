@@ -9,7 +9,7 @@ tags: ["tlp", "information-classification", "governance"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33414"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Relevant to how analysts handle and label threat intel for sharing; clarifies that TLP governs external sharing boundaries while internal classification controls access — useful framing when onboarding new analysts or setting up intel-sharing workflows.

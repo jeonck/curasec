@@ -9,7 +9,7 @@ tags: ["secrets-sprawl", "ai-coding", "credential-exposure"]
 cves: []
 source: "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** GitGuardian's 2026 data showing AI-assisted commits leak secrets at twice the rate of human-written code is worth internalizing; audit whether your CI/CD pipelines have automated secret scanning enabled on AI-heavy repos before this statistic becomes your incident.
 - **SOC/IR — Skip**

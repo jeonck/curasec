@@ -9,7 +9,7 @@ tags: ["phishing", "url-obfuscation", "detection-evasion"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33366"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Technique analysis of a crafted phishing URL designed to fool automated security controls; no patch or configuration change required, but useful context for tuning email gateway URL inspection policies.
 - **SOC/IR — Plan:** SANS ISC breaks down specific URL obfuscation methods used to evade scanners — review the full diary to extract patterns and consider adding corresponding URL-decoding or pattern-matching rules to your email security or SIEM pipeline.

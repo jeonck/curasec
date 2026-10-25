@@ -9,7 +9,7 @@ tags: ["web-skimming", "ai-agents", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you operate e-commerce or payment pages, audit your site's JavaScript for unauthorized injections and review third-party script integrity; no specific CVE or PoC named in signals, but the attack vector (skimmer injection at scale via AI agents) warrants a near-term sweep of Content Security Policy and SRI enforcement.
 - **SOC/IR — Act:** Active large-scale skimming campaign targeting online retailers — hunt for unauthorized script injections or outbound data exfiltration from payment pages in your estate; tune web proxy and SIEM rules for known skimmer exfil domains as IOCs become available.

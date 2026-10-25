@@ -9,7 +9,7 @@ tags: ["fedramp", "vulnerability-management", "compliance"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Engineers operating FedRAMP-authorized systems should audit their current scan cadence and evidence workflows against the new VDR/VER requirements before the December 7 deadline — daily scanning and tighter remediation documentation will likely require tooling or process changes.
 - **SOC/IR — Skip**
