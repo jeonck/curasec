@@ -9,7 +9,7 @@ tags: ["wordpress", "csrf", "privilege-escalation"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Update Elementor to the patched version immediately if you run WordPress sites using this plugin; no public PoC or KEV listing yet, but admin account creation via CSRF is a critical-severity class of flaw worth prioritizing this week.
 - **SOC/IR — Learn:** No active exploitation or IOCs reported; file the CSRF-to-admin-creation TTP for future WordPress-focused detection work, but no hunt or rule tuning warranted now.

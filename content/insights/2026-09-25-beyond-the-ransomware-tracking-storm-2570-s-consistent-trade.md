@@ -9,7 +9,7 @@ tags: ["ransomware", "threat-intel", "ttp-analysis"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No exploitable vulnerability or patchable component here — this is post-compromise TTP analysis. Worth reviewing to understand how Storm-2570 stages before detonation, which could inform detection-oriented hardening of endpoint configs or logging.
 - **SOC/IR — Act:** Microsoft documents Storm-2570's reusable pre-ransomware toolchain across four active ransomware families with defender detection guidance — review the full blog post, map identified TTPs to ATT&CK, and tune or create SIEM/EDR rules against the common tradecraft patterns before the next deployment hits.

@@ -9,7 +9,7 @@ tags: ["crypto-theft", "north-korea", "financial-sector"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** North Korean actor targeting crypto exchange hot/warm wallets; no IOCs or TTPs published yet — monitor for follow-on reporting with detection-actionable detail.

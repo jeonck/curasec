@@ -9,7 +9,7 @@ tags: ["windows", "patch-management", "microsoft"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Review deployment of August 2026 Windows preview updates in your environment; consider pausing rollout or testing on pilot group before broad deployment until Microsoft issues a fix.
 - **SOC/IR — Skip**

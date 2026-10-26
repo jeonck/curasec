@@ -9,7 +9,7 @@ tags: ["cloudflare", "container-security", "data-isolation"]
 cves: []
 source: "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your org runs workloads on Cloudflare Containers, audit what sensitive data those containers wrote to disk — it was potentially readable by other tenants before the fix. No patch action on your end; Cloudflare remediated server-side, but assess whether any secrets, credentials, or PII touched container disk storage.
 - **SOC/IR — Skip**

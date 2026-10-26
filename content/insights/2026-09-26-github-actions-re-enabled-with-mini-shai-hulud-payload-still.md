@@ -9,7 +9,7 @@ tags: ["supply-chain", "github-actions", "ci-cd"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active supply-chain compromise in CI/CD is a direct Act trigger — audit every pipeline that references these affected Actions, check recent build logs for signs of malicious payload execution, and rotate any secrets or tokens exposed to those workflow runs.
 - **SOC/IR — Plan:** No IOCs are published in this item, but the Mini Shai-Hulud campaign name suggests threat-intel feeds may carry indicators — check those feeds and build a detection for anomalous GitHub Actions workflow executions or unexpected secret-access events in your CI/CD telemetry.

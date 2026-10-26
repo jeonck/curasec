@@ -9,7 +9,7 @@ tags: ["zero-day", "file-sharing", "vendor-advisory"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you run Kiteworks, follow the vendor's emergency guidance immediately: coordinate the advised shutdown window and monitor the vendor portal for patch or mitigation details as they emerge.
 - **SOC/IR — Act:** Treat any Kiteworks instance in the environment as potentially targeted; heighten log monitoring on those hosts now and prepare an assume-breach sweep plan for when IOCs are published.

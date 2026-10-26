@@ -9,7 +9,7 @@ tags: ["ai-agents", "zero-trust", "cloud-security"]
 cves: []
 source: "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Raises important design considerations for teams deploying AI agents — specifically that standard perimeter assumptions break down when agents act autonomously. No patch or config action; apply when architecting AI agent integrations.
 - **SOC/IR — Learn:** The referenced Hugging Face intrusion signals that AI agent evaluation environments are an emerging target, but the summary provides no IOCs, TTPs, or detection hooks to act on today.

@@ -9,7 +9,7 @@ tags: ["gitlab", "misconfiguration", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit all public-facing GitLab project documentation (READMEs, contributing guides, support pages) for exposed project email addresses and rotate or remove any found — no exploitation signals present, but the exposure is real and easy to enumerate at scale.
 - **SOC/IR — Learn:** No IOCs, active exploitation evidence, or ATT&CK-mappable TTPs provided; the risk is a misconfiguration for engineers to remediate rather than a detection engineering task.

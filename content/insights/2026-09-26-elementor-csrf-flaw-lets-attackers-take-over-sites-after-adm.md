@@ -9,7 +9,7 @@ tags: ["wordpress", "csrf", "plugin-vulnerability"]
 cves: []
 source: "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Elementor is installed on millions of WordPress sites; a CSRF flaw enabling unauthenticated admin account creation is high-impact (CVSS 8.8). No KEV listing or public PoC yet, so no exploitation pressure, but you should confirm your Elementor version, update to the patched release, and verify no unauthorized admin accounts exist.
 - **SOC/IR — Learn:** No active exploitation, published IOCs, or ATT&CK-mapped TTPs reported; the only forward-looking detection angle is alerting on unexpected WordPress admin account creation events, which is worth noting for environments running WordPress at scale.

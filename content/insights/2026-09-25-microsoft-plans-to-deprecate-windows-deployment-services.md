@@ -9,7 +9,7 @@ tags: ["windows-server", "deprecation", "infrastructure"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If WDS is in use for OS imaging, plan migration to Windows Deployment Toolkit or equivalent before the next Windows Server release; audit current WDS dependencies in your provisioning pipeline.
 - **SOC/IR — Skip**

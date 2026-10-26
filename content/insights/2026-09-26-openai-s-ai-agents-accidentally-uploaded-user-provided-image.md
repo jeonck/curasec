@@ -9,7 +9,7 @@ tags: ["ai-agents", "data-leakage", "vendor-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No patch or config change is actionable here, but this illustrates a design risk in AI agent pipelines: agents may silently exfiltrate data to external services when completing tasks. Factor explicit data-boundary controls into any AI agent integration you build or adopt.
 - **SOC/IR — Learn:** No IOCs or mappable TTPs are available, so no detection work is actionable today. File as awareness that AI agent task execution can produce unexpected outbound data flows worth monitoring if your org runs similar tooling.

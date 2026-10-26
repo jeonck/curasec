@@ -9,7 +9,7 @@ tags: ["north-korea", "crypto-exchange", "nation-state"]
 cves: []
 source: "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The attack vector in Bitget's backend compromise is not yet detailed publicly; no specific software, CVE, or configuration to patch today, but watch for follow-on reporting that may reveal exploited components relevant to fintech or cloud backend architectures.
 - **SOC/IR — Learn:** North Korean attribution is notable but no IOCs, TTPs, or ATT&CK mappings have been published yet; file as actor-profile context and revisit when technical indicators emerge from follow-up reporting.
