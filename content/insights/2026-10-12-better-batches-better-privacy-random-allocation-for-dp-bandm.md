@@ -9,7 +9,7 @@ tags: ["differential-privacy", "machine-learning", "research"]
 cves: []
 source: "https://arxiv.org/abs/2610.12712"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic improvement to differentially private ML training noise allocation — relevant only if you are actively implementing DP-SGD pipelines; no running-system changes required.
 - **SOC/IR — Skip**

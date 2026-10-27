@@ -9,7 +9,7 @@ tags: ["ai-security", "watermarking", "diffusion-models"]
 cves: []
 source: "https://arxiv.org/abs/2610.12952"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Relevant if you operate or integrate diffusion model pipelines and need provenance or misuse attribution for generated images; no deployable implementation yet, but the wavelet-domain embedding approach offers meaningfully better removal-attack resilience than current baselines.
 - **SOC/IR — Skip**

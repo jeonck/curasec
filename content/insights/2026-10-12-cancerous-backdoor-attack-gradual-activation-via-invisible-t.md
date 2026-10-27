@@ -9,7 +9,7 @@ tags: ["llm-security", "backdoor-attack", "ai-research"]
 cves: []
 source: "https://arxiv.org/abs/2610.12644"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** This research demonstrates that LLM backdoors can corrupt reasoning gradually across interaction stages, making accuracy-based monitoring insufficient — teams deploying fine-tuned or third-party models should evaluate whether their model-validation pipelines can detect staged behavioral drift, not just terminal outputs.
 - **SOC/IR — Learn:** No IOCs or active campaign; the attack requires model-level access to plant, placing it outside typical SIEM/EDR detection scope today, but understanding this gradual-activation pattern is useful context if investigating anomalous LLM output in AI-assisted workflows.

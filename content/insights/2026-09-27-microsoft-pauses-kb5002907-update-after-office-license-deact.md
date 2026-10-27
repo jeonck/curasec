@@ -9,7 +9,7 @@ tags: ["microsoft-office", "patch-management", "availability"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you manage endpoints with perpetual Office 2016/2019 installations, pause or block KB5002907 deployment via WSUS/Intune until Microsoft issues a corrected update.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["cloudflare", "cross-tenant", "data-exposure"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** No patch action needed — Cloudflare remediated server-side — but teams using Workers Paid should audit what data they've placed in Containers/Sandboxes and assess whether sensitive workloads were co-hosted with untrusted tenants during the vulnerable window.
 - **SOC/IR — Learn:** No IOCs, exploitation evidence, or detection surface here; the cross-tenant container residual-data pattern is worth noting as a threat model update for multi-tenant cloud services, but yields no hunt or rule work today.

@@ -9,7 +9,7 @@ tags: ["ai-agents", "sybil-attack", "research"]
 cves: []
 source: "https://arxiv.org/abs/2610.12948"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful design reference for engineers building agentic pipelines that involve autonomous payment or provider selection; the trust-capacity graph model offers a concrete pattern for bounding financial exposure, but no running systems need changes today.
 - **SOC/IR — Skip**

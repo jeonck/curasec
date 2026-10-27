@@ -9,7 +9,7 @@ tags: ["cloud-outage", "physical-security", "business-continuity"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

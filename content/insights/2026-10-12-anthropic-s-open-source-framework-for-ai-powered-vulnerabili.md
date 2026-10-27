@@ -9,7 +9,7 @@ tags: ["ai-security", "vulnerability-discovery", "open-source"]
 cves: []
 source: "https://github.com/anthropics/defending-code-reference-harness"
 source_name: "HN (vulnerability)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A reference harness for AI-assisted vulnerability discovery is worth evaluating as a potential addition to AppSec tooling; no exploitation signal or patch action required, but the technique could inform how automated code scanning is incorporated into CI/CD pipelines.
 - **SOC/IR — Skip**

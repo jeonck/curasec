@@ -9,7 +9,7 @@ tags: ["post-quantum", "iot-security", "cryptography"]
 cves: []
 source: "https://arxiv.org/abs/2610.13026"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research quantifies why a drop-in ML-KEM/ML-DSA upgrade to Matter CASE breaks Thread's frame and retransmission constraints; if you own Matter/Thread infrastructure, the hybrid P-256+ML-KEM-512 approach with cached chains is identified as the viable near-term path, but no patch or config change is available today.
 - **SOC/IR — Skip**

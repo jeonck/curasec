@@ -9,7 +9,7 @@ tags: ["gdpr", "ad-tech", "privacy-enforcement"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

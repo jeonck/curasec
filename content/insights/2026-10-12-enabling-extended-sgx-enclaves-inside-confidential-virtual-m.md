@@ -9,7 +9,7 @@ tags: ["confidential-computing", "sgx", "amd-sev"]
 cves: []
 source: "https://arxiv.org/abs/2610.12695"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** TEEVisor's nested TEE architecture addresses real SGX limitations (slow transitions, no intra-enclave isolation) with under 5% overhead on AMD EPYC — worth tracking if your team runs SGX workloads in cloud CVMs, but no systems changes required today.
 - **SOC/IR — Skip**

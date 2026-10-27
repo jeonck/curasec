@@ -9,7 +9,7 @@ tags: ["federated-learning", "intrusion-detection", "ot-security"]
 cves: []
 source: "https://arxiv.org/abs/2610.12704"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel two-server secret-sharing protocol that simultaneously enforces Byzantine robustness and privacy in federated IDS — relevant if you're designing federated ML pipelines for ICS/OT; no running system changes needed today.
 - **SOC/IR — Skip**

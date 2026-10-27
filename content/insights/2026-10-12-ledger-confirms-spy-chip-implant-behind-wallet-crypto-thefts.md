@@ -9,7 +9,7 @@ tags: ["supply-chain", "hardware-security", "cryptocurrency"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A confirmed hardware supply chain attack via a third-party reseller is a meaningful data point for hardware procurement and trust verification practices, but this affects consumer crypto devices rather than enterprise infrastructure, so no running systems need changing today.
 - **SOC/IR — Skip**

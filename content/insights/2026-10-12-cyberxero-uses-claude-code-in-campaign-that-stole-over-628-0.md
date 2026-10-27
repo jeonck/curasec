@@ -9,7 +9,7 @@ tags: ["ai-augmented-attacks", "threat-campaign", "cobalt-strike"]
 cves: []
 source: "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No specific CVE or patch surface identified — the novelty is AI orchestration layered onto commodity tooling (Cobalt Strike) for initial access against WordPress and e-commerce targets. Worth understanding the attack pattern when assessing AI tool exposure in CI/CD or build environments.
 - **SOC/IR — Learn:** Campaign uses Cobalt Strike (established detection signatures exist) with an AI orchestration layer, but no IOCs or ATT&CK mappings are provided in the disclosure and targeting is Ukraine-specific. File for context on AI-assisted attack tradecraft; revisit if IOCs surface.

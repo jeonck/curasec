@@ -9,7 +9,7 @@ tags: ["oracle-peoplesoft", "waf-bypass", "active-exploitation"]
 cves: ["CVE-2026-35273"]
 source: "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CVE-2026-35273 is CISA KEV-listed with active exploitation; WAF-based mitigations are being circumvented via URL-encoding tricks, so apply Oracle's vendor patch directly rather than relying on WAF rules — do not treat a WAF rule as a substitute for patching.
 - **SOC/IR — Act:** ShinyHunters is actively exploiting internet-facing PeopleSoft instances; hunt for URL-encoding anomalies in WAF and web server logs, sweep PeopleSoft access logs since KEV listing date for exploitation indicators, and flag any PeopleSoft-exposed assets for assume-breach review.
