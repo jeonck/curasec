@@ -9,7 +9,7 @@ tags: ["ransomware", "sanctions", "cryptocurrency"]
 cves: []
 source: "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Sanctions designate Cryptomus as a known ransomware payment conduit, providing useful context on adversary financial infrastructure, but no IOCs, TTPs, or detection surface are present in this item.

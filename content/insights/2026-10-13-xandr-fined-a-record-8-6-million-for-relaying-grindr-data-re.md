@@ -9,7 +9,7 @@ tags: ["gdpr", "data-privacy", "ad-tech"]
 cves: []
 source: "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

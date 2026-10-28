@@ -9,7 +9,7 @@ tags: ["vba-macros", "file-format", "malware-delivery"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33420"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Highlights that DWG files can carry embedded VBA projects, a non-obvious attack surface if AutoCAD or DWG-processing pipelines are in scope; no exploitation signal or patch action required today.
 - **SOC/IR — Learn:** Awareness that DWG files can conceal executable macro content is useful for tuning file-type inspection rules, but no IOCs or active campaign are described here.

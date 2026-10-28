@@ -9,7 +9,7 @@ tags: ["encryption-tooling", "html-smuggling", "webcrypto"]
 cves: []
 source: "https://github.com/Hamidooh/witness-vault"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Interesting pattern for offline/air-gapped secret sharing using native WebCrypto — worth evaluating if your team needs zero-dependency encrypted file handoff, but no action required on running systems.
 - **SOC/IR — Learn:** Self-decrypting HTML files are a known smuggling vector; this open-source implementation illustrates the technique and may inform tuning of HTML smuggling detections in your email/proxy pipeline.

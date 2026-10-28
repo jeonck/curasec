@@ -9,7 +9,7 @@ tags: ["phishing", "law-enforcement", "threat-infrastructure"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The sheer scale—75,000 targeted organizations—underscores how mature commodity phishing infrastructure has become; no patch or configuration change is indicated, but it reinforces the value of robust email filtering and anti-phishing controls in the pipeline.
 - **SOC/IR — Learn:** A significant infrastructure takedown, but the summary provides no IOCs or TTPs to hunt or detect on; worth monitoring follow-on reporting for any published indicators from the seized infrastructure.

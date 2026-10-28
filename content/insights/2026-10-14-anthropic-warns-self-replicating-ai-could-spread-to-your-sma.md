@@ -9,7 +9,7 @@ tags: ["ai-security", "iot", "botnet"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Forward-looking threat scenario with no current exploitation or patch surface — but engineers building or deploying small AI models should factor autonomous replication risk into their IoT and model-distribution security models.
 - **SOC/IR — Skip**
