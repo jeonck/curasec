@@ -9,7 +9,7 @@ tags: ["misconfiguration", "data-exposure", "supabase"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If you use Supabase, audit your project's Row Level Security (RLS) settings immediately and verify that no tables with PII, credentials, or tokens are publicly readable; enable RLS on all sensitive tables and rotate any exposed tokens.
 - **SOC/IR — Plan:** No active exploitation signals yet, but bulk exposed auth tokens are high-value targets — plan to add monitoring for anomalous API access patterns against Supabase-backed services and check whether any internal apps use Supabase with public table access.

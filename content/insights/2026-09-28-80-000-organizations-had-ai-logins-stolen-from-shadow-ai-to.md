@@ -9,7 +9,7 @@ tags: ["infostealers", "shadow-ai", "llmjacking"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Shadow AI usage is creating an unmanaged credential surface; audit all AI API keys and service tokens in use, identify unauthorized AI tool adoption across the org, and enforce MFA on sanctioned AI platforms this quarter.
 - **SOC/IR — Plan:** Build or tune detections for infostealer activity on endpoints that may have accessed AI services, and add AI credential misuse (unexpected API spending, off-hours LLM calls) to your hunting checklist — no specific IOCs are provided but the campaign scale justifies coverage.

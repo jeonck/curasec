@@ -9,7 +9,7 @@ tags: ["supply-chain", "oauth", "ai-agents"]
 cves: []
 source: "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Any application built on the MCP Python SDK before 1.30.0 could expose OAuth client secrets, authorization codes, and PKCE keys to a malicious MCP server; upgrade to 1.30.0 and audit all MCP server endpoints your app trusts. No active exploitation signals yet, but the credential theft path is direct.
 - **SOC/IR — Learn:** No IOCs, no exploitation activity, and no useful detection surface today, but understanding that MCP servers are a potential OAuth credential harvesting vector is worth noting as AI-agent tooling proliferates in enterprise environments.

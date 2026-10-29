@@ -9,7 +9,7 @@ tags: ["ransomware", "azure", "agentic-ai"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Azure tenants are directly in scope for this destructive ransomware campaign, but no KEV listing, PoC, or EPSS data is present to justify emergency action. Audit Azure service principal permissions and activity logs for anomalous automation, and verify that critical resource deletion requires additional approval controls.
 - **SOC/IR — Act:** JadePuffer is an active operator running agent-driven Azure attacks involving credential theft and resource destruction — hunt Azure audit logs for unusual service principal activity and bulk resource operations, and tune detections for abnormal automation patterns consistent with agentic reconnaissance since this campaign surfaced.

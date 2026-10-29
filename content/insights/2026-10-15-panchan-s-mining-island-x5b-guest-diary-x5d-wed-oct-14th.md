@@ -9,7 +9,7 @@ tags: ["botnet", "cryptomining", "linux"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33426"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Panchan is a Go-based P2P botnet that spreads via SSH brute-force and drops cryptominers on Linux hosts — relevant to any team running internet-exposed Linux infrastructure, but the summary is too thin to identify new IOCs or required config changes.
 - **SOC/IR — Learn:** An intern analysis of Panchan may surface behavioral indicators useful for tuning SSH brute-force and cryptominer detections, but no IOCs or ATT&CK mappings are provided in this summary to act on immediately.

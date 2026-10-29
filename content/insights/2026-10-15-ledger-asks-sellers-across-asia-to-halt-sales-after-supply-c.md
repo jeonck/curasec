@@ -9,7 +9,7 @@ tags: ["supply-chain", "hardware-security", "vendor-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["ai-security", "iot", "emerging-threats"]
 cves: []
 source: "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No exploitation today and no affected software to patch — this is a forward-looking threat projection about consumer IoT devices, not enterprise cloud infrastructure. Worth tracking if your organization deploys edge AI or manages IoT fleets, but no action required now.
 - **SOC/IR — Learn:** No IOCs, no mapped TTPs, and no active campaigns to hunt — this is a speculative future scenario with zero detection surface today. File as emerging threat context for future botnet detection planning.

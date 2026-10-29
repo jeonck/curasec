@@ -9,7 +9,7 @@ tags: ["kiteworks", "critical-vulnerability", "patch"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Kiteworks issued a precautionary shutdown advisory before patching, signaling high severity; no KEV or active exploitation reported, but if you run Kiteworks in your environment, schedule patching to the latest release this week.
 - **SOC/IR — Skip**

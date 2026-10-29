@@ -9,7 +9,7 @@ tags: ["azure", "service-principals", "cloud-destruction"]
 cves: []
 source: "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Any Azure workload using service principals is plausibly exposed to this class of attack; audit service principal permissions, apply least-privilege RBAC, and enable resource locks or delete locks on critical resource groups to blunt destructive operations by compromised identities.
 - **SOC/IR — Plan:** Build or tune detections for anomalous service principal activity in Entra ID and Azure Monitor — specifically bulk resource deletions or unusual API calls from service principal identities; run a retrospective hunt for similar patterns in Azure activity logs back to June 2026.

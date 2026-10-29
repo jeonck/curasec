@@ -9,7 +9,7 @@ tags: ["critical-vulnerability", "file-sharing", "vendor-patch"]
 cves: []
 source: "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If Kiteworks is in your stack, verify whether the affected capability (enabled for <1% of customers) is active in your deployment and apply the available patch this sprint; no exploitation signals yet but federal involvement warrants prompt action.
 - **SOC/IR — Skip**

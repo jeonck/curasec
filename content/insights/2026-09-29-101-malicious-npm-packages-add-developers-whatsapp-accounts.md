@@ -9,7 +9,7 @@ tags: ["npm-supply-chain", "malicious-packages", "supply-chain"]
 cves: []
 source: "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** 101 confirmed malicious npm packages are live in the registry; audit your dependency tree against the full package list published by OX Security and remove any matches — the current payload is WhatsApp group enrollment, but the supply-chain foothold could be updated to deliver worse payloads.
 - **SOC/IR — Learn:** PhantomSub is a novel abuse of the Baileys WhatsApp library for subscriber manipulation; no IOCs, SIEM-ready signatures, or ATT&CK mappings are surfaced in the summary, so there is no immediate detection work to do but the technique is worth cataloging.

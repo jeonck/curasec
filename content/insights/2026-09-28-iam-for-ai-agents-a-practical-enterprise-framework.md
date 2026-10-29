@@ -9,7 +9,7 @@ tags: ["ai-agents", "iam", "enterprise-security"]
 cves: []
 source: "https://thehackernews.com/2026/09/iam-for-ai-agent.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Covers identity control architecture for AI agents that authenticate and invoke tools with delegated authority — worth reviewing when designing or auditing AI-enabled systems, though no immediate patch or configuration change is required.
 - **SOC/IR — Skip**

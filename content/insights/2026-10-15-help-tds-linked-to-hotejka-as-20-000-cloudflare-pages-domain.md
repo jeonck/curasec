@@ -9,7 +9,7 @@ tags: ["threat-intel", "tech-support-scam", "traffic-distribution"]
 cves: []
 source: "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The campaign installs PHP TDS templates on compromised websites, which is a useful reminder to audit PHP applications for unauthorized file drops; no specific CVE or exploitation signal to act on.
 - **SOC/IR — Learn:** Attribution linking Help TDS to Hotejka/ROI777 adds actor context, but the summary provides no IOCs or ATT&CK-mappable TTPs to build detections or hunt on today.

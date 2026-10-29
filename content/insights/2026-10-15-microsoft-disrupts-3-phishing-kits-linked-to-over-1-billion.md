@@ -9,7 +9,7 @@ tags: ["phishing", "threat-disruption", "email-security"]
 cves: []
 source: "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Awareness of the CoGUI, Haozi, and Iron Man System kit families and their scale is useful for triage context, but the summary provides no IOCs, TTPs, or detection surface to act on now.

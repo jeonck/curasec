@@ -9,7 +9,7 @@ tags: ["docker", "botnet", "ai-agent"]
 cves: []
 source: "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Exposed Docker daemon sockets remain a reliable initial access vector; audit all hosts to confirm the Docker API is not reachable without authentication or TLS, and restrict socket access to named users or sidecar proxies.
 - **SOC/IR — Plan:** The Telegram-based C2 channel and Hermes Agent framework deployment create distinct detection opportunities — build or tune rules for outbound Telegram API traffic originating from container workloads and alert on unexpected writes to agent persona/config files inside running containers.

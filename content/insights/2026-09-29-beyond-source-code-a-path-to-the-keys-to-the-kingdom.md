@@ -9,7 +9,7 @@ tags: ["identity-compromise", "cloud-security", "ci-cd-pipeline"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Storm-3068's attack path — compromised identity → pipeline access → cloud escalation — directly targets stacks engineers own. Review CI/CD pipeline service account permissions, OIDC trust configurations, and cloud role bindings against the TTPs described in the post this quarter.
 - **SOC/IR — Plan:** Named actor campaign with a documented identity-to-cloud-pivot chain offers a concrete detection opportunity. Extract Storm-3068 TTPs from the post and build or tune detections for unusual identity federation events, pipeline credential usage, and lateral movement from CI runners into cloud APIs.
