@@ -9,7 +9,7 @@ tags: ["devsecops", "web-security", "tooling"]
 cves: []
 source: "https://github.com/Hamidooh/securify"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Early-stage tool (62 stars, no enrichment signals) covering SSL, HTTP headers, DNS hardening, and port exposure checks — worth bookmarking to evaluate against existing pipeline scanners, but no urgency to adopt.
 - **SOC/IR — Skip**

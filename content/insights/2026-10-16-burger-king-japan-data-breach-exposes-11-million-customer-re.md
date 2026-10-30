@@ -9,7 +9,7 @@ tags: ["data-breach", "consumer-data", "japan"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

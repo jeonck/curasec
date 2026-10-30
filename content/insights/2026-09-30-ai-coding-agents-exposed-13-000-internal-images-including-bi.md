@@ -9,7 +9,7 @@ tags: ["ai-coding-agents", "data-exposure", "github"]
 cves: []
 source: "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** AI coding agents in your dev workflow may be silently pushing screenshots—including sensitive internal data—to public GitHub repos under personal developer accounts. Audit GitHub for AI-agent-created image artifacts now, and restrict AI agent configurations to prevent writing to public repositories.
 - **SOC/IR — Act:** Over 13,000 internal images from 300+ orgs are already publicly reachable on GitHub. Hunt for unexpected image file commits (PNG/JPEG) in developer personal repos linked to your organization's accounts, and check whether any internal-origin images are indexed publicly.

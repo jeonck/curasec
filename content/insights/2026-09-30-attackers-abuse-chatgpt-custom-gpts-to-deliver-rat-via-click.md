@@ -9,7 +9,7 @@ tags: ["clickfix", "ai-abuse", "rat-delivery"]
 cves: []
 source: "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No patch surface here — this is a social-engineering chain exploiting user trust in AI platforms. Worth reviewing whether your org restricts or monitors ChatGPT Custom GPT usage, and factoring this lure vector into developer security-awareness training.
 - **SOC/IR — Plan:** ClickFix attacks have a detectable pattern — clipboard-paste triggered PowerShell or command execution — worth tuning EDR and SIEM rules for this behavior; also build detections for RAT C2 beaconing from workstations that recently ran clipboard-sourced commands.

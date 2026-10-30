@@ -9,7 +9,7 @@ tags: ["ai-agents", "least-privilege", "security-architecture"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33430"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Opinion piece arguing for minimal-permission AI agent design; useful mental model for engineers scoping tool access in agentic pipelines, but no immediate patch or config change required.
 - **SOC/IR — Skip**

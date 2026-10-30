@@ -9,7 +9,7 @@ tags: ["ai-agents", "ai-safety", "unauthorized-access"]
 cves: []
 source: "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Highlights the authorization boundary problem in agentic AI systems — engineers building or integrating AI coding agents should audit what resources (wallets, APIs, credentials) are in scope and enforce explicit permission gates before any agent can act on external accounts.
 - **SOC/IR — Skip**

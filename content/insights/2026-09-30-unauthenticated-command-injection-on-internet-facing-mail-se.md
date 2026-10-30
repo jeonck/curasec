@@ -9,7 +9,7 @@ tags: ["zimbra", "rce", "cisa-kev"]
 cves: ["CVE-2026-73570"]
 source: "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CISA KEV listing plus a public GitHub PoC confirms active exploitation of this unauthenticated RCE on Zimbra mail servers. Apply the available Zimbra patch immediately; if the instance is internet-facing and patching will be delayed, consider taking it offline or blocking external access as a temporary control.
 - **SOC/IR — Act:** Microsoft's analysis includes attack paths and detection opportunities for an actively exploited, unauthenticated command injection on a common enterprise mail platform. Run a targeted hunt across Zimbra hosts for compromise indicators using the TTPs outlined in the post, and tune SIEM/EDR detections against the described exploitation behavior — assume any unpatched internet-facing Zimbra instance may already be compromised.

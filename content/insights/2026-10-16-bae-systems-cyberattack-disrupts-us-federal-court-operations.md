@@ -9,7 +9,7 @@ tags: ["supply-chain", "third-party-risk", "government"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** A contractor breach cascading into federal court operations is a useful reference for understanding third-party blast radius, but no IOCs or TTPs are available to drive detection or hunting work.

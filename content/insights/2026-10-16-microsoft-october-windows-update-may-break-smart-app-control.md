@@ -9,7 +9,7 @@ tags: ["windows-update", "smart-app-control", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If deploying KB5127648 to Windows 11 endpoints where Smart App Control is a configured security control, verify the feature remains enabled post-update and monitor for regressions in your endpoint security coverage.
 - **SOC/IR — Skip**

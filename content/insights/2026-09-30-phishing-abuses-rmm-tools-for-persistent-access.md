@@ -9,7 +9,7 @@ tags: ["rmm-abuse", "phishing", "persistent-access"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit your environment for unauthorized ScreenConnect or MSP360 installations; enforce an approved-software allowlist for remote management tools and review recent RMM deployments against your IT change log.
 - **SOC/IR — Plan:** Build or tune detections for unexpected RMM binary executions (MSP360, ScreenConnect) outside your approved management estate; create a hunt query for remote-access tools installed in the past 30 days that don't match IT provisioning records.

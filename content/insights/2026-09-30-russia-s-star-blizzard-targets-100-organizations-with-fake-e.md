@@ -9,7 +9,7 @@ tags: ["state-sponsored", "spear-phishing", "russia"]
 cves: []
 source: "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No patchable vulnerability — the attack relies entirely on social engineering to install a Windows backdoor. Review whether email gateways and endpoint controls adequately block unsolicited event-invite attachments from external senders.
 - **SOC/IR — Plan:** No IOCs surfaced in this report, but the campaign is active since January against US/UK Ukraine-adjacent organizations; build or tune detections for spear-phishing lures mimicking event invitations and hunt for anomalous backdoor install activity on Windows endpoints if your estate fits the targeting profile.

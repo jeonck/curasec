@@ -9,7 +9,7 @@ tags: ["entra-id", "identity", "breaking-change"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Entra ID is a widely-deployed identity provider; this hardening change takes effect in October and may break authentication flows that rely on custom scripts or non-compliant redirect handling. Audit app registrations and OIDC/SAML integrations now to confirm compatibility before the rollout.
 - **SOC/IR — Skip**

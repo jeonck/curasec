@@ -9,7 +9,7 @@ tags: ["ai-security", "soc-platforms", "vendor-landscape"]
 cves: []
 source: "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** A new category of fast-inference AI decision models is entering SOC tooling; worth monitoring for integration opportunities, but no actionable detection or hunt work yet.
