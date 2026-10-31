@@ -9,7 +9,7 @@ tags: ["appsec", "frontend-security", "tooling"]
 cves: []
 source: "https://github.com/kriszwart/diarea"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A new open-source tool worth evaluating for frontend security audits — it surfaces exposed API keys, source maps, and debug globals that are common accidental leaks in production builds. Add to your pre-release or periodic scan pipeline if you ship JavaScript-heavy frontends.
 - **SOC/IR — Skip**

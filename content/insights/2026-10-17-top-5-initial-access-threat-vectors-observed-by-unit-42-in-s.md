@@ -9,7 +9,7 @@ tags: ["threat-intel", "initial-access", "credential-abuse"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The report reinforces that edge device exploits and credential abuse remain dominant entry points, but no specific CVEs, patches, or configurations are cited in the summary — useful for prioritizing hardening investments but no immediate action warranted.
 - **SOC/IR — Learn:** A monthly snapshot of real-world initial access trends from a credible source improves triage intuition, but the summary names no specific IOCs, actor campaigns, or mapped TTPs — insufficient detail to write or tune detections without reading the full report.
