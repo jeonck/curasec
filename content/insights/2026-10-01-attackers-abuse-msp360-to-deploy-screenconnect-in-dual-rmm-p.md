@@ -9,7 +9,7 @@ tags: ["rmm-abuse", "phishing", "living-off-the-land"]
 cves: []
 source: "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** No exploitable CVE here, but the tactic relies on uncontrolled RMM installs reaching endpoints; audit endpoints for unauthorized MSP360 or ScreenConnect installations and enforce an allowlist policy for approved RMM tools via EDR or software-control policy.
 - **SOC/IR — Plan:** The dual-RMM pattern (MSP360 dropping ScreenConnect) is a concrete detection target; build or tune rules to alert on MSP360 installations from non-IT asset-management contexts and correlate with ScreenConnect process spawns, and hunt for both tools installed since September 2026.

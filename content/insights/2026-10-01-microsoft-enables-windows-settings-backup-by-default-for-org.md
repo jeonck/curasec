@@ -9,7 +9,7 @@ tags: ["windows", "cloud-sync", "configuration"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Windows 11 26H2 now syncs settings to Microsoft cloud by default on Entra-joined devices; review what data is included and enforce group policy to disable or scope it if cloud data residency or credential leakage is a concern.
 - **SOC/IR — Skip**

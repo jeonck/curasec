@@ -9,7 +9,7 @@ tags: ["threat-actor", "malware", "russian-apt"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Plan:** Star Blizzard's new RedFlick delivery method and CosmicPulse backdoor warrant adding detection coverage this quarter; source the full technical write-up to extract behavioral indicators and map TTPs to ATT&CK before building Sigma/KQL rules.

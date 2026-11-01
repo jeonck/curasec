@@ -9,7 +9,7 @@ tags: ["rmm-abuse", "remote-access", "living-off-the-land"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33388"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No patch or configuration change required; this is a technique highlight showing attackers deploy legitimate RMM clients to blend in. Worth auditing your estate for unauthorized ScreenConnect installations and confirming it appears only where IT-sanctioned.
 - **SOC/IR — Plan:** Build or tune detections for ScreenConnect client processes spawning in unexpected contexts (non-IT endpoints, unusual parent processes, new installs outside change windows); review your SIEM for ScreenConnect relay connections to external infrastructure.

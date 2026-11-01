@@ -9,7 +9,7 @@ tags: ["ai-threats", "threat-intelligence", "defense"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No specific CVE or exploited software here, but the finding that AI is accelerating vulnerability discovery suggests shorter windows between disclosure and exploitation — factor this into patch SLA assumptions.
 - **SOC/IR — Learn:** AI-assisted malware development and post-compromise activity may alter behavioral baselines; useful context for calibrating detection thresholds but no actionable IOCs or TTPs to hunt today.

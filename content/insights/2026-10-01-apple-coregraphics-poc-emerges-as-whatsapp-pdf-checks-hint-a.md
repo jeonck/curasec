@@ -9,7 +9,7 @@ tags: ["apple-coregraphics", "cve-2026-86950", "pdf-exploit"]
 cves: ["CVE-2026-86950"]
 source: "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CISA KEV-listed and crash-level public PoC confirms exploitation is real; patch all macOS and iOS endpoints to Apple's latest security release immediately, prioritizing internet-facing and executive devices.
 - **SOC/IR — Act:** KEV listing confirms in-the-wild exploitation via crafted PDF; hunt for anomalous CoreGraphics crashes and WhatsApp-delivered PDF activity in EDR telemetry since the KEV add date, and tune detections for malicious font-embedded PDFs.

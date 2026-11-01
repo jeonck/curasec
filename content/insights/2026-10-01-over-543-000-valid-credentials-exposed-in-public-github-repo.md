@@ -9,7 +9,7 @@ tags: ["credentials-exposure", "github-secrets", "secret-scanning"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Exposed valid credentials are an immediate risk whether or not your org is named — scan all org-owned public (and private) GitHub repos for secrets now using truffleHog or GitHub secret scanning, rotate any discovered credentials, and enable GitHub push protection to block future leaks.
 - **SOC/IR — Plan:** No specific IOCs are published, but the scale of valid exposed credentials raises likelihood of credential-stuffing and unauthorized API use; build or tune detections for anomalous service-account logins and impossible-travel alerts tied to CI/CD or cloud API keys.

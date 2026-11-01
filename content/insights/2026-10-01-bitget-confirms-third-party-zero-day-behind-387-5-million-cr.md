@@ -9,7 +9,7 @@ tags: ["supply-chain", "zero-day", "cryptocurrency"]
 cves: []
 source: "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The zero-day was in unspecified third-party security products; no affected software or patch target has been named yet. Watch for investigation updates that identify the specific tooling so you can assess whether it's in your stack.
 - **SOC/IR — Learn:** Investigation is ongoing with no published IOCs, TTPs, or detection-ready artifacts from the recovered attacker tool. Revisit when SlowMist or Bitget release technical indicators.

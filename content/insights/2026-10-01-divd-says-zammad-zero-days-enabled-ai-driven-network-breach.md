@@ -9,7 +9,7 @@ tags: ["zero-day", "zammad", "open-source"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you self-host Zammad, identify available patches for these two chained zero-days and schedule an emergency upgrade; no KEV listing or public PoC is confirmed yet, but exploitation was demonstrated in a real breach.
 - **SOC/IR — Learn:** The breach illustrates how chained zero-days in support tooling can pivot to broader network access, but the summary provides no IOCs or ATT&CK-mappable TTPs to act on today.
