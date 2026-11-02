@@ -9,7 +9,7 @@ tags: ["deepfake-detection", "video-forensics", "generative-ai"]
 cves: []
 source: "https://arxiv.org/abs/2610.22440"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel forensic technique using electric network frequency (ENF) consistency as an authenticity signal — relevant for engineers building video verification pipelines or media-integrity tooling. No immediate patch or config change needed.
 - **SOC/IR — Learn:** The finding that ENF-band flicker appears in AI-generated video at similar prominence to real footage is a useful calibration point for analysts handling deepfake evidence in investigations; yields no detection rule or IOC today.

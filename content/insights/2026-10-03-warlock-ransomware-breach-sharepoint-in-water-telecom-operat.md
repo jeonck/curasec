@@ -9,7 +9,7 @@ tags: ["ransomware", "sharepoint", "critical-infrastructure"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Active exploitation of SharePoint for initial access is confirmed across multiple org types, but no specific CVE, KEV listing, or PoC is surfaced in the signals; ensure SharePoint is fully patched and audit authentication/access logs for anomalous behavior this sprint.
 - **SOC/IR — Act:** An active China-linked ransomware campaign is using SharePoint exploitation as the entry point against water, telecom, government, and education targets; hunt for SharePoint exploitation indicators (unusual web shell activity, anonymous auth attempts) and check whether your estate's sector matches the targeting profile.

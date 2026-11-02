@@ -9,7 +9,7 @@ tags: ["ai-agents", "prompt-injection", "browser-security"]
 cves: []
 source: "https://arxiv.org/abs/2610.22697"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel defensive architecture showing that agents consuming flattened page text inherit no browser-enforced trust boundaries, enabling injected content to hijack LLM actions. Worth studying before deploying any agentic workflow that browses untrusted pages.
 - **SOC/IR — Learn:** The research quantifies how easily injected third-party content captures AI agent authority (73% success on a naive planner), a useful threat model for hunting or scoping risks if your org deploys AI browsing agents.

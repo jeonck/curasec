@@ -9,7 +9,7 @@ tags: ["llm-privacy", "pii-protection", "applied-research"]
 cves: []
 source: "https://arxiv.org/abs/2610.22800"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel framework for replacing PII with realistic same-type surrogates before prompts leave the device, preserving linguistic context while keeping plaintext off remote providers. Worth evaluating if building systems that feed sensitive documents into external LLM APIs.
 - **SOC/IR — Skip**

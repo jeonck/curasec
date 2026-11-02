@@ -9,7 +9,7 @@ tags: ["video-watermarking", "research", "adversarial-ml"]
 cves: []
 source: "https://arxiv.org/abs/2610.22457"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research demonstrates that pose-guided reconstruction can defeat video watermarks while preserving motion coherence — relevant if you rely on video watermarking for IP or content-authenticity guarantees, but no patch or configuration action is available yet.
 - **SOC/IR — Skip**

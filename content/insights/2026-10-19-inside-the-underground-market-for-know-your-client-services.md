@@ -9,7 +9,7 @@ tags: ["identity-fraud", "deepfake", "kyc-bypass"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research on deepfake and document-forgery techniques used to defeat KYC flows is useful context for AppSec engineers designing identity verification pipelines, but no software vulnerability or configuration change is implicated.
 - **SOC/IR — Learn:** The piece is a market overview with no published IOCs, ATT&CK-mapped TTPs, or campaign indicators — nothing to hunt or tune detections against today.

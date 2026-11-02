@@ -9,7 +9,7 @@ tags: ["privacy", "synthetic-data", "machine-learning"]
 cves: []
 source: "https://arxiv.org/abs/2610.22659"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Research quantifying privacy leakage tradeoffs between DP-SGD and privacy-aware synthetic data rewriting when fine-tuning on sensitive records — useful design input for any ML pipeline that ingests PII, but no patch or configuration action required today.
 - **SOC/IR — Skip**

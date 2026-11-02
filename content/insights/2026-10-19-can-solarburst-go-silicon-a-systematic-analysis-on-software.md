@@ -9,7 +9,7 @@ tags: ["supply-chain", "hardware-security", "research"]
 cves: []
 source: "https://arxiv.org/abs/2610.22580"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel taxonomy linking software supply chain compromises to hardware-level outcomes in VLSI design pipelines; no patches or running systems affected for typical cloud/app engineers, but the attack surface mapping is useful context for those working on EDA toolchain or semiconductor-adjacent CI/CD.
 - **SOC/IR — Skip**

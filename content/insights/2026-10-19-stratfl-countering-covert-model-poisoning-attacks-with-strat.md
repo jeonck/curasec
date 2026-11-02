@@ -9,7 +9,7 @@ tags: ["federated-learning", "model-poisoning", "ml-security"]
 cves: []
 source: "https://arxiv.org/abs/2610.22626"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic research introducing a game-theoretic defense for covert model poisoning in FL deployments; relevant only if you run federated learning in healthcare or finance pipelines, and no production-ready implementation is available yet.
 - **SOC/IR — Skip**

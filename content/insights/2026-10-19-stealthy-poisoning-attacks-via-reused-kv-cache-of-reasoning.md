@@ -9,7 +9,7 @@ tags: ["llm-security", "cache-poisoning", "ai-security"]
 cves: []
 source: "https://arxiv.org/abs/2610.22873"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel black-box attack class against LLM inference systems using shared KV caches for reasoning trace reuse — engineers building or deploying such systems should audit whether their architecture exposes shared cache state across users or sessions, and treat this as a design constraint before enabling reasoning-cache reuse features.
 - **SOC/IR — Skip**

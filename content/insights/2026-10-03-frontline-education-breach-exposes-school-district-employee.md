@@ -9,7 +9,7 @@ tags: ["data-breach", "third-party-risk", "education"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Breach involved exploitation of a third-party software vulnerability; no IOCs, TTPs, or detection signals published, so no immediate hunt or detection action is possible.

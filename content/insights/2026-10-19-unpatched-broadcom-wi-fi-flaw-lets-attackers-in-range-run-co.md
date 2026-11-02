@@ -9,7 +9,7 @@ tags: ["broadcom", "rce", "wifi"]
 cves: []
 source: "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Broadcom Wi-Fi chipsets appear in enterprise access points and edge devices beyond these Belgian ISP gateways, so engineers should note this unauthenticated proximity-RCE vector and track Broadcom's advisory channel for a patch before scheduling remediation.
 - **SOC/IR — Skip**

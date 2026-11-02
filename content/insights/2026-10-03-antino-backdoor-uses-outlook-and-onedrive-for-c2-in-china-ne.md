@@ -9,7 +9,7 @@ tags: ["apt", "c2", "living-off-the-land"]
 cves: []
 source: "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No CVE or patch surface here, but the technique of tunneling C2 through legitimate Microsoft cloud services (Outlook/OneDrive APIs) is worth understanding when designing network egress controls and M365 API monitoring.
 - **SOC/IR — Plan:** The Outlook/OneDrive C2 pattern is a detection-engineering opportunity — build or tune rules for anomalous Microsoft Graph API calls (unexpected mail-item access, atypical OneDrive polling patterns) that could surface this TTP in your estate this quarter.

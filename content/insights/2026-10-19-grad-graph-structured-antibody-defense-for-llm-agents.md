@@ -9,7 +9,7 @@ tags: ["llm-agents", "ai-security", "research"]
 cves: []
 source: "https://arxiv.org/abs/2610.22828"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel research on memory-poisoning and decomposition attacks that evade per-request detectors in LLM agent pipelines; worth tracking if you're building or evaluating agentic systems, but no patch or configuration action is needed today.
 - **SOC/IR — Skip**

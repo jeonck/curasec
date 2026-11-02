@@ -9,7 +9,7 @@ tags: ["llm-safety", "ai-security", "research"]
 cves: []
 source: "https://arxiv.org/abs/2610.22425"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you deploy LLMs as application components, this research shows safety evaluations conditioned only on final response can mask real unsafe behavior — consider adding recoverability-controlled testing to your AI red-teaming process.
 - **SOC/IR — Skip**
