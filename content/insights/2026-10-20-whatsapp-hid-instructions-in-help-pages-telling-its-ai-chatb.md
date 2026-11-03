@@ -9,7 +9,7 @@ tags: ["ai-governance", "privacy-regulation", "chatbot-security"]
 cves: []
 source: "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Hidden system-prompt directives shaping chatbot behavior without user visibility is a design risk for any team building AI assistants — consider auditing your own chatbot instructions for policy conflicts or compliance gaps before regulators do.
 - **SOC/IR — Skip**

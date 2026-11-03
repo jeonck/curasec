@@ -9,7 +9,7 @@ tags: ["shadow-it", "ai-governance", "ungoverned-automation"]
 cves: []
 source: "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

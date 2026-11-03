@@ -9,7 +9,7 @@ tags: ["web-security", "open-source", "tooling"]
 cves: []
 source: "https://github.com/opentrap/opentrap"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A free intercepting proxy with Repeater, Intruder, and built-in ZAP scanner is worth evaluating as a Burp Suite replacement for AppSec testing workflows; no infrastructure change required, just tool evaluation.
 - **SOC/IR — Skip**

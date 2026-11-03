@@ -9,7 +9,7 @@ tags: ["insider-threat", "corporate-espionage", "ai-security"]
 cves: []
 source: "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** A credible insider-threat case involving physical surveillance device placement in an executive conference room; useful context for reviewing physical security controls and insider-threat detection program gaps.

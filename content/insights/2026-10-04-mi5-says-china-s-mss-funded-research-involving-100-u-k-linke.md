@@ -9,7 +9,7 @@ tags: ["nation-state", "espionage", "insider-threat"]
 cves: []
 source: "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** The MI5 alert highlights academic recruitment as an MSS intelligence vector; useful context for insider-threat programs if your org has research partnerships, but no IOCs or detectable TTPs are present.

@@ -9,7 +9,7 @@ tags: ["spearphishing", "financial-fraud", "sentencing"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** This case documents a multi-year spearphishing campaign targeting tax preparation firms, offering a concrete example of credential-theft-to-financial-fraud kill chain useful for triage context in similar sectors.

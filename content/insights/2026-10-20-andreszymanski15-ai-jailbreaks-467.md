@@ -9,7 +9,7 @@ tags: ["ai-security", "red-team", "llm"]
 cves: []
 source: "https://github.com/AndreSzymanski15/ai-jailbreaks"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If your team ships LLM-backed features, this prompt collection is a practical reference for adversarial testing — evaluate whether your system prompts and guardrails hold against these techniques before shipping.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["ai-agents", "macos", "data-access"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Evaluate data-access scope before allowing Gemini agent features on corporate Macs; audit what organizational data could be exposed and assess whether MDM/endpoint policies need updating to restrict or approve this capability.
 - **SOC/IR — Learn:** Broad AI agent permissions on endpoints introduce new lateral-movement and data-exfiltration surfaces worth tracking as the feature ships; no actionable detection signals available yet.

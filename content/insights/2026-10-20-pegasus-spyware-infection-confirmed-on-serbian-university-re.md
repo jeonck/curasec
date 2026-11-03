@@ -9,7 +9,7 @@ tags: ["pegasus", "nation-state", "mobile-security"]
 cves: []
 source: "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Confirms Pegasus zero-click exploits against iOS remain active in 2026; no CVE or patch detail is disclosed, so there is no immediate patching action, but this is a prompt to verify executive and sensitive-role devices are on current iOS releases.
 - **SOC/IR — Learn:** No IOCs or ATT&CK-mappable TTPs are published with this report; useful background on Pegasus tradecraft and zero-click delivery, but yields no immediate detection or hunt action for an enterprise SOC.

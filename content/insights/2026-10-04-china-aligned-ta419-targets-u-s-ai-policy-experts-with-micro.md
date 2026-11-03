@@ -9,7 +9,7 @@ tags: ["china-espionage", "phishing", "adversary-in-the-middle"]
 cves: []
 source: "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** AitM phishing bypasses authenticator-app MFA; audit whether high-value Microsoft accounts have phishing-resistant (FIDO2) MFA enabled and review Conditional Access token-binding policies to reduce session-hijack risk.
 - **SOC/IR — Plan:** The AitM-against-M365 technique warrants tuning detections for anomalous OAuth token issuances and Conditional Access bypass patterns; build a hunt targeting users in AI/policy roles for suspicious sign-in behavior since no IOCs were published.
