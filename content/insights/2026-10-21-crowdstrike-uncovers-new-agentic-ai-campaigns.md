@@ -9,7 +9,7 @@ tags: ["ai-security", "threat-intelligence", "vendor-research"]
 cves: []
 source: "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/"
 source_name: "CrowdStrike Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** CrowdStrike's agentic AI campaign analysis may surface new TTPs worth tracking, but with no summary, IOCs, or ATT&CK mappings available, there is no actionable detection work to do now — read for triage context.
