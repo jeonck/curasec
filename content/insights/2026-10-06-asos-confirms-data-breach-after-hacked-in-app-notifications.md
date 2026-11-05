@@ -9,7 +9,7 @@ tags: ["data-breach", "snowflake", "cloud-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** The claimed Snowflake exfiltration vector echoes the 2024 Snowflake credential-theft campaign; if your org uses Snowflake, audit MFA enforcement on all accounts, review session-policy settings, and rotate any credentials that may have been exposed.
 - **SOC/IR — Learn:** Unauthorized push notifications via compromised app backend is an interesting abuse path, but no IOCs or TTPs are published here — file as breach context with no immediate detection action available.

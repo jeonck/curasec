@@ -9,7 +9,7 @@ tags: ["iran-nexus", "github-c2", "spear-phishing"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The use of GitHub as C2 infrastructure highlights the challenge of blocking legitimate platform abuse; worth reviewing egress policies to detect anomalous GitHub API calls from non-developer workloads, but no patch or configuration change is required today.
 - **SOC/IR — Plan:** The GitHub-as-C2 pattern is a detection gap worth closing this quarter — build or tune a detection for high-volume or scripted GitHub API calls from endpoints that shouldn't be using it; the fake recruitment lure TTP is also worth adding to phishing hunt queries.

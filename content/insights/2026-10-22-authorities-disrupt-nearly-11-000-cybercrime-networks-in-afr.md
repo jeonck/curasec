@@ -9,7 +9,7 @@ tags: ["law-enforcement", "bec", "ransomware"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Operation Serengeti III takedown covers BEC, ransomware, and online scams across Africa; no IOCs or TTPs published, but the campaign scope is useful context for understanding regional threat actor activity.

@@ -9,7 +9,7 @@ tags: ["ai-security", "red-team", "llm"]
 cves: []
 source: "https://github.com/Alejandros17487/ai-jailbreaks"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you're building LLM-backed applications or deploying AI agents, this 330-star collection of paste-ready jailbreak prompts illustrates the practical attack surface; no patch or config change required today, but worth reviewing as input for prompt-injection hardening and system-prompt design.
 - **SOC/IR — Skip**

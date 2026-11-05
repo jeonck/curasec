@@ -9,7 +9,7 @@ tags: ["phishing", "credential-theft", "browser-in-browser"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Browser-in-browser phishing targeting SaaS credentials is a technique worth understanding for security awareness programs and evaluating whether your SSO/FIDO2 posture would resist it; no patch or config change needed today.
 - **SOC/IR — Plan:** Build or tune detections for browser-in-browser lure patterns targeting ad platform logins; consider hunting for anomalous OAuth grant activity in M365/Google Workspace logs from users in marketing or growth roles.

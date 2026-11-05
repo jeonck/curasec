@@ -9,7 +9,7 @@ tags: ["cloud-breach", "vps", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

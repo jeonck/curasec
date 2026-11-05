@@ -9,7 +9,7 @@ tags: ["rce", "active-scanning", "cve"]
 cves: ["CVE-2026-61500"]
 source: "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active scanning for CVE-2026-61500 with a public PoC means exploitation is imminent for any exposed Rejetto HFS instance; identify and patch or take offline any internet-facing HFS servers immediately.
 - **SOC/IR — Act:** Active scanning is underway — hunt for anomalous authentication or session-related traffic against HFS servers and sweep for signs of session forgery or RCE activity since the scanning began.
