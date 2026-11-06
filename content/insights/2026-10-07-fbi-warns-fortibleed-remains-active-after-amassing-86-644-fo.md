@@ -9,7 +9,7 @@ tags: ["fortinet", "credential-harvesting", "vpn-security"]
 cves: []
 source: "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** FBI/USSS joint advisory confirms active harvesting against internet-facing FortiGate and SSL VPN devices via reused credentials and legacy SHA-256 password storage. Immediately rotate all Fortinet admin and VPN credentials, disable SHA-256 legacy password configs, and enforce MFA on management interfaces.
 - **SOC/IR — Act:** The campaign's scale and active status mean affected devices may already be compromised before patching. Sweep authentication logs for anomalous VPN logins and lateral movement since campaign onset; apply assume-breach posture for any internet-exposed FortiGate or SSL VPN in your estate.

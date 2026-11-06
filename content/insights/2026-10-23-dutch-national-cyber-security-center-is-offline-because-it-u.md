@@ -9,7 +9,7 @@ tags: ["php", "vulnerability", "government"]
 cves: []
 source: "https://www.ncsc.nl/actueel"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No technical detail in this item, but the fact that a national cybersecurity authority pulled its own site rather than leave it running on PHP underscores the operational severity of the current PHP RCE disclosure cycle — review your PHP exposure against the dedicated PHP CVE items in the queue.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["msix", "email-security", "microsoft-outlook"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** MSIX packages have been abused as a malware delivery vector; Outlook Web and new Windows client will block them in November. Audit any internal tooling or deployment pipelines that send MSIX files via email and migrate to an alternative distribution method before the deadline.
 - **SOC/IR — Learn:** MSIX attachment delivery has been an active malware distribution channel; this announcement confirms the technique has been widely abused. No new detection work required — the platform control handles it — but worth understanding MSIX-based lure campaigns when triaging historical email-borne threats.

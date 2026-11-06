@@ -9,7 +9,7 @@ tags: ["supply-chain", "ci-cd", "github-actions"]
 cves: []
 source: "https://github.com/quietpelican42/action-dist-verify"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Supply-chain tampering via committed dist files in GitHub Actions is a real attack vector; evaluate and integrate action-dist-verify into your CI pipeline to catch dist/source divergence in pinned Actions this quarter.
 - **SOC/IR — Skip**

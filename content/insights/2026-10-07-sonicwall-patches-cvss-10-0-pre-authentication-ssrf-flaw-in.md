@@ -9,7 +9,7 @@ tags: ["sonicwall", "ssrf", "remote-access"]
 cves: []
 source: "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** SMA1000 is a perimeter remote-access gateway many enterprises run; apply the released hotfixes promptly and set a watch on CISA KEV — SonicWall edge devices have a strong historical track record of rapid weaponization once a patch ships. No public PoC or active exploitation is reported yet, so this doesn't cross into Act today.
 - **SOC/IR — Skip**

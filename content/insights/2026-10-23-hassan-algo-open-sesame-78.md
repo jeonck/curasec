@@ -9,7 +9,7 @@ tags: ["ai-pentest", "owasp", "tooling"]
 cves: []
 source: "https://github.com/hassan-algo/open-sesame"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** New AI-driven pentest automation tool worth evaluating if you run internal appsec assessments; it walks the OWASP WSTG and auto-generates reports, but has no exploitation signals yet and 78 stars suggests early maturity — trial in a controlled lab environment before use on real targets.
 - **SOC/IR — Skip**

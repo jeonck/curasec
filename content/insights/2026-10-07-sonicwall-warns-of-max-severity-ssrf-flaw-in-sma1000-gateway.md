@@ -9,7 +9,7 @@ tags: ["sonicwall", "ssrf", "edge-appliance"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Max-severity SSRF on an internet-facing VPN appliance warrants fast-track patching; apply the SMA1000 hotfix ahead of your normal patch window given the CVSS 10.0 rating and SonicWall's history as a high-value target, but no KEV listing or PoC currently elevates this to Act.
 - **SOC/IR — Skip**
