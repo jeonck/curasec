@@ -9,7 +9,7 @@ tags: ["data-privacy", "regulatory-enforcement", "meta"]
 cves: []
 source: "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["supply-chain", "abandoned-software", "research"]
 cves: []
 source: "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A useful reminder that forgotten auto-updater mechanisms in abandoned consumer software represent a potential supply-chain hijack surface; worth auditing internal or BYOD environments for similarly orphaned update agents, though no enterprise patch action is needed here.
 - **SOC/IR — Skip**

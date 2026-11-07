@@ -9,7 +9,7 @@ tags: ["apple", "hardware-security", "research"]
 cves: []
 source: "https://security.apple.com/research-device/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The Apple Security Research Device program provides specialized hardware for iOS security research; worth knowing if your team does mobile security assessments or bug bounty work on Apple platforms.
 - **SOC/IR — Skip**
