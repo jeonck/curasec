@@ -9,7 +9,7 @@ tags: ["dns-hijacking", "certificate-misissuance", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Registry-level DNS tampering enabled unauthorized certificate issuance — audit DNS records and check Certificate Transparency logs (crt.sh) for any unexpected cert issuances on domains your org owns, especially in .gh/.as/.sl ccTLDs; confirm DNSSEC is enabled where possible.
 - **SOC/IR — Act:** Active DNS hijacking via compromised registry operators is in progress — query CT logs for unexpected certificate issuances against your org's domains, and hunt for anomalous DNS record changes since early October 2026 across your monitored domain portfolio.

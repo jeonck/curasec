@@ -9,7 +9,7 @@ tags: ["ransomware", "vendor-risk", "fraud"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** No detection surface, but useful context for understanding how ransomware recovery engagements can obscure attacker relationships and complicate incident timelines.

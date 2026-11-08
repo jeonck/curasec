@@ -9,7 +9,7 @@ tags: ["cisco", "network-infrastructure", "rce"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Five critical RCE-to-root flaws in NX-OS affect data center Nexus switches; no KEV listing or public PoC yet. Confirm whether Nexus switches are in scope, then schedule patching against Cisco's advisory within the next maintenance window.
 - **SOC/IR — Skip**

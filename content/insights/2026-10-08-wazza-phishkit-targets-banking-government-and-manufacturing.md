@@ -9,7 +9,7 @@ tags: ["phishing", "threat-intel", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Wazza's infrastructure-level controls (traffic filtering, session management) represent a maturation in phishing kit design worth understanding when evaluating email security gateway and anti-phishing tool coverage, but no software patch or configuration change is indicated.
 - **SOC/IR — Plan:** The kit's delivery-layer filtering and traffic controls create novel evasion patterns for phishing infrastructure; build or tune detections for anomalous phishing delivery behavior in this style, and watch the ANY.RUN feed for IOC releases from this campaign.

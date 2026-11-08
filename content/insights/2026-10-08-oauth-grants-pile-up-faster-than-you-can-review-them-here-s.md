@@ -9,7 +9,7 @@ tags: ["oauth", "saas-security", "identity"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** OAuth grant sprawl is a real exposure in any cloud/SaaS estate; this quarter, audit all third-party OAuth grants in your IdP and SaaS apps, revoke stale ones, and implement a review gate for new grant requests.
 - **SOC/IR — Learn:** The Klue breach illustrates how dormant OAuth grants become persistent access paths, but no IOCs or ATT&CK-mapped TTPs are provided here — useful framing for future detection design around anomalous OAuth token usage, not actionable today.

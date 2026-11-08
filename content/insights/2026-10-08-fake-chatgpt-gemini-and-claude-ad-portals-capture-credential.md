@@ -9,7 +9,7 @@ tags: ["phishing", "credential-theft", "mfa-bypass"]
 cves: []
 source: "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No software to patch or config to change; this is a social-engineering campaign. Awareness that AI-branded ad portals are being weaponized is worth knowing when reviewing phishing simulation scope or employee guidance.
 - **SOC/IR — Plan:** Build or tune detections for MFA-bypass phishing patterns targeting AI platform lookalikes — review proxy/email logs for suspicious redirects to ChatGPT/Gemini/Claude impersonation domains and flag anomalous token submissions.

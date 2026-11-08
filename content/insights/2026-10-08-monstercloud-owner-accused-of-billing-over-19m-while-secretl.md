@@ -9,7 +9,7 @@ tags: ["ransomware", "fraud", "incident-response"]
 cves: []
 source: "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** This case illustrates that some incident response vendors secretly pay ransoms rather than use proprietary recovery tools — worth factoring into how your org vets IR retainer providers.

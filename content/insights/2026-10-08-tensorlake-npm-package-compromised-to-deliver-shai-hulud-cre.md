@@ -9,7 +9,7 @@ tags: ["supply-chain", "npm", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Confirmed supply-chain compromise: audit package-lock.json and yarn.lock across all repos for tensorlake@0.5.144, remove immediately if found, and rotate any credentials or secrets accessible during builds on affected systems.
 - **SOC/IR — Act:** Active worm establishes persistence and phones home for remote code execution — sweep CI/CD runners and developer workstations that may have installed this version for anomalous outbound connections and new persistence artifacts since the package was published.
