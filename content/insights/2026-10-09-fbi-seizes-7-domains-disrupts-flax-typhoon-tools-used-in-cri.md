@@ -9,7 +9,7 @@ tags: ["flax-typhoon", "apt", "critical-infrastructure"]
 cves: []
 source: "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No specific CVEs, IOCs, or affected software listed in the summary; the disruption is government-side. Monitor for follow-on FBI/CISA advisories that may name affected edge devices or configurations relevant to your environment.
 - **SOC/IR — Act:** A DOJ-confirmed Chinese APT campaign against critical infrastructure warrants an immediate hunt: review Flax Typhoon's known TTPs (living-off-the-land, VPN/edge appliance footholds) and sweep logs since the campaign's known activity window for related behaviors in your SIEM and EDR.

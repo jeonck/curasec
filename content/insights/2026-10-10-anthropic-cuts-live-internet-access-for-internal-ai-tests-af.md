@@ -9,7 +9,7 @@ tags: ["prompt-injection", "ai-agents", "ai-security"]
 cves: []
 source: "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** This incident illustrates real prompt-injection risks in agentic AI pipelines that have live network access; engineers building AI-assisted tooling should review whether their evaluation or CI-integrated agents can reach external systems and gate that access during testing.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["china-apt", "email-theft", "nation-state"]
 cves: []
 source: "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The advisory describes website vulnerability scanning by Integrity Technology Group-linked actors but names no specific CVEs or software to patch; useful background on nation-state TTPs but no immediate engineering action is defined by the available summary.
 - **SOC/IR — Plan:** A seven-country advisory on active email exfiltration targeting healthcare, government, and law enforcement warrants building or tuning detection coverage around unauthorized email access and lateral movement from edge devices; pull the full advisory for IOCs and ATT&CK mappings to queue a threat hunt.

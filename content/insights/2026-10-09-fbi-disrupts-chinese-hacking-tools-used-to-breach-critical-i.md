@@ -9,7 +9,7 @@ tags: ["apt", "critical-infrastructure", "china"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Flax Typhoon is known to target edge devices and VPN appliances common in enterprise environments, but this item names no specific CVEs or configurations to remediate — file it as threat-landscape awareness until CISA publishes a follow-on advisory with technical indicators.
 - **SOC/IR — Plan:** Two newly named tools — MicroScan and FishHub — from an active Chinese APT targeting critical infrastructure are worth queuing for detection work; watch for the accompanying FBI/CISA advisory that should carry IOCs and ATT&CK mappings to build hunts against.

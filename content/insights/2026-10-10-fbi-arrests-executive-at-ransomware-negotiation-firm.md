@@ -9,7 +9,7 @@ tags: ["ransomware", "threat-actor", "vendor-risk"]
 cves: []
 source: "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No exploitable vulnerability here, but the revelation that a ransomware negotiation firm may have had undisclosed ties to a threat actor is worth understanding as a supply-chain trust issue — particularly for incident response tooling vendor selection.
 - **SOC/IR — Learn:** ShinyHunters remains an active data-theft group; this arrest surfaces new context about their operational reach including alleged compromise of FBI agent records — useful for refreshing threat-actor profiles, but no IOCs or TTPs are published to act on now.

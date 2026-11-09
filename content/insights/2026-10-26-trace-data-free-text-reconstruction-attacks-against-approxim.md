@@ -9,7 +9,7 @@ tags: ["llm-security", "privacy-risk", "ai-unlearning"]
 cves: []
 source: "https://arxiv.org/abs/2610.31995"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel research showing that maintaining pre/post unlearning model snapshots creates a recoverable side channel — relevant if you operate LLMs with approximate unlearning workflows. No patch exists; redesign signal is to avoid retaining both snapshots together or treat unlearning as non-binding from a data-exposure standpoint.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["ai-agents", "skill-composition", "capability-flow"]
 cves: []
 source: "https://arxiv.org/abs/2610.32155"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel finding that combining individually benign AI agent skills can create security-violation chains at runtime, a gap current malicious-skill scanners miss. No immediate patch exists; architects building agent platforms with third-party skill ecosystems should review orchestration trust boundaries in their design.
 - **SOC/IR — Skip**

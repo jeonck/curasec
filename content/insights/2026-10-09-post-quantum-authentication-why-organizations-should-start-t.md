@@ -9,7 +9,7 @@ tags: ["post-quantum", "pki", "cryptography"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No exploitation pressure or breaking change today, but engineers who own PKI or TLS termination should note Microsoft's PQC TLS Pilot Program as a near-term evaluation candidate when planning crypto-agility roadmaps.
 - **SOC/IR — Skip**

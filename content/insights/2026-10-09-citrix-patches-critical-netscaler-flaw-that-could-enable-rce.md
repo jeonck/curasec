@@ -9,7 +9,7 @@ tags: ["citrix-netscaler", "rce", "edge-appliance"]
 cves: ["CVE-2026-107406"]
 source: "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC is on GitHub for a critical memory-overflow RCE in NetScaler ADC/Gateway affecting SAML configurations — apply Citrix's patch immediately and confirm whether your deployment uses SAML to assess exposure scope.
 - **SOC/IR — Plan:** No active exploitation or published IOCs yet, but a public PoC raises the likelihood of imminent attempts; build or tune a detection for anomalous HTTP traffic to NetScaler SAML endpoints as a pre-emptive measure.

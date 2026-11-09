@@ -9,7 +9,7 @@ tags: ["llm-privacy", "split-inference", "attribute-inference"]
 cves: []
 source: "https://arxiv.org/abs/2610.32079"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you're designing or auditing a split-inference LLM pipeline, this research challenges the assumption that keeping raw images on-device is sufficient privacy protection — intermediate features still leak age, gender, and race. No patch exists; the takeaway is an architectural one: evaluate representation-level privacy, not just response-level filtering, before deploying such pipelines.
 - **SOC/IR — Skip**

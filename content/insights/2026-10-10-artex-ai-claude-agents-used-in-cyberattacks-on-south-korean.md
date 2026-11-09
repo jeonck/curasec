@@ -9,7 +9,7 @@ tags: ["ai-agents", "financial-sector", "nation-state"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The weaponization of Claude agents as part of an attack chain is a novel technique worth understanding for future defensive architecture decisions, particularly around AI API access controls and prompt injection risks — but no specific software to patch or misconfiguration to fix is identifiable from the available details.
 - **SOC/IR — Plan:** This is an early documented case of AI agents used operationally in financially targeted intrusions; SOC teams in financial services should begin scoping detection strategies for anomalous AI API usage patterns (e.g., unexpected Claude/LLM API calls from production systems) as a new TTP category, though no IOCs are published yet.

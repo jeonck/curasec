@@ -9,7 +9,7 @@ tags: ["ai-agents", "least-privilege", "authorization"]
 cves: []
 source: "https://arxiv.org/abs/2610.31914"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** This research reveals that for 30–33% of Microsoft Graph tasks and ~3% of Google API tasks, no single minimal permission set exists — grants form incomparable antichains. Engineers designing agent authorization systems should factor in that least-privilege tooling and permission solvers may be unsolvable by design for a significant share of tasks, meaning automated minimal-grant selection is not a reliable safety net.
 - **SOC/IR — Skip**

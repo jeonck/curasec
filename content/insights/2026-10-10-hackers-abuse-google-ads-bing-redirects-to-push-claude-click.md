@@ -9,7 +9,7 @@ tags: ["clickfix", "malvertising", "social-engineering"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** ClickFix via AI-tool search ads is a growing supply-chain entry point for endpoints; no patch needed, but reinforce approved-software-only policies and consider blocking known malicious installer domains once IOCs are published.
 - **SOC/IR — Plan:** ClickFix attacks produce detectable behavior — PowerShell or mshta spawned from browser or fake-installer processes; build or tune Sigma/EDR rules for that parent-child chain to catch this and future ClickFix campaigns without waiting for campaign-specific IOCs.

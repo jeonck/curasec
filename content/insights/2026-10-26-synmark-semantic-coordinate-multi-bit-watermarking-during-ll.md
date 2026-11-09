@@ -9,7 +9,7 @@ tags: ["llm-security", "code-watermarking", "ai-code-generation"]
 cves: []
 source: "https://arxiv.org/abs/2610.32017"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic research on embedding robust provenance markers in LLM-generated code that survive identifier renaming and refactoring — relevant background if your team is evaluating AI code attribution or supply-chain traceability tooling, but no current system changes required.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["homomorphic-encryption", "machine-learning", "cryptography"]
 cves: []
 source: "https://arxiv.org/abs/2610.32065"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Relevant only if building privacy-preserving ML inference pipelines under FHE; SPA reduces polynomial approximation latency for GELU/SiLU activations, but this is foundational research with no immediate deployment artifact or patching action.
 - **SOC/IR — Skip**

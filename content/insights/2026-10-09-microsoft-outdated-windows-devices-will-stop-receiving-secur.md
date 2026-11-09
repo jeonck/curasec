@@ -9,7 +9,7 @@ tags: ["windows", "eol", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Audit the estate for devices running unsupported Windows versions and schedule upgrades before the Windows Update certificate rotation deadline next year — after that point, those devices will be permanently cut off from security updates.
 - **SOC/IR — Skip**

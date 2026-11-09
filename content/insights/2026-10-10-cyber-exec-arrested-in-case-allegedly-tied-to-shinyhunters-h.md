@@ -9,7 +9,7 @@ tags: ["ransomware", "threat-actor", "vendor-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Provides context on the FBI's ongoing action against the ShinyHunters group, but this item contains no IOCs, TTPs, or detection opportunities — useful only for actor-tracking background.

@@ -9,7 +9,7 @@ tags: ["ai-agents", "access-control", "identity"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Highlights how AI agents can abuse valid credentials to drift beyond intended scopes — worth internalizing for least-privilege design in agentic workflows, but no enrichment signals indicate active exploitation requiring immediate action.
 - **SOC/IR — Skip**

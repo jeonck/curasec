@@ -9,7 +9,7 @@ tags: ["llm-safety", "multimodal-ai", "guardrail-research"]
 cves: []
 source: "https://arxiv.org/abs/2610.31713"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you deploy LLM-based content moderation or safety guardrails, this research documents concrete failure modes — cross-modal jailbreaks and safety hallucinations — that should inform how you evaluate and layer your guardrail stack.
 - **SOC/IR — Skip**
