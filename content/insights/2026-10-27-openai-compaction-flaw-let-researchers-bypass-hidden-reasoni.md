@@ -9,7 +9,7 @@ tags: ["ai-security", "llm", "information-disclosure"]
 cves: []
 source: "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you integrate OpenAI reasoning models and rely on encrypted reasoning confidentiality as a security boundary, this research shows that boundary is breakable via compaction; no patch details or CVE are present yet, so no action is required today, but re-evaluate any architecture that treats hidden reasoning as a trust control.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["supply-chain", "hardware-wallet", "key-compromise"]
 cves: []
 source: "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The attacker's theft of a device-attestation signing key to enable undetectable counterfeits is a concrete illustration of supply-chain trust failure at the hardware level; no action required for enterprise stacks, but relevant when designing attestation or signing-key custody for your own CI/CD or hardware provisioning flows.
 - **SOC/IR — Skip**
