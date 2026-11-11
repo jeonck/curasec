@@ -9,7 +9,7 @@ tags: ["threat-intelligence", "ecrime", "nation-state"]
 cves: []
 source: "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/"
 source_name: "CrowdStrike Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Sector-specific threat landscape data on eCrime trends and China-nexus activity may improve triage calibration and inform hunt priorities, though no specific IOCs or TTPs are surfaced in the title alone.

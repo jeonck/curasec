@@ -9,7 +9,7 @@ tags: ["clickfix", "social-engineering", "malware"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33466"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** ClickFix campaigns remain active; awareness is useful for tuning detections around clipboard-hijack/PowerShell execution patterns, but the empty summary provides no IOCs or TTPs to act on now.

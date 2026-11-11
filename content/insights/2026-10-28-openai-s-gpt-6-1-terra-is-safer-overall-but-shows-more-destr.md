@@ -9,7 +9,7 @@ tags: ["ai-safety", "llm", "openai"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If your team integrates OpenAI models, note that Terra shows elevated destructive-action flags in safety evals — worth tracking before adoption decisions, but no patch or config action required today.
 - **SOC/IR — Skip**

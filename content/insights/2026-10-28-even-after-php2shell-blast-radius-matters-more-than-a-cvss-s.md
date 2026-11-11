@@ -9,7 +9,7 @@ tags: ["least-privilege", "service-accounts", "blast-radius"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The blast-radius framing — scope service accounts, API keys, and AI agent credentials to minimum necessary access so a successful exploit can't pivot far — is a useful mental model, though not a new principle. No specific patch or configuration action is indicated by this item.
 - **SOC/IR — Skip**

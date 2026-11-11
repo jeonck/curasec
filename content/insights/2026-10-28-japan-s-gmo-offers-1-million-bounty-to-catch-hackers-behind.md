@@ -9,7 +9,7 @@ tags: ["breach", "cloud", "incident-response"]
 cves: []
 source: "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Regional breach with no published IOCs or TTPs; worth noting as a case study in post-extortion bounty programs, but yields no actionable detection work.
