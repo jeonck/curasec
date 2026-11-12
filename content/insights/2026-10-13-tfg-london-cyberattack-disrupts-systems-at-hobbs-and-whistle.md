@@ -9,7 +9,7 @@ tags: ["incident-response", "retail", "ransomware"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Retail-sector incident with limited technical detail released; monitor BleepingComputer and TFG disclosures for IOCs or TTPs if your organization shares supply chain or vendor relationships with premium fashion brands.

@@ -9,7 +9,7 @@ tags: ["ai-agents", "shadow-it", "identity-security"]
 cves: []
 source: "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Personal AI agents inheriting employee OAuth tokens and authenticated sessions represent a new identity attack surface; worth auditing OAuth scope grants and evaluating zero-trust controls that distinguish human vs. agent principals, but no patch or immediate reconfiguration is required today.
 - **SOC/IR — Plan:** Begin developing detection logic for AI agent behavioral patterns — high-frequency API calls, non-browser user agents, bulk data access at odd hours — to establish baselines before this becomes a blind spot in existing endpoint and SIEM coverage.

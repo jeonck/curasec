@@ -9,7 +9,7 @@ tags: ["ransomware", "law-enforcement", "bulletproof-hosting"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Bulletproof hosting takedowns occasionally expose infrastructure reused by ransomware groups; monitor for any published IOCs or affiliated domains that emerge from the seizure to add to blocklists.

@@ -9,7 +9,7 @@ tags: ["docker-hub", "supply-chain", "container-security"]
 cves: ["CVE-2026-105445"]
 source: "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Docker Hub patched this server-side, but any org using Docker Hub PATs should audit token activity for unauthorized access and verify image digests for unexpected modifications, particularly for images pulled before the patch window.
 - **SOC/IR — Plan:** No IOCs or active exploitation reported, but review Docker Hub audit logs for anomalous PAT usage; build or tune detections for unauthorized container registry access as this TTP (token-based impersonation enabling image tampering) could resurface.

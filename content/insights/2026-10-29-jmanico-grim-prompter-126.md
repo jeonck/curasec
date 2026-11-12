@@ -9,7 +9,7 @@ tags: ["threat-modeling", "ai-agents", "open-source"]
 cves: []
 source: "https://github.com/jmanico/grim-prompter"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A new open-source tool worth evaluating for generating evidence-traced threat models by pointing AI coding agents at a repo; no immediate action required, but useful to pilot on a representative codebase this quarter.
 - **SOC/IR — Skip**

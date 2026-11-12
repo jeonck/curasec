@@ -9,7 +9,7 @@ tags: ["ai-security", "vulnerability-research", "vendor-research"]
 cves: []
 source: "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/"
 source_name: "CrowdStrike Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** AI guardrail mechanisms as a vulnerability class is a relevant emerging concern for teams building or consuming AI-powered services, but with no summary or enrichment signals there is no concrete action — read the full post to assess applicability to your stack.
 - **SOC/IR — Learn:** If the research describes exploitable behaviors in AI safety layers, it could inform future detection work, but with no summary, IOCs, or TTPs available here there is nothing to act on now.

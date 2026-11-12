@@ -9,7 +9,7 @@ tags: ["ai-supply-chain", "ml-security", "open-source"]
 cves: []
 source: "https://arxiv.org/abs/2610.12893"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your team loads models from HuggingFace, audit dependencies against InsightDB's flagged-model list and add provenance verification and model-scanning steps to your ML pipelines; the study found no sanitization logic in any of the observed integration patterns.
 - **SOC/IR — Learn:** The research maps recurring integration anti-patterns (bypassed safety parameters, delegated trust) that improve understanding of how malicious models could persist post-compromise, but no IOCs or ATT&CK-mapped TTPs are provided for immediate detection work.

@@ -9,7 +9,7 @@ tags: ["windows", "end-of-life", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Windows 11 23H2 Enterprise/Education/IoT Enterprise stops receiving security updates next month; audit fleet for affected versions and schedule in-place upgrades to 24H2 before the EOL date.
 - **SOC/IR — Skip**

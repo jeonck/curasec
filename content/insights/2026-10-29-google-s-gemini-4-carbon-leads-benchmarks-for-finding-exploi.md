@@ -9,7 +9,7 @@ tags: ["ai-security", "vulnerability-research", "google"]
 cves: []
 source: "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A frontier AI model showing strong gains in automated vulnerability finding and exploitation is worth tracking for future integration into AppSec workflows, but no concrete action is needed today — no tooling is shipping yet based on this announcement.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["nation-state", "ai-threats", "threat-intel"]
 cves: []
 source: "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/"
 source_name: "Microsoft Security Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Useful context on how DPRK-affiliated actors are integrating AI into attack chains, but no specific vulnerability, PoC, or software to patch is identified; monitor for follow-on technical detail.
 - **SOC/IR — Learn:** Actor tradecraft research on North Korean AI adoption; the summary surfaces no concrete IOCs, ATT&CK technique mappings, or detection signatures — check the full blog for any actionable TTPs before scheduling hunt work.

@@ -9,7 +9,7 @@ tags: ["retail", "incident-response", "cyberattack"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Confirmed incident at a major global retailer with no published IOCs or TTPs yet; monitor threat intel feeds for attribution and indicators as details emerge.

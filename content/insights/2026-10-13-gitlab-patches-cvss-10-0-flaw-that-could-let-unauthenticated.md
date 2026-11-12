@@ -9,7 +9,7 @@ tags: ["gitlab", "rce", "ci-cd"]
 cves: []
 source: "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** GitLab CE/EE is a common CI/CD platform in enterprise environments; update to the patched release immediately — no public PoC or active exploitation is confirmed yet, but unauthenticated RCE via CI/CD regex warrants treating your patch window as days, not weeks.
 - **SOC/IR — Skip**
