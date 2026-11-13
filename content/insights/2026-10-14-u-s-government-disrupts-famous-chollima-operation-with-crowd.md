@@ -9,7 +9,7 @@ tags: ["nation-state", "insider-threat", "supply-chain"]
 cves: []
 source: "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/"
 source_name: "CrowdStrike Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** FAMOUS CHOLLIMA places North Korean nationals as remote contractors who may gain access to codebases and CI/CD pipelines; no enrichment signals or technical IOCs are present in this item, but engineers should understand this threat vector when reviewing contractor access controls.
 - **SOC/IR — Plan:** Government disruption actions typically publish associated IOCs and TTPs — review the full CrowdStrike blog post for any insider-threat behavioral indicators (anomalous commits, credential reuse, data exfiltration patterns) worth building detections around.

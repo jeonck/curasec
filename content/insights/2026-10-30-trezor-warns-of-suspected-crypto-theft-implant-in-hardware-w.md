@@ -9,7 +9,7 @@ tags: ["supply-chain", "hardware-implant", "crypto-wallet"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

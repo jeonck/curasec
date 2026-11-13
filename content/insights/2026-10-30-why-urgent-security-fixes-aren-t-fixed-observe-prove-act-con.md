@@ -9,7 +9,7 @@ tags: ["patch-management", "process", "security-operations"]
 cves: []
 source: "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

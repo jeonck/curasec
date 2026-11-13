@@ -9,7 +9,7 @@ tags: ["hardware-supply-chain", "crypto-wallet", "physical-implant"]
 cves: []
 source: "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A physical implant with mobile-network exfiltration of recovery phrases is a vivid real-world example of hardware supply chain attacks via resellers; no action needed for enterprise cloud/app infrastructure, but worth incorporating into threat-model thinking for hardware procurement.
 - **SOC/IR — Skip**

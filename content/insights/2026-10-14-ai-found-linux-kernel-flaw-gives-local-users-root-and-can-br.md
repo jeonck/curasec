@@ -9,7 +9,7 @@ tags: ["linux-kernel", "privilege-escalation", "vm-escape"]
 cves: ["CVE-2026-74580"]
 source: "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Public PoC on GitHub for a local-to-root kernel bug that also enables guest-to-host escape in KVM/QEMU setups; patch the Linux kernel to a fixed version immediately, and prioritize hosts serving as hypervisors or multi-tenant virtualization platforms given the escape vector.
 - **SOC/IR — Plan:** With a public PoC live, build or tune detections for unusual vhost/IOCTL activity and unexpected privilege escalation sequences on Linux hosts; also consider hunting for anomalous VM-to-host memory access patterns in hypervisor telemetry if your EDR covers them.

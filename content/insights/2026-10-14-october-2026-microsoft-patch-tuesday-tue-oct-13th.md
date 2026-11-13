@@ -9,7 +9,7 @@ tags: ["patch-tuesday", "microsoft", "zero-day"]
 cves: []
 source: "https://isc.sans.edu/diary/rss/33422"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** One CVE in this cycle is confirmed actively exploited; identify that vulnerability via MSRC and expedite patching of affected Microsoft/Windows systems ahead of routine patch window.
 - **SOC/IR — Plan:** Once Microsoft publishes exploitation details for the in-the-wild CVE, build or tune detections and run a hunt for exploitation artifacts on Windows endpoints since the pre-patch disclosure date.

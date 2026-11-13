@@ -9,7 +9,7 @@ tags: ["insider-threat", "physical-security", "espionage"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** A concrete insider-threat case involving physical surveillance hardware placed in an executive space; useful calibration for physical access review and anomalous-device detection programs.

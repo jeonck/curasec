@@ -9,7 +9,7 @@ tags: ["deepfake", "social-engineering", "fraud"]
 cves: []
 source: "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Cloned-voice attacks targeting help desk resets and access requests are a growing escalation path; useful context for triaging unusual auth or payment-related tickets, but no detection rule or IOC to implement from this piece.

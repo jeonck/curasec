@@ -9,7 +9,7 @@ tags: ["crypto-exchange", "breach", "financial"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

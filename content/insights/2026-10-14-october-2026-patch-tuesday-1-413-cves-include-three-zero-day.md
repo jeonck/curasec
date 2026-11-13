@@ -9,7 +9,7 @@ tags: ["patch-tuesday", "zero-day", "microsoft"]
 cves: []
 source: "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/"
 source_name: "CrowdStrike Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Three zero-days in a Patch Tuesday cycle indicate pre-patch exploitation; pull the full Microsoft advisory list, identify which zero-days and critical CVEs affect your stack, and advance patch timelines for those specifically — no enrichment signals yet confirm KEV listing or PoC availability for prioritization beyond that.
 - **SOC/IR — Plan:** Zero-days exploited before patch release means adversaries had a head start; once Microsoft publishes full technical detail, build or tune detections for the affected components and run a targeted hunt for exploitation activity since the start of October.

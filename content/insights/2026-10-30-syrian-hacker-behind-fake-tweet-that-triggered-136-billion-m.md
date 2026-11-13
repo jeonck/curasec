@@ -9,7 +9,7 @@ tags: ["threat-actor", "nation-state", "legal"]
 cves: []
 source: "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Historical case study on state-sponsored social engineering targeting media outlets to manipulate markets; no current IOCs or detection work needed, but useful context on Syrian Electronic Army TTPs.

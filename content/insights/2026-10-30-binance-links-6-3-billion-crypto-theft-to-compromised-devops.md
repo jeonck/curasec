@@ -9,7 +9,7 @@ tags: ["crypto-theft", "devops-compromise", "privileged-access"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A single compromised DevOps laptop enabling a multi-billion-dollar theft is a stark reminder to audit privileged endpoint controls — review whether CI/CD and production credentials are scoped with least privilege and require hardware-bound MFA, but no specific CVE or patch applies here.
 - **SOC/IR — Learn:** No IOCs or TTPs are provided, so there is no immediate detection or hunt action; the case study is useful context for understanding how endpoint compromise of privileged users can precede large-scale financial exfiltration.

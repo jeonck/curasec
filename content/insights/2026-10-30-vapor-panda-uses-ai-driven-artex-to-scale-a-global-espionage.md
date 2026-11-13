@@ -9,7 +9,7 @@ tags: ["threat-actor", "espionage", "ai-assisted-attack"]
 cves: []
 source: "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/"
 source_name: "CrowdStrike Blog"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Named actor with a specific AI-assisted tool (ARTEX) targeting global organizations is worth reading for TTP awareness, but no IOCs, ATT&CK mappings, or detection guidance are available from this title alone to warrant immediate hunting or rule-writing.

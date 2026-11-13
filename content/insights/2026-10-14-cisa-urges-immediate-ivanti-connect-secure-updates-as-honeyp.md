@@ -9,7 +9,7 @@ tags: ["ivanti", "vpn-appliance", "authentication-bypass"]
 cves: ["CVE-2026-104935"]
 source: "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CVE-2026-104935 is CISA KEV-listed with a public GitHub PoC and confirmed honeypot exploitation — if you run Ivanti Connect Secure, patch to the latest version immediately and audit authentication logs for anomalous access patterns prior to patch deployment.
 - **SOC/IR — Act:** Active exploitation of an edge VPN appliance warrants an assume-breach posture — hunt for anomalous authentication events on ICS gateways since disclosure, and sweep for lateral movement indicators originating from VPN-assigned IPs, particularly over the past week.

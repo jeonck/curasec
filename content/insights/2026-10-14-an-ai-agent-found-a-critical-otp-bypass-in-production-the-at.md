@@ -9,7 +9,7 @@ tags: ["authentication-bypass", "ai-pentesting", "otp"]
 cves: []
 source: "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** User-controlled OTP routing is a logic flaw that can exist in any custom auth implementation — audit your login flows this quarter to confirm OTP destinations are server-enforced, not user-supplied.
 - **SOC/IR — Learn:** No IOCs or active exploitation campaign; the piece illustrates how auth logic flaws manifest, which is useful triage context but yields no immediate detection work.

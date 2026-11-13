@@ -9,7 +9,7 @@ tags: ["windows", "vpn", "patch"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If September 2026 Windows 11 updates were deployed and Always On VPN stopped working, apply Microsoft's fix this patch cycle to restore connectivity — no exploitation angle, just a regression fix.
 - **SOC/IR — Skip**

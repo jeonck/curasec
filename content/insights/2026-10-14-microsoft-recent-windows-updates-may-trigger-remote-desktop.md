@@ -9,7 +9,7 @@ tags: ["windows", "remote-desktop", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If deploying recent Windows updates on systems with 'Administrator protection' enabled, test RDP connectivity for non-admin users before broad rollout and check Microsoft's guidance for a workaround or hotfix.
 - **SOC/IR — Skip**
