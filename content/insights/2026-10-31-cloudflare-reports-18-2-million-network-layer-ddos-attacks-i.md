@@ -9,7 +9,7 @@ tags: ["ddos", "threat-trends", "cloudflare"]
 cves: []
 source: "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Volume benchmarks are useful context for capacity planning and DDoS mitigation sizing, but no new attack technique or actionable configuration change emerges from this report.
 - **SOC/IR — Learn:** Useful for calibrating alert thresholds and briefing teams on DDoS trend baselines, but no IOCs, TTPs, or detection actions are surfaced.

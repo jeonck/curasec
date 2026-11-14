@@ -9,7 +9,7 @@ tags: ["dprk", "insider-threat", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No patch or config action, but this reinforces zero-trust principles for remote/contractor access — review least-privilege provisioning and device trust requirements for any outsourced development roles.
 - **SOC/IR — Plan:** No IOCs were published in this report, but the Famous Chollima IT worker pattern warrants building detections: flag remote workers whose session IPs route through VPNs/proxies inconsistent with claimed location, and look for credential reuse across multiple contractor accounts.

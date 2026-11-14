@@ -9,7 +9,7 @@ tags: ["ai-governance", "incident-response", "digital-forensics"]
 cves: []
 source: "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Relevant warning for analysts using AI-assisted triage or forensics tooling: the gap between AI output confidence and verifiable accuracy can corrupt IR conclusions. No immediate detection action, but worth factoring into how AI tool outputs are treated in investigations.

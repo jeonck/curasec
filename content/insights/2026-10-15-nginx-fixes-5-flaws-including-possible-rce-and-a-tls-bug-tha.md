@@ -9,7 +9,7 @@ tags: ["nginx", "rce", "tls"]
 cves: []
 source: "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** NGINX is ubiquitous reverse proxy/edge infrastructure; the TLS flaw that may allow forging sessions is high-impact for any mTLS deployment. No KEV, PoC, or active exploitation reported, but patches are available now — schedule upgrade to 1.30.6 (stable) or 1.31.7 (mainline) this cycle and audit configs that use client-certificate authentication.
 - **SOC/IR — Skip**

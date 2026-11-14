@@ -9,7 +9,7 @@ tags: ["windows-server", "eol", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Server 2022 now receives security patches only (no new features) through October 2031; audit your Server 2022 fleet and add a migration milestone to a supported release before extended support ends.
 - **SOC/IR — Skip**

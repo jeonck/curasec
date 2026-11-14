@@ -9,7 +9,7 @@ tags: ["fortigate", "memory-implant", "cve-2024-47575"]
 cves: ["CVE-2024-47575"]
 source: "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CVE-2024-47575 is KEV-listed with EPSS 0.95 and a public PoC; patch FortiManager immediately to the vendor-fixed release, then audit FortiGate devices for PEERSTITCH IOCs published in the Unit 42 report.
 - **SOC/IR — Act:** Memory-resident implant on a network edge device means assume-breach posture: sweep firewall estate for PEERSTITCH IOCs from the Unit 42 post, hunt for post-exploitation lateral movement originating from FortiGate/FortiManager hosts since the CVE disclosure window (late 2024 onward).

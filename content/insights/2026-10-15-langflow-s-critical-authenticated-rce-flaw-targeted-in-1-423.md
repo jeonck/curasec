@@ -9,7 +9,7 @@ tags: ["langflow", "rce", "ai-security"]
 cves: ["CVE-2026-105740"]
 source: "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Public PoC and 1,423 honeypot exploitation attempts confirm active in-the-wild attacks against Langflow (CVSS 9.9); if you run Langflow for AI workflow development, patch immediately or restrict access to authenticated users on trusted networks.
 - **SOC/IR — Act:** Active exploitation campaign with over 1,400 observed attempts warrants an immediate sweep of internal and exposed Langflow instances for compromise indicators; hunt for unusual outbound connections or code execution from Langflow processes since the PoC became public.

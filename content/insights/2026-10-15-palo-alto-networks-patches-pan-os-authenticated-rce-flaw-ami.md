@@ -9,7 +9,7 @@ tags: ["pan-os", "rce", "cisa-kev"]
 cves: ["CVE-2026-0322"]
 source: "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** CISA KEV listed plus a public PoC and confirmed active exploitation make this urgent — apply the PAN-OS patch immediately and restrict management interface access to trusted IP ranges only.
 - **SOC/IR — Act:** Active exploitation of a perimeter security appliance warrants an assume-breach posture — hunt for anomalous management-plane activity and lateral movement from PAN-OS devices dating back to initial disclosure.

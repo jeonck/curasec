@@ -9,7 +9,7 @@ tags: ["docker-hub", "supply-chain", "container-security"]
 cves: []
 source: "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** No client-side patch needed — Docker fixed this server-side — but teams should audit Docker Hub image push history over the past two years to verify no unauthorized image modifications occurred in repositories they own or depend on.
 - **SOC/IR — Learn:** No active exploitation, no IOCs, and no published PoC; the risk class — unauthorized registry writes enabling supply-chain poisoning — is worth factoring into future container image integrity detections, but there is no hunt to run today.

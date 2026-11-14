@@ -9,7 +9,7 @@ tags: ["supply-chain", "github", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active campaign extracted CI secrets from public repositories on October 8-9; audit all public repos for exposed secrets in CI config files and rotate GitHub PATs and any credentials stored in workflows immediately.
 - **SOC/IR — Act:** Campaign has a tight activity window (Oct 8-9); hunt for unauthorized GitHub OAuth activity, anomalous CI/CD pipeline triggers, and unexpected secret-access events in organizational repos since that date.

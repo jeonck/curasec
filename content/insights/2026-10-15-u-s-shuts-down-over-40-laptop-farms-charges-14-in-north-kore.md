@@ -9,7 +9,7 @@ tags: ["dprk-it-workers", "insider-threat", "supply-chain"]
 cves: []
 source: "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No CVE or patch surface here, but the scale of infiltration (70+ companies) is a useful data point for tightening identity verification on remote contractors and reviewing build-pipeline access granted to third parties.
 - **SOC/IR — Learn:** The DOJ action confirms the breadth of the scheme but the summary provides no IOCs, TTPs, or detection hooks; file as actor-profile context for triage until a follow-on report with technical indicators appears.
