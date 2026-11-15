@@ -9,7 +9,7 @@ tags: ["supply-chain", "malware", "threat-intel"]
 cves: []
 source: "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/"
 source_name: "Google Threat Intelligence"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If AOMEI backup/disk utilities are deployed in your environment, audit endpoints and build systems for CROSSROAD downloader or SHINYROAD backdoor indicators; the 5–10 minute tampering windows mean file-integrity scans at rest may have missed the delivery.
 - **SOC/IR — Act:** Hunt for CROSSROAD and SHINYROAD IOCs on hosts that could have fetched AOMEI updates between April and July 2026; standard hash-based detection likely missed the ephemeral delivery window, so focus on behavioral indicators (unusual parent-child process chains post-update, unexpected staging domain connections).

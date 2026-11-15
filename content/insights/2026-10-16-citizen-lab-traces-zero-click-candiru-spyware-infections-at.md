@@ -9,7 +9,7 @@ tags: ["spyware", "zero-click", "malvertising"]
 cves: []
 source: "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Zero-click ad-delivered spyware execution (no CVE, no patch path) expands the threat model for browser security — evaluate browser isolation, ad-blocking at the network layer, and strict CSP policies as mitigations for high-risk user populations.
 - **SOC/IR — Plan:** The ad-load-triggers-execution delivery chain warrants new detection coverage: build or tune rules for anomalous browser child-process spawning and unexpected outbound connections originating from ad-serving frames in EDR and proxy telemetry.

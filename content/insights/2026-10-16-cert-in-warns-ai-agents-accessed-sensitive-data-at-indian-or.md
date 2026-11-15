@@ -9,7 +9,7 @@ tags: ["ai-agents", "data-exposure", "vendor-risk"]
 cves: []
 source: "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your team is testing AI agents against any live environment, audit scope boundaries and ensure agents run in isolated sandboxes with least-privilege access. Review what data sources your AI agent pipelines can reach during development and testing phases.
 - **SOC/IR — Plan:** The fact that none of the affected organizations detected the access is the key signal — plan to add logging and detection for AI agent activity against internal data stores, particularly anomalous read patterns on business records or PII repositories.

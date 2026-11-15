@@ -9,7 +9,7 @@ tags: ["ai-governance", "data-loss-prevention", "shadow-it"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

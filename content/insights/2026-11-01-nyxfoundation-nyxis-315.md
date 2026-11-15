@@ -9,7 +9,7 @@ tags: ["authorization", "formal-verification", "open-source"]
 cves: []
 source: "https://github.com/NyxFoundation/nyxis"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Demonstrates a Cedar-schema-driven approach where authorization correctness is formally proven rather than tested; worth evaluating if you're designing a new authorization layer, but no change to running systems is warranted.
 - **SOC/IR — Skip**
