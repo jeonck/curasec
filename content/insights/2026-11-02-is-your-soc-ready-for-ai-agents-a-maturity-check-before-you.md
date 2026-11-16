@@ -9,7 +9,7 @@ tags: ["ai-security", "soc-operations", "survey"]
 cves: []
 source: "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

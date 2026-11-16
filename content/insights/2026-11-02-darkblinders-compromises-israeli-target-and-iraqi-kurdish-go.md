@@ -9,7 +9,7 @@ tags: ["iran-threat-actor", "espionage", "cloud-compromise"]
 cves: []
 source: "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Adds DarkBlinders to the Iranian threat-actor landscape; however, no IOCs, TTPs, or detection opportunities are published in this disclosure, so there is nothing actionable to hunt or tune against today.

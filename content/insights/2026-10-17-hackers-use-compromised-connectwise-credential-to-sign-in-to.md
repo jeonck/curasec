@@ -9,7 +9,7 @@ tags: ["m365", "supply-chain", "msp"]
 cves: []
 source: "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If your org or your MSP uses ConnectWise Cloud Backup (formerly SkyKick), audit M365 unified audit logs and sign-in logs immediately for delegated-access activity from ConnectWise service accounts, and review/revoke any delegated admin permissions granted to ConnectWise.
 - **SOC/IR — Act:** Active campaign accessing M365 tenants via compromised MSP tool credentials — hunt M365 sign-in logs for authentication events tied to ConnectWise Cloud Backup service principals or delegated admin access since this campaign began, and alert on anomalous third-party delegated logins.

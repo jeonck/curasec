@@ -9,7 +9,7 @@ tags: ["north-korea", "crypto-theft", "attribution"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** FBI attribution of TraderTraitor to the largest crypto heist on record is useful actor-profile context, but the summary provides no IOCs or TTPs to act on today.

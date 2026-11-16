@@ -9,7 +9,7 @@ tags: ["android-botnet", "supply-chain", "ad-fraud"]
 cves: []
 source: "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Residential-proxy botnets built from compromised consumer hardware can route malicious traffic through home IPs, complicating geo-based blocking; no IOCs were published and the C2 infrastructure was already disrupted, so there is no immediate hunt to run.

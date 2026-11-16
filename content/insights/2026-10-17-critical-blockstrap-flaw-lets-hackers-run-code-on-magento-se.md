@@ -9,7 +9,7 @@ tags: ["rce", "magento", "php"]
 cves: ["CVE-2026-103849"]
 source: "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC on GitHub makes exploitation practical despite the low EPSS; RCE on an e-commerce server likely handling payment data warrants immediate action. Update or remove the BlockStrap plugin on all Magento/Adobe Commerce instances and verify no post-exploitation artifacts exist.
 - **SOC/IR — Plan:** No confirmed active exploitation yet, but a public PoC means attacks could begin soon. Build or tune detections for anomalous PHP execution and unexpected outbound connections from Magento web server processes in preparation for exploitation attempts.

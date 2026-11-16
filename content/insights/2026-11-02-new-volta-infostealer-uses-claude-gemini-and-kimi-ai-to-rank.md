@@ -9,7 +9,7 @@ tags: ["infostealer", "ai-abuse", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No KEV, PoC, or EPSS signals — no patch action exists for a new stealer family. The novel technique of using LLMs to triage victim data changes attacker economics but requires no immediate configuration change; review credential-exposure scope for Chromium profiles, Outlook, and Slack as a hygiene baseline.
 - **SOC/IR — Learn:** The summary lacks published IOCs, hashes, or C2 infrastructure needed to write detections or run a sweep. The underlying behaviors (browser cred harvesting, Outlook/Slack exfil) already have coverage; the AI-ranking angle is threat-intel context worth noting but not yet actionable.

@@ -9,7 +9,7 @@ tags: ["ot-security", "ics-attack", "operational-disruption"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Active OT campaign targeting building/refrigeration control systems across multiple retail chains; no IOCs or ATT&CK TTPs are published, so there is nothing to hunt or detect yet — file for sector context if you defend OT or retail environments.

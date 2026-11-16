@@ -9,7 +9,7 @@ tags: ["supply-chain", "backdoor", "windows"]
 cves: []
 source: "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Supply-chain compromise of a popular Windows backup utility's update mechanism meets Act criteria regardless of KEV listing — corroborated by Google TIG and Mandiant. Audit all systems running AOMEI Backupper for backdoor IOCs and check whether any update checks occurred during May–July 2026 attack windows.
 - **SOC/IR — Act:** Confirmed backdoor delivery via tampered update server with Mandiant and Google TIG involvement implies IOCs are available or imminent. Hunt for suspicious processes or persistence artifacts on hosts with AOMEI Backupper installed that were active May–July 2026, and watch for published IOC sets from these investigations.
