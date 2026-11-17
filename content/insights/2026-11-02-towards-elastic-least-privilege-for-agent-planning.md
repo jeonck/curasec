@@ -9,7 +9,7 @@ tags: ["ai-agents", "least-privilege", "access-control"]
 cves: []
 source: "https://arxiv.org/abs/2610.40981"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel framework for dynamic, budget-aware authority management in AI agents; no implementation exists yet, but the design principles (leased elevations, cost-visible-to-planner) are directly relevant to engineers building or deploying agentic systems.
 - **SOC/IR — Skip**

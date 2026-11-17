@@ -9,7 +9,7 @@ tags: ["operational-technology", "ai-security", "reinforcement-learning"]
 cves: []
 source: "https://arxiv.org/abs/2610.41007"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic framework applying reinforcement learning to OT defensive posture (monitoring, segmentation, deception) — no implementation artifact to deploy today, but relevant if you own ICS/OT infrastructure and are thinking about adaptive controls architecture.
 - **SOC/IR — Skip**

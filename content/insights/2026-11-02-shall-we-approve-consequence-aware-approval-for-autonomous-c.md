@@ -9,7 +9,7 @@ tags: ["ai-agents", "agentic-security", "llm-security"]
 cves: []
 source: "https://arxiv.org/abs/2610.40753"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel research showing that command-text-only approvers for coding agents miss harmful behavior hidden inside invoked tools; the sandbox pre-execution approach (6.7% harmful-outcome rate vs ≥14.8% for alternatives) is worth evaluating when architecting agent approval pipelines in CI/CD.
 - **SOC/IR — Learn:** Provides a useful mental model for how malicious behavior can be concealed inside tool invocations by coding agents, which may inform future hunt hypotheses as agentic systems proliferate in enterprise environments—no immediate detection work available from this paper.

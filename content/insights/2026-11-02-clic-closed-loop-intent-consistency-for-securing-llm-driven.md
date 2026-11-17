@@ -9,7 +9,7 @@ tags: ["llm-security", "open-ran", "prompt-injection"]
 cves: []
 source: "https://arxiv.org/abs/2610.40744"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Novel defense architecture for LLM prompt injection in O-RAN control loops — relevant if your org is evaluating LLM integration into network automation, but no patch or configuration action required today.
 - **SOC/IR — Learn:** Describes prompt injection and residual virtual prompt injection attack classes against LLM-controlled RAN infrastructure; useful background for understanding detection gaps in AI-driven network control, but no IOCs or TTPs to act on now.

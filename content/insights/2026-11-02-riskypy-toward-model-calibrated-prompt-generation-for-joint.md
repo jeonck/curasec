@@ -9,7 +9,7 @@ tags: ["llm-code-security", "benchmark", "secure-coding"]
 cves: []
 source: "https://arxiv.org/abs/2610.40735"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Findings that only 5-10% of LLM-generated Python is free of Bandit security findings should recalibrate confidence in AI-assisted coding; engineers relying on LLMs for code generation should ensure SAST tooling (e.g., Bandit, Semgrep) is part of the review pipeline for AI-authored code.
 - **SOC/IR — Skip**

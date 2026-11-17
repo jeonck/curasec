@@ -9,7 +9,7 @@ tags: ["threat-intelligence", "ai-offensive", "cyberespionage"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** High-level roundup touching AI adoption in offensive workflows and cyberespionage trends, but no specific CVEs, affected software, or configurations named; useful background for design-time threat modeling, not actionable today.
 - **SOC/IR — Learn:** Covers broad themes — espionage, extortion, AI-assisted attacks — but the summary surfaces no specific IOCs, ATT&CK TTPs, or campaign actors that would support writing detections or running a hunt.

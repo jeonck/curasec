@@ -9,7 +9,7 @@ tags: ["operational-technology", "critical-infrastructure", "cyber-physical"]
 cves: []
 source: "https://arxiv.org/abs/2610.41050"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Introduces the Cyber-to-Physical Propagation Rate metric as a way to model how cyber compromise translates to physical service impact in OT networks — useful for engineers designing security architecture for water or similar critical infrastructure, but requires no change to running systems.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["rag-security", "ai-ml", "research"]
 cves: []
 source: "https://arxiv.org/abs/2610.40742"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** If you're deploying RAG pipelines, this research shows that defenses evaluated purely on attack success rate can still introduce unexpected target-positive outputs — worth reviewing your evaluation framework before trusting any poisoning defense you've implemented.
 - **SOC/IR — Skip**

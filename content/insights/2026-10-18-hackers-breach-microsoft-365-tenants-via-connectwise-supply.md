@@ -9,7 +9,7 @@ tags: ["supply-chain-attack", "microsoft-365", "connectwise"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Organizations using ConnectWise Cloud Backup (formerly SkyKick) should immediately audit M365 OAuth application permissions and service principal activity for unauthorized delegated access; revoke any ConnectWise-related app registrations until the vendor confirms scope and remediation.
 - **SOC/IR — Act:** Hunt M365 unified audit logs and Entra ID sign-in logs for anomalous OAuth app consent events or application identity authentications tied to ConnectWise/SkyKick since the compromise window; treat impacted tenants as assume-breach and sweep for mailbox rule creation, exfiltration signals, and new delegated permissions.

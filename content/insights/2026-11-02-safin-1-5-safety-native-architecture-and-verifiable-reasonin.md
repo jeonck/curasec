@@ -9,7 +9,7 @@ tags: ["llm-safety", "ai-research", "recursive-improvement"]
 cves: []
 source: "https://arxiv.org/abs/2610.40751"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Academic research on embedding safety as an intrinsic LLM capability via hazardous-knowledge disentanglement and a discovery-repair loop — relevant context for teams deploying or fine-tuning LLMs, but no actionable change to running systems today.
 - **SOC/IR — Skip**

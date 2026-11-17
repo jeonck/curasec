@@ -9,7 +9,7 @@ tags: ["data-breach", "higher-education", "pii-exposure"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

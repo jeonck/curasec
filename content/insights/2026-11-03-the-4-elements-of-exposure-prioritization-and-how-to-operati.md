@@ -9,7 +9,7 @@ tags: ["vulnerability-management", "risk-prioritization", "gartner"]
 cves: []
 source: "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The Gartner statistic that fewer than 10% of vulnerabilities are ever exploited reinforces using EPSS/KEV signals to focus patch effort; no immediate system change required, but worth reviewing your team's current prioritization criteria against this framework.
 - **SOC/IR — Skip**

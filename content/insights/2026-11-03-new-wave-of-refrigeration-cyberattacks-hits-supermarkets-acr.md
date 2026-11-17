@@ -9,7 +9,7 @@ tags: ["ot-security", "ics-attacks", "europe"]
 cves: []
 source: "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Illustrates remote OT exploitation against industrial refrigeration systems, but the summary provides no IOCs, attack vector, or TTPs to build detections from; watch for follow-on technical analysis from Danfoss or CERT responses.

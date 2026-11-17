@@ -9,7 +9,7 @@ tags: ["botnet", "iot-malware", "supply-chain"]
 cves: []
 source: "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Devices shipped with pre-installed malware used as proxy exit nodes — a supply-chain integrity concern for any corporate IoT procurement. Botnet is dismantled, so no immediate patch action, but review device sourcing policies for Android-based IoT (TV boxes, healthcare devices) in your environment.
 - **SOC/IR — Learn:** No IOCs or detection artifacts are provided, and the botnet command infrastructure has been severed, limiting immediate hunt value. Worth understanding the ad-fraud/residential-proxy TTP pattern for future investigations involving unexpected outbound proxy traffic from IoT segments.
