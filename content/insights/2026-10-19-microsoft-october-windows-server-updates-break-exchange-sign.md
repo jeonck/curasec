@@ -9,7 +9,7 @@ tags: ["exchange-server", "windows-server", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Microsoft-confirmed: October Windows Server updates disrupt OWA authentication and mail delivery on Exchange Server. Hold October Windows Server patches on Exchange hosts until Microsoft releases a fix, or apply any documented workaround if already deployed.
 - **SOC/IR — Skip**

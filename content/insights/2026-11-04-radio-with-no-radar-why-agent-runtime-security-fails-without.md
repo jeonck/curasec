@@ -9,7 +9,7 @@ tags: ["ai-agents", "runtime-security", "enterprise-security"]
 cves: []
 source: "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The architectural gap described — AI agents that never route through an enterprise-owned gateway — is worth internalizing when designing or evaluating agent deployments, but no specific vulnerability or patch action is present here.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["supply-chain", "malware", "credential-theft"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Confirmed supply-chain compromise via tampered launcher scripts distributing credential and crypto wallet stealers; if employees run gaming clients on corporate endpoints, check EDR telemetry for NIKKE launcher process activity, but no specific IOCs are published yet.

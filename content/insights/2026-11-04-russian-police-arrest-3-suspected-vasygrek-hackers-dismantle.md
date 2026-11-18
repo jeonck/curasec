@@ -9,7 +9,7 @@ tags: ["threat-actor", "law-enforcement", "russia"]
 cves: []
 source: "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Provides background on VasyGrek/Fluffy Wolf's decade-long campaign against international companies, but no IOCs or TTPs are released — infrastructure dismantlement reduces near-term threat, so no detection work is actionable from this item alone.

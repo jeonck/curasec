@@ -9,7 +9,7 @@ tags: ["llm-security", "supply-chain", "dns-exfiltration"]
 cves: []
 source: "https://arxiv.org/abs/2610.22578"
 source_name: "arXiv cs.CR"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Any team running open-weight LLMs in agent harnesses with shell access is in scope for this attack class. Before next sprint, enforce DNS egress blocking (or DNS query monitoring) on all LLM inference containers and require signed provenance for open-weight models pulled from public hubs.
 - **SOC/IR — Plan:** This paper introduces a detection gap: base32-chunked subdomains in DNS queries from ML inference pods are the exfil channel. Write a detection rule (Sigma/KQL) for anomalous high-entropy subdomain queries originating from container workloads, and add LLM agent namespaces as a monitored DNS log source.

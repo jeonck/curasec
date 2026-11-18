@@ -9,7 +9,7 @@ tags: ["nginx", "rce", "patch"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** NGINX is near-ubiquitous in cloud environments and critical RCE flaws with out-of-band patches warrant prompt action; no KEV listing or public PoC yet, so schedule patching this sprint — identify your NGINX versions and apply F5's out-of-band releases to all instances.
 - **SOC/IR — Skip**

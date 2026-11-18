@@ -9,7 +9,7 @@ tags: ["prompt-injection", "salesforce-agentforce", "ai-agents"]
 cves: []
 source: "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Organizations running Salesforce Agentforce with Email-to-Case or Web-to-Case should audit their Flow configurations to identify where untrusted customer input reaches agent prompts without sanitization; no exploitation signals present but the attack surface is as-designed and non-obvious.
 - **SOC/IR — Learn:** This outlines how standard Salesforce workflow chaining can route external user-controlled content into AI agent prompts — a useful mental model for the indirect prompt injection attack class, but no IOCs, TTPs, or detection signatures are provided for immediate action.

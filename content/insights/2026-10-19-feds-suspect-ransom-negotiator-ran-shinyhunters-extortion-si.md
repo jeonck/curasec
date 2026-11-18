@@ -9,7 +9,7 @@ tags: ["ransomware", "threat-actor", "vendor-risk"]
 cves: []
 source: "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
 source_name: "Krebs on Security"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No technical vulnerability or patch action here; the story is about criminal conflict-of-interest within IR negotiation firms, not an exploitable software flaw.
 - **SOC/IR — Learn:** Useful ShinyHunters threat-actor context, but no IOCs, TTPs, or detection opportunities are surfaced — insufficient technical detail for a hunt or rule today.

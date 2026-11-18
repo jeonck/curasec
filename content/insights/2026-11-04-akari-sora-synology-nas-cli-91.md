@@ -9,7 +9,7 @@ tags: ["synology-nas", "ransomware", "tooling"]
 cves: []
 source: "https://github.com/akari-sora/synology-nas-cli"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The C3RB3R/.L0CK3D ransomware campaign targeting Synology DSM 7 is a real exposure worth verifying if you run NAS appliances; however, this tool has no enrichment signals, is self-described as a mirror of an obscure GitLab repo, and should not be run against production systems without independent vetting — a tool claiming to fix ransomware from an unknown author is itself a risk vector.
 - **SOC/IR — Skip**

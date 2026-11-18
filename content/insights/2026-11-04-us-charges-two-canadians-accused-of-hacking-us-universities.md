@@ -9,7 +9,7 @@ tags: ["credential-theft", "cryptomining", "higher-education"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** University environments often share infrastructure patterns with enterprises; this case highlights credential compromise leading to unauthorized compute use, worth reviewing your cloud spend alerts and unauthorized instance detection.
 - **SOC/IR — Learn:** Cryptomining post-compromise is a useful behavioral signal; no IOCs published here, but reinforces value of tuning alerts for anomalous compute/CPU spikes and outbound mining pool traffic.

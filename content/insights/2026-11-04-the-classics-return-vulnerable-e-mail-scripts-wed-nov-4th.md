@@ -9,7 +9,7 @@ tags: ["legacy-vulnerabilities", "cgi-scripts", "web-application"]
 cves: ["CVE-2000-0411"]
 source: "https://isc.sans.edu/diary/rss/33488"
 source_name: "SANS ISC"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** A retrospective on 26-year-old CGI email script flaws (env variable leakage, header injection, sendmail command injection) that may still lurk in legacy environments; worth auditing for any surviving CGI-bin scripts, but EPSS 0.08 and no KEV listing mean there's no urgent patching pressure.
 - **SOC/IR — Skip**

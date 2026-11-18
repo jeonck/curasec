@@ -9,7 +9,7 @@ tags: ["vendor-breach", "api-key-exposure", "ai-provider"]
 cves: []
 source: "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If your team stored OpenAI, Anthropic, or Google API keys in OpenCode Console, treat them as compromised: revoke and reissue those keys immediately, then audit provider dashboards for unauthorized calls since October 16.
 - **SOC/IR — Act:** For any org using OpenCode Console, hunt for anomalous AI provider API usage (unexpected spikes in calls, unfamiliar IP origins, unexpected cost) in OpenAI/Anthropic/Google dashboards and SIEM from October 16 onward, assuming keys may be in adversary hands.
