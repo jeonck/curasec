@@ -9,7 +9,7 @@ tags: ["session-security", "infostealer", "web-platform"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** DBSC is an emerging browser-platform standard that binds session credentials to device keys, raising the bar against infostealer-driven account takeover; no immediate action since Vercel is rolling this out automatically, but worth understanding the architecture if you manage web authentication on any platform.
 - **SOC/IR — Skip**

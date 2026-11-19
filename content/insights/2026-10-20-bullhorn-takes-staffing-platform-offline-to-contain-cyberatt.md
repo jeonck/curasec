@@ -9,7 +9,7 @@ tags: ["vendor-breach", "saas-outage", "third-party-risk"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Skip**

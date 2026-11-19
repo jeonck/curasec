@@ -9,7 +9,7 @@ tags: ["supply-chain", "wordpress", "backdoor"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Official-channel supply-chain compromise means any Rank Math PRO install fetched last week may carry a backdoor; immediately audit all WordPress sites for the plugin's presence, remove or replace with a verified clean version, and inspect for indicators of hidden backdoor files or unauthorized admin accounts.
 - **SOC/IR — Plan:** No IOCs or TTPs are published yet, blocking immediate hunting; plan to draft WordPress-focused detection rules (anomalous plugin file writes, unexpected admin account creation) and queue a sweep of WordPress estates as soon as vendor or community publishes specific file hashes or behavioral indicators.

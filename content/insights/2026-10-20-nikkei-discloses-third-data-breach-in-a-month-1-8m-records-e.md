@@ -9,7 +9,7 @@ tags: ["data-breach", "third-party-risk", "pii-exposure"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Three breaches in a month at a single organization suggests systemic compromise rather than isolated incidents; useful pattern for recognizing persistent-access scenarios in triage.

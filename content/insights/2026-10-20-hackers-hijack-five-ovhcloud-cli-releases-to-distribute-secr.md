@@ -9,7 +9,7 @@ tags: ["supply-chain", "credential-theft", "cli-compromise"]
 cves: []
 source: "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If any developer or CI pipeline downloaded the OVHcloud CLI between 12:47–14:21 UTC on October 19, treat that machine as compromised: rotate all secrets stored on disk (API keys, cloud credentials, SSH keys) and audit for any use of those credentials after that window.
 - **SOC/IR — Act:** Hunt across all endpoints for execution of the OVHcloud CLI tool during the 94-minute compromise window; follow up with anomaly detection on credential file access patterns and downstream use of any credentials present on affected machines.

@@ -9,7 +9,7 @@ tags: ["supply-chain", "info-stealer", "developer-tools"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Confirmed supply-chain compromise of a developer CLI tool; audit all developer machines for the backdoored OVHcloud CLI version and immediately rotate any API keys, tokens, or credentials that the tool could have accessed.
 - **SOC/IR — Plan:** Active info-stealer deployed via compromised CLI; without published IOCs, queue a hunt for anomalous credential access or exfiltration activity originating from developer endpoints that run cloud CLI tooling.

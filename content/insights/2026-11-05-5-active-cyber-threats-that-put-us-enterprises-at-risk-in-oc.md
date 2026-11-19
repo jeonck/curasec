@@ -9,7 +9,7 @@ tags: ["threat-roundup", "enterprise-security", "active-threats"]
 cves: []
 source: "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** The summary names no specific CVEs, software, or configuration targets, so no patch or audit action is derivable; read the full article to check whether any of the five threats touch your stack.
 - **SOC/IR — Learn:** No IOCs, ATT&CK mappings, or detection specifics are surfaced in the available summary; review the full piece to extract any hunt-worthy TTPs from the five described campaigns.

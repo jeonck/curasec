@@ -9,7 +9,7 @@ tags: ["windows-server", "resilience", "microsoft"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Evaluate enabling Quick Machine Recovery on Windows Server 2025 after applying the October 2026 cumulative update — this reduces recovery time from bad configurations or boot failures, worth scheduling adoption this quarter.
 - **SOC/IR — Skip**

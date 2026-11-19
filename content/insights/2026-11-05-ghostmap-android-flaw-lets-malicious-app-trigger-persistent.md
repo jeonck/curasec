@@ -9,7 +9,7 @@ tags: ["android", "mobile-security", "denial-of-service"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Describes a no-permission installation-based DoS technique on Android, but the summary provides no IOCs, TTPs, or detection surface to act on; file for context if covering a BYOD/MDM estate.

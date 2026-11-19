@@ -9,7 +9,7 @@ tags: ["ai-security", "regulatory", "supply-chain"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** No CVE or exploit detail, but the federal ban is a strong signal to audit whether any DeepSeek models or APIs are embedded in your systems, pipelines, or developer tooling — and plan removal if found.
 - **SOC/IR — Skip**

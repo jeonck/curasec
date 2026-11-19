@@ -9,7 +9,7 @@ tags: ["breach", "retail", "incident-response"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Skip**
 - **SOC/IR — Learn:** Retail sector disruption with cross-continental impact; no IOCs or TTPs published yet — monitor for follow-on technical disclosures to inform detection work.
