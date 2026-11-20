@@ -9,7 +9,7 @@ tags: ["clickfix", "social-engineering", "ai-lures"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** ClickFix is a user-side social engineering technique, not a patchable vulnerability, but the AI-tool lure angle targets developers and technical users specifically — worth factoring into endpoint browser controls and developer workstation hardening posture.
 - **SOC/IR — Plan:** No IOCs are published here, but ClickFix-style attacks leave detectable signals — build or tune detections for suspicious clipboard-paste-to-run patterns and PowerShell/cmd execution spawned from browsers, and update threat-intel with AI-branded lure themes for phishing triage.

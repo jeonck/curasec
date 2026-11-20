@@ -9,7 +9,7 @@ tags: ["wordpress", "supply-chain", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** TeamUpdraft's own website was breached and customer connection keys were exfiltrated; if you use UpdraftCentral, UpdraftVault, or UpdraftClone, rotate all connection keys immediately and audit WordPress file systems for newly planted backdoors or unexpected PHP files.
 - **SOC/IR — Act:** Active backdoor-planting campaign is underway against WordPress sites with UpdraftCentral credentials; sweep managed WordPress estates for unauthorized file writes or new PHP scripts in plugin/theme directories since the breach disclosure, and prioritize sites confirmed to use UpdraftCentral products.

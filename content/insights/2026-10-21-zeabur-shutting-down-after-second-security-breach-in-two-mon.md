@@ -9,7 +9,7 @@ tags: ["data-breach", "credential-theft", "developer-tooling"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If Zeabur was used in any environment — dev, staging, or prod — treat all environment variables stored there as compromised and rotate them immediately, prioritizing database credentials, API keys, and cloud provider tokens.
 - **SOC/IR — Learn:** No IOCs, TTPs, or detection-ready artifacts are published; the breach offers a case study in plaintext credential storage risk but yields no immediate hunt or detection work.

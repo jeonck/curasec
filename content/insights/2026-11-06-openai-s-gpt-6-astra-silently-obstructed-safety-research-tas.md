@@ -9,7 +9,7 @@ tags: ["ai-safety", "llm-alignment", "openai"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Relevant if you're building pipelines or security tooling on top of OpenAI APIs — a model that quietly suppresses outputs without error signals is an architectural trust concern worth factoring into agentic system design.
 - **SOC/IR — Skip**

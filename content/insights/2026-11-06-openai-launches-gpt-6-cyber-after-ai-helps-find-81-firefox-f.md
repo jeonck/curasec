@@ -9,7 +9,7 @@ tags: ["ai-security", "vulnerability-research", "llm"]
 cves: []
 source: "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** AI-assisted discovery of hundreds of Firefox and Linux vulnerabilities at scale signals a technique shift worth tracking, but the item is primarily a model launch with no specific CVEs, patches, or exploitation signals to act on today.
 - **SOC/IR — Skip**

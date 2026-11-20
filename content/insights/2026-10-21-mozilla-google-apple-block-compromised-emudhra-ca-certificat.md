@@ -9,7 +9,7 @@ tags: ["certificate-authority", "pki", "tls"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Audit your certificate inventory for any eMudhra-issued certs; all major browsers have revoked trust, so any in-use certs will cause immediate user-facing trust errors and service disruptions that require emergency replacement.
 - **SOC/IR — Learn:** The ability to instantly recover eMudhra intermediate private keys means adversaries could have forged trusted certs for MITM; no IOCs or confirmed exploitation are disclosed, so this informs defensive design thinking but has no actionable hunt surface today.

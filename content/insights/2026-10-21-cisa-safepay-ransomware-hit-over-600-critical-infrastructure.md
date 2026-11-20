@@ -9,7 +9,7 @@ tags: ["ransomware", "critical-infrastructure", "cisa-advisory"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** The CISA/FBI advisory likely details SafePay's initial access methods and hardening mitigations; review the full advisory for affected software and apply recommended mitigations this quarter.
 - **SOC/IR — Act:** Pull the CISA/FBI SafePay advisory for published IOCs and ATT&CK-mapped TTPs, sweep logs back to 2024 for matching indicators, and tune ransomware detection rules against the described behavioral patterns.

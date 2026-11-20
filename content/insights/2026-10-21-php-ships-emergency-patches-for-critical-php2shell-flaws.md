@@ -9,7 +9,7 @@ tags: ["rce", "php", "vulnerability"]
 cves: ["CVE-2026-109618", "CVE-2026-109619"]
 source: "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Two critical RCE flaws with public PoCs on GitHub mean exploitation is practical now; patch all PHP installations to the emergency-release version immediately and audit web server logs for signs of pre-patch exploitation.
 - **SOC/IR — Act:** Public PoCs for both CVEs make exploitation attempts imminent if not already occurring; hunt for web shell creation events and anomalous PHP process execution since PoC publication, and tune WAF/EDR rules for PHP shell upload patterns.

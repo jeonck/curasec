@@ -9,7 +9,7 @@ tags: ["windows", "vpn", "patch-management"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you deploy Always On VPN on Windows 11, hold off on closing that bug ticket — Microsoft confirmed the October cumulative update does not resolve the issue; track the corrected fix before updating rollout plans.
 - **SOC/IR — Skip**

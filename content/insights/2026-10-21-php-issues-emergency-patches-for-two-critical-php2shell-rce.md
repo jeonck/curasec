@@ -9,7 +9,7 @@ tags: ["php", "rce", "emergency-patch"]
 cves: []
 source: "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Critical unauthenticated RCE in the PHP runtime itself affects all sites regardless of application code; exploit attempts are already being observed. Patch to PHP 8.5.12, 8.4.27, 8.3.36, or 8.2.35 immediately and verify no webshells were dropped on exposed servers.
 - **SOC/IR — Act:** Active exploit attempts against web servers running PHP create an assume-breach window before patching completes. Hunt for anomalous child processes or file-write activity from web server PHP processes since patch release, and scan for newly created webshells in document roots.

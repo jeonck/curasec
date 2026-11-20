@@ -9,7 +9,7 @@ tags: ["phishing", "generative-ai", "email-security"]
 cves: []
 source: "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** AI-polished phishing erodes the value of behavior-only email filters; worth factoring into security-control design when evaluating or tuning email gateways, but no patch or configuration change is actionable from this report alone.
 - **SOC/IR — Plan:** Plan to audit reliance on behavioral signals (grammar/template heuristics) in email detection rules and supplement with structural signals — URL clustering, header anomalies, sender-graph analysis — that AI fluency cannot easily erase.

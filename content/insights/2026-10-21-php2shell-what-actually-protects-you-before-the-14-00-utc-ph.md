@@ -9,7 +9,7 @@ tags: ["php", "rce", "critical-vulnerability"]
 cves: []
 source: "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** PHP2Shell (CVE-2026-109618/109619) are CVSS 9.2 RCE flaws with no sufficient pre-patch workaround; apply the PHP fix the moment it ships at 14:00 UTC today and do not rely on the configuration setting being circulated as a mitigation.
 - **SOC/IR — Plan:** No IOCs or confirmed exploitation are provided, so no immediate hunt is warranted; prepare PHP-targeted RCE detection rules (webshell drops, anomalous child processes from web server workers) to deploy alongside or shortly after today's patch release.

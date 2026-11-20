@@ -9,7 +9,7 @@ tags: ["ai-risk", "supply-chain", "regulatory"]
 cves: []
 source: "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** No technical vulnerability or exploitation signal here, but the DHS order's inclusion of third-party products built on DeepSeek implementations signals that any AI tooling with embedded DeepSeek should be inventoried now before this expands.
 - **SOC/IR — Skip**

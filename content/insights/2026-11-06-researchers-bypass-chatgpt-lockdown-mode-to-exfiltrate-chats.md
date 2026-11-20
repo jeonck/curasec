@@ -9,7 +9,7 @@ tags: ["prompt-injection", "ai-security", "chatgpt"]
 cves: []
 source: "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Now-patched flaw in a SaaS product means no engineering action is required, but the technique — bypassing a declared security control via prompt injection to silently exfiltrate data — is worth understanding when designing AI-integrated pipelines or evaluating trust boundaries in LLM-based features.
 - **SOC/IR — Learn:** No IOCs, no active exploitation signals, and the vulnerability is patched; there is no detection to write today, but the prompt-injection-to-exfiltration pattern is relevant context if the team is building visibility into enterprise ChatGPT or AI tool usage.
