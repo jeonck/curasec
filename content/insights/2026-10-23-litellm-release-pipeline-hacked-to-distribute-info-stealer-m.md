@@ -9,7 +9,7 @@ tags: ["supply-chain", "malware", "pypi"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** LiteLLM is a widely adopted Python LLM gateway library; compromised PyPI releases and Docker images can steal env vars, API keys, and secrets from any pipeline that installs or pulls them. Audit all CI/CD and container builds for LiteLLM usage, pin or remove affected versions immediately, and rotate any credentials that ran in affected environments.
 - **SOC/IR — Act:** Active supply-chain malware distributing an info-stealer via a popular AI library is an assume-breach scenario for any org using LiteLLM in their stack. Hunt for anomalous outbound connections from build agents and containers, and sweep secrets-management logs for unexpected access since the compromise window.

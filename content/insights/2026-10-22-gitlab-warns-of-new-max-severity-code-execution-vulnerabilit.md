@@ -9,7 +9,7 @@ tags: ["rce", "gitlab", "patch"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Max-severity remote code execution via the regex compiler affects GitLab instances you may self-host; patches are released so prioritize upgrading to the fixed version within your next patch window — no confirmed exploitation or public PoC yet, but attack surface is high-value CI/CD infrastructure.
 - **SOC/IR — Skip**

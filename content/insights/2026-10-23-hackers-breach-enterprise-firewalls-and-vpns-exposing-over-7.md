@@ -9,7 +9,7 @@ tags: ["edge-devices", "vpn", "credential-theft"]
 cves: []
 source: "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** FortiGate and GlobalProtect are common enterprise fixtures; active access obtained at organizations worldwide means assume-breach posture is warranted now. Audit both platforms for unauthorized sessions or config changes, force credential rotation for all VPN users, and cross-reference your logs against any IOCs released by the researchers.
 - **SOC/IR — Act:** This is a live campaign with confirmed access at multiple orgs — edge device compromise typically precedes patching, so run an assume-breach hunt now. Search SIEM for anomalous lateral movement sourced from your FortiGate or GlobalProtect IPs since at least early October, and monitor the researcher disclosure for IOC drops to build detection rules.

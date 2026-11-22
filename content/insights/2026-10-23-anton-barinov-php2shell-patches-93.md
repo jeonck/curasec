@@ -9,7 +9,7 @@ tags: ["php", "rce", "end-of-life"]
 cves: ["CVE-2026-109618", "CVE-2026-109619"]
 source: "https://github.com/Anton-Barinov/php2shell-patches"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Public PoCs exist for two RCE flaws in EOL PHP affecting WordPress, OpenCart, and similar stacks, but EPSS scores (0.12 / 0.06) and no KEV listing mean immediate emergency patching isn't warranted. Audit your fleet for EOL PHP 5.4–8.1; prioritize upgrading to a supported PHP release, or apply these community backport patches as a temporary stopgap for systems that can't migrate quickly.
 - **SOC/IR — Learn:** No active exploitation campaign or IOCs are reported, so there's no hunt to run today. The published PoCs document how PHP file-upload progress-bar handling can be abused for RCE, which is worth reviewing to inform or validate any existing detection rules for web shell drops via file upload on PHP applications.

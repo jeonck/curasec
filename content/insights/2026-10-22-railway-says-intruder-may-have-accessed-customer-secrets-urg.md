@@ -9,7 +9,7 @@ tags: ["vendor-breach", "credential-exposure", "paas"]
 cves: []
 source: "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If your team uses Railway, treat all environment variables stored there as potentially compromised and rotate them immediately — API keys, database credentials, service tokens, and any other secrets held in Railway environment configs.
 - **SOC/IR — Plan:** No IOCs or TTPs have been published yet; if Railway is in use at your organization, build a hunt query to detect anomalous authentication or API usage patterns for any secrets that may have been stored there, and watch for Railway's follow-on disclosure.

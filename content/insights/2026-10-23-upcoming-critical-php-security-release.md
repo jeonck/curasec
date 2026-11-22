@@ -9,7 +9,7 @@ tags: ["php", "rce", "patch-management"]
 cves: []
 source: "https://www.php.net/archive/2026.php"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** A critical PHP patch is imminent with no public details yet; engineers running PHP should monitor php.net, stage a fast-track patch window, and be ready to deploy the moment the release drops.
 - **SOC/IR — Learn:** No IOCs or TTPs are available yet; flag this as an inbound watch item so detection work can begin promptly once the vulnerability class is disclosed.

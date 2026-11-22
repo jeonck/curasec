@@ -9,7 +9,7 @@ tags: ["gitlab", "rce", "critical-vulnerability"]
 cves: []
 source: "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If you run self-managed GitLab, apply the October 21 release immediately — the October 12 patch only covered 19.2+ and left older versions fully exposed to unauthenticated RCE. No KEV or public PoC is confirmed yet, but CVSS 10.0 with universal version coverage warrants patching ahead of your normal window.
 - **SOC/IR — Skip**

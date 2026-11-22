@@ -9,7 +9,7 @@ tags: ["network-infrastructure", "rce", "patch"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your organization runs Aruba switches or wireless gear, schedule patching of ArubaOS to address eight CVSS 10 auth bypass and RCE issues; no active exploitation or public PoC is confirmed yet, so this fits a near-term patch window rather than emergency response.
 - **SOC/IR — Skip**

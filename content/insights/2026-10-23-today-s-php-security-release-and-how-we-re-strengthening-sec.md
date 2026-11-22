@@ -9,7 +9,7 @@ tags: ["php", "vulnerability", "patch"]
 cves: []
 source: "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** PHP 8.2.35 is a security release warranting a scheduled upgrade across any PHP deployments; no KEV listing or public PoC confirmed in enrichment signals, so this is planned patching rather than emergency response.
 - **SOC/IR — Skip**

@@ -9,7 +9,7 @@ tags: ["pki-compromise", "certificate-authority", "mitm"]
 cves: []
 source: "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/"
 source_name: "Unit 42"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Audit your certificate inventory now for any eMudhra-issued TLS certs; any certificate signed by one of the eight compromised intermediates must be replaced and the intermediates should be distrusted in your trust stores.
 - **SOC/IR — Plan:** No IOCs are published yet, but build or tune detections for certificate validation failures and unexpected CA chain presentations that could indicate MitM use of fraudulently issued eMudhra certs; add eMudhra intermediate serial numbers to watchlists once revocation details are public.

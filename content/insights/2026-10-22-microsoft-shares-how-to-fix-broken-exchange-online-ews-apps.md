@@ -9,7 +9,7 @@ tags: ["exchange-online", "api-deprecation", "microsoft"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your org runs EWS-dependent apps against Exchange Online, audit those integrations and plan migration to Microsoft Graph API before EWS is permanently removed; re-enabling EWS is a temporary reprieve, not a long-term fix.
 - **SOC/IR — Skip**

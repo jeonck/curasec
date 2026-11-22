@@ -9,7 +9,7 @@ tags: ["php", "rce", "vulnerability-scanner"]
 cves: ["CVE-2026-109618", "CVE-2026-109619"]
 source: "https://github.com/JoasASantos/php2shell-scanner"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** PHP core RCE with public PoC and now a trending mass-scanner lowers the bar for attackers to identify unpatched targets; neither CVE is in KEV and EPSS is low (0.05/0.06), but patch PHP to the fixed version this sprint before exploitation pressure rises.
 - **SOC/IR — Plan:** The scanner performs subdomain recon and banner grabbing to fingerprint PHP versions — build or tune detections for high-rate HTTP requests probing PHP version banners or /phpinfo endpoints originating from external IPs.

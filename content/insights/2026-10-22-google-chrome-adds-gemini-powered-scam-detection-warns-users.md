@@ -9,7 +9,7 @@ tags: ["browser-security", "social-engineering", "clickfix"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** ClickFix attacks target end users who copy malicious commands; understanding the technique is useful for AppSec awareness programs, but no patch or config change required for infrastructure today.
 - **SOC/IR — Plan:** ClickFix is an active social-engineering vector delivering malware via clipboard hijacking; consider building or tuning detections for suspicious PowerShell/cmd execution patterns that follow browser activity on enterprise endpoints.

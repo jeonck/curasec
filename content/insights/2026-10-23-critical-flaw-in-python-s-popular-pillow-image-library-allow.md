@@ -9,7 +9,7 @@ tags: ["python", "rce", "supply-chain"]
 cves: ["CVE-2026-112900"]
 source: "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Pillow is ubiquitous in Python web apps that accept image uploads; a public PoC exists on GitHub making exploitation straightforward. Patch Pillow to the fixed release immediately, or disable EPS/Ghostscript support via environment variable if a patch window is unavailable.
 - **SOC/IR — Plan:** No active exploitation yet (EPSS 0.00, not in KEV), but the public PoC lowers the bar. Build or tune a detection for web-tier processes (Python/Gunicorn) spawning Ghostscript, which should not normally invoke child shells — flag any unexpected child process tree from gs/gswin.

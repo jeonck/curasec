@@ -9,7 +9,7 @@ tags: ["vendor-disclosure", "cloud-platform", "supply-chain"]
 cves: []
 source: "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
 source_name: "HN (security)"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** If your team deploys on Railway, read the full disclosure and assess whether any credentials, secrets, or deployed workloads require rotation or review; high community engagement (596 points) suggests the disclosure is substantive, but the summary provides no technical detail to judge scope.
 - **SOC/IR — Skip**

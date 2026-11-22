@@ -9,7 +9,7 @@ tags: ["supply-chain", "credential-exposure", "cloud-platform"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** If your team deploys on Railway, rotate all secrets stored as environment variables immediately — API keys, database credentials, tokens — and reissue any that had production access.
 - **SOC/IR — Act:** If Railway is in your estate, sweep auth and access logs for any Railway-hosted credentials being used from unexpected IPs or at unexpected times since earlier this week; treat exposed env vars as potentially compromised.

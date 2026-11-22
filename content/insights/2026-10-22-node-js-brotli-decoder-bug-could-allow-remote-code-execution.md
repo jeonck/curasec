@@ -9,7 +9,7 @@ tags: ["nodejs", "rce", "vulnerability"]
 cves: []
 source: "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Node.js is a near-universal runtime in cloud/app stacks; the bundled Brotli decompressor carries an RCE-severity flaw across 22.x, 24.x, and 26.x. No public PoC or KEV listing yet, so schedule patching to the respective fixed versions this sprint rather than treating it as an emergency.
 - **SOC/IR — Skip**

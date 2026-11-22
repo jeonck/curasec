@@ -9,7 +9,7 @@ tags: ["ai-agents", "prompt-injection", "enterprise-security"]
 cves: []
 source: "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/"
 source_name: "BleepingComputer"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Learn:** Prompt injection through untrusted content (emails, web pages, plugins) allowing agents to abuse their own permissions is a real attack class worth understanding before deploying agentic workflows; no patch or CVE — evaluate agent permission scoping and input sanitization in designs.
 - **SOC/IR — Skip**

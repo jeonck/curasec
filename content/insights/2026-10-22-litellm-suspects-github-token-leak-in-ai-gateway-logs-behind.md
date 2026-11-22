@@ -9,7 +9,7 @@ tags: ["supply-chain", "python-package", "ai-gateway"]
 cves: []
 source: "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** Active supply chain compromise: if you run litellm, check immediately for version 1.107.0 in pip environments and Docker images, remove it, rotate any credentials and LLM API keys that may have been exposed through the credential stealer.
 - **SOC/IR — Act:** Sweep all systems for litellm==1.107.0 installations deployed on or after October 21, 2026; hunt for outbound connections or credential exfiltration from hosts where that version ran, and treat any match as a potential backdoor compromise.

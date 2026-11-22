@@ -9,7 +9,7 @@ tags: ["http3", "denial-of-service", "memory-amplification"]
 cves: []
 source: "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html"
 source_name: "The Hacker News"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Act:** A public PoC now exists for crashing HTTP/3 servers with a single unauthenticated request via QPACK header expansion; audit whether HTTP/3 is enabled on your edge servers (nginx, Caddy, Envoy, etc.) and disable it or apply vendor patches as they arrive — exposure is immediate with PoC code released.
 - **SOC/IR — Plan:** No active exploitation campaign is reported, but the public PoC lowers the bar quickly; build detections for anomalous single-connection HTTP/3 sessions paired with server OOM events or abrupt restarts, and add HTTP/3 header-decompression anomalies to your edge-device monitoring coverage.

@@ -9,7 +9,7 @@ tags: ["php", "web-shell", "virtual-patch"]
 cves: ["CVE-2026-109618", "CVE-2026-109619"]
 source: "https://github.com/HOSTED-POWER/php_uploadprogress_guard"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Engineer — Plan:** Public PoCs exist for CVE-2026-109618/109619 but EPSS is low (0.05/0.06) and neither is KEV-listed; if you run PHP across shared-hosting stacks (cPanel, DirectAdmin) where upgrading lags, evaluate this extension as a temporary mitigation while scheduling the official PHP engine update.
 - **SOC/IR — Plan:** php2shell exploitation delivers web shells via the upload-progress path — with public PoCs now circulating, build or tune detections for anomalous PHP upload-progress requests and unexpected shell artifacts in web directories.
