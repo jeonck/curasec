@@ -1,8 +1,8 @@
 name: Weekly Research
 
 on:
-  schedule:
-    - cron: "15 12 * * 1" # Mondays 12:15 UTC — arXiv cs.CR and long-form research (staggered to avoid overlap with CuraDevOps)
+  # schedule:
+    # - cron: "15 12 * * 1" # Mondays 12:15 UTC — arXiv cs.CR and long-form research (staggered to avoid overlap with CuraDevOps)
   workflow_dispatch:
 
 permissions:
